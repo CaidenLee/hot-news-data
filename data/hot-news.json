@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T18:51:27.662Z",
+  "updatedAt": "2026-09-13T21:09:36.985Z",
   "source": "live",
   "dev": [
     {
@@ -165,164 +165,164 @@
   ],
   "tech": [
     {
-      "title": "I'm being cyberattacked by Tesla, Inc",
-      "hot": "3.0m",
-      "desc": "dreamstation.systems",
-      "source": "tech",
-      "tag": "⬆️ 162 points",
-      "url": "https://dreamstation.systems/personal/tesla.html"
-    },
-    {
       "title": "Why is Google still serving dodgy ads?",
       "hot": "3.0m",
       "desc": "atomic14.com",
       "source": "tech",
-      "tag": "⬆️ 102 points",
+      "tag": "⬆️ 344 points",
       "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads"
+    },
+    {
+      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+      "hot": "3.0m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 104 points",
+      "url": "https://twitter.com/TechEmails/status/2099214399840059428"
+    },
+    {
+      "title": "Julia 1.13 Highlights",
+      "hot": "3.0m",
+      "desc": "julialang.org",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/"
     },
     {
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "hot": "3.0m",
       "desc": "lesswrong.com",
       "source": "tech",
-      "tag": "⬆️ 243 points",
+      "tag": "⬆️ 312 points",
       "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment"
     },
     {
-      "title": "JetKVM Mini",
-      "hot": "3.0m",
-      "desc": "jetkvm.com",
+      "title": "There Is No AI (It's Just People) with Jaron Lanier",
+      "hot": "2.9m",
+      "desc": "singjupost.com",
       "source": "tech",
-      "tag": "⬆️ 425 points",
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini"
+      "tag": "⬆️ 30 points",
+      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/"
     },
     {
       "title": "Data collected by cars and sold to third parties",
       "hot": "2.9m",
       "desc": "theverge.com",
       "source": "tech",
-      "tag": "⬆️ 99 points",
+      "tag": "⬆️ 196 points",
       "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data"
     },
     {
-      "title": "CUDA for AMD on Windows",
+      "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
       "hot": "2.9m",
-      "desc": "github.com",
+      "desc": "pages.cs.wisc.edu",
       "source": "tech",
-      "tag": "⬆️ 85 points",
-      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows"
+      "tag": "⬆️ 9 points",
+      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/"
+    },
+    {
+      "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+      "hot": "2.9m",
+      "desc": "guessingheadlights.com",
+      "source": "tech",
+      "tag": "⬆️ 123 points",
+      "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/"
+    },
+    {
+      "title": "JetKVM Mini",
+      "hot": "2.9m",
+      "desc": "jetkvm.com",
+      "source": "tech",
+      "tag": "⬆️ 475 points",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini"
     },
     {
       "title": "Why is the x86 undefined instruction called ud2? Why 2?",
       "hot": "2.9m",
       "desc": "devblogs.microsoft.com",
       "source": "tech",
-      "tag": "⬆️ 113 points",
+      "tag": "⬆️ 154 points",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689"
     },
     {
-      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "title": "CUDA for AMD on Windows",
       "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 111 points",
+      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows"
+    },
+    {
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "hot": "2.8m",
       "desc": "bensimms.moe",
       "source": "tech",
-      "tag": "⬆️ 223 points",
+      "tag": "⬆️ 296 points",
       "url": "https://bensimms.moe/reverse-engineering-scooter/"
     },
     {
       "title": "Making Startups Powerful",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "paulgraham.com",
       "source": "tech",
-      "tag": "⬆️ 68 points",
+      "tag": "⬆️ 100 points",
       "url": "https://paulgraham.com/powerful.html"
-    },
-    {
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "hot": "2.9m",
-      "desc": "techcrunch.com",
-      "source": "tech",
-      "tag": "⬆️ 186 points",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
-    },
-    {
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "hot": "2.9m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460"
-    },
-    {
-      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
-      "hot": "2.8m",
-      "desc": "cpak.it",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://cpak.it/"
-    },
-    {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "hot": "2.8m",
-      "desc": "yoshuabengio.org",
-      "source": "tech",
-      "tag": "⬆️ 507 points",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
     },
     {
       "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
       "hot": "2.8m",
       "desc": "youtube.com",
       "source": "tech",
-      "tag": "⬆️ 16 points",
+      "tag": "⬆️ 50 points",
       "url": "https://www.youtube.com/watch?v=_TBNJyztai0"
     },
     {
-      "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
+      "title": "Bad Code Is Kudzu",
       "hot": "2.8m",
-      "desc": "nytimes.com",
+      "desc": "vickiboykis.com",
       "source": "tech",
-      "tag": "⬆️ 42 points",
-      "url": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/"
+      "tag": "⬆️ 6 points",
+      "url": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/"
     },
     {
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "title": "Why are AI agents lying, cheating and coordinating?",
       "hot": "2.8m",
-      "desc": "ras.ac.uk",
+      "desc": "yoshuabengio.org",
       "source": "tech",
-      "tag": "⬆️ 87 points",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet"
+      "tag": "⬆️ 545 points",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
     },
     {
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "title": "Device Drivers lab exercise – COSC562",
       "hot": "2.8m",
-      "desc": "github.com",
+      "desc": "web.eecs.utk.edu",
       "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://github.com/FeralFirmware/TailTalk/"
+      "tag": "⬆️ 16 points",
+      "url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html"
     },
     {
-      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
       "hot": "2.7m",
-      "desc": "belderbos.dev",
+      "desc": "aprilnea.me",
       "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/"
+      "tag": "⬆️ 26 points",
+      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace"
     },
     {
-      "title": "Alan's Random Insult Generator (1999)",
+      "title": "I'm being cyberattacked by Tesla, Inc",
       "hot": "2.7m",
-      "desc": "alanbellows.com",
+      "desc": "dreamstation.systems",
       "source": "tech",
-      "tag": "⬆️ 44 points",
-      "url": "https://alanbellows.com/experiments/insult/index.html"
+      "tag": "⬆️ 336 points",
+      "url": "https://dreamstation.systems/personal/tesla.html"
     },
     {
-      "title": "Base84 deserves a place in file names",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "hot": "2.7m",
-      "desc": "00f.net",
+      "desc": "techcrunch.com",
       "source": "tech",
-      "tag": "⬆️ 44 points",
-      "url": "https://00f.net/2026/09/09/base84/"
+      "tag": "⬆️ 256 points",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
     }
   ],
   "github": [
@@ -360,7 +360,7 @@
     },
     {
       "title": "Vincentwei1021/anything2explainer: Topic in, narrated explainer video out. A Cla",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.2k",
       "desc": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS ",
       "source": "github",
       "tag": "TypeScript",
@@ -368,7 +368,7 @@
     },
     {
       "title": "jtydhr88/screenwriting-skills: ",
-      "hot": "⭐ 986",
+      "hot": "⭐ 987",
       "desc": "jtydhr88/screenwriting-skills",
       "source": "github",
       "tag": "Python",
@@ -376,7 +376,7 @@
     },
     {
       "title": "achimala/dream-loop: Agent skill for impressive 3D visuals using Blender + image",
-      "hot": "⭐ 961",
+      "hot": "⭐ 963",
       "desc": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "source": "github",
       "tag": "JavaScript",
@@ -384,31 +384,31 @@
     },
     {
       "title": "gazijarin/itsgiving: Express yourself in meetings (with memes, of course).",
-      "hot": "⭐ 812",
+      "hot": "⭐ 813",
       "desc": "Express yourself in meetings (with memes, of course).",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/gazijarin/itsgiving"
     },
     {
-      "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
-      "hot": "⭐ 782",
-      "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/sumimakito/Mac-Duo"
-    },
-    {
       "title": "crwdla/tokentab: A CLI that reads Claude Code, Codex, and Gemini CLI session log",
-      "hot": "⭐ 761",
+      "hot": "⭐ 790",
       "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/crwdla/tokentab"
     },
     {
+      "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
+      "hot": "⭐ 787",
+      "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/sumimakito/Mac-Duo"
+    },
+    {
       "title": "SpaceDudem/text-humanizer: text-humanizer is an open-source project designed to ",
-      "hot": "⭐ 727",
+      "hot": "⭐ 730",
       "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such a",
       "source": "github",
       "tag": "Python",
@@ -439,12 +439,12 @@
       "url": "https://github.com/Faizpi/bank-sampah"
     },
     {
-      "title": "rizqinrr/viserys-agent: ",
-      "hot": "⭐ 628",
-      "desc": "rizqinrr/viserys-agent",
+      "title": "perseval-BLR/DLSS5-NeuralScreen: DLSS 5 Neural Rendering on your whole Windows d",
+      "hot": "⭐ 637",
+      "desc": "DLSS 5 Neural Rendering on your whole Windows desktop, in real time. RTX 30/40/50, 12 languages, user presets, recording with audio, one-window mode.",
       "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/rizqinrr/viserys-agent"
+      "tag": "Python",
+      "url": "https://github.com/perseval-BLR/DLSS5-NeuralScreen"
     }
   ],
   "space": [
