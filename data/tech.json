@@ -1,11 +1,27 @@
 {
   "data": [
     {
+      "title": "I'm being cyberattacked by Tesla, Inc",
+      "hot": "3.0m",
+      "desc": "dreamstation.systems",
+      "source": "tech",
+      "tag": "⬆️ 162 points",
+      "url": "https://dreamstation.systems/personal/tesla.html"
+    },
+    {
+      "title": "Why is Google still serving dodgy ads?",
+      "hot": "3.0m",
+      "desc": "atomic14.com",
+      "source": "tech",
+      "tag": "⬆️ 102 points",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads"
+    },
+    {
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "hot": "3.0m",
       "desc": "lesswrong.com",
       "source": "tech",
-      "tag": "⬆️ 109 points",
+      "tag": "⬆️ 243 points",
       "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment"
     },
     {
@@ -13,153 +29,137 @@
       "hot": "3.0m",
       "desc": "jetkvm.com",
       "source": "tech",
-      "tag": "⬆️ 361 points",
+      "tag": "⬆️ 425 points",
       "url": "https://jetkvm.com/blog/introducing-jetkvm-mini"
     },
     {
-      "title": "Libraries Run Rust Inside Python (With PyO3)",
-      "hot": "3.0m",
-      "desc": "belderbos.dev",
-      "source": "tech",
-      "tag": "⬆️ 15 points",
-      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/"
-    },
-    {
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "hot": "3.0m",
-      "desc": "ras.ac.uk",
-      "source": "tech",
-      "tag": "⬆️ 71 points",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet"
-    },
-    {
-      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "title": "Data collected by cars and sold to third parties",
       "hot": "2.9m",
-      "desc": "devblogs.microsoft.com",
+      "desc": "theverge.com",
       "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689"
+      "tag": "⬆️ 99 points",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data"
     },
     {
       "title": "CUDA for AMD on Windows",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 29 points",
+      "tag": "⬆️ 85 points",
       "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows"
+    },
+    {
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "hot": "2.9m",
+      "desc": "devblogs.microsoft.com",
+      "source": "tech",
+      "tag": "⬆️ 113 points",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689"
     },
     {
       "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
       "hot": "2.9m",
       "desc": "bensimms.moe",
       "source": "tech",
-      "tag": "⬆️ 138 points",
+      "tag": "⬆️ 223 points",
       "url": "https://bensimms.moe/reverse-engineering-scooter/"
-    },
-    {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "hot": "2.9m",
-      "desc": "yoshuabengio.org",
-      "source": "tech",
-      "tag": "⬆️ 459 points",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
-    },
-    {
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 45 points",
-      "url": "https://github.com/FeralFirmware/TailTalk/"
-    },
-    {
-      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
-      "hot": "2.9m",
-      "desc": "cpak.it",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://cpak.it/"
     },
     {
       "title": "Making Startups Powerful",
       "hot": "2.9m",
       "desc": "paulgraham.com",
       "source": "tech",
-      "tag": "⬆️ 15 points",
+      "tag": "⬆️ 68 points",
       "url": "https://paulgraham.com/powerful.html"
     },
     {
-      "title": "Homebrew 7.0.0",
-      "hot": "2.8m",
-      "desc": "brew.sh",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "hot": "2.9m",
+      "desc": "techcrunch.com",
       "source": "tech",
-      "tag": "⬆️ 368 points",
-      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/"
+      "tag": "⬆️ 186 points",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+    },
+    {
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "hot": "2.9m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 112 points",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460"
+    },
+    {
+      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "hot": "2.8m",
+      "desc": "cpak.it",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://cpak.it/"
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "hot": "2.8m",
+      "desc": "yoshuabengio.org",
+      "source": "tech",
+      "tag": "⬆️ 507 points",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
+    },
+    {
+      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+      "hot": "2.8m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://www.youtube.com/watch?v=_TBNJyztai0"
+    },
+    {
+      "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
+      "hot": "2.8m",
+      "desc": "nytimes.com",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/"
+    },
+    {
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "hot": "2.8m",
+      "desc": "ras.ac.uk",
+      "source": "tech",
+      "tag": "⬆️ 87 points",
+      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet"
+    },
+    {
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://github.com/FeralFirmware/TailTalk/"
+    },
+    {
+      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "hot": "2.7m",
+      "desc": "belderbos.dev",
+      "source": "tech",
+      "tag": "⬆️ 34 points",
+      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/"
     },
     {
       "title": "Alan's Random Insult Generator (1999)",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "alanbellows.com",
       "source": "tech",
-      "tag": "⬆️ 10 points",
+      "tag": "⬆️ 44 points",
       "url": "https://alanbellows.com/experiments/insult/index.html"
-    },
-    {
-      "title": "Predictive intelligence to anticipate anything.",
-      "hot": "2.8m",
-      "desc": "prior.chat",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://prior.chat/"
-    },
-    {
-      "title": "Aligned to whom?",
-      "hot": "2.8m",
-      "desc": "hyperbo.la",
-      "source": "tech",
-      "tag": "⬆️ 139 points",
-      "url": "https://hyperbo.la/w/aligned-to-whom/"
-    },
-    {
-      "title": "Make your first edit to OpenStreetMap",
-      "hot": "2.8m",
-      "desc": "high5apps.github.io",
-      "source": "tech",
-      "tag": "⬆️ 546 points",
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard/"
-    },
-    {
-      "title": "Key symbols we lost to time, pt. 1: The PC side",
-      "hot": "2.8m",
-      "desc": "unsung.aresluna.org",
-      "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/"
-    },
-    {
-      "title": "On Binary Translation and Its Consequences",
-      "hot": "2.7m",
-      "desc": "chipsandcheese.com",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences"
     },
     {
       "title": "Base84 deserves a place in file names",
       "hot": "2.7m",
       "desc": "00f.net",
       "source": "tech",
-      "tag": "⬆️ 31 points",
+      "tag": "⬆️ 44 points",
       "url": "https://00f.net/2026/09/09/base84/"
-    },
-    {
-      "title": "The Interim Computer Museum",
-      "hot": "2.7m",
-      "desc": "icm.museum",
-      "source": "tech",
-      "tag": "⬆️ 148 points",
-      "url": "https://icm.museum/"
     }
   ],
-  "updatedAt": "2026-09-13T16:28:33.749Z"
+  "updatedAt": "2026-09-13T18:51:27.662Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T16:28:33.749Z",
+  "updatedAt": "2026-09-13T18:51:27.662Z",
   "source": "live",
   "dev": [
     {
@@ -165,11 +165,27 @@
   ],
   "tech": [
     {
+      "title": "I'm being cyberattacked by Tesla, Inc",
+      "hot": "3.0m",
+      "desc": "dreamstation.systems",
+      "source": "tech",
+      "tag": "⬆️ 162 points",
+      "url": "https://dreamstation.systems/personal/tesla.html"
+    },
+    {
+      "title": "Why is Google still serving dodgy ads?",
+      "hot": "3.0m",
+      "desc": "atomic14.com",
+      "source": "tech",
+      "tag": "⬆️ 102 points",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads"
+    },
+    {
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "hot": "3.0m",
       "desc": "lesswrong.com",
       "source": "tech",
-      "tag": "⬆️ 109 points",
+      "tag": "⬆️ 243 points",
       "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment"
     },
     {
@@ -177,155 +193,269 @@
       "hot": "3.0m",
       "desc": "jetkvm.com",
       "source": "tech",
-      "tag": "⬆️ 361 points",
+      "tag": "⬆️ 425 points",
       "url": "https://jetkvm.com/blog/introducing-jetkvm-mini"
     },
     {
-      "title": "Libraries Run Rust Inside Python (With PyO3)",
-      "hot": "3.0m",
-      "desc": "belderbos.dev",
-      "source": "tech",
-      "tag": "⬆️ 15 points",
-      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/"
-    },
-    {
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "hot": "3.0m",
-      "desc": "ras.ac.uk",
-      "source": "tech",
-      "tag": "⬆️ 71 points",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet"
-    },
-    {
-      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "title": "Data collected by cars and sold to third parties",
       "hot": "2.9m",
-      "desc": "devblogs.microsoft.com",
+      "desc": "theverge.com",
       "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689"
+      "tag": "⬆️ 99 points",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data"
     },
     {
       "title": "CUDA for AMD on Windows",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 29 points",
+      "tag": "⬆️ 85 points",
       "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows"
+    },
+    {
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "hot": "2.9m",
+      "desc": "devblogs.microsoft.com",
+      "source": "tech",
+      "tag": "⬆️ 113 points",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689"
     },
     {
       "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
       "hot": "2.9m",
       "desc": "bensimms.moe",
       "source": "tech",
-      "tag": "⬆️ 138 points",
+      "tag": "⬆️ 223 points",
       "url": "https://bensimms.moe/reverse-engineering-scooter/"
-    },
-    {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "hot": "2.9m",
-      "desc": "yoshuabengio.org",
-      "source": "tech",
-      "tag": "⬆️ 459 points",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
-    },
-    {
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 45 points",
-      "url": "https://github.com/FeralFirmware/TailTalk/"
-    },
-    {
-      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
-      "hot": "2.9m",
-      "desc": "cpak.it",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://cpak.it/"
     },
     {
       "title": "Making Startups Powerful",
       "hot": "2.9m",
       "desc": "paulgraham.com",
       "source": "tech",
-      "tag": "⬆️ 15 points",
+      "tag": "⬆️ 68 points",
       "url": "https://paulgraham.com/powerful.html"
     },
     {
-      "title": "Homebrew 7.0.0",
-      "hot": "2.8m",
-      "desc": "brew.sh",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "hot": "2.9m",
+      "desc": "techcrunch.com",
       "source": "tech",
-      "tag": "⬆️ 368 points",
-      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/"
+      "tag": "⬆️ 186 points",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+    },
+    {
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "hot": "2.9m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 112 points",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460"
+    },
+    {
+      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "hot": "2.8m",
+      "desc": "cpak.it",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://cpak.it/"
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "hot": "2.8m",
+      "desc": "yoshuabengio.org",
+      "source": "tech",
+      "tag": "⬆️ 507 points",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
+    },
+    {
+      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+      "hot": "2.8m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://www.youtube.com/watch?v=_TBNJyztai0"
+    },
+    {
+      "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
+      "hot": "2.8m",
+      "desc": "nytimes.com",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/"
+    },
+    {
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "hot": "2.8m",
+      "desc": "ras.ac.uk",
+      "source": "tech",
+      "tag": "⬆️ 87 points",
+      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet"
+    },
+    {
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://github.com/FeralFirmware/TailTalk/"
+    },
+    {
+      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "hot": "2.7m",
+      "desc": "belderbos.dev",
+      "source": "tech",
+      "tag": "⬆️ 34 points",
+      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/"
     },
     {
       "title": "Alan's Random Insult Generator (1999)",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "alanbellows.com",
       "source": "tech",
-      "tag": "⬆️ 10 points",
+      "tag": "⬆️ 44 points",
       "url": "https://alanbellows.com/experiments/insult/index.html"
-    },
-    {
-      "title": "Predictive intelligence to anticipate anything.",
-      "hot": "2.8m",
-      "desc": "prior.chat",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://prior.chat/"
-    },
-    {
-      "title": "Aligned to whom?",
-      "hot": "2.8m",
-      "desc": "hyperbo.la",
-      "source": "tech",
-      "tag": "⬆️ 139 points",
-      "url": "https://hyperbo.la/w/aligned-to-whom/"
-    },
-    {
-      "title": "Make your first edit to OpenStreetMap",
-      "hot": "2.8m",
-      "desc": "high5apps.github.io",
-      "source": "tech",
-      "tag": "⬆️ 546 points",
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard/"
-    },
-    {
-      "title": "Key symbols we lost to time, pt. 1: The PC side",
-      "hot": "2.8m",
-      "desc": "unsung.aresluna.org",
-      "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/"
-    },
-    {
-      "title": "On Binary Translation and Its Consequences",
-      "hot": "2.7m",
-      "desc": "chipsandcheese.com",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences"
     },
     {
       "title": "Base84 deserves a place in file names",
       "hot": "2.7m",
       "desc": "00f.net",
       "source": "tech",
-      "tag": "⬆️ 31 points",
+      "tag": "⬆️ 44 points",
       "url": "https://00f.net/2026/09/09/base84/"
+    }
+  ],
+  "github": [
+    {
+      "title": "sdli1995/dlssg_for_sm86: Here is a dlssg for RTX30 Series GPU ",
+      "hot": "⭐ 2.4k",
+      "desc": "Here is a dlssg for RTX30 Series GPU ",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/sdli1995/dlssg_for_sm86"
     },
     {
-      "title": "The Interim Computer Museum",
-      "hot": "2.7m",
-      "desc": "icm.museum",
-      "source": "tech",
-      "tag": "⬆️ 148 points",
-      "url": "https://icm.museum/"
+      "title": "openai/NavierStokesAndEuler: Lean certificates accompanying Navier-Stokes and Eu",
+      "hot": "⭐ 1.9k",
+      "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "source": "github",
+      "tag": "Lean",
+      "url": "https://github.com/openai/NavierStokesAndEuler"
+    },
+    {
+      "title": "Edge0-AI/Edge0: ",
+      "hot": "⭐ 1.6k",
+      "desc": "Edge0-AI/Edge0",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Edge0-AI/Edge0"
+    },
+    {
+      "title": "EverettFish/holo-card-studio: Turn the user's description or uploaded reference ",
+      "hot": "⭐ 1.5k",
+      "desc": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subj",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/EverettFish/holo-card-studio"
+    },
+    {
+      "title": "Vincentwei1021/anything2explainer: Topic in, narrated explainer video out. A Cla",
+      "hot": "⭐ 1.1k",
+      "desc": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS ",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Vincentwei1021/anything2explainer"
+    },
+    {
+      "title": "jtydhr88/screenwriting-skills: ",
+      "hot": "⭐ 986",
+      "desc": "jtydhr88/screenwriting-skills",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/jtydhr88/screenwriting-skills"
+    },
+    {
+      "title": "achimala/dream-loop: Agent skill for impressive 3D visuals using Blender + image",
+      "hot": "⭐ 961",
+      "desc": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/achimala/dream-loop"
+    },
+    {
+      "title": "gazijarin/itsgiving: Express yourself in meetings (with memes, of course).",
+      "hot": "⭐ 812",
+      "desc": "Express yourself in meetings (with memes, of course).",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/gazijarin/itsgiving"
+    },
+    {
+      "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
+      "hot": "⭐ 782",
+      "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/sumimakito/Mac-Duo"
+    },
+    {
+      "title": "crwdla/tokentab: A CLI that reads Claude Code, Codex, and Gemini CLI session log",
+      "hot": "⭐ 761",
+      "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/crwdla/tokentab"
+    },
+    {
+      "title": "SpaceDudem/text-humanizer: text-humanizer is an open-source project designed to ",
+      "hot": "⭐ 727",
+      "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such a",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/SpaceDudem/text-humanizer"
+    },
+    {
+      "title": "Colafornia/short-video-generator-AI: Free open-source project designed for turni",
+      "hot": "⭐ 716",
+      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in o",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Colafornia/short-video-generator-AI"
+    },
+    {
+      "title": "angusdevgo/IDM_Pro_Tool: IDM激活与状态维护工具",
+      "hot": "⭐ 670",
+      "desc": "IDM激活与状态维护工具",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
+    },
+    {
+      "title": "Faizpi/bank-sampah: ",
+      "hot": "⭐ 646",
+      "desc": "Faizpi/bank-sampah",
+      "source": "github",
+      "tag": "PHP",
+      "url": "https://github.com/Faizpi/bank-sampah"
+    },
+    {
+      "title": "rizqinrr/viserys-agent: ",
+      "hot": "⭐ 628",
+      "desc": "rizqinrr/viserys-agent",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/rizqinrr/viserys-agent"
     }
   ],
   "space": [
+    {
+      "title": "Live coverage: SpaceX to launch final 3 O3b mPOWER satellites for SES",
+      "hot": "9/13",
+      "desc": "The launch marks the 400th orbital flight from Space Launch Complex 40 at Cape Canaveral Space Force Station. Liftoff is scheduled during an 87-minute",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/"
+    },
     {
       "title": "Sirius Space Fires Complete STAR-1 Rocket Engine for the First Time",
       "hot": "9/13",
@@ -437,136 +567,6 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/"
-    },
-    {
-      "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
-      "hot": "9/11",
-      "desc": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pictu",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/"
-    }
-  ],
-  "github": [
-    {
-      "title": "sdli1995/dlssg_for_sm86: Here is a dlssg for RTX30 Series GPU ",
-      "hot": "⭐ 2.4k",
-      "desc": "Here is a dlssg for RTX30 Series GPU ",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/sdli1995/dlssg_for_sm86"
-    },
-    {
-      "title": "openai/NavierStokesAndEuler: Lean certificates accompanying Navier-Stokes and Eu",
-      "hot": "⭐ 1.9k",
-      "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
-      "source": "github",
-      "tag": "Lean",
-      "url": "https://github.com/openai/NavierStokesAndEuler"
-    },
-    {
-      "title": "Edge0-AI/Edge0: ",
-      "hot": "⭐ 1.6k",
-      "desc": "Edge0-AI/Edge0",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Edge0-AI/Edge0"
-    },
-    {
-      "title": "EverettFish/holo-card-studio: Turn the user's description or uploaded reference ",
-      "hot": "⭐ 1.5k",
-      "desc": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subj",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/EverettFish/holo-card-studio"
-    },
-    {
-      "title": "Vincentwei1021/anything2explainer: Topic in, narrated explainer video out. A Cla",
-      "hot": "⭐ 1.1k",
-      "desc": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS ",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Vincentwei1021/anything2explainer"
-    },
-    {
-      "title": "jtydhr88/screenwriting-skills: ",
-      "hot": "⭐ 977",
-      "desc": "jtydhr88/screenwriting-skills",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jtydhr88/screenwriting-skills"
-    },
-    {
-      "title": "achimala/dream-loop: Agent skill for impressive 3D visuals using Blender + image",
-      "hot": "⭐ 953",
-      "desc": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/achimala/dream-loop"
-    },
-    {
-      "title": "gazijarin/itsgiving: Express yourself in meetings (with memes, of course).",
-      "hot": "⭐ 810",
-      "desc": "Express yourself in meetings (with memes, of course).",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/gazijarin/itsgiving"
-    },
-    {
-      "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
-      "hot": "⭐ 775",
-      "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/sumimakito/Mac-Duo"
-    },
-    {
-      "title": "crwdla/tokentab: A CLI that reads Claude Code, Codex, and Gemini CLI session log",
-      "hot": "⭐ 729",
-      "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/crwdla/tokentab"
-    },
-    {
-      "title": "SpaceDudem/text-humanizer: text-humanizer is an open-source project designed to ",
-      "hot": "⭐ 727",
-      "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such a",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/SpaceDudem/text-humanizer"
-    },
-    {
-      "title": "Colafornia/short-video-generator-AI: Free open-source project designed for turni",
-      "hot": "⭐ 715",
-      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in o",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Colafornia/short-video-generator-AI"
-    },
-    {
-      "title": "angusdevgo/IDM_Pro_Tool: IDM激活与状态维护工具",
-      "hot": "⭐ 669",
-      "desc": "IDM激活与状态维护工具",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
-    },
-    {
-      "title": "Faizpi/bank-sampah: ",
-      "hot": "⭐ 646",
-      "desc": "Faizpi/bank-sampah",
-      "source": "github",
-      "tag": "PHP",
-      "url": "https://github.com/Faizpi/bank-sampah"
-    },
-    {
-      "title": "rizqinrr/viserys-agent: ",
-      "hot": "⭐ 628",
-      "desc": "rizqinrr/viserys-agent",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/rizqinrr/viserys-agent"
     }
   ]
 }
