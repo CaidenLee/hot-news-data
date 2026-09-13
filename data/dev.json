@@ -1,14 +1,6 @@
 {
   "data": [
     {
-      "title": "What was your win this week??",
-      "hot": "❤️ 32 💬 37",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-5amk"
-    },
-    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "hot": "❤️ 8 💬 1",
       "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
@@ -33,36 +25,20 @@
       "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
     },
     {
-      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "hot": "❤️ 12 💬 8",
-      "desc": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy",
+      "title": "What was your win this week??",
+      "hot": "❤️ 33 💬 37",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
-      "tag": "mcp,  python",
-      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj"
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-5amk"
     },
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "hot": "❤️ 220 💬 115",
+      "hot": "❤️ 221 💬 115",
       "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
-    },
-    {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "hot": "❤️ 9 💬 2",
-      "desc": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal,",
-      "source": "dev",
-      "tag": "debian,  linux",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2"
-    },
-    {
-      "title": "4 pitfalls of loop engineering (and how to fix them)",
-      "hot": "❤️ 17 💬 9",
-      "desc": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2"
     },
     {
       "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
@@ -97,6 +73,14 @@
       "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg"
     },
     {
+      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
+      "hot": "❤️ 13 💬 8",
+      "desc": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy",
+      "source": "dev",
+      "tag": "mcp,  python",
+      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj"
+    },
+    {
       "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
       "hot": "❤️ 136 💬 80",
       "desc": "Let me describe a moment you might recognize.  You had an idea for an app. You didn't know how to...",
@@ -119,6 +103,14 @@
       "source": "dev",
       "tag": "a2a,  multicloud",
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod"
+    },
+    {
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "hot": "❤️ 9 💬 2",
+      "desc": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal,",
+      "source": "dev",
+      "tag": "debian,  linux",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2"
     },
     {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427"
+    },
+    {
+      "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
+      "hot": "❤️ 17 💬 0",
+      "desc": "Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...",
+      "source": "dev",
+      "tag": "ai,  python",
+      "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak"
     }
   ],
-  "updatedAt": "2026-09-13T21:09:36.985Z"
+  "updatedAt": "2026-09-13T23:14:19.433Z"
 }
