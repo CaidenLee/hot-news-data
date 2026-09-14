@@ -1,165 +1,165 @@
 {
   "data": [
     {
-      "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
+      "title": "Pion, an agent designed to run any company autonomously",
       "hot": "3.0m",
+      "desc": "andonlabs.com",
+      "source": "tech",
+      "tag": "⬆️ 77 points",
+      "url": "https://andonlabs.com/blog/why-we-built-pion"
+    },
+    {
+      "title": "Iranian banks' SSL certificates are being revoked due to OFAC sanctions",
+      "hot": "3.0m",
+      "desc": "digiato.global",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/"
+    },
+    {
+      "title": "Distributed Systems Classics (2017)",
+      "hot": "3.0m",
+      "desc": "nvartolomei.com",
+      "source": "tech",
+      "tag": "⬆️ 110 points",
+      "url": "https://nvartolomei.com/dist-sys-classics/"
+    },
+    {
+      "title": "Why don't machine learning research agents overfit?",
+      "hot": "3.0m",
+      "desc": "amazon.science",
+      "source": "tech",
+      "tag": "⬆️ 52 points",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"
+    },
+    {
+      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+      "hot": "2.9m",
+      "desc": "neobrutalism.dev",
+      "source": "tech",
+      "tag": "⬆️ 63 points",
+      "url": "https://www.neobrutalism.dev/"
+    },
+    {
+      "title": "Principles for Fast Tokio Applications",
+      "hot": "2.9m",
+      "desc": "dial9-rs.github.io",
+      "source": "tech",
+      "tag": "⬆️ 74 points",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/"
+    },
+    {
+      "title": "Steam Frame starts at $1059",
+      "hot": "2.9m",
+      "desc": "store.steampowered.com",
+      "source": "tech",
+      "tag": "⬆️ 134 points",
+      "url": "https://store.steampowered.com/hardware/steamframe"
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "hot": "2.9m",
+      "desc": "apple.com",
+      "source": "tech",
+      "tag": "⬆️ 131 points",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
+    },
+    {
+      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+      "hot": "2.9m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead"
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "hot": "2.9m",
       "desc": "tenderlovemaking.com",
       "source": "tech",
-      "tag": "⬆️ 20 points",
+      "tag": "⬆️ 210 points",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
     },
     {
-      "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-      "hot": "3.0m",
-      "desc": "github.com",
+      "title": "A Beginning for Mathematics",
+      "hot": "2.9m",
+      "desc": "daniellitt.com",
       "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://github.com/callbacked/kinesis"
+      "tag": "⬆️ 49 points",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/"
     },
     {
-      "title": "EuroBirdPortal – Live bird movements across Europe",
-      "hot": "3.0m",
-      "desc": "eurobirdportal.org",
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "hot": "2.8m",
+      "desc": "patrickmccanna.net",
       "source": "tech",
-      "tag": "⬆️ 131 points",
-      "url": "https://www.eurobirdportal.org/ebp/en/"
+      "tag": "⬆️ 89 points",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/"
     },
     {
-      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
-      "hot": "3.0m",
+      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+      "hot": "2.8m",
+      "desc": "narilabs.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/"
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "hot": "2.8m",
       "desc": "xcancel.com",
       "source": "tech",
-      "tag": "⬆️ 110 points",
-      "url": "https://xcancel.com/twitter"
+      "tag": "⬆️ 205 points",
+      "url": "https://xcancel.com/#"
     },
     {
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "hot": "2.9m",
-      "desc": "vals.ai",
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "hot": "2.8m",
+      "desc": "blog.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 1072 points",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich"
+      "tag": "⬆️ 14 points",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/"
     },
     {
-      "title": "A 386 PC for Your RP2350",
-      "hot": "2.9m",
-      "desc": "github.com",
+      "title": "How my e-reader lost its stripes",
+      "hot": "2.8m",
+      "desc": "serpentine.com",
       "source": "tech",
-      "tag": "⬆️ 92 points",
-      "url": "https://github.com/rh1tech/frank-386"
+      "tag": "⬆️ 30 points",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/"
+    },
+    {
+      "title": "When LLM judges agree, should we believe them?",
+      "hot": "2.8m",
+      "desc": "amazon.science",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them"
+    },
+    {
+      "title": "Truncated SVD (2023)",
+      "hot": "2.7m",
+      "desc": "brashandplucky.com",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html"
     },
     {
       "title": "An atlas of periodic solutions to the three-body problem",
-      "hot": "2.9m",
+      "hot": "2.7m",
       "desc": "threebodyorbits.com",
       "source": "tech",
-      "tag": "⬆️ 99 points",
+      "tag": "⬆️ 268 points",
       "url": "https://www.threebodyorbits.com/"
     },
     {
-      "title": "Watch AI materials-science and bioscience abilities closely",
-      "hot": "2.9m",
-      "desc": "lesswrong.com",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely"
-    },
-    {
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "hot": "2.9m",
-      "desc": "macrumors.com",
-      "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
-    },
-    {
-      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 74 points",
-      "url": "https://github.com/anuj0456/OpenArch"
-    },
-    {
-      "title": "Drawably: Hand-Drawn UI Controls",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://github.com/Danilaa1/drawably"
-    },
-    {
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "hot": "2.8m",
-      "desc": "community.signalusers.org",
-      "source": "tech",
-      "tag": "⬆️ 321 points",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10"
-    },
-    {
-      "title": "Spaceships (Reverse Asteroid)",
-      "hot": "2.8m",
-      "desc": "spaceships.treybastian.com",
-      "source": "tech",
-      "tag": "⬆️ 284 points",
-      "url": "https://spaceships.treybastian.com/"
-    },
-    {
-      "title": "Apple's Dimensional Drawings",
-      "hot": "2.8m",
-      "desc": "developer.apple.com",
-      "source": "tech",
-      "tag": "⬆️ 267 points",
-      "url": "https://developer.apple.com/accessories/dimensional-drawings/"
-    },
-    {
-      "title": "The case against JPEG XL",
-      "hot": "2.8m",
-      "desc": "giannirosato.com",
-      "source": "tech",
-      "tag": "⬆️ 201 points",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl/"
-    },
-    {
-      "title": "HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",
-      "hot": "2.8m",
-      "desc": "storagereview.com",
-      "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge"
-    },
-    {
-      "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
-      "hot": "2.8m",
-      "desc": "sciencedaily.com",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm"
-    },
-    {
-      "title": "A Vacuum Diode for Make: Magazine",
+      "title": "Ask HN: What are you working on? (September 2026)",
       "hot": "2.7m",
-      "desc": "nickpoole.me",
+      "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://www.nickpoole.me/2023/12/10/a-vacuum-diode-for-make-magazine/"
-    },
-    {
-      "title": "The Nature of Dance",
-      "hot": "2.7m",
-      "desc": "vester.si",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://vester.si/blog/nature-of-dance/"
-    },
-    {
-      "title": "Mullenweg has returned as CEO after attempted board ouster",
-      "hot": "2.7m",
-      "desc": "techcrunch.com",
-      "source": "tech",
-      "tag": "⬆️ 211 points",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
+      "tag": "⬆️ 255 points",
+      "url": "https://news.ycombinator.com/item?id=49686380"
     }
   ],
-  "updatedAt": "2026-09-14T13:09:19.508Z"
+  "updatedAt": "2026-09-14T18:43:53.478Z"
 }
