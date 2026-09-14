@@ -1,6 +1,14 @@
 {
   "data": [
     {
+      "title": "Meme Monday",
+      "hot": "❤️ 4 💬 0",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-38bf"
+    },
+    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "hot": "❤️ 8 💬 1",
       "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
@@ -26,7 +34,7 @@
     },
     {
       "title": "What was your win this week??",
-      "hot": "❤️ 33 💬 37",
+      "hot": "❤️ 33 💬 39",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -34,7 +42,7 @@
     },
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "hot": "❤️ 221 💬 115",
+      "hot": "❤️ 222 💬 115",
       "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -105,14 +113,6 @@
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod"
     },
     {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "hot": "❤️ 9 💬 2",
-      "desc": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal,",
-      "source": "dev",
-      "tag": "debian,  linux",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2"
-    },
-    {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
       "hot": "❤️ 47 💬 50",
       "desc": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
@@ -129,14 +129,6 @@
       "url": "https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n"
     },
     {
-      "title": "DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed",
-      "hot": "❤️ 13 💬 6",
-      "desc": "Hey all, we have a quick update for everyone who participated in the DEV Weekend Challenge: Dog Days...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/dev-weekend-challenge-dog-days-edition-winner-announcement-delayed-36f0"
-    },
-    {
       "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
       "hot": "❤️ 53 💬 31",
       "desc": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
@@ -145,8 +137,16 @@
       "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8"
     },
     {
+      "title": "DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed",
+      "hot": "❤️ 13 💬 6",
+      "desc": "Hey all, we have a quick update for everyone who participated in the DEV Weekend Challenge: Dog Days...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/dev-weekend-challenge-dog-days-edition-winner-announcement-delayed-36f0"
+    },
+    {
       "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
-      "hot": "❤️ 10 💬 4",
+      "hot": "❤️ 11 💬 4",
       "desc": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak"
     }
   ],
-  "updatedAt": "2026-09-14T06:28:52.424Z"
+  "updatedAt": "2026-09-14T13:09:19.508Z"
 }
