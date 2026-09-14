@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T18:43:53.478Z",
+  "updatedAt": "2026-09-14T22:08:58.611Z",
   "source": "live",
   "dev": [
     {
@@ -165,167 +165,321 @@
   ],
   "tech": [
     {
-      "title": "Pion, an agent designed to run any company autonomously",
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
       "hot": "3.0m",
-      "desc": "andonlabs.com",
+      "desc": "law.justia.com",
       "source": "tech",
-      "tag": "⬆️ 77 points",
-      "url": "https://andonlabs.com/blog/why-we-built-pion"
-    },
-    {
-      "title": "Iranian banks' SSL certificates are being revoked due to OFAC sanctions",
-      "hot": "3.0m",
-      "desc": "digiato.global",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/"
+      "tag": "⬆️ 105 points",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html"
     },
     {
       "title": "Distributed Systems Classics (2017)",
       "hot": "3.0m",
       "desc": "nvartolomei.com",
       "source": "tech",
-      "tag": "⬆️ 110 points",
+      "tag": "⬆️ 197 points",
       "url": "https://nvartolomei.com/dist-sys-classics/"
     },
     {
-      "title": "Why don't machine learning research agents overfit?",
+      "title": "A Beginning for Mathematics",
       "hot": "3.0m",
-      "desc": "amazon.science",
+      "desc": "daniellitt.com",
       "source": "tech",
-      "tag": "⬆️ 52 points",
-      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"
+      "tag": "⬆️ 141 points",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/"
     },
     {
-      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-      "hot": "2.9m",
-      "desc": "neobrutalism.dev",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "hot": "3.0m",
+      "desc": "tenderlovemaking.com",
       "source": "tech",
-      "tag": "⬆️ 63 points",
-      "url": "https://www.neobrutalism.dev/"
+      "tag": "⬆️ 315 points",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
+    },
+    {
+      "title": "How my e-reader lost its stripes",
+      "hot": "2.9m",
+      "desc": "serpentine.com",
+      "source": "tech",
+      "tag": "⬆️ 112 points",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/"
     },
     {
       "title": "Principles for Fast Tokio Applications",
       "hot": "2.9m",
       "desc": "dial9-rs.github.io",
       "source": "tech",
-      "tag": "⬆️ 74 points",
+      "tag": "⬆️ 141 points",
       "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/"
     },
     {
-      "title": "Steam Frame starts at $1059",
+      "title": "XCancel service is suspended until further notice",
       "hot": "2.9m",
-      "desc": "store.steampowered.com",
+      "desc": "xcancel.com",
       "source": "tech",
-      "tag": "⬆️ 134 points",
-      "url": "https://store.steampowered.com/hardware/steamframe"
+      "tag": "⬆️ 361 points",
+      "url": "https://xcancel.com/#"
     },
     {
-      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "title": "Why don't machine learning research agents overfit?",
       "hot": "2.9m",
-      "desc": "apple.com",
-      "source": "tech",
-      "tag": "⬆️ 131 points",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
-    },
-    {
-      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
-      "hot": "2.9m",
-      "desc": "ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead"
-    },
-    {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "hot": "2.9m",
-      "desc": "tenderlovemaking.com",
-      "source": "tech",
-      "tag": "⬆️ 210 points",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
-    },
-    {
-      "title": "A Beginning for Mathematics",
-      "hot": "2.9m",
-      "desc": "daniellitt.com",
-      "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/"
-    },
-    {
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "hot": "2.8m",
-      "desc": "patrickmccanna.net",
+      "desc": "amazon.science",
       "source": "tech",
       "tag": "⬆️ 89 points",
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/"
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"
+    },
+    {
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "hot": "2.9m",
+      "desc": "blog.cloudflare.com",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/"
+    },
+    {
+      "title": "Dario, Please",
+      "hot": "2.9m",
+      "desc": "pop.rdi.sh",
+      "source": "tech",
+      "tag": "⬆️ 119 points",
+      "url": "https://pop.rdi.sh/dario-please/"
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "hot": "2.9m",
+      "desc": "andonlabs.com",
+      "source": "tech",
+      "tag": "⬆️ 217 points",
+      "url": "https://andonlabs.com/blog/why-we-built-pion"
+    },
+    {
+      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+      "hot": "2.8m",
+      "desc": "neobrutalism.dev",
+      "source": "tech",
+      "tag": "⬆️ 113 points",
+      "url": "https://www.neobrutalism.dev/"
     },
     {
       "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
       "hot": "2.8m",
       "desc": "narilabs.com",
       "source": "tech",
-      "tag": "⬆️ 12 points",
+      "tag": "⬆️ 48 points",
       "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/"
     },
     {
-      "title": "XCancel service is suspended until further notice",
+      "title": "Optimizing a Spin-Lock",
       "hot": "2.8m",
-      "desc": "xcancel.com",
+      "desc": "david.alvarezrosa.com",
       "source": "tech",
-      "tag": "⬆️ 205 points",
-      "url": "https://xcancel.com/#"
+      "tag": "⬆️ 16 points",
+      "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/"
     },
     {
-      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
       "hot": "2.8m",
-      "desc": "blog.cloudflare.com",
+      "desc": "patrickmccanna.net",
       "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/"
+      "tag": "⬆️ 105 points",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/"
     },
     {
-      "title": "How my e-reader lost its stripes",
+      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
       "hot": "2.8m",
-      "desc": "serpentine.com",
+      "desc": "ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://www.serpentine.com/posts/2026/x3-stripes/"
-    },
-    {
-      "title": "When LLM judges agree, should we believe them?",
-      "hot": "2.8m",
-      "desc": "amazon.science",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them"
-    },
-    {
-      "title": "Truncated SVD (2023)",
-      "hot": "2.7m",
-      "desc": "brashandplucky.com",
-      "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html"
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead"
     },
     {
       "title": "An atlas of periodic solutions to the three-body problem",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "threebodyorbits.com",
       "source": "tech",
-      "tag": "⬆️ 268 points",
+      "tag": "⬆️ 317 points",
       "url": "https://www.threebodyorbits.com/"
+    },
+    {
+      "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+      "hot": "2.7m",
+      "desc": "theregister.com",
+      "source": "tech",
+      "tag": "⬆️ 161 points",
+      "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085"
     },
     {
       "title": "Ask HN: What are you working on? (September 2026)",
       "hot": "2.7m",
       "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 255 points",
+      "tag": "⬆️ 279 points",
       "url": "https://news.ycombinator.com/item?id=49686380"
+    },
+    {
+      "title": "Compressing a Flag to 11 Bits",
+      "hot": "2.7m",
+      "desc": "read.vantezzen.io",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://read.vantezzen.io/miniflags"
+    }
+  ],
+  "github": [
+    {
+      "title": "sdli1995/dlssg_for_sm86: Here is a dlssg for RTX30 Series GPU ",
+      "hot": "⭐ 2.7k",
+      "desc": "Here is a dlssg for RTX30 Series GPU ",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/sdli1995/dlssg_for_sm86"
+    },
+    {
+      "title": "openai/NavierStokesAndEuler: Lean certificates accompanying Navier-Stokes and Eu",
+      "hot": "⭐ 1.9k",
+      "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "source": "github",
+      "tag": "Lean",
+      "url": "https://github.com/openai/NavierStokesAndEuler"
+    },
+    {
+      "title": "Edge0-AI/Edge0: ",
+      "hot": "⭐ 1.7k",
+      "desc": "Edge0-AI/Edge0",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Edge0-AI/Edge0"
+    },
+    {
+      "title": "EverettFish/holo-card-studio: Turn the user's description or uploaded reference ",
+      "hot": "⭐ 1.5k",
+      "desc": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subj",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/EverettFish/holo-card-studio"
+    },
+    {
+      "title": "Vincentwei1021/anything2explainer: Topic in, narrated explainer video out. A Cla",
+      "hot": "⭐ 1.3k",
+      "desc": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS ",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Vincentwei1021/anything2explainer"
+    },
+    {
+      "title": "crwdla/tokentab: A CLI that reads Claude Code, Codex, and Gemini CLI session log",
+      "hot": "⭐ 1.1k",
+      "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/crwdla/tokentab"
+    },
+    {
+      "title": "achimala/dream-loop: Agent skill for impressive 3D visuals using Blender + image",
+      "hot": "⭐ 991",
+      "desc": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/achimala/dream-loop"
+    },
+    {
+      "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
+      "hot": "⭐ 866",
+      "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/sumimakito/Mac-Duo"
+    },
+    {
+      "title": "gazijarin/itsgiving: Express yourself in meetings (with memes, of course).",
+      "hot": "⭐ 845",
+      "desc": "Express yourself in meetings (with memes, of course).",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/gazijarin/itsgiving"
+    },
+    {
+      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
+      "hot": "⭐ 750",
+      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/Chuloo/mural"
+    },
+    {
+      "title": "SpaceDudem/text-humanizer: text-humanizer is an open-source project designed to ",
+      "hot": "⭐ 747",
+      "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such a",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/SpaceDudem/text-humanizer"
+    },
+    {
+      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
+      "hot": "⭐ 740",
+      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+    },
+    {
+      "title": "Colafornia/short-video-generator-AI: Free open-source project designed for turni",
+      "hot": "⭐ 732",
+      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in o",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Colafornia/short-video-generator-AI"
+    },
+    {
+      "title": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant ",
+      "hot": "⭐ 726",
+      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/kruzovic7/ai-data-extractor"
+    },
+    {
+      "title": "angusdevgo/IDM_Pro_Tool: IDM激活与状态维护工具",
+      "hot": "⭐ 696",
+      "desc": "IDM激活与状态维护工具",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
     }
   ],
   "space": [
+    {
+      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+      "hot": "9/14",
+      "desc": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/"
+    },
+    {
+      "title": "Meink: U.S. Has Orbiting Space Control Weapons",
+      "hot": "9/14",
+      "desc": "Air Force Secretary Troy Meink revealed today that the United States has orbiting space control weapons. Speaking at the AFA’s Air, Space & Cyber Conf",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/meink-u-s-has-orbiting-space-control-weapons/"
+    },
+    {
+      "title": "Webinar 9/23: NASA CSDA Program Update 2026",
+      "hot": "9/14",
+      "desc": "This webinar will provide an overview of the CSDA program’s goals and activities, including the new Cal/Val initiative, and more.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/"
+    },
+    {
+      "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
+      "hot": "9/14",
+      "desc": "NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/"
+    },
     {
       "title": "Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22",
       "hot": "9/14",
@@ -413,160 +567,6 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/"
-    },
-    {
-      "title": "An Early Look at Fall Color in Canada",
-      "hot": "9/14",
-      "desc": "Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/"
-    },
-    {
-      "title": "Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou",
-      "hot": "9/13",
-      "desc": "Avio S.p.A., the Italian prime contractor, launch service provider, and launch operator for the Vega…\r\nThe post Vega C set to launch the ESA Sentinel-",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/"
-    },
-    {
-      "title": "What’s Happening in Space Policy September 13-19, 2026",
-      "hot": "9/13",
-      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week of September 13-19, 2026 and any insight we can offer about them. The House a",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-13-19-2026/"
-    },
-    {
-      "title": "Live coverage: SpaceX to launch final 3 O3b mPOWER satellites for SES",
-      "hot": "9/13",
-      "desc": "The launch marks the 400th orbital flight from Space Launch Complex 40 at Cape Canaveral Space Force Station. Liftoff is scheduled during an 87-minute",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/"
-    }
-  ],
-  "github": [
-    {
-      "title": "sdli1995/dlssg_for_sm86: Here is a dlssg for RTX30 Series GPU ",
-      "hot": "⭐ 2.7k",
-      "desc": "Here is a dlssg for RTX30 Series GPU ",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/sdli1995/dlssg_for_sm86"
-    },
-    {
-      "title": "openai/NavierStokesAndEuler: Lean certificates accompanying Navier-Stokes and Eu",
-      "hot": "⭐ 1.9k",
-      "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
-      "source": "github",
-      "tag": "Lean",
-      "url": "https://github.com/openai/NavierStokesAndEuler"
-    },
-    {
-      "title": "Edge0-AI/Edge0: ",
-      "hot": "⭐ 1.7k",
-      "desc": "Edge0-AI/Edge0",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Edge0-AI/Edge0"
-    },
-    {
-      "title": "EverettFish/holo-card-studio: Turn the user's description or uploaded reference ",
-      "hot": "⭐ 1.5k",
-      "desc": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subj",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/EverettFish/holo-card-studio"
-    },
-    {
-      "title": "Vincentwei1021/anything2explainer: Topic in, narrated explainer video out. A Cla",
-      "hot": "⭐ 1.3k",
-      "desc": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS ",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Vincentwei1021/anything2explainer"
-    },
-    {
-      "title": "crwdla/tokentab: A CLI that reads Claude Code, Codex, and Gemini CLI session log",
-      "hot": "⭐ 1.1k",
-      "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/crwdla/tokentab"
-    },
-    {
-      "title": "achimala/dream-loop: Agent skill for impressive 3D visuals using Blender + image",
-      "hot": "⭐ 987",
-      "desc": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/achimala/dream-loop"
-    },
-    {
-      "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
-      "hot": "⭐ 860",
-      "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/sumimakito/Mac-Duo"
-    },
-    {
-      "title": "gazijarin/itsgiving: Express yourself in meetings (with memes, of course).",
-      "hot": "⭐ 841",
-      "desc": "Express yourself in meetings (with memes, of course).",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/gazijarin/itsgiving"
-    },
-    {
-      "title": "SpaceDudem/text-humanizer: text-humanizer is an open-source project designed to ",
-      "hot": "⭐ 746",
-      "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such a",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/SpaceDudem/text-humanizer"
-    },
-    {
-      "title": "Colafornia/short-video-generator-AI: Free open-source project designed for turni",
-      "hot": "⭐ 732",
-      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in o",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Colafornia/short-video-generator-AI"
-    },
-    {
-      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
-      "hot": "⭐ 731",
-      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
-    },
-    {
-      "title": "angusdevgo/IDM_Pro_Tool: IDM激活与状态维护工具",
-      "hot": "⭐ 696",
-      "desc": "IDM激活与状态维护工具",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
-    },
-    {
-      "title": "eternityspring/reelbench-skills: Learning notes and tooling skills for AI video ",
-      "hot": "⭐ 659",
-      "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/eternityspring/reelbench-skills"
-    },
-    {
-      "title": "ArasTey/lunel: ",
-      "hot": "⭐ 655",
-      "desc": "ArasTey/lunel",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ArasTey/lunel"
     }
   ]
 }
