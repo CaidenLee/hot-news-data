@@ -1,22 +1,6 @@
 {
   "data": [
     {
-      "title": "Meme Monday",
-      "hot": "❤️ 35 💬 21",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-38bf"
-    },
-    {
-      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
-      "hot": "❤️ 9 💬 1",
-      "desc": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Int",
-      "source": "dev",
-      "tag": "mcp,  python",
-      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
-    },
-    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "hot": "❤️ 8 💬 1",
       "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
@@ -25,8 +9,16 @@
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250"
     },
     {
+      "title": "Meme Monday",
+      "hot": "❤️ 36 💬 23",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-38bf"
+    },
+    {
       "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
-      "hot": "❤️ 8 💬 1",
+      "hot": "❤️ 9 💬 1",
       "desc": "Apple's container CLI 1.4.1 cannot boot the official debian:13 image as a machine, because it has no /sbin/init. A small",
       "source": "dev",
       "tag": "debian,  macos",
@@ -57,6 +49,14 @@
       "url": "https://dev.to/devteam/what-was-your-win-this-week-5amk"
     },
     {
+      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
+      "hot": "❤️ 10 💬 1",
+      "desc": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Int",
+      "source": "dev",
+      "tag": "mcp,  python",
+      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
+    },
+    {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
       "hot": "❤️ 224 💬 115",
       "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
@@ -71,14 +71,6 @@
       "source": "dev",
       "tag": "ai,  buildinpublic",
       "url": "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb"
-    },
-    {
-      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
-      "hot": "❤️ 7 💬 3",
-      "desc": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU a",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b"
     },
     {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4"
+    },
+    {
+      "title": "The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One",
+      "hot": "❤️ 12 💬 1",
+      "desc": "The best USB 2.0 pass in 45 tethering records used 91% of what that bus can usably carry. The same link on a SuperSpeed ",
+      "source": "dev",
+      "tag": "linux,  networking",
+      "url": "https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n"
     }
   ],
-  "updatedAt": "2026-09-15T00:42:13.498Z"
+  "updatedAt": "2026-09-15T05:30:00.783Z"
 }
