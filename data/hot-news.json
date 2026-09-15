@@ -1,10 +1,416 @@
 {
-  "updatedAt": "2026-09-15T19:05:39.827Z",
+  "updatedAt": "2026-09-15T22:20:32.321Z",
   "source": "live",
+  "tech": [
+    {
+      "title": "Introducing System One Models and Jev",
+      "hot": "3.0m",
+      "desc": "typesafe.ai",
+      "source": "tech",
+      "tag": "⬆️ 471 points",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 1154 points",
+      "url": "https://github.com/arnegiacomo/fugleramme"
+    },
+    {
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "hot": "3.0m",
+      "desc": "rheinmetall.github.io",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html"
+    },
+    {
+      "title": "Jean-Pierre Serre is 100 years old today",
+      "hot": "3.0m",
+      "desc": "mathshistory.st-andrews.ac.uk",
+      "source": "tech",
+      "tag": "⬆️ 52 points",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/"
+    },
+    {
+      "title": "An Update on Wayback Machine Access",
+      "hot": "2.9m",
+      "desc": "blog.archive.org",
+      "source": "tech",
+      "tag": "⬆️ 285 points",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "hot": "2.9m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 215 points",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+    },
+    {
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "hot": "2.9m",
+      "desc": "strix.ai",
+      "source": "tech",
+      "tag": "⬆️ 164 points",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover"
+    },
+    {
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "hot": "2.9m",
+      "desc": "codyho.dev",
+      "source": "tech",
+      "tag": "⬆️ 73 points",
+      "url": "https://codyho.dev/blog/gpu-driver/"
+    },
+    {
+      "title": "Chopping up books when they're physically too big",
+      "hot": "2.9m",
+      "desc": "attainablefelicity.mattkirkland.com",
+      "source": "tech",
+      "tag": "⬆️ 80 points",
+      "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html"
+    },
+    {
+      "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 70 points",
+      "url": "https://github.com/GraafHenk/numberwang"
+    },
+    {
+      "title": "I can't stop thinking about Papua New Guinea",
+      "hot": "2.9m",
+      "desc": "notnottalmud.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 980 points",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua"
+    },
+    {
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "hot": "2.8m",
+      "desc": "withcapsule.app",
+      "source": "tech",
+      "tag": "⬆️ 253 points",
+      "url": "https://withcapsule.app/"
+    },
+    {
+      "title": "Vibe Coding is the new Internet Dating?",
+      "hot": "2.8m",
+      "desc": "joecmarshall.com",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/"
+    },
+    {
+      "title": "GEFS on OpenBSD: A Early Preview",
+      "hot": "2.8m",
+      "desc": "marc.info",
+      "source": "tech",
+      "tag": "⬆️ 87 points",
+      "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
+    },
+    {
+      "title": "Data races and the limits of ThreadSanitizer in C and Go",
+      "hot": "2.8m",
+      "desc": "theconsensus.dev",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html"
+    },
+    {
+      "title": "Let's make quality the norm again",
+      "hot": "2.8m",
+      "desc": "forbrukerradet.no",
+      "source": "tech",
+      "tag": "⬆️ 262 points",
+      "url": "https://www.forbrukerradet.no/short-life/"
+    },
+    {
+      "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+      "hot": "2.8m",
+      "desc": "jiga.io",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd"
+    },
+    {
+      "title": "The CSS Zen Garden dream, finally shipped",
+      "hot": "2.7m",
+      "desc": "josprague.com",
+      "source": "tech",
+      "tag": "⬆️ 107 points",
+      "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/"
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "hot": "2.7m",
+      "desc": "bbc.com",
+      "source": "tech",
+      "tag": "⬆️ 391 points",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo"
+    },
+    {
+      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "hot": "2.7m",
+      "desc": "bkovac.github.io",
+      "source": "tech",
+      "tag": "⬆️ 158 points",
+      "url": "https://bkovac.github.io/modem-thing/"
+    }
+  ],
+  "space": [
+    {
+      "title": "Live coverage: SpaceX to launch national security payload for the U.S. Space Force on Falcon 9 rocket from Vandenberg",
+      "hot": "9/15",
+      "desc": "The rocket will carry an unspecified number of satellites to orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:18 p.m. PDT ",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/"
+    },
+    {
+      "title": "Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push",
+      "hot": "9/15",
+      "desc": "UK-based satellite maker Open Cosmos announced on 14 September that it had closed a €300 million funding round. The company said it would use the new ",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/open-cosmos-raises-e300-million-as-investors-back-europes-space-push/"
+    },
+    {
+      "title": "NASA Invites Media to International Observe the Moon Night",
+      "hot": "9/15",
+      "desc": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, t",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/"
+    },
+    {
+      "title": "SpaceX sets launch date for first Starship orbital flight",
+      "hot": "9/15",
+      "desc": "Reaching orbit would mark a significant milestone.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/"
+    },
+    {
+      "title": "Launch Preview: Nine orbital launches scheduled from sites around the world",
+      "hot": "9/15",
+      "desc": "Nine orbital launches are scheduled worldwide this week. Two Falcon 9s are expected to deliver…\nThe post Launch Preview: Nine orbital launches schedul",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-091526/"
+    },
+    {
+      "title": "Celebrate International Observe the Moon Night with NASA",
+      "hot": "9/15",
+      "desc": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission. On Saturday, Sept. 19,",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/"
+    },
+    {
+      "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
+      "hot": "9/15",
+      "desc": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/"
+    },
+    {
+      "title": "More satellites watch the battlefield, putting a premium on making sense of the data",
+      "hot": "9/15",
+      "desc": "\nSpace Force programs are tapping satellite data and AI to get intelligence to military commanders faster\nThe post More satellites watch the battlefie",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/"
+    },
+    {
+      "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
+      "hot": "9/15",
+      "desc": "This starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA’s James Webb Space Telescope. Using ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/"
+    },
+    {
+      "title": "Webb reveals stunning panorama of star formation",
+      "hot": "9/15",
+      "desc": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to th",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation"
+    },
+    {
+      "title": "This is by far the most peaceful Atlantic hurricane season we've ever seen",
+      "hot": "9/15",
+      "desc": "But there may be a price to pay for a quiet Atlantic hurricane season.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/"
+    },
+    {
+      "title": "Avio Launches Second Successful Vega C Flight of 2026",
+      "hot": "9/15",
+      "desc": "Italian launch services provider Avio has successfully completed its second Vega-C flight of 2026, deploying the European Commission’s third Sentinel-",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/"
+    },
+    {
+      "title": "FLEX and Sentinel-3C launch highlights",
+      "hot": "9/15",
+      "desc": "ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from ",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights"
+    },
+    {
+      "title": "Iceye’s global presence expands to address sovereign demand",
+      "hot": "9/15",
+      "desc": "\nSince raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. I",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/"
+    },
+    {
+      "title": "Relive the launch of FLEX and Sentinel-3C",
+      "hot": "9/15",
+      "desc": "Watch the full replay of the launch of ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite. Both were launch",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Relive_the_launch_of_FLEX_and_Sentinel-3C"
+    }
+  ],
+  "github": [
+    {
+      "title": "openai/NavierStokesAndEuler: Lean certificates accompanying Navier-Stokes and Eu",
+      "hot": "⭐ 1.9k",
+      "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "source": "github",
+      "tag": "Lean",
+      "url": "https://github.com/openai/NavierStokesAndEuler"
+    },
+    {
+      "title": "Edge0-AI/Edge0: ",
+      "hot": "⭐ 1.8k",
+      "desc": "Edge0-AI/Edge0",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Edge0-AI/Edge0"
+    },
+    {
+      "title": "Vincentwei1021/anything2explainer: Topic in, narrated explainer video out. A Cla",
+      "hot": "⭐ 1.4k",
+      "desc": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS ",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Vincentwei1021/anything2explainer"
+    },
+    {
+      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
+      "hot": "⭐ 1.0k",
+      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/Chuloo/mural"
+    },
+    {
+      "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
+      "hot": "⭐ 911",
+      "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/sumimakito/Mac-Duo"
+    },
+    {
+      "title": "gazijarin/itsgiving: Express yourself in meetings (with memes, of course).",
+      "hot": "⭐ 860",
+      "desc": "Express yourself in meetings (with memes, of course).",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/gazijarin/itsgiving"
+    },
+    {
+      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
+      "hot": "⭐ 823",
+      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+    },
+    {
+      "title": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant ",
+      "hot": "⭐ 820",
+      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/kruzovic7/ai-data-extractor"
+    },
+    {
+      "title": "Colafornia/short-video-generator-AI: Free open-source project designed for turni",
+      "hot": "⭐ 741",
+      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in o",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Colafornia/short-video-generator-AI"
+    },
+    {
+      "title": "angusdevgo/IDM_Pro_Tool: IDM激活与状态维护工具",
+      "hot": "⭐ 707",
+      "desc": "IDM激活与状态维护工具",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
+    },
+    {
+      "title": "eternityspring/reelbench-skills: Learning notes and tooling skills for AI video ",
+      "hot": "⭐ 695",
+      "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/eternityspring/reelbench-skills"
+    },
+    {
+      "title": "ArasTey/lunel: ",
+      "hot": "⭐ 691",
+      "desc": "ArasTey/lunel",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ArasTey/lunel"
+    },
+    {
+      "title": "nftechie/stonkfly: A full retained fly-connectome simulation with experimental m",
+      "hot": "⭐ 688",
+      "desc": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/nftechie/stonkfly"
+    },
+    {
+      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
+      "hot": "⭐ 680",
+      "desc": "GPT-6 Astra for embodied AI and robotics.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
+    },
+    {
+      "title": "rizqinrr/viserys-agent: ",
+      "hot": "⭐ 652",
+      "desc": "rizqinrr/viserys-agent",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/rizqinrr/viserys-agent"
+    }
+  ],
   "dev": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 25 💬 20",
+      "hot": "❤️ 26 💬 20",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -155,418 +561,12 @@
       "url": "https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n"
     },
     {
-      "title": "Two Rust Clients for Gemma 4: Calling the Endpoint vs. Calling the MCP Server 🦀",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Step by step: a Rust HTTP client (reqwest) and a Rust MCP client (rmcp) ask Gemma 4 E2B the same question on a local lla",
+      "title": "Welcome Thread - v 392",
+      "hot": "❤️ 103 💬 451",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
-      "tag": "rust,  mcp",
-      "url": "https://dev.to/gde/two-rust-clients-for-gemma-4-calling-the-endpoint-vs-calling-the-mcp-server-3kj4"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 890 points",
-      "url": "https://github.com/arnegiacomo/fugleramme"
-    },
-    {
-      "title": "An Update on Wayback Machine Access",
-      "hot": "3.0m",
-      "desc": "blog.archive.org",
-      "source": "tech",
-      "tag": "⬆️ 96 points",
-      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/"
-    },
-    {
-      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-      "hot": "3.0m",
-      "desc": "strix.ai",
-      "source": "tech",
-      "tag": "⬆️ 58 points",
-      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover"
-    },
-    {
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "hot": "3.0m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 50 points",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
-    },
-    {
-      "title": "GEFS on OpenBSD: A Early Preview",
-      "hot": "2.9m",
-      "desc": "marc.info",
-      "source": "tech",
-      "tag": "⬆️ 50 points",
-      "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
-    },
-    {
-      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-      "hot": "2.9m",
-      "desc": "withcapsule.app",
-      "source": "tech",
-      "tag": "⬆️ 207 points",
-      "url": "https://withcapsule.app/"
-    },
-    {
-      "title": "I can't stop thinking about Papua New Guinea",
-      "hot": "2.9m",
-      "desc": "notnottalmud.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 841 points",
-      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua"
-    },
-    {
-      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-      "hot": "2.9m",
-      "desc": "bkovac.github.io",
-      "source": "tech",
-      "tag": "⬆️ 139 points",
-      "url": "https://bkovac.github.io/modem-thing/"
-    },
-    {
-      "title": "The CSS Zen Garden dream, finally shipped",
-      "hot": "2.9m",
-      "desc": "josprague.com",
-      "source": "tech",
-      "tag": "⬆️ 69 points",
-      "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/"
-    },
-    {
-      "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
-      "hot": "2.9m",
-      "desc": "jiga.io",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd"
-    },
-    {
-      "title": "Let's make quality the norm again",
-      "hot": "2.9m",
-      "desc": "forbrukerradet.no",
-      "source": "tech",
-      "tag": "⬆️ 195 points",
-      "url": "https://www.forbrukerradet.no/short-life/"
-    },
-    {
-      "title": "Giving up on smart rings",
-      "hot": "2.8m",
-      "desc": "notesbylex.com",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://notesbylex.com/giving-up-on-smart-rings"
-    },
-    {
-      "title": "The Inference Hardware Revolution of 2026",
-      "hot": "2.8m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://spectrum.ieee.org/inference-hardware-revolution"
-    },
-    {
-      "title": "Archiving pirate radio station Kool FM",
-      "hot": "2.8m",
-      "desc": "londonist.com",
-      "source": "tech",
-      "tag": "⬆️ 65 points",
-      "url": "https://londonist.com/london/music/kool-fm-archives"
-    },
-    {
-      "title": "Cartesian – AI 3D Modeling for Design",
-      "hot": "2.8m",
-      "desc": "formas.ai",
-      "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://www.formas.ai/cartesian"
-    },
-    {
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "hot": "2.8m",
-      "desc": "effort.news",
-      "source": "tech",
-      "tag": "⬆️ 225 points",
-      "url": "https://www.effort.news/irregular"
-    },
-    {
-      "title": "US confirms for first time it has deployed space weapons",
-      "hot": "2.8m",
-      "desc": "bbc.com",
-      "source": "tech",
-      "tag": "⬆️ 339 points",
-      "url": "https://www.bbc.com/news/articles/ck790xg41ygro"
-    },
-    {
-      "title": "Rat and Mouse Gazette: Nursing Care (1996)",
-      "hot": "2.7m",
-      "desc": "rmca.org",
-      "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://www.rmca.org/Articles/nurse.htm"
-    },
-    {
-      "title": "Most people prefer traditional architecture",
-      "hot": "2.7m",
-      "desc": "worksinprogress.news",
-      "source": "tech",
-      "tag": "⬆️ 167 points",
-      "url": "https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture"
-    },
-    {
-      "title": "America's Driver's License Breach Is a National Security Disaster",
-      "hot": "2.7m",
-      "desc": "lawfaremedia.org",
-      "source": "tech",
-      "tag": "⬆️ 94 points",
-      "url": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster"
-    }
-  ],
-  "space": [
-    {
-      "title": "NASA Invites Media to International Observe the Moon Night",
-      "hot": "9/15",
-      "desc": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, t",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/"
-    },
-    {
-      "title": "SpaceX sets launch date for first Starship orbital flight",
-      "hot": "9/15",
-      "desc": "Reaching orbit would mark a significant milestone.",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/"
-    },
-    {
-      "title": "Launch Preview: Nine orbital launches scheduled from sites around the world",
-      "hot": "9/15",
-      "desc": "Nine orbital launches are scheduled worldwide this week. Two Falcon 9s are expected to deliver…\nThe post Launch Preview: Nine orbital launches schedul",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-091526/"
-    },
-    {
-      "title": "Celebrate International Observe the Moon Night with NASA",
-      "hot": "9/15",
-      "desc": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission. On Saturday, Sept. 19,",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/"
-    },
-    {
-      "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
-      "hot": "9/15",
-      "desc": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/"
-    },
-    {
-      "title": "More satellites watch the battlefield, putting a premium on making sense of the data",
-      "hot": "9/15",
-      "desc": "\nSpace Force programs are tapping satellite data and AI to get intelligence to military commanders faster\nThe post More satellites watch the battlefie",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/"
-    },
-    {
-      "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
-      "hot": "9/15",
-      "desc": "This starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA’s James Webb Space Telescope. Using ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/"
-    },
-    {
-      "title": "Webb reveals stunning panorama of star formation",
-      "hot": "9/15",
-      "desc": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to th",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation"
-    },
-    {
-      "title": "This is by far the most peaceful Atlantic hurricane season we've ever seen",
-      "hot": "9/15",
-      "desc": "But there may be a price to pay for a quiet Atlantic hurricane season.",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/"
-    },
-    {
-      "title": "Avio Launches Second Successful Vega C Flight of 2026",
-      "hot": "9/15",
-      "desc": "Italian launch services provider Avio has successfully completed its second Vega-C flight of 2026, deploying the European Commission’s third Sentinel-",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/"
-    },
-    {
-      "title": "FLEX and Sentinel-3C launch highlights",
-      "hot": "9/15",
-      "desc": "ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from ",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights"
-    },
-    {
-      "title": "Iceye’s global presence expands to address sovereign demand",
-      "hot": "9/15",
-      "desc": "\nSince raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. I",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/"
-    },
-    {
-      "title": "Relive the launch of FLEX and Sentinel-3C",
-      "hot": "9/15",
-      "desc": "Watch the full replay of the launch of ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite. Both were launch",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Relive_the_launch_of_FLEX_and_Sentinel-3C"
-    },
-    {
-      "title": "APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus",
-      "hot": "9/15",
-      "desc": "APOD Science APOD APOD: 2026 September 15 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pic",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/"
-    },
-    {
-      "title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes",
-      "hot": "9/15",
-      "desc": "The mission, with the shorthand VV30, is the second launch of a Vega-C rocket managed solely by Avio without Arianespace. Liftoff from Ensemble de Lan",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/"
-    }
-  ],
-  "github": [
-    {
-      "title": "openai/NavierStokesAndEuler: Lean certificates accompanying Navier-Stokes and Eu",
-      "hot": "⭐ 1.9k",
-      "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
-      "source": "github",
-      "tag": "Lean",
-      "url": "https://github.com/openai/NavierStokesAndEuler"
-    },
-    {
-      "title": "Edge0-AI/Edge0: ",
-      "hot": "⭐ 1.7k",
-      "desc": "Edge0-AI/Edge0",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Edge0-AI/Edge0"
-    },
-    {
-      "title": "Vincentwei1021/anything2explainer: Topic in, narrated explainer video out. A Cla",
-      "hot": "⭐ 1.4k",
-      "desc": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS ",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Vincentwei1021/anything2explainer"
-    },
-    {
-      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
-      "hot": "⭐ 990",
-      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/Chuloo/mural"
-    },
-    {
-      "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
-      "hot": "⭐ 911",
-      "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/sumimakito/Mac-Duo"
-    },
-    {
-      "title": "gazijarin/itsgiving: Express yourself in meetings (with memes, of course).",
-      "hot": "⭐ 859",
-      "desc": "Express yourself in meetings (with memes, of course).",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/gazijarin/itsgiving"
-    },
-    {
-      "title": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant ",
-      "hot": "⭐ 820",
-      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/kruzovic7/ai-data-extractor"
-    },
-    {
-      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
-      "hot": "⭐ 819",
-      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
-    },
-    {
-      "title": "Colafornia/short-video-generator-AI: Free open-source project designed for turni",
-      "hot": "⭐ 741",
-      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in o",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Colafornia/short-video-generator-AI"
-    },
-    {
-      "title": "angusdevgo/IDM_Pro_Tool: IDM激活与状态维护工具",
-      "hot": "⭐ 706",
-      "desc": "IDM激活与状态维护工具",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
-    },
-    {
-      "title": "eternityspring/reelbench-skills: Learning notes and tooling skills for AI video ",
-      "hot": "⭐ 695",
-      "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/eternityspring/reelbench-skills"
-    },
-    {
-      "title": "ArasTey/lunel: ",
-      "hot": "⭐ 686",
-      "desc": "ArasTey/lunel",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ArasTey/lunel"
-    },
-    {
-      "title": "nftechie/stonkfly: A full retained fly-connectome simulation with experimental m",
-      "hot": "⭐ 683",
-      "desc": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/nftechie/stonkfly"
-    },
-    {
-      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
-      "hot": "⭐ 672",
-      "desc": "GPT-6 Astra for embodied AI and robotics.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
-    },
-    {
-      "title": "rizqinrr/viserys-agent: ",
-      "hot": "⭐ 652",
-      "desc": "rizqinrr/viserys-agent",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/rizqinrr/viserys-agent"
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v-392-1kj4"
     }
   ]
 }
