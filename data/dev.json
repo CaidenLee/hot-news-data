@@ -2,11 +2,19 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 13 💬 6",
+      "hot": "❤️ 25 💬 20",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-272b"
+    },
+    {
+      "title": "Harness engineering doesn't mean building your own harness",
+      "hot": "❤️ 6 💬 3",
+      "desc": "It means giving the agent enough context to do the right thing  For this week's Agent Factory...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk"
     },
     {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
@@ -15,14 +23,6 @@
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 42 💬 24",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-38bf"
     },
     {
       "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
@@ -73,6 +73,14 @@
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
     },
     {
+      "title": "Meme Monday",
+      "hot": "❤️ 42 💬 25",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-38bf"
+    },
+    {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
       "hot": "❤️ 8 💬 1",
       "desc": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated t",
@@ -90,7 +98,7 @@
     },
     {
       "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
-      "hot": "❤️ 72 💬 19",
+      "hot": "❤️ 73 💬 19",
       "desc": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
       "source": "dev",
       "tag": "typescript,  algorithms",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "rust,  mcp",
       "url": "https://dev.to/gde/two-rust-clients-for-gemma-4-calling-the-endpoint-vs-calling-the-mcp-server-3kj4"
-    },
-    {
-      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
-      "hot": "❤️ 8 💬 3",
-      "desc": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU a",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b"
     }
   ],
-  "updatedAt": "2026-09-15T15:06:07.330Z"
+  "updatedAt": "2026-09-15T19:05:39.827Z"
 }
