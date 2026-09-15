@@ -1,6 +1,14 @@
 {
   "data": [
     {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 13 💬 6",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-272b"
+    },
+    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "hot": "❤️ 8 💬 1",
       "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
@@ -10,7 +18,7 @@
     },
     {
       "title": "Meme Monday",
-      "hot": "❤️ 36 💬 23",
+      "hot": "❤️ 42 💬 24",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  jokes",
@@ -65,14 +73,6 @@
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
     },
     {
-      "title": "My Agents Never Get Tired. I Do: On Satisficing",
-      "hot": "❤️ 34 💬 27",
-      "desc": "I approved a prompt on a Tuesday morning and went to make a cup of Irish Afternoon tea. By the time I...",
-      "source": "dev",
-      "tag": "ai,  buildinpublic",
-      "url": "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb"
-    },
-    {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
       "hot": "❤️ 8 💬 1",
       "desc": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated t",
@@ -89,6 +89,14 @@
       "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg"
     },
     {
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
+      "hot": "❤️ 72 💬 19",
+      "desc": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
+      "source": "dev",
+      "tag": "typescript,  algorithms",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg"
+    },
+    {
       "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
       "hot": "❤️ 12 💬 7",
       "desc": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autono",
@@ -97,28 +105,12 @@
       "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m"
     },
     {
-      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "hot": "❤️ 13 💬 8",
-      "desc": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy",
-      "source": "dev",
-      "tag": "mcp,  python",
-      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj"
-    },
-    {
       "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
       "hot": "❤️ 136 💬 80",
       "desc": "Let me describe a moment you might recognize.  You had an idea for an app. You didn't know how to...",
       "source": "dev",
       "tag": "ai,  beginners",
       "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3"
-    },
-    {
-      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
-      "hot": "❤️ 72 💬 17",
-      "desc": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
-      "source": "dev",
-      "tag": "typescript,  algorithms",
-      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "rust,  mcp",
       "url": "https://dev.to/gde/two-rust-clients-for-gemma-4-calling-the-endpoint-vs-calling-the-mcp-server-3kj4"
+    },
+    {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "hot": "❤️ 8 💬 3",
+      "desc": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU a",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b"
     }
   ],
-  "updatedAt": "2026-09-15T10:17:37.730Z"
+  "updatedAt": "2026-09-15T15:06:07.330Z"
 }

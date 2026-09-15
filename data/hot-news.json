@@ -1,331 +1,153 @@
 {
-  "updatedAt": "2026-09-15T10:17:37.730Z",
+  "updatedAt": "2026-09-15T15:06:07.330Z",
   "source": "live",
-  "dev": [
+  "github": [
     {
-      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250"
+      "title": "openai/NavierStokesAndEuler: Lean certificates accompanying Navier-Stokes and Eu",
+      "hot": "⭐ 1.9k",
+      "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "source": "github",
+      "tag": "Lean",
+      "url": "https://github.com/openai/NavierStokesAndEuler"
     },
     {
-      "title": "Meme Monday",
-      "hot": "❤️ 36 💬 23",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-38bf"
+      "title": "Edge0-AI/Edge0: ",
+      "hot": "⭐ 1.7k",
+      "desc": "Edge0-AI/Edge0",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Edge0-AI/Edge0"
     },
     {
-      "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
-      "hot": "❤️ 9 💬 1",
-      "desc": "Apple's container CLI 1.4.1 cannot boot the official debian:13 image as a machine, because it has no /sbin/init. A small",
-      "source": "dev",
-      "tag": "debian,  macos",
-      "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
+      "title": "Vincentwei1021/anything2explainer: Topic in, narrated explainer video out. A Cla",
+      "hot": "⭐ 1.4k",
+      "desc": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS ",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Vincentwei1021/anything2explainer"
     },
     {
-      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
-      "hot": "❤️ 8 💬 1",
-      "desc": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through ",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h"
+      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
+      "hot": "⭐ 963",
+      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/Chuloo/mural"
     },
     {
-      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
-      "hot": "❤️ 10 💬 3",
-      "desc": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 ",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
+      "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
+      "hot": "⭐ 902",
+      "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/sumimakito/Mac-Duo"
     },
     {
-      "title": "What was your win this week??",
-      "hot": "❤️ 34 💬 40",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-5amk"
+      "title": "gazijarin/itsgiving: Express yourself in meetings (with memes, of course).",
+      "hot": "⭐ 856",
+      "desc": "Express yourself in meetings (with memes, of course).",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/gazijarin/itsgiving"
     },
     {
-      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
-      "hot": "❤️ 10 💬 1",
-      "desc": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Int",
-      "source": "dev",
-      "tag": "mcp,  python",
-      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
+      "title": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant ",
+      "hot": "⭐ 815",
+      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/kruzovic7/ai-data-extractor"
     },
     {
-      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "hot": "❤️ 224 💬 115",
-      "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
+      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
+      "hot": "⭐ 803",
+      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
     },
     {
-      "title": "My Agents Never Get Tired. I Do: On Satisficing",
-      "hot": "❤️ 34 💬 27",
-      "desc": "I approved a prompt on a Tuesday morning and went to make a cup of Irish Afternoon tea. By the time I...",
-      "source": "dev",
-      "tag": "ai,  buildinpublic",
-      "url": "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb"
+      "title": "Colafornia/short-video-generator-AI: Free open-source project designed for turni",
+      "hot": "⭐ 740",
+      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in o",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Colafornia/short-video-generator-AI"
     },
     {
-      "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated t",
-      "source": "dev",
-      "tag": "mcp,  gemma",
-      "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3"
+      "title": "angusdevgo/IDM_Pro_Tool: IDM激活与状态维护工具",
+      "hot": "⭐ 704",
+      "desc": "IDM激活与状态维护工具",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
     },
     {
-      "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...",
-      "source": "dev",
-      "tag": "googleworkspace,  googlecloud",
-      "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg"
+      "title": "eternityspring/reelbench-skills: Learning notes and tooling skills for AI video ",
+      "hot": "⭐ 693",
+      "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/eternityspring/reelbench-skills"
     },
     {
-      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
-      "hot": "❤️ 12 💬 7",
-      "desc": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autono",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m"
+      "title": "ArasTey/lunel: ",
+      "hot": "⭐ 684",
+      "desc": "ArasTey/lunel",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ArasTey/lunel"
     },
     {
-      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "hot": "❤️ 13 💬 8",
-      "desc": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy",
-      "source": "dev",
-      "tag": "mcp,  python",
-      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj"
+      "title": "nftechie/stonkfly: A full retained fly-connectome simulation with experimental m",
+      "hot": "⭐ 673",
+      "desc": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/nftechie/stonkfly"
     },
     {
-      "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
-      "hot": "❤️ 136 💬 80",
-      "desc": "Let me describe a moment you might recognize.  You had an idea for an app. You didn't know how to...",
-      "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3"
+      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
+      "hot": "⭐ 666",
+      "desc": "GPT-6 Astra for embodied AI and robotics.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
     },
     {
-      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
-      "hot": "❤️ 72 💬 17",
-      "desc": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
-      "source": "dev",
-      "tag": "typescript,  algorithms",
-      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg"
-    },
-    {
-      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgr",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l"
-    },
-    {
-      "title": "Cross Cloud A2A Agent Card Field Comparison",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
-      "source": "dev",
-      "tag": "a2a,  multicloud",
-      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod"
-    },
-    {
-      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
-      "hot": "❤️ 47 💬 50",
-      "desc": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4"
-    },
-    {
-      "title": "The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One",
-      "hot": "❤️ 12 💬 1",
-      "desc": "The best USB 2.0 pass in 45 tethering records used 91% of what that bus can usably carry. The same link on a SuperSpeed ",
-      "source": "dev",
-      "tag": "linux,  networking",
-      "url": "https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n"
-    },
-    {
-      "title": "Two Rust Clients for Gemma 4: Calling the Endpoint vs. Calling the MCP Server 🦀",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Step by step: a Rust HTTP client (reqwest) and a Rust MCP client (rmcp) ask Gemma 4 E2B the same question on a local lla",
-      "source": "dev",
-      "tag": "rust,  mcp",
-      "url": "https://dev.to/gde/two-rust-clients-for-gemma-4-calling-the-endpoint-vs-calling-the-mcp-server-3kj4"
-    }
-  ],
-  "tech": [
-    {
-      "title": "I can't stop thinking about Papua New Guinea",
-      "hot": "3.0m",
-      "desc": "notnottalmud.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 196 points",
-      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua"
-    },
-    {
-      "title": "Let's make quality the norm again",
-      "hot": "3.0m",
-      "desc": "forbrukerradet.no",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://www.forbrukerradet.no/short-life/"
-    },
-    {
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "hot": "3.0m",
-      "desc": "apple.com",
-      "source": "tech",
-      "tag": "⬆️ 610 points",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
-    },
-    {
-      "title": "OpenArm: An open-source 7DOF humanoid arm",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 96 points",
-      "url": "https://github.com/enactic/OpenArm"
-    },
-    {
-      "title": "How much of F-Droid is LLM generated?",
-      "hot": "2.9m",
-      "desc": "tintotint.eu",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/"
-    },
-    {
-      "title": "Linux from Scratch",
-      "hot": "2.9m",
-      "desc": "linuxfromscratch.org",
-      "source": "tech",
-      "tag": "⬆️ 186 points",
-      "url": "https://www.linuxfromscratch.org/"
-    },
-    {
-      "title": "Pion, an agent designed to run any company autonomously",
-      "hot": "2.9m",
-      "desc": "andonlabs.com",
-      "source": "tech",
-      "tag": "⬆️ 411 points",
-      "url": "https://andonlabs.com/blog/why-we-built-pion"
-    },
-    {
-      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-      "hot": "2.9m",
-      "desc": "arkeonews.net",
-      "source": "tech",
-      "tag": "⬆️ 139 points",
-      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/"
-    },
-    {
-      "title": "Alternatives to MinIO for single-node local S3",
-      "hot": "2.9m",
-      "desc": "rmoff.net",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/"
-    },
-    {
-      "title": "Charts built for Chat",
-      "hot": "2.9m",
-      "desc": "dbtcharts.com",
-      "source": "tech",
-      "tag": "⬆️ 232 points",
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat/"
-    },
-    {
-      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
-      "hot": "2.9m",
-      "desc": "lingo.dev",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013"
-    },
-    {
-      "title": "XCancel service is suspended until further notice",
-      "hot": "2.8m",
-      "desc": "xcancel.com",
-      "source": "tech",
-      "tag": "⬆️ 644 points",
-      "url": "https://xcancel.com/#"
-    },
-    {
-      "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
-      "hot": "2.8m",
-      "desc": "poltora.dev",
-      "source": "tech",
-      "tag": "⬆️ 95 points",
-      "url": "https://poltora.dev/redis"
-    },
-    {
-      "title": "The k-server conjecture is true",
-      "hot": "2.8m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://arxiv.org/abs/2609.15979"
-    },
-    {
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "hot": "2.8m",
-      "desc": "nathannaveen.dev",
-      "source": "tech",
-      "tag": "⬆️ 119 points",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/"
-    },
-    {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "hot": "2.8m",
-      "desc": "tenderlovemaking.com",
-      "source": "tech",
-      "tag": "⬆️ 465 points",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
-    },
-    {
-      "title": "US confirms for first time it has deployed space weapons",
-      "hot": "2.8m",
-      "desc": "bbc.com",
-      "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "https://www.bbc.com/news/articles/ck790xg41ygro"
-    },
-    {
-      "title": "A beginning for mathematics",
-      "hot": "2.7m",
-      "desc": "daniellitt.com",
-      "source": "tech",
-      "tag": "⬆️ 226 points",
-      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/"
-    },
-    {
-      "title": "Distributed Systems Classics (2017)",
-      "hot": "2.7m",
-      "desc": "nvartolomei.com",
-      "source": "tech",
-      "tag": "⬆️ 308 points",
-      "url": "https://nvartolomei.com/dist-sys-classics/"
-    },
-    {
-      "title": "Compressing a flag to 11 bits",
-      "hot": "2.7m",
-      "desc": "read.vantezzen.io",
-      "source": "tech",
-      "tag": "⬆️ 149 points",
-      "url": "https://read.vantezzen.io/miniflags"
+      "title": "rizqinrr/viserys-agent: ",
+      "hot": "⭐ 652",
+      "desc": "rizqinrr/viserys-agent",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/rizqinrr/viserys-agent"
     }
   ],
   "space": [
+    {
+      "title": "Webb reveals stunning panorama of star formation",
+      "hot": "9/15",
+      "desc": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to th",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation"
+    },
+    {
+      "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
+      "hot": "9/15",
+      "desc": "This starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA’s James Webb Space Telescope. Using ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/"
+    },
+    {
+      "title": "This is by far the most peaceful Atlantic hurricane season we've ever seen",
+      "hot": "9/15",
+      "desc": "But there may be a price to pay for a quiet Atlantic hurricane season.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/"
+    },
     {
       "title": "Avio Launches Second Successful Vega C Flight of 2026",
       "hot": "9/15",
@@ -421,152 +243,330 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/"
-    },
-    {
-      "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
-      "hot": "9/14",
-      "desc": "NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/"
-    },
-    {
-      "title": "Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22",
-      "hot": "9/14",
-      "desc": "SpaceX has completed multi-day catch-related testing with unflown Ship 42 at Pad 2, then rolled…\r\nThe post Ship 42 wraps chopsticks tests, Flight 14 m",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/"
-    },
-    {
-      "title": "Sept. 21: What Comes Next for On-Orbit Servicing?",
-      "hot": "9/14",
-      "desc": "\nJoin us for conversations about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem\nThe post Sept. 21",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/"
     }
   ],
-  "github": [
+  "tech": [
     {
-      "title": "openai/NavierStokesAndEuler: Lean certificates accompanying Navier-Stokes and Eu",
-      "hot": "⭐ 1.9k",
-      "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
-      "source": "github",
-      "tag": "Lean",
-      "url": "https://github.com/openai/NavierStokesAndEuler"
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 361 points",
+      "url": "https://github.com/arnegiacomo/fugleramme"
     },
     {
-      "title": "Edge0-AI/Edge0: ",
-      "hot": "⭐ 1.7k",
-      "desc": "Edge0-AI/Edge0",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Edge0-AI/Edge0"
+      "title": "A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: 'LMAO'",
+      "hot": "3.0m",
+      "desc": "techtimes.co.uk",
+      "source": "tech",
+      "tag": "⬆️ 55 points",
+      "url": "https://www.techtimes.co.uk/police-flock-search-licence-plate-lmao-1808683"
     },
     {
-      "title": "Vincentwei1021/anything2explainer: Topic in, narrated explainer video out. A Cla",
-      "hot": "⭐ 1.4k",
-      "desc": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS ",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Vincentwei1021/anything2explainer"
+      "title": "Java 27 Released",
+      "hot": "3.0m",
+      "desc": "mail.openjdk.org",
+      "source": "tech",
+      "tag": "⬆️ 151 points",
+      "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/"
     },
     {
-      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
-      "hot": "⭐ 906",
-      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/Chuloo/mural"
+      "title": "I can't stop thinking about Papua New Guinea",
+      "hot": "3.0m",
+      "desc": "notnottalmud.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 615 points",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua"
     },
     {
-      "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
-      "hot": "⭐ 888",
-      "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/sumimakito/Mac-Duo"
+      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "hot": "2.9m",
+      "desc": "bkovac.github.io",
+      "source": "tech",
+      "tag": "⬆️ 49 points",
+      "url": "https://bkovac.github.io/modem-thing/"
     },
     {
-      "title": "gazijarin/itsgiving: Express yourself in meetings (with memes, of course).",
-      "hot": "⭐ 854",
-      "desc": "Express yourself in meetings (with memes, of course).",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/gazijarin/itsgiving"
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "hot": "2.9m",
+      "desc": "withcapsule.app",
+      "source": "tech",
+      "tag": "⬆️ 60 points",
+      "url": "https://withcapsule.app/"
     },
     {
-      "title": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant ",
-      "hot": "⭐ 813",
-      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/kruzovic7/ai-data-extractor"
+      "title": "25 Years of Mass Surveillance Is Enough",
+      "hot": "2.9m",
+      "desc": "schneier.com",
+      "source": "tech",
+      "tag": "⬆️ 339 points",
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html"
     },
     {
-      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
-      "hot": "⭐ 771",
-      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+      "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
+      "hot": "2.9m",
+      "desc": "reuters.com",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/"
     },
     {
-      "title": "SpaceDudem/text-humanizer: text-humanizer is an open-source project designed to ",
-      "hot": "⭐ 748",
-      "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such a",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/SpaceDudem/text-humanizer"
+      "title": "Alternatives to MinIO for single-node local S3",
+      "hot": "2.9m",
+      "desc": "rmoff.net",
+      "source": "tech",
+      "tag": "⬆️ 138 points",
+      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/"
     },
     {
-      "title": "Colafornia/short-video-generator-AI: Free open-source project designed for turni",
-      "hot": "⭐ 739",
-      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in o",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Colafornia/short-video-generator-AI"
+      "title": "Israeli Minister Threatens Filmmakers' Citizenship over Gaza Documentary",
+      "hot": "2.9m",
+      "desc": "reutersconnect.com",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://www.reutersconnect.com/item/israeli-minister-threatens-filmmakers-citizenship-over-gaza-documentary/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0NjcxMC1WSURFTw"
     },
     {
-      "title": "angusdevgo/IDM_Pro_Tool: IDM激活与状态维护工具",
-      "hot": "⭐ 699",
-      "desc": "IDM激活与状态维护工具",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
+      "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://github.com/greentfrapp/panel"
     },
     {
-      "title": "eternityspring/reelbench-skills: Learning notes and tooling skills for AI video ",
-      "hot": "⭐ 689",
-      "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/eternityspring/reelbench-skills"
+      "title": "Sony's First Computer – The SMC-70 from 1982 [video]",
+      "hot": "2.8m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 21 points",
+      "url": "https://www.youtube.com/watch?v=cT2-7KkPkBc"
     },
     {
-      "title": "ArasTey/lunel: ",
-      "hot": "⭐ 675",
-      "desc": "ArasTey/lunel",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ArasTey/lunel"
+      "title": "CSS-Tricks in Limbo",
+      "hot": "2.8m",
+      "desc": "vale.rocks",
+      "source": "tech",
+      "tag": "⬆️ 159 points",
+      "url": "https://vale.rocks/micros/20260915-0135"
     },
     {
-      "title": "nftechie/stonkfly: A full retained fly-connectome simulation with experimental m",
-      "hot": "⭐ 666",
-      "desc": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/nftechie/stonkfly"
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "hot": "2.8m",
+      "desc": "bbc.com",
+      "source": "tech",
+      "tag": "⬆️ 312 points",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo"
     },
     {
-      "title": "rizqinrr/viserys-agent: ",
-      "hot": "⭐ 651",
-      "desc": "rizqinrr/viserys-agent",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/rizqinrr/viserys-agent"
+      "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://github.com/ordewell/ordewell"
+    },
+    {
+      "title": "A Man Archiving Pirate Radio Station Kool FM",
+      "hot": "2.8m",
+      "desc": "londonist.com",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://londonist.com/london/music/kool-fm-archives"
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "hot": "2.8m",
+      "desc": "apple.com",
+      "source": "tech",
+      "tag": "⬆️ 685 points",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
+    },
+    {
+      "title": "Inverse-Square Law",
+      "hot": "2.7m",
+      "desc": "blog.coredump.cx",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://blog.coredump.cx/p/inverse-square-law"
+    },
+    {
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 170 points",
+      "url": "https://github.com/enactic/OpenArm"
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+      "hot": "2.7m",
+      "desc": "techcrunch.com",
+      "source": "tech",
+      "tag": "⬆️ 85 points",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 13 💬 6",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-272b"
+    },
+    {
+      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 42 💬 24",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-38bf"
+    },
+    {
+      "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
+      "hot": "❤️ 9 💬 1",
+      "desc": "Apple's container CLI 1.4.1 cannot boot the official debian:13 image as a machine, because it has no /sbin/init. A small",
+      "source": "dev",
+      "tag": "debian,  macos",
+      "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
+    },
+    {
+      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
+      "hot": "❤️ 8 💬 1",
+      "desc": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through ",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h"
+    },
+    {
+      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
+      "hot": "❤️ 10 💬 3",
+      "desc": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 ",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
+    },
+    {
+      "title": "What was your win this week??",
+      "hot": "❤️ 34 💬 40",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-5amk"
+    },
+    {
+      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
+      "hot": "❤️ 10 💬 1",
+      "desc": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Int",
+      "source": "dev",
+      "tag": "mcp,  python",
+      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
+    },
+    {
+      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
+      "hot": "❤️ 224 💬 115",
+      "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
+    },
+    {
+      "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated t",
+      "source": "dev",
+      "tag": "mcp,  gemma",
+      "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3"
+    },
+    {
+      "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...",
+      "source": "dev",
+      "tag": "googleworkspace,  googlecloud",
+      "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg"
+    },
+    {
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
+      "hot": "❤️ 72 💬 19",
+      "desc": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
+      "source": "dev",
+      "tag": "typescript,  algorithms",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg"
+    },
+    {
+      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
+      "hot": "❤️ 12 💬 7",
+      "desc": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autono",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m"
+    },
+    {
+      "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
+      "hot": "❤️ 136 💬 80",
+      "desc": "Let me describe a moment you might recognize.  You had an idea for an app. You didn't know how to...",
+      "source": "dev",
+      "tag": "ai,  beginners",
+      "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3"
+    },
+    {
+      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgr",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l"
+    },
+    {
+      "title": "Cross Cloud A2A Agent Card Field Comparison",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
+      "source": "dev",
+      "tag": "a2a,  multicloud",
+      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod"
+    },
+    {
+      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
+      "hot": "❤️ 47 💬 50",
+      "desc": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4"
+    },
+    {
+      "title": "The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One",
+      "hot": "❤️ 12 💬 1",
+      "desc": "The best USB 2.0 pass in 45 tethering records used 91% of what that bus can usably carry. The same link on a SuperSpeed ",
+      "source": "dev",
+      "tag": "linux,  networking",
+      "url": "https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n"
+    },
+    {
+      "title": "Two Rust Clients for Gemma 4: Calling the Endpoint vs. Calling the MCP Server 🦀",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Step by step: a Rust HTTP client (reqwest) and a Rust MCP client (rmcp) ask Gemma 4 E2B the same question on a local lla",
+      "source": "dev",
+      "tag": "rust,  mcp",
+      "url": "https://dev.to/gde/two-rust-clients-for-gemma-4-calling-the-endpoint-vs-calling-the-mcp-server-3kj4"
+    },
+    {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "hot": "❤️ 8 💬 3",
+      "desc": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU a",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b"
     }
   ]
 }
