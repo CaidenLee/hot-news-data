@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 28 💬 20",
+      "hot": "❤️ 31 💬 26",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -66,7 +66,7 @@
     },
     {
       "title": "Meme Monday",
-      "hot": "❤️ 42 💬 25",
+      "hot": "❤️ 44 💬 28",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  jokes",
@@ -82,7 +82,7 @@
     },
     {
       "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
-      "hot": "❤️ 78 💬 19",
+      "hot": "❤️ 79 💬 19",
       "desc": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
       "source": "dev",
       "tag": "typescript,  algorithms",
@@ -95,14 +95,6 @@
       "source": "dev",
       "tag": "googleworkspace,  googlecloud",
       "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg"
-    },
-    {
-      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
-      "hot": "❤️ 12 💬 7",
-      "desc": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autono",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m"
     },
     {
       "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
@@ -154,12 +146,20 @@
     },
     {
       "title": "Welcome Thread - v 392",
-      "hot": "❤️ 103 💬 453",
+      "hot": "❤️ 105 💬 466",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/sloan/welcome-thread-v-392-1kj4"
+    },
+    {
+      "title": "Two Rust Clients for Gemma 4: Calling the Endpoint vs. Calling the MCP Server 🦀",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Step by step: a Rust HTTP client (reqwest) and a Rust MCP client (rmcp) ask Gemma 4 E2B the same question on a local lla",
+      "source": "dev",
+      "tag": "rust,  mcp",
+      "url": "https://dev.to/gde/two-rust-clients-for-gemma-4-calling-the-endpoint-vs-calling-the-mcp-server-3kj4"
     }
   ],
-  "updatedAt": "2026-09-16T00:32:14.866Z"
+  "updatedAt": "2026-09-16T05:22:52.476Z"
 }
