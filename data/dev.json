@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 26 💬 20",
+      "hot": "❤️ 28 💬 20",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Harness engineering doesn't mean building your own harness",
-      "hot": "❤️ 6 💬 3",
+      "hot": "❤️ 7 💬 3",
       "desc": "It means giving the agent enough context to do the right thing  For this week's Agent Factory...",
       "source": "dev",
       "tag": "agents,  ai",
@@ -49,14 +49,6 @@
       "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
     },
     {
-      "title": "What was your win this week??",
-      "hot": "❤️ 34 💬 40",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-5amk"
-    },
-    {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
       "hot": "❤️ 10 💬 1",
       "desc": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Int",
@@ -89,20 +81,20 @@
       "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3"
     },
     {
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
+      "hot": "❤️ 78 💬 19",
+      "desc": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
+      "source": "dev",
+      "tag": "typescript,  algorithms",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg"
+    },
+    {
       "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
       "hot": "❤️ 7 💬 0",
       "desc": "Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...",
       "source": "dev",
       "tag": "googleworkspace,  googlecloud",
       "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg"
-    },
-    {
-      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
-      "hot": "❤️ 73 💬 19",
-      "desc": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
-      "source": "dev",
-      "tag": "typescript,  algorithms",
-      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg"
     },
     {
       "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
@@ -137,6 +129,14 @@
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod"
     },
     {
+      "title": "What was your win this week??",
+      "hot": "❤️ 35 💬 41",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-5amk"
+    },
+    {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
       "hot": "❤️ 47 💬 50",
       "desc": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
@@ -154,12 +154,12 @@
     },
     {
       "title": "Welcome Thread - v 392",
-      "hot": "❤️ 103 💬 451",
+      "hot": "❤️ 103 💬 453",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/sloan/welcome-thread-v-392-1kj4"
     }
   ],
-  "updatedAt": "2026-09-15T22:20:32.321Z"
+  "updatedAt": "2026-09-16T00:32:14.866Z"
 }
