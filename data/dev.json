@@ -2,19 +2,11 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 31 💬 26",
+      "hot": "❤️ 31 💬 27",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-272b"
-    },
-    {
-      "title": "Harness engineering doesn't mean building your own harness",
-      "hot": "❤️ 7 💬 3",
-      "desc": "It means giving the agent enough context to do the right thing  For this week's Agent Factory...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk"
     },
     {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
@@ -23,6 +15,14 @@
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250"
+    },
+    {
+      "title": "Harness engineering doesn't mean building your own harness",
+      "hot": "❤️ 7 💬 3",
+      "desc": "It means giving the agent enough context to do the right thing  For this week's Agent Factory...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk"
     },
     {
       "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
@@ -82,7 +82,7 @@
     },
     {
       "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
-      "hot": "❤️ 79 💬 19",
+      "hot": "❤️ 80 💬 19",
       "desc": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
       "source": "dev",
       "tag": "typescript,  algorithms",
@@ -146,7 +146,7 @@
     },
     {
       "title": "Welcome Thread - v 392",
-      "hot": "❤️ 105 💬 466",
+      "hot": "❤️ 109 💬 483",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/two-rust-clients-for-gemma-4-calling-the-endpoint-vs-calling-the-mcp-server-3kj4"
     }
   ],
-  "updatedAt": "2026-09-16T05:22:52.476Z"
+  "updatedAt": "2026-09-16T10:05:57.836Z"
 }
