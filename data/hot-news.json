@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T21:47:04.115Z",
+  "updatedAt": "2026-09-16T23:54:57.612Z",
   "source": "live",
   "tech": [
     {
@@ -7,15 +7,23 @@
       "hot": "3.0m",
       "desc": "rohanbansal.com",
       "source": "tech",
-      "tag": "⬆️ 233 points",
+      "tag": "⬆️ 352 points",
       "url": "https://rohanbansal.com/qorl"
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "hot": "3.0m",
+      "desc": "developer.nvidia.com",
+      "source": "tech",
+      "tag": "⬆️ 117 points",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
     },
     {
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "hot": "3.0m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 37 points",
+      "tag": "⬆️ 112 points",
       "url": "https://arxiv.org/abs/2609.16338"
     },
     {
@@ -23,144 +31,136 @@
       "hot": "3.0m",
       "desc": "mimo.xiaomi.com",
       "source": "tech",
-      "tag": "⬆️ 114 points",
+      "tag": "⬆️ 198 points",
       "url": "https://mimo.xiaomi.com/rl/"
     },
     {
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "hot": "2.9m",
+      "desc": "johnjwang.com",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve"
+    },
+    {
+      "title": "Backups Aren't Simple",
+      "hot": "2.9m",
+      "desc": "filipovski.net",
+      "source": "tech",
+      "tag": "⬆️ 37 points",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html"
+    },
+    {
       "title": "Small programming tricks",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "will-keleher.com",
       "source": "tech",
-      "tag": "⬆️ 303 points",
+      "tag": "⬆️ 356 points",
       "url": "https://will-keleher.com/posts/small-programming-tricks-matter/"
     },
     {
-      "title": "macOS 27 Golden Gate – Review",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
       "hot": "2.9m",
-      "desc": "arstechnica.com",
+      "desc": "openspec.dev",
       "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/"
+      "tag": "⬆️ 23 points",
+      "url": "https://openspec.dev/"
     },
     {
       "title": "Reversing Factorio's RNG",
       "hot": "2.9m",
       "desc": "gegell.github.io",
       "source": "tech",
-      "tag": "⬆️ 65 points",
+      "tag": "⬆️ 121 points",
       "url": "https://gegell.github.io/posts/factorio-rng/"
-    },
-    {
-      "title": "Accurate Models of AMD Matrix Cores",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 44 points",
-      "url": "https://arxiv.org/abs/2609.14845"
-    },
-    {
-      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
-      "hot": "2.9m",
-      "desc": "wsj.com",
-      "source": "tech",
-      "tag": "⬆️ 74 points",
-      "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d"
     },
     {
       "title": "Performance Improvements in .NET 11",
       "hot": "2.9m",
       "desc": "devblogs.microsoft.com",
       "source": "tech",
-      "tag": "⬆️ 66 points",
+      "tag": "⬆️ 127 points",
       "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/"
     },
     {
-      "title": "Vectorized and performance-portable Quicksort (2022)",
+      "title": "Australia says it could follow Canada in forging deeper ties with EU",
       "hot": "2.9m",
-      "desc": "opensource.googleblog.com",
+      "desc": "independent.co.uk",
       "source": "tech",
-      "tag": "⬆️ 155 points",
-      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html"
+      "tag": "⬆️ 51 points",
+      "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html"
     },
     {
-      "title": "How good are frontier models at physics?",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://arxiv.org/abs/2609.13009"
-    },
-    {
-      "title": "Anatomy of a Texture",
+      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
       "hot": "2.8m",
-      "desc": "agentlien.github.io",
+      "desc": "wsj.com",
       "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://agentlien.github.io/texture/"
+      "tag": "⬆️ 177 points",
+      "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d"
     },
     {
-      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "title": "Accurate Models of AMD Matrix Cores",
       "hot": "2.8m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 166 points",
-      "url": "https://arxiv.org/abs/2609.14858"
-    },
-    {
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "hot": "2.8m",
-      "desc": "mistral.ai",
-      "source": "tech",
-      "tag": "⬆️ 497 points",
-      "url": "https://mistral.ai/news/mistral-x-mozilla/"
+      "tag": "⬆️ 53 points",
+      "url": "https://arxiv.org/abs/2609.14845"
     },
     {
       "title": "Japan's book scene is moving from bookstores to libraries",
       "hot": "2.8m",
       "desc": "untranslatedjp.substack.com",
       "source": "tech",
-      "tag": "⬆️ 41 points",
+      "tag": "⬆️ 75 points",
       "url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving"
     },
     {
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "title": "Reverse-engineered Jev-like model",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 2011 points",
+      "tag": "⬆️ 48 points",
+      "url": "https://github.com/vinnylarouge/jevlike"
+    },
+    {
+      "title": "Destroy After Reading: photocopiers,cheap paper and DIY gave metal it's look",
+      "hot": "2.8m",
+      "desc": "truegrittexturesupply.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://www.truegrittexturesupply.com/blogs/news/destroy-after-reading"
+    },
+    {
+      "title": "How good are frontier models at physics?",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 60 points",
+      "url": "https://arxiv.org/abs/2609.13009"
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 2049 points",
       "url": "https://github.com/arnegiacomo/fugleramme"
     },
     {
-      "title": "WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
-      "hot": "2.8m",
-      "desc": "clickhouse.com",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://clickhouse.com/blog/introducing-walshadow"
-    },
-    {
-      "title": "The Siberian Ice Maiden and the Scythian World",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "hot": "2.7m",
-      "desc": "patrickwyman.substack.com",
+      "desc": "mistral.ai",
       "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian"
+      "tag": "⬆️ 519 points",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/"
     },
     {
       "title": "Anecdotally, programmers dislike \"reduce\"",
       "hot": "2.7m",
       "desc": "evanhahn.com",
       "source": "tech",
-      "tag": "⬆️ 42 points",
+      "tag": "⬆️ 76 points",
       "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/"
-    },
-    {
-      "title": "Tell the speakers that you liked their talks",
-      "hot": "2.7m",
-      "desc": "ohhelloana.blog",
-      "source": "tech",
-      "tag": "⬆️ 254 points",
-      "url": "https://ohhelloana.blog/tell-the-speakers/"
     }
   ],
   "space": [
@@ -288,7 +288,7 @@
   "github": [
     {
       "title": "ai-sucks-butt/ai-sucks-butt: If you think AI sucks, star the repo.",
-      "hot": "⭐ 1.6k",
+      "hot": "⭐ 1.8k",
       "desc": "If you think AI sucks, star the repo.",
       "source": "github",
       "tag": "Python",
@@ -296,7 +296,7 @@
     },
     {
       "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
-      "hot": "⭐ 1.2k",
+      "hot": "⭐ 1.3k",
       "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
       "source": "github",
       "tag": "Kotlin",
@@ -304,7 +304,7 @@
     },
     {
       "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
-      "hot": "⭐ 936",
+      "hot": "⭐ 941",
       "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
       "source": "github",
       "tag": "Swift",
@@ -320,7 +320,7 @@
     },
     {
       "title": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant ",
-      "hot": "⭐ 825",
+      "hot": "⭐ 826",
       "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "source": "github",
       "tag": "Python",
@@ -328,7 +328,7 @@
     },
     {
       "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
-      "hot": "⭐ 760",
+      "hot": "⭐ 761",
       "desc": "GPT-6 Astra for embodied AI and robotics.",
       "source": "github",
       "tag": "GitHub",
@@ -336,11 +336,19 @@
     },
     {
       "title": "unstablebuild/rune: the development environment for pros",
-      "hot": "⭐ 745",
+      "hot": "⭐ 747",
       "desc": "the development environment for pros",
       "source": "github",
       "tag": "Go",
       "url": "https://github.com/unstablebuild/rune"
+    },
+    {
+      "title": "ArasTey/lunel: ",
+      "hot": "⭐ 723",
+      "desc": "ArasTey/lunel",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ArasTey/lunel"
     },
     {
       "title": "angusdevgo/IDM_Pro_Tool: IDM激活与状态维护工具",
@@ -351,16 +359,8 @@
       "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
     },
     {
-      "title": "ArasTey/lunel: ",
-      "hot": "⭐ 718",
-      "desc": "ArasTey/lunel",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ArasTey/lunel"
-    },
-    {
       "title": "nftechie/stonkfly: A full retained fly-connectome simulation with experimental m",
-      "hot": "⭐ 713",
+      "hot": "⭐ 714",
       "desc": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
       "source": "github",
       "tag": "Python",
@@ -376,7 +376,7 @@
     },
     {
       "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
-      "hot": "⭐ 675",
+      "hot": "⭐ 679",
       "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
       "source": "github",
       "tag": "Rust",
@@ -384,16 +384,16 @@
     },
     {
       "title": "rizqinrr/viserys-agent: ",
-      "hot": "⭐ 656",
+      "hot": "⭐ 658",
       "desc": "rizqinrr/viserys-agent",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/rizqinrr/viserys-agent"
     },
     {
-      "title": "mizzlelover/gongwen-gbt9704-skill: 信息安全提醒：请勿上传企业禁���对外公开的文件；可在本地或企业内网部署大模型后使用。中文",
+      "title": "mizzlelover/gongwen-gbt9704-skill: 信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文",
       "hot": "⭐ 646",
-      "desc": "信息安全提醒：请勿上传企业禁���对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
+      "desc": "信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill"
@@ -418,7 +418,7 @@
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 12 💬 29",
+      "hot": "❤️ 13 💬 33",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
