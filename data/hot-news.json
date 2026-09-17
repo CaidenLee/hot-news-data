@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-17T06:48:41.753Z",
+  "updatedAt": "2026-09-17T12:14:40.731Z",
   "source": "live",
   "dev": [
     {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "hot": "❤️ 23 💬 3",
+      "hot": "❤️ 25 💬 4",
       "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
       "source": "dev",
       "tag": "raspberrypi,  gemma",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 23 💬 58",
+      "hot": "❤️ 26 💬 85",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -91,14 +91,6 @@
       "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3"
     },
     {
-      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
-      "hot": "❤️ 80 💬 19",
-      "desc": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
-      "source": "dev",
-      "tag": "typescript,  algorithms",
-      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg"
-    },
-    {
       "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
       "hot": "❤️ 7 💬 0",
       "desc": "Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...",
@@ -113,6 +105,14 @@
       "source": "dev",
       "tag": "ai,  beginners",
       "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3"
+    },
+    {
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
+      "hot": "❤️ 81 💬 19",
+      "desc": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
+      "source": "dev",
+      "tag": "typescript,  algorithms",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -156,7 +156,7 @@
     },
     {
       "title": "Welcome Thread - v 392",
-      "hot": "❤️ 110 💬 495",
+      "hot": "❤️ 110 💬 496",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -165,35 +165,75 @@
   ],
   "tech": [
     {
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "title": "One Year of Sponsored Servo Development",
       "hot": "3.0m",
-      "desc": "ryan.science",
+      "desc": "servo.org",
       "source": "tech",
-      "tag": "⬆️ 119 points",
-      "url": "https://ryan.science/blog/keys-not-included"
+      "tag": "⬆️ 146 points",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/"
+    },
+    {
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "hot": "3.0m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 107 points",
+      "url": "https://news.ycombinator.com/item?id=49738879"
     },
     {
       "title": "Nvidia announces native GPU programming in Rust",
       "hot": "3.0m",
       "desc": "developer.nvidia.com",
       "source": "tech",
-      "tag": "⬆️ 553 points",
+      "tag": "⬆️ 748 points",
       "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
     },
     {
-      "title": "Comparison of Malloc() Algorithms",
+      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
       "hot": "3.0m",
-      "desc": "egbert.net",
+      "desc": "manticoresearch.com",
       "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html"
+      "tag": "⬆️ 20 points",
+      "url": "https://manticoresearch.com/blog/auto-chunking/"
+    },
+    {
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "hot": "2.9m",
+      "desc": "jakeasmith.com",
+      "source": "tech",
+      "tag": "⬆️ 160 points",
+      "url": "https://jakeasmith.com/blog/http-build-url/"
+    },
+    {
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "hot": "2.9m",
+      "desc": "ryan.science",
+      "source": "tech",
+      "tag": "⬆️ 200 points",
+      "url": "https://ryan.science/blog/keys-not-included"
+    },
+    {
+      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
+      "hot": "2.9m",
+      "desc": "damtp.cam.ac.uk",
+      "source": "tech",
+      "tag": "⬆️ 81 points",
+      "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html"
+    },
+    {
+      "title": "GLM Built Its Own Inference Infrastructure",
+      "hot": "2.9m",
+      "desc": "z.ai",
+      "source": "tech",
+      "tag": "⬆️ 115 points",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure"
     },
     {
       "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "rohanbansal.com",
       "source": "tech",
-      "tag": "⬆️ 497 points",
+      "tag": "⬆️ 575 points",
       "url": "https://rohanbansal.com/qorl"
     },
     {
@@ -201,131 +241,131 @@
       "hot": "2.9m",
       "desc": "mimo.xiaomi.com",
       "source": "tech",
-      "tag": "⬆️ 392 points",
+      "tag": "⬆️ 461 points",
       "url": "https://mimo.xiaomi.com/rl/"
     },
     {
-      "title": "Backups Aren't Simple",
+      "title": "Lucasart's Afterlife",
       "hot": "2.9m",
-      "desc": "filipovski.net",
+      "desc": "togameforlife.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 185 points",
-      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html"
+      "tag": "⬆️ 39 points",
+      "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/"
+    },
+    {
+      "title": "Online Z3 Guide",
+      "hot": "2.8m",
+      "desc": "microsoft.github.io",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://microsoft.github.io/z3guide/"
     },
     {
       "title": "Small programming tricks",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "will-keleher.com",
       "source": "tech",
-      "tag": "⬆️ 487 points",
+      "tag": "⬆️ 555 points",
       "url": "https://will-keleher.com/posts/small-programming-tricks-matter/"
     },
     {
-      "title": "Developing provably correct Rust code with Verus",
-      "hot": "2.9m",
-      "desc": "amazon.science",
+      "title": "Comparison of Malloc() Algorithms",
+      "hot": "2.8m",
+      "desc": "egbert.net",
       "source": "tech",
-      "tag": "⬆️ 83 points",
-      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus"
-    },
-    {
-      "title": "A 32-year-old bug walks into a Telnet server",
-      "hot": "2.9m",
-      "desc": "labs.watchtowr.com",
-      "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/"
+      "tag": "⬆️ 84 points",
+      "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html"
     },
     {
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 185 points",
+      "tag": "⬆️ 214 points",
       "url": "https://arxiv.org/abs/2609.16338"
     },
     {
-      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-      "hot": "2.9m",
-      "desc": "gcaptain.com",
-      "source": "tech",
-      "tag": "⬆️ 68 points",
-      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/"
-    },
-    {
-      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "title": "Developing provably correct Rust code with Verus",
       "hot": "2.8m",
-      "desc": "jakeasmith.com",
+      "desc": "amazon.science",
       "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://jakeasmith.com/blog/http-build-url/"
+      "tag": "⬆️ 123 points",
+      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus"
     },
     {
-      "title": "The engineering behind the US Strategic Petroleum Reserve",
-      "hot": "2.8m",
-      "desc": "johnjwang.com",
-      "source": "tech",
-      "tag": "⬆️ 173 points",
-      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve"
-    },
-    {
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "hot": "2.8m",
-      "desc": "openspec.dev",
-      "source": "tech",
-      "tag": "⬆️ 121 points",
-      "url": "https://openspec.dev/"
-    },
-    {
-      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
-      "hot": "2.8m",
-      "desc": "wsj.com",
-      "source": "tech",
-      "tag": "⬆️ 344 points",
-      "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d"
-    },
-    {
-      "title": "Performance Improvements in .NET 11",
-      "hot": "2.8m",
-      "desc": "devblogs.microsoft.com",
-      "source": "tech",
-      "tag": "⬆️ 259 points",
-      "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/"
-    },
-    {
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "title": "Cloudflare/Security-Audit-Skill",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 2136 points",
+      "tag": "⬆️ 91 points",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "title": "Backups Aren't Simple",
+      "hot": "2.7m",
+      "desc": "filipovski.net",
+      "source": "tech",
+      "tag": "⬆️ 264 points",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html"
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 2190 points",
       "url": "https://github.com/arnegiacomo/fugleramme"
     },
     {
-      "title": "PCB is brought to you by Fable 5",
+      "title": "A 32-year-old bug walks into a Telnet server",
       "hot": "2.7m",
-      "desc": "a6mzero.com",
+      "desc": "labs.watchtowr.com",
       "source": "tech",
-      "tag": "⬆️ 68 points",
-      "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/"
-    },
-    {
-      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-      "hot": "2.7m",
-      "desc": "harnesstax.github.io",
-      "source": "tech",
-      "tag": "⬆️ 99 points",
-      "url": "https://harnesstax.github.io/"
-    },
-    {
-      "title": "Reversing Factorio's RNG",
-      "hot": "2.7m",
-      "desc": "gegell.github.io",
-      "source": "tech",
-      "tag": "⬆️ 187 points",
-      "url": "https://gegell.github.io/posts/factorio-rng/"
+      "tag": "⬆️ 69 points",
+      "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/"
     }
   ],
   "space": [
+    {
+      "title": "MTG-I2 timelapse : from arrival at Europe’s Spaceport to launch",
+      "hot": "9/17",
+      "desc": "The Meteosat Third Generation-Imager2 (MTG-I2) satellite was launched on an Ariane 6 from Europe’s Spaceport in French Guiana, this timelapse video sh",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTG-I2_timelapse_from_arrival_at_Europe_s_Spaceport_to_launch"
+    },
+    {
+      "title": "EnduroSat Raise Pushes European NewSpace Funding Above €1 Billion for September",
+      "hot": "9/17",
+      "desc": "Bulgarian satellite manufacturer EnduroSat has secured $205 million (€178 million) in new funding, pushing the total raised by European NewSpace compa",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/endurosat-raise-pushes-european-newspace-funding-above-e1-billion-for-september/"
+    },
+    {
+      "title": "Three space companies win ESA awards for excellence and innovation",
+      "hot": "9/17",
+      "desc": "On 16 September at its Industry Space Days 2026 event at ESA–ESTEC in the Netherlands, the European Space Agency (ESA) honoured three space companies ",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation"
+    },
+    {
+      "title": "Galileo's first civil authenticated position fix in spoofing conditions",
+      "hot": "9/17",
+      "desc": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted sig",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions"
+    },
+    {
+      "title": "Galileo's first civil authenticated position fix under spoofing conditions",
+      "hot": "9/17",
+      "desc": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted sig",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions"
+    },
     {
       "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
       "hot": "9/17",
@@ -405,52 +445,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/"
-    },
-    {
-      "title": "NASA’s Integrated Medical Model (IMM)",
-      "hot": "9/16",
-      "desc": "Planning crewed missions to the Moon and Mars involves preparing for the medical realities of long-duration space travel. Factors like cosmic radiatio",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/general/nasas-integrated-medical-model-imm/"
-    },
-    {
-      "title": "Newfound ‘Baby’ Planet Smashes Record for Youngest Known World",
-      "hot": "9/16",
-      "desc": "Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives. Called Eli",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/"
-    },
-    {
-      "title": "Curiosity Blog, Sols 5002-5009: Tough Planning To Learn More About Wind-Blown Sediments",
-      "hot": "9/16",
-      "desc": "Written by Benjamin Tutolo, Professor, University of Calgary Earth planning date: Friday, Sept. 4, 2026 Curiosity has marked several huge milestones (",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/blog/1345718/"
-    },
-    {
-      "title": "Curiosity Blog, Sols 5002-5009: Tough Planning To Learn More About Wind-Blown Sediments",
-      "hot": "9/16",
-      "desc": "Written by Benjamin Tutolo, Professor, University of Calgary Earth planning date: Friday, Sept. 4, 2026 Curiosity has marked several huge milestones (",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5002-5009-tough-planning-to-learn-more-about-wind-blown-sediments/"
-    },
-    {
-      "title": "Avio CEO Reports Influx of Customers Turned Away by SpaceX",
-      "hot": "9/16",
-      "desc": "Italian launch services provider Avio has seen an influx of customers who were unable to secure launch opportunities with SpaceX, according to CEO Giu",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/avio-ceo-reports-influx-of-customers-turned-away-by-spacex/"
     }
   ],
   "github": [
     {
       "title": "ai-sucks-butt/ai-sucks-butt: If you think AI sucks, star the repo.",
-      "hot": "⭐ 2.1k",
+      "hot": "⭐ 2.4k",
       "desc": "If you think AI sucks, star the repo.",
       "source": "github",
       "tag": "Python",
@@ -466,7 +466,7 @@
     },
     {
       "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
-      "hot": "⭐ 957",
+      "hot": "⭐ 959",
       "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
       "source": "github",
       "tag": "Swift",
@@ -474,7 +474,7 @@
     },
     {
       "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
-      "hot": "⭐ 863",
+      "hot": "⭐ 865",
       "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
       "source": "github",
       "tag": "HTML",
@@ -482,7 +482,7 @@
     },
     {
       "title": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant ",
-      "hot": "⭐ 827",
+      "hot": "⭐ 830",
       "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "source": "github",
       "tag": "Python",
@@ -490,15 +490,23 @@
     },
     {
       "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
-      "hot": "⭐ 795",
+      "hot": "⭐ 814",
       "desc": "GPT-6 Astra for embodied AI and robotics.",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
     },
     {
+      "title": "browser-use/jev-ultrafast: ",
+      "hot": "⭐ 793",
+      "desc": "browser-use/jev-ultrafast",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/browser-use/jev-ultrafast"
+    },
+    {
       "title": "unstablebuild/rune: the development environment for pros",
-      "hot": "⭐ 764",
+      "hot": "⭐ 781",
       "desc": "the development environment for pros",
       "source": "github",
       "tag": "Go",
@@ -506,7 +514,7 @@
     },
     {
       "title": "angusdevgo/IDM_Pro_Tool: IDM激活与状态维护工具",
-      "hot": "⭐ 726",
+      "hot": "⭐ 728",
       "desc": "IDM激活与状态维护工具",
       "source": "github",
       "tag": "C#",
@@ -514,7 +522,7 @@
     },
     {
       "title": "nftechie/stonkfly: A full retained fly-connectome simulation with experimental m",
-      "hot": "⭐ 722",
+      "hot": "⭐ 727",
       "desc": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
       "source": "github",
       "tag": "Python",
@@ -522,7 +530,7 @@
     },
     {
       "title": "eternityspring/reelbench-skills: Learning notes and tooling skills for AI video ",
-      "hot": "⭐ 710",
+      "hot": "⭐ 720",
       "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
       "source": "github",
       "tag": "HTML",
@@ -530,43 +538,35 @@
     },
     {
       "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
-      "hot": "⭐ 697",
+      "hot": "⭐ 711",
       "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/agentverse-os/AgentVerse-OS"
     },
     {
-      "title": "rizqinrr/viserys-agent: ",
-      "hot": "⭐ 660",
-      "desc": "rizqinrr/viserys-agent",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/rizqinrr/viserys-agent"
-    },
-    {
-      "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
-      "hot": "⭐ 649",
-      "desc": "A mascot that watches the cursor and blinks when you poke it",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/nilbuild/page-mascot"
-    },
-    {
       "title": "youngyangyang04/llm-master: 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI A",
-      "hot": "⭐ 647",
+      "hot": "⭐ 671",
       "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/youngyangyang04/llm-master"
     },
     {
-      "title": "Faizpi/bank-sampah: ",
-      "hot": "⭐ 646",
-      "desc": "Faizpi/bank-sampah",
+      "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
+      "hot": "⭐ 665",
+      "desc": "A mascot that watches the cursor and blinks when you poke it",
       "source": "github",
-      "tag": "PHP",
-      "url": "https://github.com/Faizpi/bank-sampah"
+      "tag": "Python",
+      "url": "https://github.com/nilbuild/page-mascot"
+    },
+    {
+      "title": "rizqinrr/viserys-agent: ",
+      "hot": "⭐ 662",
+      "desc": "rizqinrr/viserys-agent",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/rizqinrr/viserys-agent"
     }
   ]
 }
