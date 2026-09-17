@@ -1,10 +1,18 @@
 {
-  "updatedAt": "2026-09-17T12:14:40.731Z",
+  "updatedAt": "2026-09-17T17:09:00.666Z",
   "source": "live",
   "dev": [
     {
+      "title": "A Quick Update on the Summer Bug Smash Winners",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Hey all, we have a quick update for everyone who participated in DEV's Big Summer Bug Smash powered...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/devteam/a-quick-update-on-the-summer-bug-smash-winners-3021"
+    },
+    {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "hot": "❤️ 25 💬 4",
+      "hot": "❤️ 26 💬 4",
       "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
       "source": "dev",
       "tag": "raspberrypi,  gemma",
@@ -12,7 +20,7 @@
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 26 💬 85",
+      "hot": "❤️ 35 💬 115",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -108,7 +116,7 @@
     },
     {
       "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
-      "hot": "❤️ 81 💬 19",
+      "hot": "❤️ 83 💬 19",
       "desc": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
       "source": "dev",
       "tag": "typescript,  algorithms",
@@ -153,179 +161,349 @@
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4"
-    },
-    {
-      "title": "Welcome Thread - v 392",
-      "hot": "❤️ 110 💬 496",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v-392-1kj4"
     }
   ],
   "tech": [
     {
-      "title": "One Year of Sponsored Servo Development",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
       "hot": "3.0m",
+      "desc": "global.fujitsu",
+      "source": "tech",
+      "tag": "⬆️ 300 points",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02"
+    },
+    {
+      "title": "Artificial intelligence now beats some of the best human forecasters",
+      "hot": "3.0m",
+      "desc": "economist.com",
+      "source": "tech",
+      "tag": "⬆️ 53 points",
+      "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters"
+    },
+    {
+      "title": "Whoisinspace.com/",
+      "hot": "3.0m",
+      "desc": "whoisinspace.com",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://whoisinspace.com"
+    },
+    {
+      "title": "CrowdSec Source Code Leak",
+      "hot": "3.0m",
+      "desc": "crowdsec.net",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure"
+    },
+    {
+      "title": "hister",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://github.com/asciimoo/hister"
+    },
+    {
+      "title": "Zettascale (YC S24) Is Hiring Lead FPGA Engineer to Build Chips for ASI",
+      "hot": "2.9m",
+      "desc": "zscc.ai",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://zscc.ai/careers?job_id=109821"
+    },
+    {
+      "title": "LLM Classification Is Feature Engineering",
+      "hot": "2.9m",
+      "desc": "minimallysufficient.com",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/"
+    },
+    {
+      "title": "Vinix – A modern operating system written in V",
+      "hot": "2.9m",
+      "desc": "vinix-os.org",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://vinix-os.org/"
+    },
+    {
+      "title": "Show HN: Die With Me – Claude and Codex rate limits as AIM away messages",
+      "hot": "2.9m",
+      "desc": "diewithme.co",
+      "source": "tech",
+      "tag": "⬆️ 10 points",
+      "url": "https://diewithme.co/join"
+    },
+    {
+      "title": "One Year of Sponsored Servo Development",
+      "hot": "2.9m",
       "desc": "servo.org",
       "source": "tech",
-      "tag": "⬆️ 146 points",
+      "tag": "⬆️ 282 points",
       "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/"
     },
     {
-      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
-      "hot": "3.0m",
-      "desc": "news.ycombinator.com",
+      "title": "Rate limits on GitLab.com are changing",
+      "hot": "2.9m",
+      "desc": "about.gitlab.com",
       "source": "tech",
-      "tag": "⬆️ 107 points",
-      "url": "https://news.ycombinator.com/item?id=49738879"
+      "tag": "⬆️ 57 points",
+      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/"
+    },
+    {
+      "title": "Grand MS-DOS Gaming General MIDI Showdown",
+      "hot": "2.8m",
+      "desc": "blog.johnnovak.net",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/"
+    },
+    {
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "hot": "2.8m",
+      "desc": "mysetup.ai",
+      "source": "tech",
+      "tag": "⬆️ 69 points",
+      "url": "https://mysetup.ai/"
+    },
+    {
+      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "hot": "2.8m",
+      "desc": "skillsync.com",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://skillsync.com"
+    },
+    {
+      "title": "CCC invites all model citizens to 40C3",
+      "hot": "2.8m",
+      "desc": "events.ccc.de",
+      "source": "tech",
+      "tag": "⬆️ 227 points",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/"
     },
     {
       "title": "Nvidia announces native GPU programming in Rust",
-      "hot": "3.0m",
+      "hot": "2.8m",
       "desc": "developer.nvidia.com",
       "source": "tech",
-      "tag": "⬆️ 748 points",
+      "tag": "⬆️ 891 points",
       "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
     },
     {
-      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-      "hot": "3.0m",
-      "desc": "manticoresearch.com",
+      "title": "Why I didn’t sign the Fields medallists’ letter",
+      "hot": "2.8m",
+      "desc": "gowers.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://manticoresearch.com/blog/auto-chunking/"
+      "tag": "⬆️ 48 points",
+      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/"
+    },
+    {
+      "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+      "hot": "2.7m",
+      "desc": "aclif.ai",
+      "source": "tech",
+      "tag": "⬆️ 3 points",
+      "url": "https://www.aclif.ai/"
+    },
+    {
+      "title": "Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo",
+      "hot": "2.7m",
+      "desc": "guides.visual-paradigm.com",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://guides.visual-paradigm.com/mastering-graphviz-layout-engines-dot-neato-twopi-circo/"
     },
     {
       "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-      "hot": "2.9m",
+      "hot": "2.7m",
       "desc": "jakeasmith.com",
       "source": "tech",
-      "tag": "⬆️ 160 points",
+      "tag": "⬆️ 273 points",
       "url": "https://jakeasmith.com/blog/http-build-url/"
+    }
+  ],
+  "github": [
+    {
+      "title": "ai-sucks-butt/ai-sucks-butt: If you think AI sucks, star the repo.",
+      "hot": "⭐ 2.7k",
+      "desc": "If you think AI sucks, star the repo.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
     },
     {
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "hot": "2.9m",
-      "desc": "ryan.science",
-      "source": "tech",
-      "tag": "⬆️ 200 points",
-      "url": "https://ryan.science/blog/keys-not-included"
+      "title": "browser-use/jev-ultrafast: ",
+      "hot": "⭐ 1.3k",
+      "desc": "browser-use/jev-ultrafast",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/browser-use/jev-ultrafast"
     },
     {
-      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
-      "hot": "2.9m",
-      "desc": "damtp.cam.ac.uk",
-      "source": "tech",
-      "tag": "⬆️ 81 points",
-      "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html"
+      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
+      "hot": "⭐ 1.3k",
+      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/Chuloo/mural"
     },
     {
-      "title": "GLM Built Its Own Inference Infrastructure",
-      "hot": "2.9m",
-      "desc": "z.ai",
-      "source": "tech",
-      "tag": "⬆️ 115 points",
-      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure"
+      "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
+      "hot": "⭐ 966",
+      "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/sumimakito/Mac-Duo"
     },
     {
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "hot": "2.9m",
-      "desc": "rohanbansal.com",
-      "source": "tech",
-      "tag": "⬆️ 575 points",
-      "url": "https://rohanbansal.com/qorl"
+      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
+      "hot": "⭐ 869",
+      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
     },
     {
-      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-      "hot": "2.9m",
-      "desc": "mimo.xiaomi.com",
-      "source": "tech",
-      "tag": "⬆️ 461 points",
-      "url": "https://mimo.xiaomi.com/rl/"
+      "title": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant ",
+      "hot": "⭐ 833",
+      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/kruzovic7/ai-data-extractor"
     },
     {
-      "title": "Lucasart's Afterlife",
-      "hot": "2.9m",
-      "desc": "togameforlife.wordpress.com",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/"
+      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
+      "hot": "⭐ 819",
+      "desc": "GPT-6 Astra for embodied AI and robotics.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
     },
     {
-      "title": "Online Z3 Guide",
-      "hot": "2.8m",
-      "desc": "microsoft.github.io",
-      "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://microsoft.github.io/z3guide/"
+      "title": "unstablebuild/rune: the development environment for pros",
+      "hot": "⭐ 798",
+      "desc": "the development environment for pros",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/unstablebuild/rune"
     },
     {
-      "title": "Small programming tricks",
-      "hot": "2.8m",
-      "desc": "will-keleher.com",
-      "source": "tech",
-      "tag": "⬆️ 555 points",
-      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/"
+      "title": "nftechie/stonkfly: A full retained fly-connectome simulation with experimental m",
+      "hot": "⭐ 734",
+      "desc": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/nftechie/stonkfly"
     },
     {
-      "title": "Comparison of Malloc() Algorithms",
-      "hot": "2.8m",
-      "desc": "egbert.net",
-      "source": "tech",
-      "tag": "⬆️ 84 points",
-      "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html"
+      "title": "angusdevgo/IDM_Pro_Tool: IDM激活与状态维护工具",
+      "hot": "⭐ 729",
+      "desc": "IDM激活与状态维护工具",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
     },
     {
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "hot": "2.8m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 214 points",
-      "url": "https://arxiv.org/abs/2609.16338"
+      "title": "eternityspring/reelbench-skills: Learning notes and tooling skills for AI video ",
+      "hot": "⭐ 729",
+      "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/eternityspring/reelbench-skills"
     },
     {
-      "title": "Developing provably correct Rust code with Verus",
-      "hot": "2.8m",
-      "desc": "amazon.science",
-      "source": "tech",
-      "tag": "⬆️ 123 points",
-      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus"
+      "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
+      "hot": "⭐ 724",
+      "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS"
     },
     {
-      "title": "Cloudflare/Security-Audit-Skill",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 91 points",
-      "url": "https://github.com/cloudflare/security-audit-skill"
+      "title": "youngyangyang04/llm-master: 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI A",
+      "hot": "⭐ 684",
+      "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/youngyangyang04/llm-master"
     },
     {
-      "title": "Backups Aren't Simple",
-      "hot": "2.7m",
-      "desc": "filipovski.net",
-      "source": "tech",
-      "tag": "⬆️ 264 points",
-      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html"
+      "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
+      "hot": "⭐ 672",
+      "desc": "A mascot that watches the cursor and blinks when you poke it",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/nilbuild/page-mascot"
     },
     {
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 2190 points",
-      "url": "https://github.com/arnegiacomo/fugleramme"
-    },
-    {
-      "title": "A 32-year-old bug walks into a Telnet server",
-      "hot": "2.7m",
-      "desc": "labs.watchtowr.com",
-      "source": "tech",
-      "tag": "⬆️ 69 points",
-      "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/"
+      "title": "rizqinrr/viserys-agent: ",
+      "hot": "⭐ 662",
+      "desc": "rizqinrr/viserys-agent",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/rizqinrr/viserys-agent"
     }
   ],
   "space": [
+    {
+      "title": "NASA Unveils Enterprise, the First Space Shuttle",
+      "hot": "9/17",
+      "desc": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the publi",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/"
+    },
+    {
+      "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
+      "hot": "9/17",
+      "desc": "\nPARIS — South Korean company Satrec Initiative is working with parent company Hanwha Systems to provide high-resolution Earth imagery for the synthet",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/"
+    },
+    {
+      "title": "Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges",
+      "hot": "9/17",
+      "desc": "\nLEUVEN, BELGIUM and BILBAO, SPAIN – 17 September 2026—Simera Sense, a leading European provider of optical payload solutions for small satellites, to",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/"
+    },
+    {
+      "title": "NASA to order more Starliner missions and help certify a new rocket to keep it flying",
+      "hot": "9/17",
+      "desc": "\"They should fly their capsule. The government paid a lot of money for that.\"",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/"
+    },
+    {
+      "title": "Inside Europe’s push for space autonomy with Josef Aschbacher",
+      "hot": "9/17",
+      "desc": "\nIn this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Sp",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/"
+    },
+    {
+      "title": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
+      "hot": "9/17",
+      "desc": "\nPARIS — Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahea",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/"
+    },
+    {
+      "title": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
+      "hot": "9/17",
+      "desc": "\nCatalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/"
+    },
     {
       "title": "MTG-I2 timelapse : from arrival at Europe’s Spaceport to launch",
       "hot": "9/17",
@@ -343,6 +521,14 @@
       "url": "https://europeanspaceflight.com/endurosat-raise-pushes-european-newspace-funding-above-e1-billion-for-september/"
     },
     {
+      "title": "ESA starts next phase of IRIS² evolution through Low-LEO activities",
+      "hot": "9/17",
+      "desc": "The European Space Agency (ESA) has signed 18 consolidation contracts bringing together nearly 80 companies to study new secure and resilient connecti",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_starts_next_phase_of_IRIS2_evolution_through_Low-LEO_activities"
+    },
+    {
       "title": "Three space companies win ESA awards for excellence and innovation",
       "hot": "9/17",
       "desc": "On 16 September at its Industry Space Days 2026 event at ESA–ESTEC in the Netherlands, the European Space Agency (ESA) honoured three space companies ",
@@ -351,20 +537,20 @@
       "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation"
     },
     {
-      "title": "Galileo's first civil authenticated position fix in spoofing conditions",
-      "hot": "9/17",
-      "desc": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted sig",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions"
-    },
-    {
       "title": "Galileo's first civil authenticated position fix under spoofing conditions",
       "hot": "9/17",
       "desc": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted sig",
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions"
+    },
+    {
+      "title": "Galileo's first civil authenticated position fix in spoofing conditions",
+      "hot": "9/17",
+      "desc": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted sig",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions"
     },
     {
       "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
@@ -381,192 +567,6 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/"
-    },
-    {
-      "title": "Passion Meets Precision at NASA’s Flight Research Lab",
-      "hot": "9/16",
-      "desc": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes buil",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/"
-    },
-    {
-      "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
-      "hot": "9/16",
-      "desc": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/"
-    },
-    {
-      "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar",
-      "hot": "9/16",
-      "desc": "NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cutting on Sept. 10, closing out more than three years of recovery after",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/"
-    },
-    {
-      "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
-      "hot": "9/16",
-      "desc": "Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its ge",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/"
-    },
-    {
-      "title": "Indonesia’s Anak Krakatau",
-      "hot": "9/16",
-      "desc": "Anak Krakatau erupts ash and volcanic gases in this Sept. 5, 2026, image acquired with the OLI (Operational Land Imager) on Landsat 8. Eruptions are a",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/indonesias-anak-krakatau/"
-    },
-    {
-      "title": "Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars",
-      "hot": "9/16",
-      "desc": "Description While parked at a sand ridge nicknamed “Chocolatal,” NASA’s Curiosity Mars rover used its black-and-white navigation cameras to capture pa",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/"
-    },
-    {
-      "title": "NASA Visits Schools Strengthening Florida’s Skilled Workforce",
-      "hot": "9/16",
-      "desc": "NASA recently awarded $10.5 million to seven organizations nationwide through its new State Hubs initiative. Space Florida was selected for Project OR",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/"
-    },
-    {
-      "title": "NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore",
-      "hot": "9/16",
-      "desc": "As part of NASA’s new Inspiration Tour, Reid Wiseman, NASA astronaut and commander of the agency’s Artemis II mission, will highlight America’s streng",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/"
-    }
-  ],
-  "github": [
-    {
-      "title": "ai-sucks-butt/ai-sucks-butt: If you think AI sucks, star the repo.",
-      "hot": "⭐ 2.4k",
-      "desc": "If you think AI sucks, star the repo.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
-    },
-    {
-      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
-      "hot": "⭐ 1.3k",
-      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/Chuloo/mural"
-    },
-    {
-      "title": "sumimakito/Mac-Duo: Wish you could bring the iPhone Duo effect to your MacBook?",
-      "hot": "⭐ 959",
-      "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/sumimakito/Mac-Duo"
-    },
-    {
-      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
-      "hot": "⭐ 865",
-      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
-    },
-    {
-      "title": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant ",
-      "hot": "⭐ 830",
-      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/kruzovic7/ai-data-extractor"
-    },
-    {
-      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
-      "hot": "⭐ 814",
-      "desc": "GPT-6 Astra for embodied AI and robotics.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
-    },
-    {
-      "title": "browser-use/jev-ultrafast: ",
-      "hot": "⭐ 793",
-      "desc": "browser-use/jev-ultrafast",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/browser-use/jev-ultrafast"
-    },
-    {
-      "title": "unstablebuild/rune: the development environment for pros",
-      "hot": "⭐ 781",
-      "desc": "the development environment for pros",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/unstablebuild/rune"
-    },
-    {
-      "title": "angusdevgo/IDM_Pro_Tool: IDM激活与状态维护工具",
-      "hot": "⭐ 728",
-      "desc": "IDM激活与状态维护工具",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
-    },
-    {
-      "title": "nftechie/stonkfly: A full retained fly-connectome simulation with experimental m",
-      "hot": "⭐ 727",
-      "desc": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/nftechie/stonkfly"
-    },
-    {
-      "title": "eternityspring/reelbench-skills: Learning notes and tooling skills for AI video ",
-      "hot": "⭐ 720",
-      "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/eternityspring/reelbench-skills"
-    },
-    {
-      "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
-      "hot": "⭐ 711",
-      "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/agentverse-os/AgentVerse-OS"
-    },
-    {
-      "title": "youngyangyang04/llm-master: 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI A",
-      "hot": "⭐ 671",
-      "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/youngyangyang04/llm-master"
-    },
-    {
-      "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
-      "hot": "⭐ 665",
-      "desc": "A mascot that watches the cursor and blinks when you poke it",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/nilbuild/page-mascot"
-    },
-    {
-      "title": "rizqinrr/viserys-agent: ",
-      "hot": "⭐ 662",
-      "desc": "rizqinrr/viserys-agent",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/rizqinrr/viserys-agent"
     }
   ]
 }
