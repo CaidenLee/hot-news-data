@@ -1,27 +1,27 @@
 {
   "data": [
     {
-      "title": "Hacking OpenAI",
+      "title": "Jemalloc 5.4.0",
       "hot": "3.0m",
-      "desc": "hacktron.ai",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 147 points",
-      "url": "https://www.hacktron.ai/blog/hacking-openai"
+      "tag": "⬆️ 142 points",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0"
     },
     {
-      "title": "Waymo in Singapore",
+      "title": "The scourge of x86 emulation",
       "hot": "3.0m",
-      "desc": "waymo.com",
+      "desc": "fex-emu.com",
       "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://waymo.com/waymo-in-singapore/"
+      "tag": "⬆️ 142 points",
+      "url": "https://fex-emu.com/Scourge-of-emulation/"
     },
     {
       "title": "Astra for Law",
       "hot": "3.0m",
       "desc": "openai.com",
       "source": "tech",
-      "tag": "⬆️ 405 points",
+      "tag": "⬆️ 489 points",
       "url": "https://openai.com/index/astra-for-law/"
     },
     {
@@ -29,7 +29,7 @@
       "hot": "3.0m",
       "desc": "prismml.com",
       "source": "tech",
-      "tag": "⬆️ 327 points",
+      "tag": "⬆️ 448 points",
       "url": "https://prismml.com/news/bonsai-2-27b"
     },
     {
@@ -37,39 +37,47 @@
       "hot": "2.9m",
       "desc": "bend-lang.com",
       "source": "tech",
-      "tag": "⬆️ 375 points",
+      "tag": "⬆️ 465 points",
       "url": "https://bend-lang.com/"
-    },
-    {
-      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
-      "hot": "2.9m",
-      "desc": "linguisticdiscovery.com",
-      "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://linguisticdiscovery.com/posts/pre-greek/"
-    },
-    {
-      "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 532 points",
-      "url": "https://github.com/asciimoo/hister"
     },
     {
       "title": "Qwen 3.8 Omni Flash",
       "hot": "2.9m",
       "desc": "qwen.ai",
       "source": "tech",
-      "tag": "⬆️ 116 points",
+      "tag": "⬆️ 216 points",
       "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash"
+    },
+    {
+      "title": "When the fractional part of a float fixes your shader",
+      "hot": "2.9m",
+      "desc": "crocidb.com",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/"
+    },
+    {
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 607 points",
+      "url": "https://github.com/asciimoo/hister"
+    },
+    {
+      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+      "hot": "2.9m",
+      "desc": "linguisticdiscovery.com",
+      "source": "tech",
+      "tag": "⬆️ 83 points",
+      "url": "https://linguisticdiscovery.com/posts/pre-greek/"
     },
     {
       "title": "Wax motor",
       "hot": "2.9m",
       "desc": "en.wikipedia.org",
       "source": "tech",
-      "tag": "⬆️ 309 points",
+      "tag": "⬆️ 409 points",
       "url": "https://en.wikipedia.org/wiki/Wax_motor"
     },
     {
@@ -77,89 +85,81 @@
       "hot": "2.9m",
       "desc": "global.fujitsu",
       "source": "tech",
-      "tag": "⬆️ 550 points",
+      "tag": "⬆️ 594 points",
       "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02"
     },
     {
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "hot": "2.8m",
+      "desc": "hacktron.ai",
+      "source": "tech",
+      "tag": "⬆️ 357 points",
+      "url": "https://www.hacktron.ai/blog/hacking-openai"
+    },
+    {
       "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "byteshape.com",
       "source": "tech",
-      "tag": "⬆️ 23 points",
+      "tag": "⬆️ 64 points",
       "url": "https://byteshape.com/blogs/Qwen3.8-27B/"
     },
     {
-      "title": "Telstra outage: The night a network decided the year was 2006",
+      "title": "Replacing Pull Requests with Delta",
       "hot": "2.8m",
-      "desc": "netnod.se",
+      "desc": "zed.dev",
       "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006"
-    },
-    {
-      "title": "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
-      "hot": "2.8m",
-      "desc": "scientificamerican.com",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/"
-    },
-    {
-      "title": "The Scourge of x86 Emulation",
-      "hot": "2.8m",
-      "desc": "fex-emu.com",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://fex-emu.com/Scourge-of-emulation/"
-    },
-    {
-      "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
-      "hot": "2.8m",
-      "desc": "askamonk.online",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://askamonk.online"
+      "tag": "⬆️ 17 points",
+      "url": "https://zed.dev/blog/delta-public-beta"
     },
     {
       "title": "How to Write with an LLM",
       "hot": "2.8m",
       "desc": "sockpuppet.org",
       "source": "tech",
-      "tag": "⬆️ 77 points",
+      "tag": "⬆️ 164 points",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
     },
     {
-      "title": "Code Scans",
+      "title": "Speeding up gearhash on ARM64",
       "hot": "2.8m",
-      "desc": "devin.ai",
+      "desc": "sam.dev",
       "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://devin.ai/blog/introducing-code-scans"
+      "tag": "⬆️ 18 points",
+      "url": "https://sam.dev/blog/gearhash-on-arm64"
+    },
+    {
+      "title": "Why Does the Universe Expand?",
+      "hot": "2.8m",
+      "desc": "cosmicave.org",
+      "source": "tech",
+      "tag": "⬆️ 62 points",
+      "url": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/"
+    },
+    {
+      "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+      "hot": "2.7m",
+      "desc": "askamonk.online",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://askamonk.online"
     },
     {
       "title": "Flet 1.0 – Build cross-platform apps in Python",
       "hot": "2.7m",
       "desc": "flet.dev",
       "source": "tech",
-      "tag": "⬆️ 81 points",
+      "tag": "⬆️ 121 points",
       "url": "https://flet.dev/"
     },
     {
-      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "title": "Telstra outage: The night a network decided the year was 2006",
       "hot": "2.7m",
-      "desc": "sci.news",
+      "desc": "netnod.se",
       "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html"
-    },
-    {
-      "title": "The most important product decision is what you don't build",
-      "hot": "2.7m",
-      "desc": "liamnugent.me",
-      "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://liamnugent.me/posts/what-you-dont-build/"
+      "tag": "⬆️ 55 points",
+      "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006"
     }
   ],
-  "updatedAt": "2026-09-18T05:19:33.179Z"
+  "updatedAt": "2026-09-18T09:54:32.033Z"
 }

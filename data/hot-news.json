@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-18T05:19:33.179Z",
+  "updatedAt": "2026-09-18T09:54:32.033Z",
   "source": "live",
   "tech": [
     {
-      "title": "Hacking OpenAI",
+      "title": "Jemalloc 5.4.0",
       "hot": "3.0m",
-      "desc": "hacktron.ai",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 147 points",
-      "url": "https://www.hacktron.ai/blog/hacking-openai"
+      "tag": "⬆️ 142 points",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0"
     },
     {
-      "title": "Waymo in Singapore",
+      "title": "The scourge of x86 emulation",
       "hot": "3.0m",
-      "desc": "waymo.com",
+      "desc": "fex-emu.com",
       "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://waymo.com/waymo-in-singapore/"
+      "tag": "⬆️ 142 points",
+      "url": "https://fex-emu.com/Scourge-of-emulation/"
     },
     {
       "title": "Astra for Law",
       "hot": "3.0m",
       "desc": "openai.com",
       "source": "tech",
-      "tag": "⬆️ 405 points",
+      "tag": "⬆️ 489 points",
       "url": "https://openai.com/index/astra-for-law/"
     },
     {
@@ -31,7 +31,7 @@
       "hot": "3.0m",
       "desc": "prismml.com",
       "source": "tech",
-      "tag": "⬆️ 327 points",
+      "tag": "⬆️ 448 points",
       "url": "https://prismml.com/news/bonsai-2-27b"
     },
     {
@@ -39,39 +39,47 @@
       "hot": "2.9m",
       "desc": "bend-lang.com",
       "source": "tech",
-      "tag": "⬆️ 375 points",
+      "tag": "⬆️ 465 points",
       "url": "https://bend-lang.com/"
-    },
-    {
-      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
-      "hot": "2.9m",
-      "desc": "linguisticdiscovery.com",
-      "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://linguisticdiscovery.com/posts/pre-greek/"
-    },
-    {
-      "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 532 points",
-      "url": "https://github.com/asciimoo/hister"
     },
     {
       "title": "Qwen 3.8 Omni Flash",
       "hot": "2.9m",
       "desc": "qwen.ai",
       "source": "tech",
-      "tag": "⬆️ 116 points",
+      "tag": "⬆️ 216 points",
       "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash"
+    },
+    {
+      "title": "When the fractional part of a float fixes your shader",
+      "hot": "2.9m",
+      "desc": "crocidb.com",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/"
+    },
+    {
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 607 points",
+      "url": "https://github.com/asciimoo/hister"
+    },
+    {
+      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+      "hot": "2.9m",
+      "desc": "linguisticdiscovery.com",
+      "source": "tech",
+      "tag": "⬆️ 83 points",
+      "url": "https://linguisticdiscovery.com/posts/pre-greek/"
     },
     {
       "title": "Wax motor",
       "hot": "2.9m",
       "desc": "en.wikipedia.org",
       "source": "tech",
-      "tag": "⬆️ 309 points",
+      "tag": "⬆️ 409 points",
       "url": "https://en.wikipedia.org/wiki/Wax_motor"
     },
     {
@@ -79,91 +87,229 @@
       "hot": "2.9m",
       "desc": "global.fujitsu",
       "source": "tech",
-      "tag": "⬆️ 550 points",
+      "tag": "⬆️ 594 points",
       "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02"
     },
     {
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "hot": "2.8m",
+      "desc": "hacktron.ai",
+      "source": "tech",
+      "tag": "⬆️ 357 points",
+      "url": "https://www.hacktron.ai/blog/hacking-openai"
+    },
+    {
       "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "byteshape.com",
       "source": "tech",
-      "tag": "⬆️ 23 points",
+      "tag": "⬆️ 64 points",
       "url": "https://byteshape.com/blogs/Qwen3.8-27B/"
     },
     {
-      "title": "Telstra outage: The night a network decided the year was 2006",
+      "title": "Replacing Pull Requests with Delta",
       "hot": "2.8m",
-      "desc": "netnod.se",
+      "desc": "zed.dev",
       "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006"
-    },
-    {
-      "title": "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
-      "hot": "2.8m",
-      "desc": "scientificamerican.com",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/"
-    },
-    {
-      "title": "The Scourge of x86 Emulation",
-      "hot": "2.8m",
-      "desc": "fex-emu.com",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://fex-emu.com/Scourge-of-emulation/"
-    },
-    {
-      "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
-      "hot": "2.8m",
-      "desc": "askamonk.online",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://askamonk.online"
+      "tag": "⬆️ 17 points",
+      "url": "https://zed.dev/blog/delta-public-beta"
     },
     {
       "title": "How to Write with an LLM",
       "hot": "2.8m",
       "desc": "sockpuppet.org",
       "source": "tech",
-      "tag": "⬆️ 77 points",
+      "tag": "⬆️ 164 points",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
     },
     {
-      "title": "Code Scans",
+      "title": "Speeding up gearhash on ARM64",
       "hot": "2.8m",
-      "desc": "devin.ai",
+      "desc": "sam.dev",
       "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://devin.ai/blog/introducing-code-scans"
+      "tag": "⬆️ 18 points",
+      "url": "https://sam.dev/blog/gearhash-on-arm64"
+    },
+    {
+      "title": "Why Does the Universe Expand?",
+      "hot": "2.8m",
+      "desc": "cosmicave.org",
+      "source": "tech",
+      "tag": "⬆️ 62 points",
+      "url": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/"
+    },
+    {
+      "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+      "hot": "2.7m",
+      "desc": "askamonk.online",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://askamonk.online"
     },
     {
       "title": "Flet 1.0 – Build cross-platform apps in Python",
       "hot": "2.7m",
       "desc": "flet.dev",
       "source": "tech",
-      "tag": "⬆️ 81 points",
+      "tag": "⬆️ 121 points",
       "url": "https://flet.dev/"
     },
     {
-      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "title": "Telstra outage: The night a network decided the year was 2006",
       "hot": "2.7m",
-      "desc": "sci.news",
+      "desc": "netnod.se",
       "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html"
+      "tag": "⬆️ 55 points",
+      "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006"
+    }
+  ],
+  "github": [
+    {
+      "title": "browser-use/jev-ultrafast: i. am. speed.",
+      "hot": "⭐ 3.7k",
+      "desc": "i. am. speed.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/browser-use/jev-ultrafast"
     },
     {
-      "title": "The most important product decision is what you don't build",
-      "hot": "2.7m",
-      "desc": "liamnugent.me",
-      "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://liamnugent.me/posts/what-you-dont-build/"
+      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
+      "hot": "⭐ 2.0k",
+      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/tamaratran/fast-jev-compaction"
+    },
+    {
+      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
+      "hot": "⭐ 1.3k",
+      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/Chuloo/mural"
+    },
+    {
+      "title": "TheoLeeCJ/openjev: Can we run something like Jev on a 3090 at home?",
+      "hot": "⭐ 1.2k",
+      "desc": "Can we run something like Jev on a 3090 at home?",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/TheoLeeCJ/openjev"
+    },
+    {
+      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
+      "hot": "⭐ 876",
+      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+    },
+    {
+      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
+      "hot": "⭐ 845",
+      "desc": "GPT-6 Astra for embodied AI and robotics.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
+    },
+    {
+      "title": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant ",
+      "hot": "⭐ 839",
+      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/kruzovic7/ai-data-extractor"
+    },
+    {
+      "title": "vinnylarouge/jevlike: ",
+      "hot": "⭐ 781",
+      "desc": "vinnylarouge/jevlike",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/vinnylarouge/jevlike"
+    },
+    {
+      "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
+      "hot": "⭐ 768",
+      "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS"
+    },
+    {
+      "title": "youngyangyang04/llm-master: 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI A",
+      "hot": "⭐ 750",
+      "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/youngyangyang04/llm-master"
+    },
+    {
+      "title": "eternityspring/reelbench-skills: Learning notes and tooling skills for AI video ",
+      "hot": "⭐ 741",
+      "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/eternityspring/reelbench-skills"
+    },
+    {
+      "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
+      "hot": "⭐ 696",
+      "desc": "A mascot that watches the cursor and blinks when you poke it",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/nilbuild/page-mascot"
+    },
+    {
+      "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
+      "hot": "⭐ 686",
+      "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/jarrodwatts/jev-trader"
+    },
+    {
+      "title": "rizqinrr/viserys-agent: ",
+      "hot": "⭐ 663",
+      "desc": "rizqinrr/viserys-agent",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/rizqinrr/viserys-agent"
+    },
+    {
+      "title": "zhengkid/Dream-RSI: The offical repo for \"Dream-RSI: Recursive Self-Improvement ",
+      "hot": "⭐ 656",
+      "desc": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zhengkid/Dream-RSI"
     }
   ],
   "space": [
+    {
+      "title": "A galaxy spinning out of sync",
+      "hot": "9/18",
+      "desc": "Though the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, an",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync"
+    },
+    {
+      "title": "Earth from Space: Laguna Colorada",
+      "hot": "9/18",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada"
+    },
+    {
+      "title": "ESA Awards €20M in Contracts to Study Future IRIS2 Services",
+      "hot": "9/18",
+      "desc": "The European Space Agency has awarded 18 contracts worth a combined €20 million to study potential future evolutions of the European Union’s IRIS2 sec",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/esa-awards-e20m-in-contracts-to-study-future-iris2-services/"
+    },
     {
       "title": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
       "hot": "9/18",
@@ -175,7 +321,7 @@
     {
       "title": "Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape",
       "hot": "9/18",
-      "desc": "SpaceX is now targeting Starship Flight 14 no earlier than Monday, September 28, pending regulatory…\nThe post Starship’s upcoming missions: Waiting on",
+      "desc": "SpaceX is now targeting Starship Flight 14 no earlier than Monday, September 28, pending regulatory…\r\nThe post Starship’s upcoming missions: Waiting o",
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/"
@@ -237,14 +383,6 @@
       "url": "https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/"
     },
     {
-      "title": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
-      "hot": "9/17",
-      "desc": "\nPARIS — Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahea",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/"
-    },
-    {
       "title": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
       "hot": "9/17",
       "desc": "\nCatalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating ",
@@ -253,42 +391,26 @@
       "url": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/"
     },
     {
+      "title": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
+      "hot": "9/17",
+      "desc": "PARIS — Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahead",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/"
+    },
+    {
       "title": "MTG-I2 timelapse : from arrival at Europe’s Spaceport to launch",
       "hot": "9/17",
       "desc": "The Meteosat Third Generation-Imager2 (MTG-I2) satellite was launched on an Ariane 6 from Europe’s Spaceport in French Guiana, this timelapse video sh",
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTG-I2_timelapse_from_arrival_at_Europe_s_Spaceport_to_launch"
-    },
-    {
-      "title": "EnduroSat Raise Pushes European NewSpace Funding Above €1 Billion for September",
-      "hot": "9/17",
-      "desc": "Bulgarian satellite manufacturer EnduroSat has secured $205 million (€178 million) in new funding, pushing the total raised by European NewSpace compa",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/endurosat-raise-pushes-european-newspace-funding-above-e1-billion-for-september/"
-    },
-    {
-      "title": "ESA starts next phase of IRIS² evolution through Low-LEO activities",
-      "hot": "9/17",
-      "desc": "The European Space Agency (ESA) has signed 18 consolidation contracts bringing together nearly 80 companies to study new secure and resilient connecti",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_starts_next_phase_of_IRIS2_evolution_through_Low-LEO_activities"
-    },
-    {
-      "title": "Three space companies win ESA awards for excellence and innovation",
-      "hot": "9/17",
-      "desc": "On 16 September at its Industry Space Days 2026 event at ESA–ESTEC in the Netherlands, the European Space Agency (ESA) honoured three space companies ",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation"
     }
   ],
   "dev": [
     {
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 24 💬 7",
+      "hot": "❤️ 38 💬 13",
       "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
@@ -296,7 +418,7 @@
     },
     {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 7 💬 1",
       "desc": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP to",
       "source": "dev",
       "tag": "amd,  vllm",
@@ -312,23 +434,15 @@
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 37 💬 154",
+      "hot": "❤️ 38 💬 172",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/sloan/welcome-thread-v-393-5f09"
     },
     {
-      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
-      "hot": "❤️ 9 💬 2",
-      "desc": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figu",
-      "source": "dev",
-      "tag": "amd,  mcp",
-      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
-    },
-    {
       "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-      "hot": "❤️ 30 💬 8",
+      "hot": "❤️ 31 💬 8",
       "desc": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
       "source": "dev",
       "tag": "ai,  live",
@@ -336,7 +450,7 @@
     },
     {
       "title": "A Quick Update on the Summer Bug Smash Winners",
-      "hot": "❤️ 18 💬 1",
+      "hot": "❤️ 21 💬 2",
       "desc": "Hey all, we have a quick update for everyone who participated in DEV's Big Summer Bug Smash powered...",
       "source": "dev",
       "tag": "devchallenge,  bugsmash",
@@ -352,7 +466,7 @@
     },
     {
       "title": "Progressive Disclosure: What, Where, When, and Why",
-      "hot": "❤️ 14 💬 8",
+      "hot": "❤️ 15 💬 9",
       "desc": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
       "source": "dev",
       "tag": "ai,  claude",
@@ -375,6 +489,14 @@
       "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
     },
     {
+      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
+      "hot": "❤️ 12 💬 2",
+      "desc": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF,",
+      "source": "dev",
+      "tag": "machinelearning,  gpu",
+      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150"
+    },
+    {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
       "hot": "❤️ 8 💬 1",
       "desc": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through ",
@@ -383,12 +505,12 @@
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h"
     },
     {
-      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
-      "hot": "❤️ 12 💬 1",
-      "desc": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF,",
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "hot": "❤️ 10 💬 3",
+      "desc": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figu",
       "source": "dev",
-      "tag": "machinelearning,  gpu",
-      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150"
+      "tag": "amd,  mcp",
+      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
     },
     {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
@@ -445,128 +567,6 @@
       "source": "dev",
       "tag": "agents,  ai",
       "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk"
-    }
-  ],
-  "github": [
-    {
-      "title": "browser-use/jev-ultrafast: i. am. speed.",
-      "hot": "⭐ 2.9k",
-      "desc": "i. am. speed.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/browser-use/jev-ultrafast"
-    },
-    {
-      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
-      "hot": "⭐ 1.3k",
-      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/Chuloo/mural"
-    },
-    {
-      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
-      "hot": "⭐ 1.1k",
-      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/tamaratran/fast-jev-compaction"
-    },
-    {
-      "title": "TheoLeeCJ/openjev: Can we run something like Jev on a 3090 at home?",
-      "hot": "⭐ 958",
-      "desc": "Can we run something like Jev on a 3090 at home?",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TheoLeeCJ/openjev"
-    },
-    {
-      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
-      "hot": "⭐ 874",
-      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
-    },
-    {
-      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
-      "hot": "⭐ 839",
-      "desc": "GPT-6 Astra for embodied AI and robotics.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
-    },
-    {
-      "title": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant ",
-      "hot": "⭐ 836",
-      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/kruzovic7/ai-data-extractor"
-    },
-    {
-      "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
-      "hot": "⭐ 756",
-      "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/agentverse-os/AgentVerse-OS"
-    },
-    {
-      "title": "eternityspring/reelbench-skills: Learning notes and tooling skills for AI video ",
-      "hot": "⭐ 736",
-      "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/eternityspring/reelbench-skills"
-    },
-    {
-      "title": "vinnylarouge/jevlike: ",
-      "hot": "⭐ 724",
-      "desc": "vinnylarouge/jevlike",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/vinnylarouge/jevlike"
-    },
-    {
-      "title": "youngyangyang04/llm-master: 大模型（LLM）全栈学习路线与中���教程🔥：覆盖 Prompt Engineering、RAG、AI",
-      "hot": "⭐ 697",
-      "desc": "大模型（LLM）全栈学习路线与中���教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/youngyangyang04/llm-master"
-    },
-    {
-      "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
-      "hot": "⭐ 692",
-      "desc": "A mascot that watches the cursor and blinks when you poke it",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/nilbuild/page-mascot"
-    },
-    {
-      "title": "rizqinrr/viserys-agent: ",
-      "hot": "⭐ 662",
-      "desc": "rizqinrr/viserys-agent",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/rizqinrr/viserys-agent"
-    },
-    {
-      "title": "Faizpi/bank-sampah: ",
-      "hot": "⭐ 646",
-      "desc": "Faizpi/bank-sampah",
-      "source": "github",
-      "tag": "PHP",
-      "url": "https://github.com/Faizpi/bank-sampah"
-    },
-    {
-      "title": "shinthink/blitzstrike: ⚡ Blitz Strike — a universal MCP penetration-testing tool",
-      "hot": "⭐ 634",
-      "desc": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysi",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/shinthink/blitzstrike"
     }
   ]
 }

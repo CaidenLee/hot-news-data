@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 24 💬 7",
+      "hot": "❤️ 38 💬 13",
       "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 7 💬 1",
       "desc": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP to",
       "source": "dev",
       "tag": "amd,  vllm",
@@ -26,23 +26,15 @@
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 37 💬 154",
+      "hot": "❤️ 38 💬 172",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/sloan/welcome-thread-v-393-5f09"
     },
     {
-      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
-      "hot": "❤️ 9 💬 2",
-      "desc": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figu",
-      "source": "dev",
-      "tag": "amd,  mcp",
-      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
-    },
-    {
       "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-      "hot": "❤️ 30 💬 8",
+      "hot": "❤️ 31 💬 8",
       "desc": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
       "source": "dev",
       "tag": "ai,  live",
@@ -50,7 +42,7 @@
     },
     {
       "title": "A Quick Update on the Summer Bug Smash Winners",
-      "hot": "❤️ 18 💬 1",
+      "hot": "❤️ 21 💬 2",
       "desc": "Hey all, we have a quick update for everyone who participated in DEV's Big Summer Bug Smash powered...",
       "source": "dev",
       "tag": "devchallenge,  bugsmash",
@@ -66,7 +58,7 @@
     },
     {
       "title": "Progressive Disclosure: What, Where, When, and Why",
-      "hot": "❤️ 14 💬 8",
+      "hot": "❤️ 15 💬 9",
       "desc": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
       "source": "dev",
       "tag": "ai,  claude",
@@ -89,6 +81,14 @@
       "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
     },
     {
+      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
+      "hot": "❤️ 12 💬 2",
+      "desc": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF,",
+      "source": "dev",
+      "tag": "machinelearning,  gpu",
+      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150"
+    },
+    {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
       "hot": "❤️ 8 💬 1",
       "desc": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through ",
@@ -97,12 +97,12 @@
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h"
     },
     {
-      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
-      "hot": "❤️ 12 💬 1",
-      "desc": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF,",
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "hot": "❤️ 10 💬 3",
+      "desc": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figu",
       "source": "dev",
-      "tag": "machinelearning,  gpu",
-      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150"
+      "tag": "amd,  mcp",
+      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
     },
     {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk"
     }
   ],
-  "updatedAt": "2026-09-18T05:19:33.179Z"
+  "updatedAt": "2026-09-18T09:54:32.033Z"
 }
