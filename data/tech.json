@@ -1,11 +1,27 @@
 {
   "data": [
     {
+      "title": "Hacking OpenAI",
+      "hot": "3.0m",
+      "desc": "hacktron.ai",
+      "source": "tech",
+      "tag": "⬆️ 147 points",
+      "url": "https://www.hacktron.ai/blog/hacking-openai"
+    },
+    {
+      "title": "Waymo in Singapore",
+      "hot": "3.0m",
+      "desc": "waymo.com",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://waymo.com/waymo-in-singapore/"
+    },
+    {
       "title": "Astra for Law",
       "hot": "3.0m",
       "desc": "openai.com",
       "source": "tech",
-      "tag": "⬆️ 275 points",
+      "tag": "⬆️ 405 points",
       "url": "https://openai.com/index/astra-for-law/"
     },
     {
@@ -13,153 +29,137 @@
       "hot": "3.0m",
       "desc": "prismml.com",
       "source": "tech",
-      "tag": "⬆️ 178 points",
+      "tag": "⬆️ 327 points",
       "url": "https://prismml.com/news/bonsai-2-27b"
     },
     {
       "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "bend-lang.com",
       "source": "tech",
-      "tag": "⬆️ 247 points",
+      "tag": "⬆️ 375 points",
       "url": "https://bend-lang.com/"
     },
     {
+      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+      "hot": "2.9m",
+      "desc": "linguisticdiscovery.com",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://linguisticdiscovery.com/posts/pre-greek/"
+    },
+    {
       "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 436 points",
+      "tag": "⬆️ 532 points",
       "url": "https://github.com/asciimoo/hister"
+    },
+    {
+      "title": "Qwen 3.8 Omni Flash",
+      "hot": "2.9m",
+      "desc": "qwen.ai",
+      "source": "tech",
+      "tag": "⬆️ 116 points",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash"
     },
     {
       "title": "Wax motor",
       "hot": "2.9m",
       "desc": "en.wikipedia.org",
       "source": "tech",
-      "tag": "⬆️ 221 points",
+      "tag": "⬆️ 309 points",
       "url": "https://en.wikipedia.org/wiki/Wax_motor"
-    },
-    {
-      "title": "More than 100k people in Japan are now aged 100 or older",
-      "hot": "2.9m",
-      "desc": "bbc.com",
-      "source": "tech",
-      "tag": "⬆️ 81 points",
-      "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo"
     },
     {
       "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
       "hot": "2.9m",
       "desc": "global.fujitsu",
       "source": "tech",
-      "tag": "⬆️ 497 points",
+      "tag": "⬆️ 550 points",
       "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02"
     },
     {
-      "title": "Flet 1.0 – Build cross-platform apps in Python",
+      "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
       "hot": "2.9m",
+      "desc": "byteshape.com",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://byteshape.com/blogs/Qwen3.8-27B/"
+    },
+    {
+      "title": "Telstra outage: The night a network decided the year was 2006",
+      "hot": "2.8m",
+      "desc": "netnod.se",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006"
+    },
+    {
+      "title": "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
+      "hot": "2.8m",
+      "desc": "scientificamerican.com",
+      "source": "tech",
+      "tag": "⬆️ 18 points",
+      "url": "https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/"
+    },
+    {
+      "title": "The Scourge of x86 Emulation",
+      "hot": "2.8m",
+      "desc": "fex-emu.com",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://fex-emu.com/Scourge-of-emulation/"
+    },
+    {
+      "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+      "hot": "2.8m",
+      "desc": "askamonk.online",
+      "source": "tech",
+      "tag": "⬆️ 21 points",
+      "url": "https://askamonk.online"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "hot": "2.8m",
+      "desc": "sockpuppet.org",
+      "source": "tech",
+      "tag": "⬆️ 77 points",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
+    },
+    {
+      "title": "Code Scans",
+      "hot": "2.8m",
+      "desc": "devin.ai",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://devin.ai/blog/introducing-code-scans"
+    },
+    {
+      "title": "Flet 1.0 – Build cross-platform apps in Python",
+      "hot": "2.7m",
       "desc": "flet.dev",
       "source": "tech",
-      "tag": "⬆️ 47 points",
+      "tag": "⬆️ 81 points",
       "url": "https://flet.dev/"
     },
     {
       "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
-      "hot": "2.9m",
+      "hot": "2.7m",
       "desc": "sci.news",
       "source": "tech",
-      "tag": "⬆️ 24 points",
+      "tag": "⬆️ 47 points",
       "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html"
-    },
-    {
-      "title": "CrowdSec Source Code Leak",
-      "hot": "2.9m",
-      "desc": "crowdsec.net",
-      "source": "tech",
-      "tag": "⬆️ 127 points",
-      "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure"
-    },
-    {
-      "title": "Rate limits on GitLab.com are changing",
-      "hot": "2.9m",
-      "desc": "about.gitlab.com",
-      "source": "tech",
-      "tag": "⬆️ 147 points",
-      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/"
-    },
-    {
-      "title": "Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime",
-      "hot": "2.8m",
-      "desc": "inspire.eaa.org",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/"
-    },
-    {
-      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-      "hot": "2.8m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 104 points",
-      "url": "https://arxiv.org/abs/2609.18842"
-    },
-    {
-      "title": "How GLM built its own inference infrastructure",
-      "hot": "2.8m",
-      "desc": "z.ai",
-      "source": "tech",
-      "tag": "⬆️ 373 points",
-      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure"
-    },
-    {
-      "title": "How Uber Protects Against Retry Storms",
-      "hot": "2.8m",
-      "desc": "uber.com",
-      "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/"
-    },
-    {
-      "title": "Why I didn’t sign the Fields medallists’ letter",
-      "hot": "2.8m",
-      "desc": "gowers.wordpress.com",
-      "source": "tech",
-      "tag": "⬆️ 197 points",
-      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/"
-    },
-    {
-      "title": "TSMC revealing details about next gen A14 node",
-      "hot": "2.8m",
-      "desc": "iedm26.mapyourshow.com",
-      "source": "tech",
-      "tag": "⬆️ 86 points",
-      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331"
-    },
-    {
-      "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
-      "hot": "2.7m",
-      "desc": "mathoverflow.net",
-      "source": "tech",
-      "tag": "⬆️ 68 points",
-      "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy"
-    },
-    {
-      "title": "The American Religion of Self-Storage Facilities",
-      "hot": "2.7m",
-      "desc": "newyorker.com",
-      "source": "tech",
-      "tag": "⬆️ 184 points",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities"
     },
     {
       "title": "The most important product decision is what you don't build",
       "hot": "2.7m",
       "desc": "liamnugent.me",
       "source": "tech",
-      "tag": "⬆️ 33 points",
+      "tag": "⬆️ 76 points",
       "url": "https://liamnugent.me/posts/what-you-dont-build/"
     }
   ],
-  "updatedAt": "2026-09-18T00:50:59.705Z"
+  "updatedAt": "2026-09-18T05:19:33.179Z"
 }
