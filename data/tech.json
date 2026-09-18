@@ -5,7 +5,7 @@
       "hot": "3.0m",
       "desc": "code.claude.com",
       "source": "tech",
-      "tag": "⬆️ 153 points",
+      "tag": "⬆️ 400 points",
       "url": "https://code.claude.com/docs/en/changelog"
     },
     {
@@ -13,7 +13,7 @@
       "hot": "3.0m",
       "desc": "grapheneos.social",
       "source": "tech",
-      "tag": "⬆️ 337 points",
+      "tag": "⬆️ 422 points",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
     },
     {
@@ -21,7 +21,7 @@
       "hot": "3.0m",
       "desc": "blog.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 123 points",
+      "tag": "⬆️ 182 points",
       "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"
     },
     {
@@ -29,15 +29,23 @@
       "hot": "3.0m",
       "desc": "try.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 478 points",
+      "tag": "⬆️ 526 points",
       "url": "https://try.cloudflare.com/"
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "hot": "2.9m",
+      "desc": "spectrum.ieee.org",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design"
     },
     {
       "title": "Xcode 27.1 Beta Release Notes",
       "hot": "2.9m",
       "desc": "developer.apple.com",
       "source": "tech",
-      "tag": "⬆️ 91 points",
+      "tag": "⬆️ 107 points",
       "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes"
     },
     {
@@ -45,7 +53,7 @@
       "hot": "2.9m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 45 points",
+      "tag": "⬆️ 59 points",
       "url": "https://arxiv.org/abs/2510.03215"
     },
     {
@@ -53,7 +61,7 @@
       "hot": "2.9m",
       "desc": "donjon.ledger.com",
       "source": "tech",
-      "tag": "⬆️ 127 points",
+      "tag": "⬆️ 142 points",
       "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/"
     },
     {
@@ -61,7 +69,7 @@
       "hot": "2.9m",
       "desc": "sockpuppet.org",
       "source": "tech",
-      "tag": "⬆️ 328 points",
+      "tag": "⬆️ 363 points",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
     },
     {
@@ -69,97 +77,89 @@
       "hot": "2.9m",
       "desc": "cactuscompute.com",
       "source": "tech",
-      "tag": "⬆️ 137 points",
+      "tag": "⬆️ 154 points",
       "url": "https://cactuscompute.com/needle"
     },
     {
-      "title": "OpenJev",
+      "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
       "hot": "2.9m",
-      "desc": "openjev.com",
+      "desc": "reuters.com",
       "source": "tech",
-      "tag": "⬆️ 506 points",
-      "url": "https://openjev.com/"
-    },
-    {
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://arxiv.org/abs/2609.02852"
-    },
-    {
-      "title": "Our brain evolved from two primitive nervous systems that merged: Study",
-      "hot": "2.8m",
-      "desc": "newscientist.com",
-      "source": "tech",
-      "tag": "⬆️ 89 points",
-      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/"
-    },
-    {
-      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-      "hot": "2.8m",
-      "desc": "sandordargo.com",
-      "source": "tech",
-      "tag": "⬆️ 122 points",
-      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops"
+      "tag": "⬆️ 112 points",
+      "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/"
     },
     {
       "title": "The first new cat species discovered in 100 years",
       "hot": "2.8m",
       "desc": "nationalgeographic.com",
       "source": "tech",
-      "tag": "⬆️ 86 points",
+      "tag": "⬆️ 141 points",
       "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years"
+    },
+    {
+      "title": "OpenJev",
+      "hot": "2.8m",
+      "desc": "openjev.com",
+      "source": "tech",
+      "tag": "⬆️ 531 points",
+      "url": "https://openjev.com/"
+    },
+    {
+      "title": "A 1542 papal cipher cracked with simulated annealing",
+      "hot": "2.8m",
+      "desc": "simonklee.dk",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://simonklee.dk/farnese-letter"
     },
     {
       "title": "Cyclomatic Complexity in C#",
       "hot": "2.8m",
       "desc": "blog.ndepend.com",
       "source": "tech",
-      "tag": "⬆️ 9 points",
+      "tag": "⬆️ 22 points",
       "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/"
     },
     {
-      "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
       "hot": "2.8m",
-      "desc": "youtube.com",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://arxiv.org/abs/2609.02852"
+    },
+    {
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "hot": "2.8m",
+      "desc": "newscientist.com",
+      "source": "tech",
+      "tag": "⬆️ 100 points",
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/"
+    },
+    {
+      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "hot": "2.7m",
+      "desc": "sandordargo.com",
+      "source": "tech",
+      "tag": "⬆️ 138 points",
+      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops"
+    },
+    {
+      "title": "Size-Specialized Memory Allocation",
+      "hot": "2.7m",
+      "desc": "go.dev",
       "source": "tech",
       "tag": "⬆️ 11 points",
-      "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE"
+      "url": "https://go.dev/blog/size-specialized-allocations"
     },
     {
-      "title": "A search-and-inference database from scratch in pure Zig",
-      "hot": "2.8m",
-      "desc": "antfly.io",
-      "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://antfly.io/research/antfly-zig"
-    },
-    {
-      "title": "How SpaceX streamlined the Raptor engine",
+      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
       "hot": "2.7m",
-      "desc": "construction-physics.com",
+      "desc": "archive.org",
       "source": "tech",
-      "tag": "⬆️ 119 points",
-      "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor"
-    },
-    {
-      "title": "Korea raises data breach fines to 10% of revenue",
-      "hot": "2.7m",
-      "desc": "koreajoongangdaily.com",
-      "source": "tech",
-      "tag": "⬆️ 185 points",
-      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899"
-    },
-    {
-      "title": "Minimal Phone 2",
-      "hot": "2.7m",
-      "desc": "minimalcompany.com",
-      "source": "tech",
-      "tag": "⬆️ 136 points",
-      "url": "https://minimalcompany.com/"
+      "tag": "⬆️ 91 points",
+      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157"
     }
   ],
-  "updatedAt": "2026-09-18T21:58:03.624Z"
+  "updatedAt": "2026-09-18T23:48:04.382Z"
 }

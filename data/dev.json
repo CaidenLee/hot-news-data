@@ -1,24 +1,24 @@
 {
   "data": [
     {
-      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 52 💬 20",
-      "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
-    },
-    {
       "title": "What was your win this week?!",
-      "hot": "❤️ 39 💬 18",
+      "hot": "❤️ 39 💬 19",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb"
     },
     {
+      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
+      "hot": "❤️ 52 💬 21",
+      "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
+    },
+    {
       "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
-      "hot": "❤️ 28 💬 7",
+      "hot": "❤️ 34 💬 7",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
-      "hot": "❤️ 56 💬 7",
+      "hot": "❤️ 61 💬 7",
       "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
       "source": "dev",
       "tag": "sanitychallenge,  devchallenge",
@@ -57,14 +57,6 @@
       "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5"
     },
     {
-      "title": "Progressive Disclosure: What, Where, When, and Why",
-      "hot": "❤️ 15 💬 10",
-      "desc": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
-      "source": "dev",
-      "tag": "ai,  claude",
-      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3"
-    },
-    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "hot": "❤️ 8 💬 1",
       "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
@@ -90,7 +82,7 @@
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 46 💬 219",
+      "hot": "❤️ 48 💬 225",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -145,6 +137,14 @@
       "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh"
     },
     {
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "hot": "❤️ 15 💬 10",
+      "desc": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
+      "source": "dev",
+      "tag": "ai,  claude",
+      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3"
+    },
+    {
       "title": "ELT with Dataform on Google Cloud",
       "hot": "❤️ 10 💬 0",
       "desc": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and ",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db"
     }
   ],
-  "updatedAt": "2026-09-18T21:58:03.624Z"
+  "updatedAt": "2026-09-18T23:48:04.382Z"
 }
