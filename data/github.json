@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "browser-use/jev-ultrafast: i. am. speed.",
-      "hot": "⭐ 3.7k",
+      "hot": "⭐ 4.3k",
       "desc": "i. am. speed.",
       "source": "github",
       "tag": "Python",
@@ -10,11 +10,19 @@
     },
     {
       "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
-      "hot": "⭐ 2.0k",
+      "hot": "⭐ 2.4k",
       "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/tamaratran/fast-jev-compaction"
+    },
+    {
+      "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home.",
+      "hot": "⭐ 1.4k",
+      "desc": "Semantic ifs from open models, on a 3090 at home.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/TheoLeeCJ/SemIf"
     },
     {
       "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
@@ -25,16 +33,8 @@
       "url": "https://github.com/Chuloo/mural"
     },
     {
-      "title": "TheoLeeCJ/openjev: Can we run something like Jev on a 3090 at home?",
-      "hot": "⭐ 1.2k",
-      "desc": "Can we run something like Jev on a 3090 at home?",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TheoLeeCJ/openjev"
-    },
-    {
       "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
-      "hot": "⭐ 876",
+      "hot": "⭐ 877",
       "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
       "source": "github",
       "tag": "HTML",
@@ -42,7 +42,7 @@
     },
     {
       "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
-      "hot": "⭐ 845",
+      "hot": "⭐ 851",
       "desc": "GPT-6 Astra for embodied AI and robotics.",
       "source": "github",
       "tag": "GitHub",
@@ -58,7 +58,7 @@
     },
     {
       "title": "vinnylarouge/jevlike: ",
-      "hot": "⭐ 781",
+      "hot": "⭐ 817",
       "desc": "vinnylarouge/jevlike",
       "source": "github",
       "tag": "Python",
@@ -66,7 +66,7 @@
     },
     {
       "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
-      "hot": "⭐ 768",
+      "hot": "⭐ 802",
       "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
       "source": "github",
       "tag": "Rust",
@@ -74,52 +74,52 @@
     },
     {
       "title": "youngyangyang04/llm-master: 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI A",
-      "hot": "⭐ 750",
+      "hot": "⭐ 756",
       "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/youngyangyang04/llm-master"
     },
     {
+      "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
+      "hot": "⭐ 755",
+      "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mcncarl/jianying-headless"
+    },
+    {
       "title": "eternityspring/reelbench-skills: Learning notes and tooling skills for AI video ",
-      "hot": "⭐ 741",
+      "hot": "⭐ 744",
       "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
       "source": "github",
       "tag": "HTML",
       "url": "https://github.com/eternityspring/reelbench-skills"
     },
     {
-      "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
-      "hot": "⭐ 696",
-      "desc": "A mascot that watches the cursor and blinks when you poke it",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/nilbuild/page-mascot"
-    },
-    {
       "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
-      "hot": "⭐ 686",
+      "hot": "⭐ 740",
       "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/jarrodwatts/jev-trader"
     },
     {
-      "title": "rizqinrr/viserys-agent: ",
-      "hot": "⭐ 663",
-      "desc": "rizqinrr/viserys-agent",
+      "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
+      "hot": "⭐ 700",
+      "desc": "A mascot that watches the cursor and blinks when you poke it",
       "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/rizqinrr/viserys-agent"
+      "tag": "Python",
+      "url": "https://github.com/nilbuild/page-mascot"
     },
     {
       "title": "zhengkid/Dream-RSI: The offical repo for \"Dream-RSI: Recursive Self-Improvement ",
-      "hot": "⭐ 656",
+      "hot": "⭐ 685",
       "desc": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/zhengkid/Dream-RSI"
     }
   ],
-  "updatedAt": "2026-09-18T09:54:32.033Z"
+  "updatedAt": "2026-09-18T13:55:18.217Z"
 }
