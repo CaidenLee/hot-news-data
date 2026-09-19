@@ -1,54 +1,86 @@
 {
-  "updatedAt": "2026-09-19T17:30:04.361Z",
+  "updatedAt": "2026-09-19T19:28:16.937Z",
   "source": "live",
   "tech": [
     {
-      "title": "Laya the open source version of Jev",
+      "title": "I built non-autoregressive decision models with RL a year ago",
       "hot": "3.0m",
       "desc": "laya.convaiinnovations.com",
       "source": "tech",
-      "tag": "⬆️ 610 points",
+      "tag": "⬆️ 794 points",
       "url": "https://laya.convaiinnovations.com/"
-    },
-    {
-      "title": "A graphical desktop for the ZX Spectrum",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 86 points",
-      "url": "https://github.com/mindbox77/zxdesk"
     },
     {
       "title": "AI-generated posters don’t have to be horrible",
       "hot": "3.0m",
       "desc": "john.hartnup.uk",
       "source": "tech",
-      "tag": "⬆️ 813 points",
+      "tag": "⬆️ 1020 points",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
+    },
+    {
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "hot": "3.0m",
+      "desc": "bartosz.fenski.pl",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/"
     },
     {
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
       "hot": "3.0m",
       "desc": "med.stanford.edu",
       "source": "tech",
-      "tag": "⬆️ 508 points",
+      "tag": "⬆️ 567 points",
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html"
+    },
+    {
+      "title": "A graphical desktop for the ZX Spectrum",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 112 points",
+      "url": "https://github.com/mindbox77/zxdesk"
     },
     {
       "title": "Tin: full-text search for Postgres",
       "hot": "2.9m",
       "desc": "planetscale.com",
       "source": "tech",
-      "tag": "⬆️ 95 points",
+      "tag": "⬆️ 127 points",
       "url": "https://planetscale.com/blog/introducing-tin"
     },
     {
-      "title": "“The Secret Life of Circuits” is here",
+      "title": "Suzanne Ciani's Buchla Cookbook",
+      "hot": "2.9m",
+      "desc": "echo.orpheusinstituut.be",
+      "source": "tech",
+      "tag": "⬆️ 18 points",
+      "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook"
+    },
+    {
+      "title": "The Secret Life of Circuits",
       "hot": "2.9m",
       "desc": "blog.coredump.cx",
       "source": "tech",
-      "tag": "⬆️ 203 points",
+      "tag": "⬆️ 239 points",
       "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here"
+    },
+    {
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://github.com/trycua/cua"
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "hot": "2.9m",
+      "desc": "grapheneos.social",
+      "source": "tech",
+      "tag": "⬆️ 1047 points",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
     },
     {
       "title": "Supabase (YC S20) Is Hiring for OrioleDB",
@@ -60,50 +92,18 @@
     },
     {
       "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "quantamagazine.org",
       "source": "tech",
-      "tag": "⬆️ 54 points",
+      "tag": "⬆️ 70 points",
       "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/"
-    },
-    {
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "hot": "2.9m",
-      "desc": "grapheneos.social",
-      "source": "tech",
-      "tag": "⬆️ 995 points",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
-    },
-    {
-      "title": "Asking Authors About Their Own Papers",
-      "hot": "2.9m",
-      "desc": "medium.com",
-      "source": "tech",
-      "tag": "⬆️ 78 points",
-      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0"
-    },
-    {
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "hot": "2.9m",
-      "desc": "prinzai.com",
-      "source": "tech",
-      "tag": "⬆️ 265 points",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
-    },
-    {
-      "title": "San Francisco Onion Futures Company",
-      "hot": "2.8m",
-      "desc": "onionfutures.com",
-      "source": "tech",
-      "tag": "⬆️ 309 points",
-      "url": "https://onionfutures.com/"
     },
     {
       "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
       "hot": "2.8m",
       "desc": "nature.com",
       "source": "tech",
-      "tag": "⬆️ 34 points",
+      "tag": "⬆️ 60 points",
       "url": "https://www.nature.com/articles/d41586-026-02621-2"
     },
     {
@@ -111,47 +111,31 @@
       "hot": "2.8m",
       "desc": "erichgrunewald.substack.com",
       "source": "tech",
-      "tag": "⬆️ 21 points",
+      "tag": "⬆️ 83 points",
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
     },
     {
-      "title": "What Zig felt like, coming from Rust",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
       "hot": "2.8m",
-      "desc": "besok.github.io",
+      "desc": "prinzai.com",
       "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"
+      "tag": "⬆️ 296 points",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
     },
     {
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "title": "San Francisco Onion Futures Company",
       "hot": "2.8m",
-      "desc": "terrytao.wordpress.com",
+      "desc": "onionfutures.com",
       "source": "tech",
-      "tag": "⬆️ 237 points",
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/"
-    },
-    {
-      "title": "Agreement between the USA and Denmark (1951,2004) [pdf]",
-      "hot": "2.8m",
-      "desc": "state.gov",
-      "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf"
-    },
-    {
-      "title": "Adventures in Microcontroller Circuit Debugging",
-      "hot": "2.7m",
-      "desc": "bigmessowires.com",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/"
+      "tag": "⬆️ 324 points",
+      "url": "https://onionfutures.com/"
     },
     {
       "title": "Cloudflare Quick Tunnels",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "try.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 780 points",
+      "tag": "⬆️ 792 points",
       "url": "https://try.cloudflare.com/"
     },
     {
@@ -159,130 +143,24 @@
       "hot": "2.7m",
       "desc": "sockpuppet.org",
       "source": "tech",
-      "tag": "⬆️ 567 points",
+      "tag": "⬆️ 587 points",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
-    }
-  ],
-  "github": [
-    {
-      "title": "browser-use/jev-ultrafast: i. am. speed.",
-      "hot": "⭐ 7.7k",
-      "desc": "i. am. speed.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/browser-use/jev-ultrafast"
     },
     {
-      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
-      "hot": "⭐ 4.0k",
-      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/tamaratran/fast-jev-compaction"
+      "title": "Adventures in Microcontroller Circuit Debugging",
+      "hot": "2.7m",
+      "desc": "bigmessowires.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/"
     },
     {
-      "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
-      "hot": "⭐ 2.0k",
-      "desc": "The Photoshop alternative for Mac",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/robbietilton/Compositor"
-    },
-    {
-      "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
-      "hot": "⭐ 1.8k",
-      "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TheoLeeCJ/SemIf"
-    },
-    {
-      "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
-      "hot": "⭐ 1.5k",
-      "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mcncarl/jianying-headless"
-    },
-    {
-      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
-      "hot": "⭐ 1.4k",
-      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/Chuloo/mural"
-    },
-    {
-      "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
-      "hot": "⭐ 1.2k",
-      "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/jarrodwatts/jev-trader"
-    },
-    {
-      "title": "vinnylarouge/jevlike: ",
-      "hot": "⭐ 959",
-      "desc": "vinnylarouge/jevlike",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/vinnylarouge/jevlike"
-    },
-    {
-      "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
-      "hot": "⭐ 926",
-      "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/agentverse-os/AgentVerse-OS"
-    },
-    {
-      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
-      "hot": "⭐ 884",
-      "desc": "GPT-6 Astra for embodied AI and robotics.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
-    },
-    {
-      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
-      "hot": "⭐ 881",
-      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
-    },
-    {
-      "title": "NandhaKishorM/laya: ",
-      "hot": "⭐ 865",
-      "desc": "NandhaKishorM/laya",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/NandhaKishorM/laya"
-    },
-    {
-      "title": "zhengkid/Dream-RSI: The offical repo for \"Dream-RSI: Recursive Self-Improvement ",
-      "hot": "⭐ 846",
-      "desc": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/zhengkid/Dream-RSI"
-    },
-    {
-      "title": "TianyuCodings/NanoJev: A nano replica of Jev: parallel decisions, dynamic candid",
-      "hot": "⭐ 809",
-      "desc": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TianyuCodings/NanoJev"
-    },
-    {
-      "title": "youngyangyang04/llm-master: 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI A",
-      "hot": "⭐ 792",
-      "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/youngyangyang04/llm-master"
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "hot": "2.7m",
+      "desc": "terrytao.wordpress.com",
+      "source": "tech",
+      "tag": "⬆️ 260 points",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/"
     }
   ],
   "dev": [
@@ -296,7 +174,7 @@
     },
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 46 💬 28",
+      "hot": "❤️ 46 💬 29",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -344,7 +222,7 @@
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 59 💬 281",
+      "hot": "❤️ 59 💬 286",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -367,20 +245,20 @@
       "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
     },
     {
-      "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
-      "hot": "❤️ 108 💬 18",
-      "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
-      "source": "dev",
-      "tag": "sanitychallenge,  devchallenge",
-      "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m"
-    },
-    {
       "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-      "hot": "❤️ 34 💬 9",
+      "hot": "❤️ 34 💬 10",
       "desc": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
       "source": "dev",
       "tag": "ai,  live",
       "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5"
+    },
+    {
+      "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
+      "hot": "❤️ 118 💬 18",
+      "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
+      "source": "dev",
+      "tag": "sanitychallenge,  devchallenge",
+      "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m"
     },
     {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
@@ -445,6 +323,128 @@
       "source": "dev",
       "tag": "mcp,  python",
       "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
+    }
+  ],
+  "github": [
+    {
+      "title": "browser-use/jev-ultrafast: i. am. speed.",
+      "hot": "⭐ 7.9k",
+      "desc": "i. am. speed.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/browser-use/jev-ultrafast"
+    },
+    {
+      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
+      "hot": "⭐ 4.1k",
+      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/tamaratran/fast-jev-compaction"
+    },
+    {
+      "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
+      "hot": "⭐ 2.1k",
+      "desc": "The Photoshop alternative for Mac",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/robbietilton/Compositor"
+    },
+    {
+      "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
+      "hot": "⭐ 1.9k",
+      "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/TheoLeeCJ/SemIf"
+    },
+    {
+      "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
+      "hot": "⭐ 1.5k",
+      "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mcncarl/jianying-headless"
+    },
+    {
+      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
+      "hot": "⭐ 1.4k",
+      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/Chuloo/mural"
+    },
+    {
+      "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
+      "hot": "⭐ 1.2k",
+      "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/jarrodwatts/jev-trader"
+    },
+    {
+      "title": "NandhaKishorM/laya: ",
+      "hot": "⭐ 1.0k",
+      "desc": "NandhaKishorM/laya",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/NandhaKishorM/laya"
+    },
+    {
+      "title": "vinnylarouge/jevlike: ",
+      "hot": "⭐ 966",
+      "desc": "vinnylarouge/jevlike",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/vinnylarouge/jevlike"
+    },
+    {
+      "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
+      "hot": "⭐ 928",
+      "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS"
+    },
+    {
+      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
+      "hot": "⭐ 884",
+      "desc": "GPT-6 Astra for embodied AI and robotics.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
+    },
+    {
+      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
+      "hot": "⭐ 881",
+      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+    },
+    {
+      "title": "zhengkid/Dream-RSI: The offical repo for \"Dream-RSI: Recursive Self-Improvement ",
+      "hot": "⭐ 849",
+      "desc": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zhengkid/Dream-RSI"
+    },
+    {
+      "title": "TianyuCodings/NanoJev: A nano replica of Jev: parallel decisions, dynamic candid",
+      "hot": "⭐ 841",
+      "desc": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/TianyuCodings/NanoJev"
+    },
+    {
+      "title": "youngyangyang04/llm-master: 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI A",
+      "hot": "⭐ 793",
+      "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/youngyangyang04/llm-master"
     }
   ],
   "space": [
