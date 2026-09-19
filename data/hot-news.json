@@ -1,10 +1,172 @@
 {
-  "updatedAt": "2026-09-18T23:48:04.382Z",
+  "updatedAt": "2026-09-19T01:44:28.854Z",
   "source": "live",
+  "tech": [
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "hot": "3.0m",
+      "desc": "grapheneos.social",
+      "source": "tech",
+      "tag": "⬆️ 522 points",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "hot": "3.0m",
+      "desc": "try.cloudflare.com",
+      "source": "tech",
+      "tag": "⬆️ 575 points",
+      "url": "https://try.cloudflare.com/"
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "hot": "3.0m",
+      "desc": "blog.cloudflare.com",
+      "source": "tech",
+      "tag": "⬆️ 224 points",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "hot": "3.0m",
+      "desc": "spectrum.ieee.org",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design"
+    },
+    {
+      "title": "The Farnese letter",
+      "hot": "2.9m",
+      "desc": "simonklee.dk",
+      "source": "tech",
+      "tag": "⬆️ 26 points",
+      "url": "https://simonklee.dk/farnese-letter"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "hot": "2.9m",
+      "desc": "sockpuppet.org",
+      "source": "tech",
+      "tag": "⬆️ 389 points",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
+    },
+    {
+      "title": "Xcode 27.1 Beta Release Notes",
+      "hot": "2.9m",
+      "desc": "developer.apple.com",
+      "source": "tech",
+      "tag": "⬆️ 112 points",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes"
+    },
+    {
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "hot": "2.9m",
+      "desc": "donjon.ledger.com",
+      "source": "tech",
+      "tag": "⬆️ 152 points",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/"
+    },
+    {
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://arxiv.org/abs/2510.03215"
+    },
+    {
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "hot": "2.9m",
+      "desc": "cactuscompute.com",
+      "source": "tech",
+      "tag": "⬆️ 164 points",
+      "url": "https://cactuscompute.com/needle"
+    },
+    {
+      "title": "The first new cat species discovered in 100 years",
+      "hot": "2.9m",
+      "desc": "nationalgeographic.com",
+      "source": "tech",
+      "tag": "⬆️ 169 points",
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years"
+    },
+    {
+      "title": "OpenJev",
+      "hot": "2.8m",
+      "desc": "openjev.com",
+      "source": "tech",
+      "tag": "⬆️ 556 points",
+      "url": "https://openjev.com/"
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "hot": "2.8m",
+      "desc": "code.claude.com",
+      "source": "tech",
+      "tag": "⬆️ 507 points",
+      "url": "https://code.claude.com/docs/en/changelog"
+    },
+    {
+      "title": "Cyclomatic Complexity in C#",
+      "hot": "2.8m",
+      "desc": "blog.ndepend.com",
+      "source": "tech",
+      "tag": "⬆️ 34 points",
+      "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/"
+    },
+    {
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "hot": "2.8m",
+      "desc": "newscientist.com",
+      "source": "tech",
+      "tag": "⬆️ 103 points",
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/"
+    },
+    {
+      "title": "Column built an issuer processor from scratch",
+      "hot": "2.8m",
+      "desc": "column.com",
+      "source": "tech",
+      "tag": "⬆️ 22 points",
+      "url": "https://column.com/card-issuing/"
+    },
+    {
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 52 points",
+      "url": "https://arxiv.org/abs/2609.02852"
+    },
+    {
+      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "hot": "2.7m",
+      "desc": "liveworld.info",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://liveworld.info/"
+    },
+    {
+      "title": "Minimal Phone 2",
+      "hot": "2.7m",
+      "desc": "minimalcompany.com",
+      "source": "tech",
+      "tag": "⬆️ 181 points",
+      "url": "https://minimalcompany.com/"
+    },
+    {
+      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "hot": "2.7m",
+      "desc": "archive.org",
+      "source": "tech",
+      "tag": "⬆️ 104 points",
+      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157"
+    }
+  ],
   "dev": [
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 39 💬 19",
+      "hot": "❤️ 41 💬 20",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -20,27 +182,11 @@
     },
     {
       "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
-      "hot": "❤️ 34 💬 7",
+      "hot": "❤️ 40 💬 7",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
       "url": "https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm"
-    },
-    {
-      "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
-      "hot": "❤️ 61 💬 7",
-      "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
-      "source": "dev",
-      "tag": "sanitychallenge,  devchallenge",
-      "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m"
-    },
-    {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "hot": "❤️ 31 💬 4",
-      "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
-      "source": "dev",
-      "tag": "raspberrypi,  gemma",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke"
     },
     {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
@@ -59,6 +205,14 @@
       "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5"
     },
     {
+      "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
+      "hot": "❤️ 69 💬 9",
+      "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
+      "source": "dev",
+      "tag": "sanitychallenge,  devchallenge",
+      "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m"
+    },
+    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "hot": "❤️ 8 💬 1",
       "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
@@ -75,16 +229,16 @@
       "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
     },
     {
-      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
-      "hot": "❤️ 13 💬 3",
-      "desc": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF,",
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "hot": "❤️ 31 💬 4",
+      "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
       "source": "dev",
-      "tag": "machinelearning,  gpu",
-      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150"
+      "tag": "raspberrypi,  gemma",
+      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke"
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 48 💬 225",
+      "hot": "❤️ 48 💬 228",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -161,168 +315,136 @@
       "source": "dev",
       "tag": "ai,  docker",
       "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db"
+    },
+    {
+      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
+      "hot": "❤️ 10 💬 1",
+      "desc": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Int",
+      "source": "dev",
+      "tag": "mcp,  python",
+      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
     }
   ],
-  "tech": [
+  "github": [
     {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "hot": "3.0m",
-      "desc": "code.claude.com",
-      "source": "tech",
-      "tag": "⬆️ 400 points",
-      "url": "https://code.claude.com/docs/en/changelog"
+      "title": "browser-use/jev-ultrafast: i. am. speed.",
+      "hot": "⭐ 5.6k",
+      "desc": "i. am. speed.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/browser-use/jev-ultrafast"
     },
     {
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "hot": "3.0m",
-      "desc": "grapheneos.social",
-      "source": "tech",
-      "tag": "⬆️ 422 points",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
+      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
+      "hot": "⭐ 3.3k",
+      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/tamaratran/fast-jev-compaction"
     },
     {
-      "title": "Saving another 100TB of RAM",
-      "hot": "3.0m",
-      "desc": "blog.cloudflare.com",
-      "source": "tech",
-      "tag": "⬆️ 182 points",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"
+      "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
+      "hot": "⭐ 1.6k",
+      "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/TheoLeeCJ/SemIf"
     },
     {
-      "title": "Cloudflare Quick Tunnels",
-      "hot": "3.0m",
-      "desc": "try.cloudflare.com",
-      "source": "tech",
-      "tag": "⬆️ 526 points",
-      "url": "https://try.cloudflare.com/"
+      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
+      "hot": "⭐ 1.4k",
+      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/Chuloo/mural"
     },
     {
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "hot": "2.9m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design"
+      "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
+      "hot": "⭐ 1.0k",
+      "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mcncarl/jianying-headless"
     },
     {
-      "title": "Xcode 27.1 Beta Release Notes",
-      "hot": "2.9m",
-      "desc": "developer.apple.com",
-      "source": "tech",
-      "tag": "⬆️ 107 points",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes"
+      "title": "vinnylarouge/jevlike: ",
+      "hot": "⭐ 896",
+      "desc": "vinnylarouge/jevlike",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/vinnylarouge/jevlike"
     },
     {
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://arxiv.org/abs/2510.03215"
+      "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
+      "hot": "⭐ 882",
+      "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/jarrodwatts/jev-trader"
     },
     {
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "hot": "2.9m",
-      "desc": "donjon.ledger.com",
-      "source": "tech",
-      "tag": "⬆️ 142 points",
-      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/"
+      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
+      "hot": "⭐ 879",
+      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
     },
     {
-      "title": "How to Write with an LLM",
-      "hot": "2.9m",
-      "desc": "sockpuppet.org",
-      "source": "tech",
-      "tag": "⬆️ 363 points",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
+      "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
+      "hot": "⭐ 860",
+      "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS"
     },
     {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "hot": "2.9m",
-      "desc": "cactuscompute.com",
-      "source": "tech",
-      "tag": "⬆️ 154 points",
-      "url": "https://cactuscompute.com/needle"
+      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
+      "hot": "⭐ 858",
+      "desc": "GPT-6 Astra for embodied AI and robotics.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
     },
     {
-      "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
-      "hot": "2.9m",
-      "desc": "reuters.com",
-      "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/"
+      "title": "youngyangyang04/llm-master: 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI A",
+      "hot": "⭐ 766",
+      "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/youngyangyang04/llm-master"
     },
     {
-      "title": "The first new cat species discovered in 100 years",
-      "hot": "2.8m",
-      "desc": "nationalgeographic.com",
-      "source": "tech",
-      "tag": "⬆️ 141 points",
-      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years"
+      "title": "zhengkid/Dream-RSI: The offical repo for \"Dream-RSI: Recursive Self-Improvement ",
+      "hot": "⭐ 761",
+      "desc": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zhengkid/Dream-RSI"
     },
     {
-      "title": "OpenJev",
-      "hot": "2.8m",
-      "desc": "openjev.com",
-      "source": "tech",
-      "tag": "⬆️ 531 points",
-      "url": "https://openjev.com/"
+      "title": "korcarc/text-humanizer: text-humanizer is an open-source project designed to con",
+      "hot": "⭐ 725",
+      "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such a",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/korcarc/text-humanizer"
     },
     {
-      "title": "A 1542 papal cipher cracked with simulated annealing",
-      "hot": "2.8m",
-      "desc": "simonklee.dk",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://simonklee.dk/farnese-letter"
+      "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
+      "hot": "⭐ 711",
+      "desc": "A mascot that watches the cursor and blinks when you poke it",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/nilbuild/page-mascot"
     },
     {
-      "title": "Cyclomatic Complexity in C#",
-      "hot": "2.8m",
-      "desc": "blog.ndepend.com",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/"
-    },
-    {
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "hot": "2.8m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 44 points",
-      "url": "https://arxiv.org/abs/2609.02852"
-    },
-    {
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "hot": "2.8m",
-      "desc": "newscientist.com",
-      "source": "tech",
-      "tag": "⬆️ 100 points",
-      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/"
-    },
-    {
-      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-      "hot": "2.7m",
-      "desc": "sandordargo.com",
-      "source": "tech",
-      "tag": "⬆️ 138 points",
-      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops"
-    },
-    {
-      "title": "Size-Specialized Memory Allocation",
-      "hot": "2.7m",
-      "desc": "go.dev",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://go.dev/blog/size-specialized-allocations"
-    },
-    {
-      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-      "hot": "2.7m",
-      "desc": "archive.org",
-      "source": "tech",
-      "tag": "⬆️ 91 points",
-      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157"
+      "title": "rizqinrr/viserys-agent: ",
+      "hot": "⭐ 665",
+      "desc": "rizqinrr/viserys-agent",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/rizqinrr/viserys-agent"
     }
   ],
   "space": [
@@ -445,128 +567,6 @@
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada"
-    }
-  ],
-  "github": [
-    {
-      "title": "browser-use/jev-ultrafast: i. am. speed.",
-      "hot": "⭐ 5.4k",
-      "desc": "i. am. speed.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/browser-use/jev-ultrafast"
-    },
-    {
-      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
-      "hot": "⭐ 3.2k",
-      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/tamaratran/fast-jev-compaction"
-    },
-    {
-      "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
-      "hot": "⭐ 1.6k",
-      "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TheoLeeCJ/SemIf"
-    },
-    {
-      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
-      "hot": "⭐ 1.4k",
-      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/Chuloo/mural"
-    },
-    {
-      "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
-      "hot": "⭐ 1.0k",
-      "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mcncarl/jianying-headless"
-    },
-    {
-      "title": "vinnylarouge/jevlike: ",
-      "hot": "⭐ 883",
-      "desc": "vinnylarouge/jevlike",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/vinnylarouge/jevlike"
-    },
-    {
-      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
-      "hot": "⭐ 879",
-      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
-    },
-    {
-      "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
-      "hot": "⭐ 863",
-      "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/jarrodwatts/jev-trader"
-    },
-    {
-      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
-      "hot": "⭐ 858",
-      "desc": "GPT-6 Astra for embodied AI and robotics.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
-    },
-    {
-      "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
-      "hot": "⭐ 849",
-      "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/agentverse-os/AgentVerse-OS"
-    },
-    {
-      "title": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant ",
-      "hot": "⭐ 840",
-      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/kruzovic7/ai-data-extractor"
-    },
-    {
-      "title": "youngyangyang04/llm-master: 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI A",
-      "hot": "⭐ 763",
-      "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/youngyangyang04/llm-master"
-    },
-    {
-      "title": "zhengkid/Dream-RSI: The offical repo for \"Dream-RSI: Recursive Self-Improvement ",
-      "hot": "⭐ 753",
-      "desc": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/zhengkid/Dream-RSI"
-    },
-    {
-      "title": "eternityspring/reelbench-skills: Learning notes and tooling skills for AI video ",
-      "hot": "⭐ 749",
-      "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/eternityspring/reelbench-skills"
-    },
-    {
-      "title": "korcarc/text-humanizer: text-humanizer is an open-source project designed to con",
-      "hot": "⭐ 725",
-      "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such a",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/korcarc/text-humanizer"
     }
   ]
 }

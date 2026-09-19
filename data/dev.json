@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 39 💬 19",
+      "hot": "❤️ 41 💬 20",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -18,27 +18,11 @@
     },
     {
       "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
-      "hot": "❤️ 34 💬 7",
+      "hot": "❤️ 40 💬 7",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
       "url": "https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm"
-    },
-    {
-      "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
-      "hot": "❤️ 61 💬 7",
-      "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
-      "source": "dev",
-      "tag": "sanitychallenge,  devchallenge",
-      "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m"
-    },
-    {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "hot": "❤️ 31 💬 4",
-      "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
-      "source": "dev",
-      "tag": "raspberrypi,  gemma",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke"
     },
     {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
@@ -57,6 +41,14 @@
       "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5"
     },
     {
+      "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
+      "hot": "❤️ 69 💬 9",
+      "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
+      "source": "dev",
+      "tag": "sanitychallenge,  devchallenge",
+      "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m"
+    },
+    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "hot": "❤️ 8 💬 1",
       "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
@@ -73,16 +65,16 @@
       "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
     },
     {
-      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
-      "hot": "❤️ 13 💬 3",
-      "desc": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF,",
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "hot": "❤️ 31 💬 4",
+      "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
       "source": "dev",
-      "tag": "machinelearning,  gpu",
-      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150"
+      "tag": "raspberrypi,  gemma",
+      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke"
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 48 💬 225",
+      "hot": "❤️ 48 💬 228",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "ai,  docker",
       "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db"
+    },
+    {
+      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
+      "hot": "❤️ 10 💬 1",
+      "desc": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Int",
+      "source": "dev",
+      "tag": "mcp,  python",
+      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
     }
   ],
-  "updatedAt": "2026-09-18T23:48:04.382Z"
+  "updatedAt": "2026-09-19T01:44:28.854Z"
 }

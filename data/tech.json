@@ -1,99 +1,91 @@
 {
   "data": [
     {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "hot": "3.0m",
-      "desc": "code.claude.com",
-      "source": "tech",
-      "tag": "⬆️ 400 points",
-      "url": "https://code.claude.com/docs/en/changelog"
-    },
-    {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "hot": "3.0m",
       "desc": "grapheneos.social",
       "source": "tech",
-      "tag": "⬆️ 422 points",
+      "tag": "⬆️ 522 points",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
-    },
-    {
-      "title": "Saving another 100TB of RAM",
-      "hot": "3.0m",
-      "desc": "blog.cloudflare.com",
-      "source": "tech",
-      "tag": "⬆️ 182 points",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"
     },
     {
       "title": "Cloudflare Quick Tunnels",
       "hot": "3.0m",
       "desc": "try.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 526 points",
+      "tag": "⬆️ 575 points",
       "url": "https://try.cloudflare.com/"
     },
     {
+      "title": "Saving another 100TB of RAM",
+      "hot": "3.0m",
+      "desc": "blog.cloudflare.com",
+      "source": "tech",
+      "tag": "⬆️ 224 points",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"
+    },
+    {
       "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "spectrum.ieee.org",
       "source": "tech",
-      "tag": "⬆️ 17 points",
+      "tag": "⬆️ 54 points",
       "url": "https://spectrum.ieee.org/llms-for-chip-design"
     },
     {
-      "title": "Xcode 27.1 Beta Release Notes",
+      "title": "The Farnese letter",
       "hot": "2.9m",
-      "desc": "developer.apple.com",
+      "desc": "simonklee.dk",
       "source": "tech",
-      "tag": "⬆️ 107 points",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes"
-    },
-    {
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://arxiv.org/abs/2510.03215"
-    },
-    {
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "hot": "2.9m",
-      "desc": "donjon.ledger.com",
-      "source": "tech",
-      "tag": "⬆️ 142 points",
-      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/"
+      "tag": "⬆️ 26 points",
+      "url": "https://simonklee.dk/farnese-letter"
     },
     {
       "title": "How to Write with an LLM",
       "hot": "2.9m",
       "desc": "sockpuppet.org",
       "source": "tech",
-      "tag": "⬆️ 363 points",
+      "tag": "⬆️ 389 points",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
+    },
+    {
+      "title": "Xcode 27.1 Beta Release Notes",
+      "hot": "2.9m",
+      "desc": "developer.apple.com",
+      "source": "tech",
+      "tag": "⬆️ 112 points",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes"
+    },
+    {
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "hot": "2.9m",
+      "desc": "donjon.ledger.com",
+      "source": "tech",
+      "tag": "⬆️ 152 points",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/"
+    },
+    {
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://arxiv.org/abs/2510.03215"
     },
     {
       "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
       "hot": "2.9m",
       "desc": "cactuscompute.com",
       "source": "tech",
-      "tag": "⬆️ 154 points",
+      "tag": "⬆️ 164 points",
       "url": "https://cactuscompute.com/needle"
     },
     {
-      "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
-      "hot": "2.9m",
-      "desc": "reuters.com",
-      "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/"
-    },
-    {
       "title": "The first new cat species discovered in 100 years",
-      "hot": "2.8m",
+      "hot": "2.9m",
       "desc": "nationalgeographic.com",
       "source": "tech",
-      "tag": "⬆️ 141 points",
+      "tag": "⬆️ 169 points",
       "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years"
     },
     {
@@ -101,65 +93,73 @@
       "hot": "2.8m",
       "desc": "openjev.com",
       "source": "tech",
-      "tag": "⬆️ 531 points",
+      "tag": "⬆️ 556 points",
       "url": "https://openjev.com/"
     },
     {
-      "title": "A 1542 papal cipher cracked with simulated annealing",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
       "hot": "2.8m",
-      "desc": "simonklee.dk",
+      "desc": "code.claude.com",
       "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://simonklee.dk/farnese-letter"
+      "tag": "⬆️ 507 points",
+      "url": "https://code.claude.com/docs/en/changelog"
     },
     {
       "title": "Cyclomatic Complexity in C#",
       "hot": "2.8m",
       "desc": "blog.ndepend.com",
       "source": "tech",
-      "tag": "⬆️ 22 points",
+      "tag": "⬆️ 34 points",
       "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/"
-    },
-    {
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "hot": "2.8m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 44 points",
-      "url": "https://arxiv.org/abs/2609.02852"
     },
     {
       "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
       "hot": "2.8m",
       "desc": "newscientist.com",
       "source": "tech",
-      "tag": "⬆️ 100 points",
+      "tag": "⬆️ 103 points",
       "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/"
     },
     {
-      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-      "hot": "2.7m",
-      "desc": "sandordargo.com",
+      "title": "Column built an issuer processor from scratch",
+      "hot": "2.8m",
+      "desc": "column.com",
       "source": "tech",
-      "tag": "⬆️ 138 points",
-      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops"
+      "tag": "⬆️ 22 points",
+      "url": "https://column.com/card-issuing/"
     },
     {
-      "title": "Size-Specialized Memory Allocation",
-      "hot": "2.7m",
-      "desc": "go.dev",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://go.dev/blog/size-specialized-allocations"
+      "tag": "⬆️ 52 points",
+      "url": "https://arxiv.org/abs/2609.02852"
+    },
+    {
+      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "hot": "2.7m",
+      "desc": "liveworld.info",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://liveworld.info/"
+    },
+    {
+      "title": "Minimal Phone 2",
+      "hot": "2.7m",
+      "desc": "minimalcompany.com",
+      "source": "tech",
+      "tag": "⬆️ 181 points",
+      "url": "https://minimalcompany.com/"
     },
     {
       "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
       "hot": "2.7m",
       "desc": "archive.org",
       "source": "tech",
-      "tag": "⬆️ 91 points",
+      "tag": "⬆️ 104 points",
       "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157"
     }
   ],
-  "updatedAt": "2026-09-18T23:48:04.382Z"
+  "updatedAt": "2026-09-19T01:44:28.854Z"
 }
