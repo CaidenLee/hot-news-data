@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 43 💬 22",
+      "hot": "❤️ 44 💬 24",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -10,19 +10,11 @@
     },
     {
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 57 💬 21",
+      "hot": "❤️ 59 💬 22",
       "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
-    },
-    {
-      "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
-      "hot": "❤️ 41 💬 7",
-      "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm"
     },
     {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
@@ -33,16 +25,16 @@
       "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9"
     },
     {
-      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-      "hot": "❤️ 33 💬 8",
-      "desc": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
+      "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
+      "hot": "❤️ 55 💬 8",
+      "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
       "source": "dev",
-      "tag": "ai,  live",
-      "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5"
+      "tag": "discuss,  community",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm"
     },
     {
       "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
-      "hot": "❤️ 77 💬 12",
+      "hot": "❤️ 91 💬 14",
       "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
       "source": "dev",
       "tag": "sanitychallenge,  devchallenge",
@@ -66,7 +58,7 @@
     },
     {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "hot": "❤️ 31 💬 4",
+      "hot": "❤️ 32 💬 4",
       "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
       "source": "dev",
       "tag": "raspberrypi,  gemma",
@@ -74,7 +66,7 @@
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 49 💬 233",
+      "hot": "❤️ 52 💬 248",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -95,6 +87,14 @@
       "source": "dev",
       "tag": "amd,  mcp",
       "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
+    },
+    {
+      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+      "hot": "❤️ 34 💬 8",
+      "desc": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
+      "source": "dev",
+      "tag": "ai,  live",
+      "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5"
     },
     {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
     }
   ],
-  "updatedAt": "2026-09-19T06:43:04.089Z"
+  "updatedAt": "2026-09-19T11:38:16.861Z"
 }
