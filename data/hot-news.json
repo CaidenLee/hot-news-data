@@ -1,453 +1,177 @@
 {
-  "updatedAt": "2026-09-19T01:44:28.854Z",
+  "updatedAt": "2026-09-19T06:43:04.089Z",
   "source": "live",
   "tech": [
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "hot": "3.0m",
+      "desc": "med.stanford.edu",
+      "source": "tech",
+      "tag": "⬆️ 47 points",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html"
+    },
+    {
+      "title": "San Francisco Onion Futures Company",
+      "hot": "3.0m",
+      "desc": "onionfutures.com",
+      "source": "tech",
+      "tag": "⬆️ 131 points",
+      "url": "https://onionfutures.com/"
+    },
     {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "hot": "3.0m",
       "desc": "grapheneos.social",
       "source": "tech",
-      "tag": "⬆️ 522 points",
+      "tag": "⬆️ 748 points",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
     },
     {
-      "title": "Cloudflare Quick Tunnels",
+      "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
       "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 52 points",
+      "url": "https://github.com/awlevin/typesafe-computer-use"
+    },
+    {
+      "title": "SDCC – Small Device C Compiler",
+      "hot": "2.9m",
+      "desc": "sdcc.sourceforge.net",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://sdcc.sourceforge.net/"
+    },
+    {
+      "title": "Science Is Open Software",
+      "hot": "2.9m",
+      "desc": "jepedersen.dk",
+      "source": "tech",
+      "tag": "⬆️ 59 points",
+      "url": "https://jepedersen.dk/blog/202505_research/"
+    },
+    {
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "hot": "2.9m",
+      "desc": "terrytao.wordpress.com",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/"
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "hot": "2.9m",
       "desc": "try.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 575 points",
+      "tag": "⬆️ 674 points",
       "url": "https://try.cloudflare.com/"
     },
     {
+      "title": "Why building a Rust LSP is hard",
+      "hot": "2.9m",
+      "desc": "rust-glancer.github.io",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/"
+    },
+    {
       "title": "Saving another 100TB of RAM",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "blog.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 224 points",
+      "tag": "⬆️ 320 points",
       "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"
     },
     {
       "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "spectrum.ieee.org",
       "source": "tech",
-      "tag": "⬆️ 54 points",
+      "tag": "⬆️ 105 points",
       "url": "https://spectrum.ieee.org/llms-for-chip-design"
     },
     {
-      "title": "The Farnese letter",
-      "hot": "2.9m",
-      "desc": "simonklee.dk",
-      "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://simonklee.dk/farnese-letter"
-    },
-    {
       "title": "How to Write with an LLM",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "sockpuppet.org",
       "source": "tech",
-      "tag": "⬆️ 389 points",
+      "tag": "⬆️ 463 points",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
     },
     {
-      "title": "Xcode 27.1 Beta Release Notes",
-      "hot": "2.9m",
-      "desc": "developer.apple.com",
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "hot": "2.8m",
+      "desc": "newsroom.usra.edu",
       "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes"
+      "tag": "⬆️ 10 points",
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/"
     },
     {
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "hot": "2.9m",
-      "desc": "donjon.ledger.com",
+      "title": "Ctenophores: Wonders of Biology",
+      "hot": "2.8m",
+      "desc": "quantamagazine.org",
       "source": "tech",
-      "tag": "⬆️ 152 points",
-      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/"
+      "tag": "⬆️ 6 points",
+      "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/"
     },
     {
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "hot": "2.8m",
+      "desc": "tigrisdata.com",
       "source": "tech",
-      "tag": "⬆️ 66 points",
-      "url": "https://arxiv.org/abs/2510.03215"
+      "tag": "⬆️ 17 points",
+      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/"
     },
     {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "hot": "2.9m",
-      "desc": "cactuscompute.com",
+      "title": "Goroutine Leak Profiles",
+      "hot": "2.8m",
+      "desc": "go.dev",
       "source": "tech",
-      "tag": "⬆️ 164 points",
-      "url": "https://cactuscompute.com/needle"
+      "tag": "⬆️ 20 points",
+      "url": "https://go.dev/blog/goroutine-leak-profiles"
     },
     {
       "title": "The first new cat species discovered in 100 years",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "nationalgeographic.com",
       "source": "tech",
-      "tag": "⬆️ 169 points",
+      "tag": "⬆️ 249 points",
       "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years"
     },
     {
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "hot": "2.7m",
+      "desc": "cactuscompute.com",
+      "source": "tech",
+      "tag": "⬆️ 193 points",
+      "url": "https://cactuscompute.com/needle"
+    },
+    {
       "title": "OpenJev",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "openjev.com",
       "source": "tech",
-      "tag": "⬆️ 556 points",
+      "tag": "⬆️ 602 points",
       "url": "https://openjev.com/"
     },
     {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "hot": "2.8m",
-      "desc": "code.claude.com",
-      "source": "tech",
-      "tag": "⬆️ 507 points",
-      "url": "https://code.claude.com/docs/en/changelog"
-    },
-    {
-      "title": "Cyclomatic Complexity in C#",
-      "hot": "2.8m",
-      "desc": "blog.ndepend.com",
-      "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/"
-    },
-    {
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "hot": "2.8m",
-      "desc": "newscientist.com",
-      "source": "tech",
-      "tag": "⬆️ 103 points",
-      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/"
-    },
-    {
-      "title": "Column built an issuer processor from scratch",
-      "hot": "2.8m",
-      "desc": "column.com",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://column.com/card-issuing/"
-    },
-    {
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "hot": "2.8m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 52 points",
-      "url": "https://arxiv.org/abs/2609.02852"
-    },
-    {
-      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
       "hot": "2.7m",
-      "desc": "liveworld.info",
+      "desc": "donjon.ledger.com",
       "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://liveworld.info/"
-    },
-    {
-      "title": "Minimal Phone 2",
-      "hot": "2.7m",
-      "desc": "minimalcompany.com",
-      "source": "tech",
-      "tag": "⬆️ 181 points",
-      "url": "https://minimalcompany.com/"
-    },
-    {
-      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-      "hot": "2.7m",
-      "desc": "archive.org",
-      "source": "tech",
-      "tag": "⬆️ 104 points",
-      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157"
-    }
-  ],
-  "dev": [
-    {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 41 💬 20",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb"
-    },
-    {
-      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 52 💬 21",
-      "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
-    },
-    {
-      "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
-      "hot": "❤️ 40 💬 7",
-      "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm"
-    },
-    {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "hot": "❤️ 11 💬 4",
-      "desc": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP to",
-      "source": "dev",
-      "tag": "amd,  vllm",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9"
-    },
-    {
-      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-      "hot": "❤️ 33 💬 8",
-      "desc": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
-      "source": "dev",
-      "tag": "ai,  live",
-      "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5"
-    },
-    {
-      "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
-      "hot": "❤️ 69 💬 9",
-      "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
-      "source": "dev",
-      "tag": "sanitychallenge,  devchallenge",
-      "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m"
-    },
-    {
-      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250"
-    },
-    {
-      "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
-      "hot": "❤️ 9 💬 1",
-      "desc": "Apple's container CLI 1.4.1 cannot boot the official debian:13 image as a machine, because it has no /sbin/init. A small",
-      "source": "dev",
-      "tag": "debian,  macos",
-      "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
-    },
-    {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "hot": "❤️ 31 💬 4",
-      "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
-      "source": "dev",
-      "tag": "raspberrypi,  gemma",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke"
-    },
-    {
-      "title": "Welcome Thread - v 393",
-      "hot": "❤️ 48 💬 228",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v-393-5f09"
-    },
-    {
-      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
-      "hot": "❤️ 8 💬 1",
-      "desc": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through ",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h"
-    },
-    {
-      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
-      "hot": "❤️ 11 💬 5",
-      "desc": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figu",
-      "source": "dev",
-      "tag": "amd,  mcp",
-      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
-    },
-    {
-      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
-      "hot": "❤️ 10 💬 3",
-      "desc": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 ",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
-    },
-    {
-      "title": "A Quick Update on the Summer Bug Smash Winners",
-      "hot": "❤️ 27 💬 2",
-      "desc": "Hey all, we have a quick update for everyone who participated in DEV's Big Summer Bug Smash powered...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/devteam/a-quick-update-on-the-summer-bug-smash-winners-3021"
-    },
-    {
-      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA ",
-      "source": "dev",
-      "tag": "security,  devops",
-      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf"
-    },
-    {
-      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
-      "hot": "❤️ 10 💬 1",
-      "desc": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
-      "source": "dev",
-      "tag": "ai,  firebase",
-      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh"
-    },
-    {
-      "title": "Progressive Disclosure: What, Where, When, and Why",
-      "hot": "❤️ 15 💬 10",
-      "desc": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
-      "source": "dev",
-      "tag": "ai,  claude",
-      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3"
-    },
-    {
-      "title": "ELT with Dataform on Google Cloud",
-      "hot": "❤️ 10 💬 0",
-      "desc": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and ",
-      "source": "dev",
-      "tag": "dataform,  bigquery",
-      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9"
-    },
-    {
-      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
-      "hot": "❤️ 8 💬 0",
-      "desc": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
-      "source": "dev",
-      "tag": "ai,  docker",
-      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db"
-    },
-    {
-      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
-      "hot": "❤️ 10 💬 1",
-      "desc": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Int",
-      "source": "dev",
-      "tag": "mcp,  python",
-      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
-    }
-  ],
-  "github": [
-    {
-      "title": "browser-use/jev-ultrafast: i. am. speed.",
-      "hot": "⭐ 5.6k",
-      "desc": "i. am. speed.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/browser-use/jev-ultrafast"
-    },
-    {
-      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
-      "hot": "⭐ 3.3k",
-      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/tamaratran/fast-jev-compaction"
-    },
-    {
-      "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
-      "hot": "⭐ 1.6k",
-      "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TheoLeeCJ/SemIf"
-    },
-    {
-      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
-      "hot": "⭐ 1.4k",
-      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/Chuloo/mural"
-    },
-    {
-      "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
-      "hot": "⭐ 1.0k",
-      "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mcncarl/jianying-headless"
-    },
-    {
-      "title": "vinnylarouge/jevlike: ",
-      "hot": "⭐ 896",
-      "desc": "vinnylarouge/jevlike",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/vinnylarouge/jevlike"
-    },
-    {
-      "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
-      "hot": "⭐ 882",
-      "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/jarrodwatts/jev-trader"
-    },
-    {
-      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
-      "hot": "⭐ 879",
-      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
-    },
-    {
-      "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
-      "hot": "⭐ 860",
-      "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/agentverse-os/AgentVerse-OS"
-    },
-    {
-      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
-      "hot": "⭐ 858",
-      "desc": "GPT-6 Astra for embodied AI and robotics.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
-    },
-    {
-      "title": "youngyangyang04/llm-master: 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI A",
-      "hot": "⭐ 766",
-      "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/youngyangyang04/llm-master"
-    },
-    {
-      "title": "zhengkid/Dream-RSI: The offical repo for \"Dream-RSI: Recursive Self-Improvement ",
-      "hot": "⭐ 761",
-      "desc": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/zhengkid/Dream-RSI"
-    },
-    {
-      "title": "korcarc/text-humanizer: text-humanizer is an open-source project designed to con",
-      "hot": "⭐ 725",
-      "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such a",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/korcarc/text-humanizer"
-    },
-    {
-      "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
-      "hot": "⭐ 711",
-      "desc": "A mascot that watches the cursor and blinks when you poke it",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/nilbuild/page-mascot"
-    },
-    {
-      "title": "rizqinrr/viserys-agent: ",
-      "hot": "⭐ 665",
-      "desc": "rizqinrr/viserys-agent",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/rizqinrr/viserys-agent"
+      "tag": "⬆️ 183 points",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/"
     }
   ],
   "space": [
+    {
+      "title": "ESA x TPCI - Pikachu in the Cupola",
+      "hot": "9/21",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
+    },
     {
       "title": "Pikachu in the Cupola",
       "hot": "9/21",
@@ -457,12 +181,20 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"
     },
     {
-      "title": "ESA x TPCI - Pikachu in the Cupola",
-      "hot": "9/21",
-      "desc": "From the ESA Blogs.",
+      "title": "DLR’s Suborbital MAPHEUS-17 Mission to Launch as Early as 1 October",
+      "hot": "9/19",
+      "desc": "The German aerospace agency DLR’s MAPHEUS-17 suborbital research mission is slated to launch from Sweden’s Esrange Space Center as early as 1 October.",
       "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/dlrs-suborbital-mapheus-17-mission-to-launch-as-early-as-1-october/"
+    },
+    {
+      "title": "APOD: 2026 September 19 – A Zodiacal Night",
+      "hot": "9/19",
+      "desc": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pictu",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/"
     },
     {
       "title": "ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience",
@@ -551,22 +283,290 @@
       "source": "space",
       "tag": "Arstechnica",
       "url": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/"
+    }
+  ],
+  "github": [
+    {
+      "title": "browser-use/jev-ultrafast: i. am. speed.",
+      "hot": "⭐ 6.1k",
+      "desc": "i. am. speed.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/browser-use/jev-ultrafast"
     },
     {
-      "title": "A galaxy spinning out of sync",
-      "hot": "9/18",
-      "desc": "Though the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, an",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync"
+      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
+      "hot": "⭐ 3.5k",
+      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/tamaratran/fast-jev-compaction"
     },
     {
-      "title": "Earth from Space: Laguna Colorada",
-      "hot": "9/18",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada"
+      "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
+      "hot": "⭐ 1.7k",
+      "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/TheoLeeCJ/SemIf"
+    },
+    {
+      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
+      "hot": "⭐ 1.4k",
+      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/Chuloo/mural"
+    },
+    {
+      "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
+      "hot": "⭐ 1.2k",
+      "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mcncarl/jianying-headless"
+    },
+    {
+      "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
+      "hot": "⭐ 1.0k",
+      "desc": "The Photoshop alternative for Mac",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/robbietilton/Compositor"
+    },
+    {
+      "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
+      "hot": "⭐ 940",
+      "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/jarrodwatts/jev-trader"
+    },
+    {
+      "title": "vinnylarouge/jevlike: ",
+      "hot": "⭐ 911",
+      "desc": "vinnylarouge/jevlike",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/vinnylarouge/jevlike"
+    },
+    {
+      "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
+      "hot": "⭐ 882",
+      "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS"
+    },
+    {
+      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
+      "hot": "⭐ 880",
+      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+    },
+    {
+      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
+      "hot": "⭐ 865",
+      "desc": "GPT-6 Astra for embodied AI and robotics.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
+    },
+    {
+      "title": "zhengkid/Dream-RSI: The offical repo for \"Dream-RSI: Recursive Self-Improvement ",
+      "hot": "⭐ 793",
+      "desc": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zhengkid/Dream-RSI"
+    },
+    {
+      "title": "youngyangyang04/llm-master: 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI A",
+      "hot": "⭐ 774",
+      "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/youngyangyang04/llm-master"
+    },
+    {
+      "title": "korcarc/text-humanizer: text-humanizer is an open-source project designed to con",
+      "hot": "⭐ 726",
+      "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such a",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/korcarc/text-humanizer"
+    },
+    {
+      "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
+      "hot": "⭐ 714",
+      "desc": "A mascot that watches the cursor and blinks when you poke it",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/nilbuild/page-mascot"
+    }
+  ],
+  "dev": [
+    {
+      "title": "What was your win this week?!",
+      "hot": "❤️ 43 💬 22",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb"
+    },
+    {
+      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
+      "hot": "❤️ 57 💬 21",
+      "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
+    },
+    {
+      "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
+      "hot": "❤️ 41 💬 7",
+      "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm"
+    },
+    {
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "hot": "❤️ 11 💬 4",
+      "desc": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP to",
+      "source": "dev",
+      "tag": "amd,  vllm",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9"
+    },
+    {
+      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+      "hot": "❤️ 33 💬 8",
+      "desc": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
+      "source": "dev",
+      "tag": "ai,  live",
+      "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5"
+    },
+    {
+      "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
+      "hot": "❤️ 77 💬 12",
+      "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
+      "source": "dev",
+      "tag": "sanitychallenge,  devchallenge",
+      "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m"
+    },
+    {
+      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250"
+    },
+    {
+      "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
+      "hot": "❤️ 9 💬 1",
+      "desc": "Apple's container CLI 1.4.1 cannot boot the official debian:13 image as a machine, because it has no /sbin/init. A small",
+      "source": "dev",
+      "tag": "debian,  macos",
+      "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
+    },
+    {
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "hot": "❤️ 31 💬 4",
+      "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
+      "source": "dev",
+      "tag": "raspberrypi,  gemma",
+      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke"
+    },
+    {
+      "title": "Welcome Thread - v 393",
+      "hot": "❤️ 49 💬 233",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v-393-5f09"
+    },
+    {
+      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
+      "hot": "❤️ 8 💬 1",
+      "desc": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through ",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h"
+    },
+    {
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "hot": "❤️ 11 💬 5",
+      "desc": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figu",
+      "source": "dev",
+      "tag": "amd,  mcp",
+      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
+    },
+    {
+      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
+      "hot": "❤️ 10 💬 3",
+      "desc": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 ",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
+    },
+    {
+      "title": "A Quick Update on the Summer Bug Smash Winners",
+      "hot": "❤️ 27 💬 2",
+      "desc": "Hey all, we have a quick update for everyone who participated in DEV's Big Summer Bug Smash powered...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/devteam/a-quick-update-on-the-summer-bug-smash-winners-3021"
+    },
+    {
+      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA ",
+      "source": "dev",
+      "tag": "security,  devops",
+      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf"
+    },
+    {
+      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
+      "hot": "❤️ 10 💬 1",
+      "desc": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "source": "dev",
+      "tag": "ai,  firebase",
+      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh"
+    },
+    {
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "hot": "❤️ 15 💬 10",
+      "desc": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
+      "source": "dev",
+      "tag": "ai,  claude",
+      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3"
+    },
+    {
+      "title": "ELT with Dataform on Google Cloud",
+      "hot": "❤️ 10 💬 0",
+      "desc": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and ",
+      "source": "dev",
+      "tag": "dataform,  bigquery",
+      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9"
+    },
+    {
+      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
+      "hot": "❤️ 8 💬 0",
+      "desc": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
+      "source": "dev",
+      "tag": "ai,  docker",
+      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db"
+    },
+    {
+      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
+      "hot": "❤️ 10 💬 1",
+      "desc": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Int",
+      "source": "dev",
+      "tag": "mcp,  python",
+      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
     }
   ]
 }
