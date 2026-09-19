@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 44 💬 24",
+      "hot": "❤️ 45 💬 27",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -10,23 +10,15 @@
     },
     {
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 59 💬 22",
+      "hot": "❤️ 59 💬 23",
       "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
     },
     {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "hot": "❤️ 11 💬 4",
-      "desc": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP to",
-      "source": "dev",
-      "tag": "amd,  vllm",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9"
-    },
-    {
       "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
-      "hot": "❤️ 55 💬 8",
+      "hot": "❤️ 62 💬 9",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -34,7 +26,7 @@
     },
     {
       "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
-      "hot": "❤️ 91 💬 14",
+      "hot": "❤️ 100 💬 16",
       "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
       "source": "dev",
       "tag": "sanitychallenge,  devchallenge",
@@ -57,8 +49,16 @@
       "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
     },
     {
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "hot": "❤️ 11 💬 5",
+      "desc": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP to",
+      "source": "dev",
+      "tag": "amd,  vllm",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9"
+    },
+    {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "hot": "❤️ 32 💬 4",
+      "hot": "❤️ 32 💬 5",
       "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
       "source": "dev",
       "tag": "raspberrypi,  gemma",
@@ -66,7 +66,7 @@
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 52 💬 248",
+      "hot": "❤️ 58 💬 271",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -90,7 +90,7 @@
     },
     {
       "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-      "hot": "❤️ 34 💬 8",
+      "hot": "❤️ 34 💬 9",
       "desc": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
       "source": "dev",
       "tag": "ai,  live",
@@ -106,7 +106,7 @@
     },
     {
       "title": "A Quick Update on the Summer Bug Smash Winners",
-      "hot": "❤️ 27 💬 2",
+      "hot": "❤️ 28 💬 2",
       "desc": "Hey all, we have a quick update for everyone who participated in DEV's Big Summer Bug Smash powered...",
       "source": "dev",
       "tag": "devchallenge,  bugsmash",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Progressive Disclosure: What, Where, When, and Why",
-      "hot": "❤️ 15 💬 10",
+      "hot": "❤️ 15 💬 11",
       "desc": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
       "source": "dev",
       "tag": "ai,  claude",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
     }
   ],
-  "updatedAt": "2026-09-19T11:38:16.861Z"
+  "updatedAt": "2026-09-19T14:51:37.575Z"
 }

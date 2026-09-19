@@ -1,43 +1,59 @@
 {
   "data": [
     {
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "title": "Laya the open source version of Jev",
       "hot": "3.0m",
-      "desc": "med.stanford.edu",
+      "desc": "laya.convaiinnovations.com",
       "source": "tech",
-      "tag": "⬆️ 276 points",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html"
+      "tag": "⬆️ 320 points",
+      "url": "https://laya.convaiinnovations.com/"
+    },
+    {
+      "title": "What Zig felt like, coming from Rust",
+      "hot": "3.0m",
+      "desc": "besok.github.io",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"
     },
     {
       "title": "AI-generated posters don’t have to be horrible",
       "hot": "3.0m",
       "desc": "john.hartnup.uk",
       "source": "tech",
-      "tag": "⬆️ 211 points",
+      "tag": "⬆️ 563 points",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
     },
     {
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
       "hot": "3.0m",
-      "desc": "terrytao.wordpress.com",
+      "desc": "med.stanford.edu",
       "source": "tech",
-      "tag": "⬆️ 130 points",
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/"
+      "tag": "⬆️ 424 points",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html"
     },
     {
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "hot": "3.0m",
-      "desc": "prinzai.com",
+      "title": "Tin: full-text search for Postgres",
+      "hot": "2.9m",
+      "desc": "planetscale.com",
       "source": "tech",
-      "tag": "⬆️ 138 points",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
+      "tag": "⬆️ 21 points",
+      "url": "https://planetscale.com/blog/introducing-tin"
+    },
+    {
+      "title": "A graphical desktop for the ZX Spectrum",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://github.com/mindbox77/zxdesk"
     },
     {
       "title": "“The Secret Life of Circuits” is here",
       "hot": "2.9m",
       "desc": "blog.coredump.cx",
       "source": "tech",
-      "tag": "⬆️ 58 points",
+      "tag": "⬆️ 150 points",
       "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here"
     },
     {
@@ -45,121 +61,105 @@
       "hot": "2.9m",
       "desc": "grapheneos.social",
       "source": "tech",
-      "tag": "⬆️ 866 points",
+      "tag": "⬆️ 936 points",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
+    },
+    {
+      "title": "Asking Authors About Their Own Papers",
+      "hot": "2.9m",
+      "desc": "medium.com",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0"
+    },
+    {
+      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "hot": "2.9m",
+      "desc": "quantamagazine.org",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/"
     },
     {
       "title": "San Francisco Onion Futures Company",
       "hot": "2.9m",
       "desc": "onionfutures.com",
       "source": "tech",
-      "tag": "⬆️ 210 points",
+      "tag": "⬆️ 264 points",
       "url": "https://onionfutures.com/"
     },
     {
-      "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
-      "hot": "2.9m",
-      "desc": "browser.geekbench.com",
-      "source": "tech",
-      "tag": "⬆️ 79 points",
-      "url": "https://browser.geekbench.com/v7/cpu/389219"
-    },
-    {
-      "title": "Cloudflare Quick Tunnels",
-      "hot": "2.9m",
-      "desc": "try.cloudflare.com",
-      "source": "tech",
-      "tag": "⬆️ 722 points",
-      "url": "https://try.cloudflare.com/"
-    },
-    {
-      "title": "SDCC – Small Device C Compiler",
-      "hot": "2.9m",
-      "desc": "sdcc.sourceforge.net",
-      "source": "tech",
-      "tag": "⬆️ 93 points",
-      "url": "https://sdcc.sourceforge.net/"
-    },
-    {
-      "title": "How to Write with an LLM",
-      "hot": "2.9m",
-      "desc": "sockpuppet.org",
-      "source": "tech",
-      "tag": "⬆️ 504 points",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
-    },
-    {
-      "title": "Science Is Open Software",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
       "hot": "2.8m",
-      "desc": "jepedersen.dk",
+      "desc": "prinzai.com",
       "source": "tech",
-      "tag": "⬆️ 102 points",
-      "url": "https://jepedersen.dk/blog/202505_research/"
+      "tag": "⬆️ 213 points",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
     },
     {
-      "title": "Saving another 100TB of RAM",
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
       "hot": "2.8m",
-      "desc": "blog.cloudflare.com",
+      "desc": "terrytao.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 374 points",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"
-    },
-    {
-      "title": "You can run Git on object storage if you re-make packfiles",
-      "hot": "2.8m",
-      "desc": "tigrisdata.com",
-      "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/"
-    },
-    {
-      "title": "Why building a Rust LSP is hard",
-      "hot": "2.8m",
-      "desc": "rust-glancer.github.io",
-      "source": "tech",
-      "tag": "⬆️ 90 points",
-      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/"
-    },
-    {
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "hot": "2.8m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 132 points",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design"
-    },
-    {
-      "title": "Ctenophores: Wonders of Biology",
-      "hot": "2.8m",
-      "desc": "quantamagazine.org",
-      "source": "tech",
-      "tag": "⬆️ 29 points",
-      "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/"
-    },
-    {
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "hot": "2.7m",
-      "desc": "newsroom.usra.edu",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/"
+      "tag": "⬆️ 196 points",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/"
     },
     {
       "title": "Communication by means of modulated Johnson noise",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "pnas.org",
       "source": "tech",
-      "tag": "⬆️ 7 points",
+      "tag": "⬆️ 33 points",
       "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119"
     },
     {
-      "title": "The first new cat species discovered in 100 years",
-      "hot": "2.7m",
-      "desc": "nationalgeographic.com",
+      "title": "From Stonemasons to Carpenters",
+      "hot": "2.8m",
+      "desc": "thelastsoftwareengineer.substack.com",
       "source": "tech",
-      "tag": "⬆️ 282 points",
-      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years"
+      "tag": "⬆️ 30 points",
+      "url": "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters"
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "hot": "2.8m",
+      "desc": "try.cloudflare.com",
+      "source": "tech",
+      "tag": "⬆️ 761 points",
+      "url": "https://try.cloudflare.com/"
+    },
+    {
+      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
+      "hot": "2.8m",
+      "desc": "theconversation.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "hot": "2.7m",
+      "desc": "sockpuppet.org",
+      "source": "tech",
+      "tag": "⬆️ 542 points",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
+    },
+    {
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "hot": "2.7m",
+      "desc": "tigrisdata.com",
+      "source": "tech",
+      "tag": "⬆️ 85 points",
+      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/"
+    },
+    {
+      "title": "SDCC – Small Device C Compiler",
+      "hot": "2.7m",
+      "desc": "sdcc.sourceforge.net",
+      "source": "tech",
+      "tag": "⬆️ 105 points",
+      "url": "https://sdcc.sourceforge.net/"
     }
   ],
-  "updatedAt": "2026-09-19T11:38:16.861Z"
+  "updatedAt": "2026-09-19T14:51:37.575Z"
 }
