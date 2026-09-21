@@ -2,39 +2,47 @@
   "data": [
     {
       "title": "browser-use/jev-ultrafast: i. am. speed.",
-      "hot": "⭐ 12.0k",
+      "hot": "⭐ 13.0k",
       "desc": "i. am. speed.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/browser-use/jev-ultrafast"
     },
     {
-      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
-      "hot": "⭐ 5.2k",
-      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/tamaratran/fast-jev-compaction"
-    },
-    {
       "title": "NandhaKishorM/laya: ",
-      "hot": "⭐ 4.2k",
+      "hot": "⭐ 5.7k",
       "desc": "NandhaKishorM/laya",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/NandhaKishorM/laya"
     },
     {
+      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
+      "hot": "⭐ 5.5k",
+      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/tamaratran/fast-jev-compaction"
+    },
+    {
       "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
-      "hot": "⭐ 3.7k",
+      "hot": "⭐ 3.9k",
       "desc": "The Photoshop alternative for Mac",
       "source": "github",
       "tag": "Swift",
       "url": "https://github.com/robbietilton/Compositor"
     },
     {
+      "title": "zai-org/ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "hot": "⭐ 3.9k",
+      "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/zai-org/ZCode"
+    },
+    {
       "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
-      "hot": "⭐ 2.5k",
+      "hot": "⭐ 2.6k",
       "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
       "source": "github",
       "tag": "Python",
@@ -42,7 +50,7 @@
     },
     {
       "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
-      "hot": "⭐ 2.0k",
+      "hot": "⭐ 2.1k",
       "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "source": "github",
       "tag": "Python",
@@ -50,7 +58,7 @@
     },
     {
       "title": "mizorewww/laya-mlx: Native MLX runtime for Laya typed decision models — 7–14 ms ",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 2.1k",
       "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "source": "github",
       "tag": "Python",
@@ -58,7 +66,7 @@
     },
     {
       "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
-      "hot": "⭐ 1.5k",
+      "hot": "⭐ 1.6k",
       "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
       "source": "github",
       "tag": "TypeScript",
@@ -66,7 +74,7 @@
     },
     {
       "title": "TianyuCodings/NanoJev: A nano replica of Jev: parallel decisions, dynamic candid",
-      "hot": "⭐ 1.4k",
+      "hot": "⭐ 1.6k",
       "desc": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
       "source": "github",
       "tag": "Python",
@@ -74,11 +82,19 @@
     },
     {
       "title": "bespokelabsai/nimble: Local typed decisions, contrastive data curation, and mode",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.3k",
       "desc": "Local typed decisions, contrastive data curation, and model evaluation.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/bespokelabsai/nimble"
+    },
+    {
+      "title": "jaredpalmer/kev: tiny Jev-like family of decision models built on top of Qwen3.5",
+      "hot": "⭐ 1.2k",
+      "desc": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/jaredpalmer/kev"
     },
     {
       "title": "vinnylarouge/jevlike: ",
@@ -89,16 +105,8 @@
       "url": "https://github.com/vinnylarouge/jevlike"
     },
     {
-      "title": "jaredpalmer/kev: tiny Jev-like family of decision models built on top of Qwen3.5",
-      "hot": "⭐ 1.0k",
-      "desc": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jaredpalmer/kev"
-    },
-    {
       "title": "nilbuild/page-mascot: A mascot that watches the cursor and blinks when you poke ",
-      "hot": "⭐ 755",
+      "hot": "⭐ 759",
       "desc": "A mascot that watches the cursor and blinks when you poke it",
       "source": "github",
       "tag": "Python",
@@ -106,20 +114,12 @@
     },
     {
       "title": "theoephraim/awesome-cloudflare-selfhosted: 🍊☁️ Open-source* apps that replace a",
-      "hot": "⭐ 742",
+      "hot": "⭐ 745",
       "desc": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted"
-    },
-    {
-      "title": "korcarc/text-humanizer: text-humanizer is an open-source project designed to con",
-      "hot": "⭐ 736",
-      "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such a",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/korcarc/text-humanizer"
     }
   ],
-  "updatedAt": "2026-09-21T01:16:00.163Z"
+  "updatedAt": "2026-09-21T06:34:10.202Z"
 }
