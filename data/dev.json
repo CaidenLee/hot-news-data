@@ -1,16 +1,64 @@
 {
   "data": [
     {
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "hot": "❤️ 18 💬 6",
+      "desc": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-ass",
+      "source": "dev",
+      "tag": "ai,  devsecops",
+      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4"
+    },
+    {
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 66 💬 27",
+      "hot": "❤️ 70 💬 29",
       "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
     },
     {
+      "title": "Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs",
+      "hot": "❤️ 6 💬 2",
+      "desc": "How combining Dart's Enhanced Enums with constructor tearoffs turns simple enum values into self-instantiating, type-saf",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9"
+    },
+    {
+      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif"
+    },
+    {
+      "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
+      "hot": "❤️ 7 💬 0",
+      "desc": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using th",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b"
+    },
+    {
+      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
+      "hot": "❤️ 4 💬 0",
+      "desc": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from",
+      "source": "dev",
+      "tag": "python,  debugging",
+      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f"
+    },
+    {
+      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue",
+      "source": "dev",
+      "tag": "mcp,  iceberg",
+      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605"
+    },
+    {
       "title": "What was your win this week?!",
-      "hot": "❤️ 59 💬 40",
+      "hot": "❤️ 65 💬 41",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -57,6 +105,22 @@
       "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
     },
     {
+      "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Schema-valid is not content-correct · Part 1/3           It starts with a storyboard a...",
+      "source": "dev",
+      "tag": "googlecloud,  adk",
+      "url": "https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6"
+    },
+    {
+      "title": "The beauty and terror of negative feedback",
+      "hot": "❤️ 21 💬 9",
+      "desc": "Giving my first conference talk recently was an absolute thrill. I was excited, not overly nervous,...",
+      "source": "dev",
+      "tag": "mentalhealth,  techtalks",
+      "url": "https://dev.to/amandamayfield/the-beauty-and-terror-of-negative-feedback-2g4d"
+    },
+    {
       "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
       "hot": "❤️ 8 💬 0",
       "desc": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA ",
@@ -89,77 +153,13 @@
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
     },
     {
-      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
-      "hot": "❤️ 15 💬 6",
-      "desc": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF,",
+      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "hot": "❤️ 10 💬 5",
+      "desc": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous",
       "source": "dev",
-      "tag": "machinelearning,  gpu",
-      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150"
-    },
-    {
-      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
-      "hot": "❤️ 12 💬 5",
-      "desc": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figu",
-      "source": "dev",
-      "tag": "amd,  mcp",
-      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
-    },
-    {
-      "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
-      "hot": "❤️ 71 💬 13",
-      "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm"
-    },
-    {
-      "title": "Welcome Thread - v 393",
-      "hot": "❤️ 84 💬 390",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v-393-5f09"
-    },
-    {
-      "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
-      "hot": "❤️ 152 💬 29",
-      "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
-      "source": "dev",
-      "tag": "sanitychallenge,  devchallenge",
-      "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m"
-    },
-    {
-      "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated t",
-      "source": "dev",
-      "tag": "mcp,  gemma",
-      "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3"
-    },
-    {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "hot": "❤️ 38 💬 6",
-      "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
-      "source": "dev",
-      "tag": "raspberrypi,  gemma",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke"
-    },
-    {
-      "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Four read-only Apache Iceberg tools bound into Google ADK, AWS Strands and Microsoft Agent Framework, run against five c",
-      "source": "dev",
-      "tag": "iceberg,  aiagents",
-      "url": "https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g"
-    },
-    {
-      "title": "Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions",
-      "hot": "❤️ 8 💬 0",
-      "desc": "The Kiro edition of the Nano Banana 2 Lite MCP server, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 fr",
-      "source": "dev",
-      "tag": "kiro,  mcp",
-      "url": "https://dev.to/gde/nano-banana-2-lite-in-kiro-cli-3-mcp-20-the-new-interactions-api-and-headless-permissions-3faj"
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd"
     }
   ],
-  "updatedAt": "2026-09-21T13:24:22.677Z"
+  "updatedAt": "2026-09-21T18:48:30.556Z"
 }
