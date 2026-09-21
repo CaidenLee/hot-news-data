@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 63 💬 26",
+      "hot": "❤️ 66 💬 27",
       "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
@@ -10,7 +10,7 @@
     },
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 57 💬 36",
+      "hot": "❤️ 59 💬 40",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -65,22 +65,6 @@
       "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf"
     },
     {
-      "title": "ELT with Dataform on Google Cloud",
-      "hot": "❤️ 10 💬 0",
-      "desc": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and ",
-      "source": "dev",
-      "tag": "dataform,  bigquery",
-      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9"
-    },
-    {
-      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
-      "hot": "❤️ 8 💬 0",
-      "desc": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
-      "source": "dev",
-      "tag": "ai,  docker",
-      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db"
-    },
-    {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
       "hot": "❤️ 10 💬 1",
       "desc": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Int",
@@ -122,7 +106,7 @@
     },
     {
       "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
-      "hot": "❤️ 70 💬 13",
+      "hot": "❤️ 71 💬 13",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -130,7 +114,7 @@
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 79 💬 368",
+      "hot": "❤️ 84 💬 390",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -138,7 +122,7 @@
     },
     {
       "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
-      "hot": "❤️ 149 💬 25",
+      "hot": "❤️ 152 💬 29",
       "desc": "We're excited to announce our newest challenge with Sanity!  The Sanity Challenge runs September 18...",
       "source": "dev",
       "tag": "sanitychallenge,  devchallenge",
@@ -154,12 +138,28 @@
     },
     {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "hot": "❤️ 37 💬 6",
+      "hot": "❤️ 38 💬 6",
       "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
       "source": "dev",
       "tag": "raspberrypi,  gemma",
       "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke"
+    },
+    {
+      "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Four read-only Apache Iceberg tools bound into Google ADK, AWS Strands and Microsoft Agent Framework, run against five c",
+      "source": "dev",
+      "tag": "iceberg,  aiagents",
+      "url": "https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g"
+    },
+    {
+      "title": "Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions",
+      "hot": "❤️ 8 💬 0",
+      "desc": "The Kiro edition of the Nano Banana 2 Lite MCP server, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 fr",
+      "source": "dev",
+      "tag": "kiro,  mcp",
+      "url": "https://dev.to/gde/nano-banana-2-lite-in-kiro-cli-3-mcp-20-the-new-interactions-api-and-headless-permissions-3faj"
     }
   ],
-  "updatedAt": "2026-09-21T06:34:10.202Z"
+  "updatedAt": "2026-09-21T13:24:22.677Z"
 }
