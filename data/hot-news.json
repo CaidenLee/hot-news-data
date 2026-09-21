@@ -1,412 +1,6 @@
 {
-  "updatedAt": "2026-09-21T18:48:30.556Z",
+  "updatedAt": "2026-09-21T22:20:19.911Z",
   "source": "live",
-  "tech": [
-    {
-      "title": "What Sun got wrong",
-      "hot": "3.0m",
-      "desc": "bcantrill.dtrace.org",
-      "source": "tech",
-      "tag": "⬆️ 342 points",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"
-    },
-    {
-      "title": "Attention is all you have",
-      "hot": "3.0m",
-      "desc": "alicegg.tech",
-      "source": "tech",
-      "tag": "⬆️ 300 points",
-      "url": "https://alicegg.tech/2026/09/21/attention"
-    },
-    {
-      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "hot": "3.0m",
-      "desc": "support.apple.com",
-      "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac"
-    },
-    {
-      "title": "Grok 4.7",
-      "hot": "3.0m",
-      "desc": "x.ai",
-      "source": "tech",
-      "tag": "⬆️ 291 points",
-      "url": "https://x.ai/news/grok-4-7"
-    },
-    {
-      "title": "Fable 5 – Median thinking declined in August",
-      "hot": "2.9m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 183 points",
-      "url": "https://twitter.com/Lon/status/2101793422487204027"
-    },
-    {
-      "title": "Python Workers are now generally available",
-      "hot": "2.9m",
-      "desc": "blog.cloudflare.com",
-      "source": "tech",
-      "tag": "⬆️ 101 points",
-      "url": "https://blog.cloudflare.com/python-workers-ga/"
-    },
-    {
-      "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
-      "hot": "2.9m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data"
-    },
-    {
-      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
-      "hot": "2.9m",
-      "desc": "ieeexplore.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://ieeexplore.ieee.org/document/689473"
-    },
-    {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 326 points",
-      "url": "https://github.com/jaredpalmer/kev/tree/main"
-    },
-    {
-      "title": "How do Traffic Signals Work (2019)",
-      "hot": "2.9m",
-      "desc": "practical.engineering",
-      "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work"
-    },
-    {
-      "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
-      "hot": "2.9m",
-      "desc": "pdp1173.com",
-      "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "http://pdp1173.com/"
-    },
-    {
-      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "hot": "2.8m",
-      "desc": "gameshelf.jmac.org",
-      "source": "tech",
-      "tag": "⬆️ 333 points",
-      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf"
-    },
-    {
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "hot": "2.8m",
-      "desc": "forbes.com",
-      "source": "tech",
-      "tag": "⬆️ 86 points",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/"
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "hot": "2.8m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/"
-    },
-    {
-      "title": "What happened to the Snowden archive",
-      "hot": "2.8m",
-      "desc": "libroot.org",
-      "source": "tech",
-      "tag": "⬆️ 637 points",
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive"
-    },
-    {
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "hot": "2.8m",
-      "desc": "agentexecutor.io",
-      "source": "tech",
-      "tag": "⬆️ 616 points",
-      "url": "https://agentexecutor.io"
-    },
-    {
-      "title": "M5 Ultra Mac Studio Review",
-      "hot": "2.8m",
-      "desc": "macstories.net",
-      "source": "tech",
-      "tag": "⬆️ 176 points",
-      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/"
-    },
-    {
-      "title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
-      "hot": "2.7m",
-      "desc": "digitalescapetools.com",
-      "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://digitalescapetools.com/tools/noodlegallery.html"
-    },
-    {
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "hot": "2.7m",
-      "desc": "reddit.com",
-      "source": "tech",
-      "tag": "⬆️ 142 points",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/"
-    },
-    {
-      "title": "Whirlpool Washer Transmission Repair (2007)",
-      "hot": "2.7m",
-      "desc": "k0lee.com",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/"
-    }
-  ],
-  "github": [
-    {
-      "title": "browser-use/jev-ultrafast: Fastest and cheapest web agent",
-      "hot": "⭐ 15.2k",
-      "desc": "Fastest and cheapest web agent",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/browser-use/jev-ultrafast"
-    },
-    {
-      "title": "NandhaKishorM/laya: ",
-      "hot": "⭐ 9.2k",
-      "desc": "NandhaKishorM/laya",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/NandhaKishorM/laya"
-    },
-    {
-      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
-      "hot": "⭐ 5.9k",
-      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/tamaratran/fast-jev-compaction"
-    },
-    {
-      "title": "zai-org/ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "hot": "⭐ 5.4k",
-      "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/zai-org/ZCode"
-    },
-    {
-      "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
-      "hot": "⭐ 4.3k",
-      "desc": "The Photoshop alternative for Mac",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/robbietilton/Compositor"
-    },
-    {
-      "title": "mizorewww/laya-mlx: Native MLX runtime for Laya typed decision models — 7–14 ms ",
-      "hot": "⭐ 3.4k",
-      "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mizorewww/laya-mlx"
-    },
-    {
-      "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
-      "hot": "⭐ 3.0k",
-      "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TheoLeeCJ/SemIf"
-    },
-    {
-      "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
-      "hot": "⭐ 2.3k",
-      "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mcncarl/jianying-headless"
-    },
-    {
-      "title": "jaredpalmer/kev: tiny Jev-like family of decision models built on top of Qwen3.5",
-      "hot": "⭐ 2.2k",
-      "desc": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jaredpalmer/kev"
-    },
-    {
-      "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
-      "hot": "⭐ 1.8k",
-      "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/jarrodwatts/jev-trader"
-    },
-    {
-      "title": "TianyuCodings/NanoJev: A nano replica of Jev: parallel decisions, dynamic candid",
-      "hot": "⭐ 1.8k",
-      "desc": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TianyuCodings/NanoJev"
-    },
-    {
-      "title": "bespokelabsai/nimble: Local typed decisions, contrastive data curation, and mode",
-      "hot": "⭐ 1.5k",
-      "desc": "Local typed decisions, contrastive data curation, and model evaluation.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/bespokelabsai/nimble"
-    },
-    {
-      "title": "Mak5er/AirCard: Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-      "hot": "⭐ 1.3k",
-      "desc": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/Mak5er/AirCard"
-    },
-    {
-      "title": "vinnylarouge/jevlike: ",
-      "hot": "⭐ 1.2k",
-      "desc": "vinnylarouge/jevlike",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/vinnylarouge/jevlike"
-    },
-    {
-      "title": "QwenLM/Qwen-Image-2.1: Qwen's most powerful open-source image generation model",
-      "hot": "⭐ 946",
-      "desc": "Qwen's most powerful open-source image generation model",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/QwenLM/Qwen-Image-2.1"
-    }
-  ],
-  "space": [
-    {
-      "title": "SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch",
-      "hot": "9/21",
-      "desc": "The first planned orbital Starship mission is scheduled for launch from Starbase in Texas as soon as Sept. 28, pending final approval from the Federal",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/"
-    },
-    {
-      "title": "Exolaunch, Space Cargo book Starship Starfall missions",
-      "hot": "9/21",
-      "desc": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…\nThe post Exolaunch, Space Cargo book Starship Starfall mi",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/"
-    },
-    {
-      "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
-      "hot": "9/21",
-      "desc": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/"
-    },
-    {
-      "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
-      "hot": "9/21",
-      "desc": "\nSeptember 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA)",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/"
-    },
-    {
-      "title": "ESA x TPCI - Pikachu in the Cupola",
-      "hot": "9/21",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
-    },
-    {
-      "title": "Juice to fly past Earth for third gravity assist",
-      "hot": "9/21",
-      "desc": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft cl",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist"
-    },
-    {
-      "title": "Pikachu in the Cupola",
-      "hot": "9/21",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"
-    },
-    {
-      "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
-      "hot": "9/21",
-      "desc": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Pa",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/"
-    },
-    {
-      "title": "ESA brings public and private capital together to accelerate Europe’s space economy",
-      "hot": "9/21",
-      "desc": "Paris, 18 September 2026 – Access to appropriate finance is becoming a strategic enabler of Europe’s space ambitions. At ESA Headquarters in Paris, in",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy"
-    },
-    {
-      "title": "ESA and ISRO extend and broaden cooperation agreement",
-      "hot": "9/21",
-      "desc": "The European Space Agency (ESA) and the Indian Space Research Organisation (ISRO) have signed an exchange of letters extending their long-standing Coo",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement"
-    },
-    {
-      "title": "ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue",
-      "hot": "9/21",
-      "desc": "The European Space Agency (ESA) has confirmed that it is aware of delays affecting the Ariane 6 launch schedule following reports of an engine turbopu",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/"
-    },
-    {
-      "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
-      "hot": "9/21",
-      "desc": "APOD Science APOD APOD: 2026 September 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pictu",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/"
-    },
-    {
-      "title": "Arctic Melt Season Length Levels Off",
-      "hot": "9/21",
-      "desc": "While the sea ice melt season has lengthened dramatically in most of the satellite era, the trend unexpectedly stabilized around 2010.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/"
-    },
-    {
-      "title": "LRO discovers large new lunar crater, finds interesting thermal emission phenomenon",
-      "hot": "9/20",
-      "desc": "Using NASA’s Lunar Reconnaissance Orbiter, a team of scientists has discovered the largest, newly formed…\r\nThe post LRO discovers large new lunar crat",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/"
-    },
-    {
-      "title": "What’s Happening in Space Policy September 20-26, 2026",
-      "hot": "9/20",
-      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week of September 20-26, 2026 and any insight we can offer about them. The Senate ",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-20-26-2026/"
-    }
-  ],
   "dev": [
     {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
@@ -466,7 +60,7 @@
     },
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 65 💬 41",
+      "hot": "❤️ 65 💬 42",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -567,6 +161,412 @@
       "source": "dev",
       "tag": "ai,  programming",
       "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Xiaomi MiMo v2.6",
+      "hot": "3.0m",
+      "desc": "mimo.xiaomi.com",
+      "source": "tech",
+      "tag": "⬆️ 305 points",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6"
+    },
+    {
+      "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+      "hot": "3.0m",
+      "desc": "science.org",
+      "source": "tech",
+      "tag": "⬆️ 216 points",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "hot": "3.0m",
+      "desc": "poloclub.github.io",
+      "source": "tech",
+      "tag": "⬆️ 103 points",
+      "url": "https://poloclub.github.io/transformer-explainer/"
+    },
+    {
+      "title": "What Sun got wrong",
+      "hot": "3.0m",
+      "desc": "bcantrill.dtrace.org",
+      "source": "tech",
+      "tag": "⬆️ 449 points",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"
+    },
+    {
+      "title": "Attention is all you have",
+      "hot": "2.9m",
+      "desc": "alicegg.tech",
+      "source": "tech",
+      "tag": "⬆️ 497 points",
+      "url": "https://alicegg.tech/2026/09/21/attention"
+    },
+    {
+      "title": "Divide by Depth for Instant 3D",
+      "hot": "2.9m",
+      "desc": "gabrieloc.com",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://gabrieloc.com/2026/09/15/perspective.html"
+    },
+    {
+      "title": "Why does mathmain need an encrypted loader?",
+      "hot": "2.9m",
+      "desc": "safedep.io",
+      "source": "tech",
+      "tag": "⬆️ 88 points",
+      "url": "https://safedep.io/mathmain-encrypted-loader/"
+    },
+    {
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "hot": "2.9m",
+      "desc": "terrytao.wordpress.com",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
+    },
+    {
+      "title": "Apple Copland D11E4 Booting in the Browser",
+      "hot": "2.9m",
+      "desc": "pagetable.com",
+      "source": "tech",
+      "tag": "⬆️ 59 points",
+      "url": "https://www.pagetable.com/300"
+    },
+    {
+      "title": "Grok 4.7",
+      "hot": "2.9m",
+      "desc": "x.ai",
+      "source": "tech",
+      "tag": "⬆️ 440 points",
+      "url": "https://x.ai/news/grok-4-7"
+    },
+    {
+      "title": "In Search of a Compositional Theory of Self-Stabilization",
+      "hot": "2.9m",
+      "desc": "muratbuffalo.blogspot.com",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html"
+    },
+    {
+      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+      "hot": "2.8m",
+      "desc": "robocurve.org",
+      "source": "tech",
+      "tag": "⬆️ 21 points",
+      "url": "https://robocurve.org/roboharm/"
+    },
+    {
+      "title": "CBP suspends all personal prescription importation Oct 22",
+      "hot": "2.8m",
+      "desc": "personalimportation.org",
+      "source": "tech",
+      "tag": "⬆️ 67 points",
+      "url": "https://www.personalimportation.org/advocacy"
+    },
+    {
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "hot": "2.8m",
+      "desc": "reuters.com",
+      "source": "tech",
+      "tag": "⬆️ 154 points",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/"
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "hot": "2.8m",
+      "desc": "linear.app",
+      "source": "tech",
+      "tag": "⬆️ 83 points",
+      "url": "https://linear.app/now/ci-bottleneck-reworked"
+    },
+    {
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "hot": "2.8m",
+      "desc": "support.apple.com",
+      "source": "tech",
+      "tag": "⬆️ 199 points",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac"
+    },
+    {
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 378 points",
+      "url": "https://github.com/jaredpalmer/kev/tree/main"
+    },
+    {
+      "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
+      "hot": "2.7m",
+      "desc": "nongnu.org",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://www.nongnu.org/txr/"
+    },
+    {
+      "title": "Frontier AI on Your Own Hardware",
+      "hot": "2.7m",
+      "desc": "timdettmers.com",
+      "source": "tech",
+      "tag": "⬆️ 56 points",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
+    },
+    {
+      "title": "Python Workers are now generally available",
+      "hot": "2.7m",
+      "desc": "blog.cloudflare.com",
+      "source": "tech",
+      "tag": "⬆️ 158 points",
+      "url": "https://blog.cloudflare.com/python-workers-ga/"
+    }
+  ],
+  "space": [
+    {
+      "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory",
+      "hot": "9/21",
+      "desc": "The Republic of Albania signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, joining the coa",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/"
+    },
+    {
+      "title": "NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce",
+      "hot": "9/21",
+      "desc": "NASA kicked off its State Hubs for Skilled Technical Workforce initiative Sept. 15, 2026 with awardees at Space Center Houston. Agency leadership conv",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/"
+    },
+    {
+      "title": "Launch Preview: Electron, Falcon 9, and Starship set for launches",
+      "hot": "9/21",
+      "desc": "A total of five orbital launches are scheduled this week. SpaceX will launch its Falcon…\nThe post Launch Preview: Electron, Falcon 9, and Starship set",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092126/"
+    },
+    {
+      "title": "Perseverance’s View of ‘Turquoise Bay’",
+      "hot": "9/21",
+      "desc": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this 360-degree panorama of “Turquoise Bay,” a geologic area of intere",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/"
+    },
+    {
+      "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
+      "hot": "9/21",
+      "desc": "NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/"
+    },
+    {
+      "title": "SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch",
+      "hot": "9/21",
+      "desc": "The first planned orbital Starship mission is scheduled for launch from Starbase in Texas as soon as Sept. 28, pending final approval from the Federal",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/"
+    },
+    {
+      "title": "Exolaunch, Space Cargo book Starship Starfall missions",
+      "hot": "9/21",
+      "desc": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…\nThe post Exolaunch, Space Cargo book Starship Starfall mi",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/"
+    },
+    {
+      "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
+      "hot": "9/21",
+      "desc": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/"
+    },
+    {
+      "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
+      "hot": "9/21",
+      "desc": "\nSeptember 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA)",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/"
+    },
+    {
+      "title": "Pikachu in the Cupola",
+      "hot": "9/21",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"
+    },
+    {
+      "title": "ESA x TPCI - Pikachu in the Cupola",
+      "hot": "9/21",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
+    },
+    {
+      "title": "Juice to fly past Earth for third gravity assist",
+      "hot": "9/21",
+      "desc": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft cl",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist"
+    },
+    {
+      "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
+      "hot": "9/21",
+      "desc": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Pa",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/"
+    },
+    {
+      "title": "ESA brings public and private capital together to accelerate Europe’s space economy",
+      "hot": "9/21",
+      "desc": "Paris, 18 September 2026 – Access to appropriate finance is becoming a strategic enabler of Europe’s space ambitions. At ESA Headquarters in Paris, in",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy"
+    },
+    {
+      "title": "ESA and ISRO extend and broaden cooperation agreement",
+      "hot": "9/21",
+      "desc": "The European Space Agency (ESA) and the Indian Space Research Organisation (ISRO) have signed an exchange of letters extending their long-standing Coo",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement"
+    }
+  ],
+  "github": [
+    {
+      "title": "browser-use/jev-ultrafast: Fastest and cheapest web agent",
+      "hot": "⭐ 15.5k",
+      "desc": "Fastest and cheapest web agent",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/browser-use/jev-ultrafast"
+    },
+    {
+      "title": "NandhaKishorM/laya: ",
+      "hot": "⭐ 9.8k",
+      "desc": "NandhaKishorM/laya",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/NandhaKishorM/laya"
+    },
+    {
+      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
+      "hot": "⭐ 5.9k",
+      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/tamaratran/fast-jev-compaction"
+    },
+    {
+      "title": "zai-org/ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "hot": "⭐ 5.5k",
+      "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/zai-org/ZCode"
+    },
+    {
+      "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
+      "hot": "⭐ 4.3k",
+      "desc": "The Photoshop alternative for Mac",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/robbietilton/Compositor"
+    },
+    {
+      "title": "mizorewww/laya-mlx: Native MLX runtime for Laya typed decision models — 7–14 ms ",
+      "hot": "⭐ 3.7k",
+      "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mizorewww/laya-mlx"
+    },
+    {
+      "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
+      "hot": "⭐ 3.2k",
+      "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/TheoLeeCJ/SemIf"
+    },
+    {
+      "title": "jaredpalmer/kev: tiny Jev-like family of decision models built on top of Qwen3.5",
+      "hot": "⭐ 2.4k",
+      "desc": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/jaredpalmer/kev"
+    },
+    {
+      "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
+      "hot": "⭐ 2.4k",
+      "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mcncarl/jianying-headless"
+    },
+    {
+      "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
+      "hot": "⭐ 1.8k",
+      "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/jarrodwatts/jev-trader"
+    },
+    {
+      "title": "TianyuCodings/NanoJev: A nano replica of Jev: parallel decisions, dynamic candid",
+      "hot": "⭐ 1.8k",
+      "desc": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/TianyuCodings/NanoJev"
+    },
+    {
+      "title": "bespokelabsai/nimble: Local typed decisions, contrastive data curation, and mode",
+      "hot": "⭐ 1.5k",
+      "desc": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/bespokelabsai/nimble"
+    },
+    {
+      "title": "Mak5er/AirCard: Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "hot": "⭐ 1.3k",
+      "desc": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/Mak5er/AirCard"
+    },
+    {
+      "title": "vinnylarouge/jevlike: ",
+      "hot": "⭐ 1.2k",
+      "desc": "vinnylarouge/jevlike",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/vinnylarouge/jevlike"
+    },
+    {
+      "title": "QwenLM/Qwen-Image-2.1: Qwen's most powerful open-source image generation model",
+      "hot": "⭐ 985",
+      "desc": "Qwen's most powerful open-source image generation model",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/QwenLM/Qwen-Image-2.1"
     }
   ]
 }
