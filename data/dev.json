@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 62 💬 25",
+      "hot": "❤️ 63 💬 25",
       "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
@@ -10,7 +10,7 @@
     },
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 53 💬 34",
+      "hot": "❤️ 53 💬 35",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -63,22 +63,6 @@
       "source": "dev",
       "tag": "security,  devops",
       "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf"
-    },
-    {
-      "title": "Progressive Disclosure: What, Where, When, and Why",
-      "hot": "❤️ 16 💬 11",
-      "desc": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
-      "source": "dev",
-      "tag": "ai,  claude",
-      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3"
-    },
-    {
-      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
-      "hot": "❤️ 10 💬 1",
-      "desc": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
-      "source": "dev",
-      "tag": "ai,  firebase",
-      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh"
     },
     {
       "title": "ELT with Dataform on Google Cloud",
@@ -154,12 +138,28 @@
     },
     {
       "title": "Welcome Thread - v 393",
-      "hot": "❤️ 74 💬 354",
+      "hot": "❤️ 77 💬 355",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/sloan/welcome-thread-v-393-5f09"
+    },
+    {
+      "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated t",
+      "source": "dev",
+      "tag": "mcp,  gemma",
+      "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3"
+    },
+    {
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "hot": "❤️ 32 💬 6",
+      "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
+      "source": "dev",
+      "tag": "raspberrypi,  gemma",
+      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke"
     }
   ],
-  "updatedAt": "2026-09-20T23:19:12.317Z"
+  "updatedAt": "2026-09-21T01:16:00.163Z"
 }
