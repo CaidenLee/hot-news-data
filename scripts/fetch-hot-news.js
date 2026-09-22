@@ -139,6 +139,7 @@ async function fetchDouyin() {
 }
 
 async function fetchGithub() {
+  const weekAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
   try {
     const weekAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
     const html = await get(`https://api.github.com/search/repositories?q=created:>=${weekAgo}&sort=stars&order=desc&per_page=15`, { Accept: 'application/vnd.github+json' });
