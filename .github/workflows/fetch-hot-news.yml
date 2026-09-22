@@ -1,7 +1,6 @@
 name: 🔥 定时抓取热点
 
 on:
-  # 触发由 Cloudflare Worker cron 接管，GitHub schedule 保留作备用
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
@@ -13,18 +12,20 @@ jobs:
       contents: write
 
     steps:
-      - name: 检出代码
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: 安装 Node.js
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: 执行抓取脚本
+      - name: Fetch hot news with AI summary
+        env:
+          SILICONFLOW_KEY: ${{ secrets.SILICONFLOW_KEY }}
         run: node scripts/fetch-hot-news.js
 
-      - name: 推送到飞书
+      - name: Push to Feishu
         if: always()
         env:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
@@ -32,10 +33,10 @@ jobs:
           FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
         run: node scripts/push-feishu.js
 
-      - name: 提交更新后的数据
+      - name: Commit and push
         run: |
           git config user.name "hot-news-bot"
           git config user.email "bot@hot-news.app"
           git add data/
-          git diff --staged --quiet || git commit -m "🤖 自动更新热点数据 $(date '+%Y-%m-%d %H:%M')"
+          git diff --staged --quiet || git commit -m "🤖 auto-update"
           git push
