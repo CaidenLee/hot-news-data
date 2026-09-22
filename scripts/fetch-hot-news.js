@@ -46,19 +46,32 @@ function post(url, body, headers = {}) {
   });
 }
 
-// AI 调用：fetch 调 Worker（不加 AbortController，Node 20 上有 bug）
+// AI 调用：https.request 调 Worker（GitHub Actions 上 fetch 有问题）
 async function aiCall(repo) {
   const body = JSON.stringify({
     messages: [{ role: 'user', content: `GitHub仓库: ${repo.full_name}\n描述: ${repo.description || '(无)'}\n\n用中文一句话30字内说清这个项目做什么，直接输出。` }],
     max_tokens: 60,
   });
-  const r = await fetch('https://cloudflare-cron-trigger.486569.workers.dev/ai?secret=hotnews-ai-proxy-2026', {
-    method: 'POST', headers: { 'Content-Type': 'application/json' }, body,
+  return new Promise((resolve, reject) => {
+    const req = https.request({
+      hostname: 'cloudflare-cron-trigger.486569.workers.dev',
+      path: '/ai?secret=hotnews-ai-proxy-2026',
+      method: 'POST', timeout: 30000,
+      headers: { 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body) },
+    }, (res) => {
+      let d = '';
+      res.on('data', (c) => (d += c));
+      res.on('end', () => {
+        if (res.statusCode >= 200 && res.statusCode < 300) {
+          try { resolve((JSON.parse(d).choices?.[0]?.message?.content || '').trim()); }
+          catch(e) { resolve(''); }
+        } else { reject(new Error('HTTP ' + res.statusCode)); }
+      });
+    });
+    req.on('error', reject);
+    req.on('timeout', () => { req.destroy(); reject(new Error('timeout')); });
+    req.write(body); req.end();
   });
-  if (!r.ok) throw new Error('HTTP ' + r.status);
-  const j = await r.json();
-  if (j.error) throw new Error(j.error);
-  return (j.choices?.[0]?.message?.content || '').trim();
 }
 
 // AI 总结（限制数量 + 串行，通过 Cloudflare Worker 代理）
