@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T02:47:59.281Z",
+  "updatedAt": "2026-09-22T03:00:22.442Z",
   "source": "live",
   "dev": [
     {
@@ -169,7 +169,7 @@
       "hot": "3.0m",
       "desc": "mimo.xiaomi.com",
       "source": "tech",
-      "tag": "⬆️ 587 points",
+      "tag": "⬆️ 596 points",
       "url": "https://mimo.xiaomi.com/mimo-v2-6"
     },
     {
@@ -177,7 +177,7 @@
       "hot": "3.0m",
       "desc": "brand.io",
       "source": "tech",
-      "tag": "⬆️ 158 points",
+      "tag": "⬆️ 166 points",
       "url": "https://brand.io/article/spymarks/"
     },
     {
@@ -185,23 +185,15 @@
       "hot": "3.0m",
       "desc": "blog.colinbreck.com",
       "source": "tech",
-      "tag": "⬆️ 321 points",
+      "tag": "⬆️ 339 points",
       "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/"
     },
     {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "hot": "3.0m",
-      "desc": "status.claude.com",
-      "source": "tech",
-      "tag": "⬆️ 70 points",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh"
-    },
-    {
       "title": "Transformers Explained Visually",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "poloclub.github.io",
       "source": "tech",
-      "tag": "⬆️ 224 points",
+      "tag": "⬆️ 226 points",
       "url": "https://poloclub.github.io/transformer-explainer/"
     },
     {
@@ -209,7 +201,7 @@
       "hot": "2.9m",
       "desc": "bcantrill.dtrace.org",
       "source": "tech",
-      "tag": "⬆️ 513 points",
+      "tag": "⬆️ 514 points",
       "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"
     },
     {
@@ -217,7 +209,7 @@
       "hot": "2.9m",
       "desc": "alicegg.tech",
       "source": "tech",
-      "tag": "⬆️ 600 points",
+      "tag": "⬆️ 604 points",
       "url": "https://alicegg.tech/2026/09/21/attention"
     },
     {
@@ -225,15 +217,23 @@
       "hot": "2.9m",
       "desc": "science.org",
       "source": "tech",
-      "tag": "⬆️ 321 points",
+      "tag": "⬆️ 322 points",
       "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"
+    },
+    {
+      "title": "Claude Status – Elevated errors for multiple models",
+      "hot": "2.9m",
+      "desc": "status.claude.com",
+      "source": "tech",
+      "tag": "⬆️ 71 points",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh"
     },
     {
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "hot": "2.9m",
       "desc": "linear.app",
       "source": "tech",
-      "tag": "⬆️ 153 points",
+      "tag": "⬆️ 155 points",
       "url": "https://linear.app/now/ci-bottleneck-reworked"
     },
     {
@@ -241,31 +241,31 @@
       "hot": "2.9m",
       "desc": "lwn.net",
       "source": "tech",
-      "tag": "⬆️ 40 points",
+      "tag": "⬆️ 41 points",
       "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/"
     },
     {
-      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "hot": "2.9m",
-      "desc": "variety.com",
-      "source": "tech",
-      "tag": "⬆️ 50 points",
-      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/"
-    },
-    {
       "title": "Divide by depth for instant 3D",
-      "hot": "2.8m",
+      "hot": "2.9m",
       "desc": "gabrieloc.com",
       "source": "tech",
-      "tag": "⬆️ 90 points",
+      "tag": "⬆️ 92 points",
       "url": "https://gabrieloc.com/2026/09/15/perspective.html"
+    },
+    {
+      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+      "hot": "2.8m",
+      "desc": "variety.com",
+      "source": "tech",
+      "tag": "⬆️ 52 points",
+      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/"
     },
     {
       "title": "The Advisory Group on Mathematics and Artificial Intelligence",
       "hot": "2.8m",
       "desc": "terrytao.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 96 points",
+      "tag": "⬆️ 97 points",
       "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
     },
     {
@@ -285,14 +285,6 @@
       "url": "https://wizardzines.com/comics/floating-point-alternatives/"
     },
     {
-      "title": "Socrates vs. the Written Word (2011)",
-      "hot": "2.8m",
-      "desc": "wondermark.com",
-      "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://wondermark.com/socrates-vs-writing/"
-    },
-    {
       "title": "How do traffic signals work? (2019)",
       "hot": "2.8m",
       "desc": "practical.engineering",
@@ -301,28 +293,36 @@
       "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work"
     },
     {
+      "title": "Socrates vs. the Written Word (2011)",
+      "hot": "2.8m",
+      "desc": "wondermark.com",
+      "source": "tech",
+      "tag": "⬆️ 10 points",
+      "url": "https://wondermark.com/socrates-vs-writing/"
+    },
+    {
       "title": "Frontier AI on Your Own Hardware",
       "hot": "2.7m",
       "desc": "timdettmers.com",
       "source": "tech",
-      "tag": "⬆️ 109 points",
+      "tag": "⬆️ 110 points",
       "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
+    },
+    {
+      "title": "Truman World",
+      "hot": "2.7m",
+      "desc": "trumanworld.live",
+      "source": "tech",
+      "tag": "⬆️ 3 points",
+      "url": "https://trumanworld.live"
     },
     {
       "title": "Why does mathmain need an encrypted loader?",
       "hot": "2.7m",
       "desc": "safedep.io",
       "source": "tech",
-      "tag": "⬆️ 112 points",
+      "tag": "⬆️ 113 points",
       "url": "https://safedep.io/mathmain-encrypted-loader/"
-    },
-    {
-      "title": "Grok 4.7",
-      "hot": "2.7m",
-      "desc": "x.ai",
-      "source": "tech",
-      "tag": "⬆️ 513 points",
-      "url": "https://x.ai/news/grok-4-7"
     }
   ],
   "github": [
@@ -336,7 +336,7 @@
     },
     {
       "title": "NandhaKishorM/laya: ",
-      "hot": "⭐ 11.0k",
+      "hot": "⭐ 11.1k",
       "desc": "NandhaKishorM/laya",
       "source": "github",
       "tag": "Python",
@@ -360,7 +360,7 @@
     },
     {
       "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
-      "hot": "⭐ 4.4k",
+      "hot": "⭐ 4.5k",
       "desc": "The Photoshop alternative for Mac",
       "source": "github",
       "tag": "Swift",
@@ -368,7 +368,7 @@
     },
     {
       "title": "mizorewww/laya-mlx: Native MLX runtime for Laya typed decision models — 7–14 ms ",
-      "hot": "⭐ 4.0k",
+      "hot": "⭐ 4.1k",
       "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "source": "github",
       "tag": "Python",
@@ -384,7 +384,7 @@
     },
     {
       "title": "jaredpalmer/kev: tiny Jev-like family of decision models built on top of Qwen3.5",
-      "hot": "⭐ 2.5k",
+      "hot": "⭐ 2.6k",
       "desc": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
       "source": "github",
       "tag": "Python",
@@ -416,7 +416,7 @@
     },
     {
       "title": "Mak5er/AirCard: Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-      "hot": "⭐ 1.5k",
+      "hot": "⭐ 1.6k",
       "desc": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
       "source": "github",
       "tag": "Swift",
