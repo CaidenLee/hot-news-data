@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T22:20:19.911Z",
+  "updatedAt": "2026-09-22T00:55:39.684Z",
   "source": "live",
   "dev": [
     {
@@ -83,22 +83,6 @@
       "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
     },
     {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "hot": "❤️ 11 💬 5",
-      "desc": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP to",
-      "source": "dev",
-      "tag": "amd,  vllm",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9"
-    },
-    {
-      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
-      "hot": "❤️ 8 💬 1",
-      "desc": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through ",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h"
-    },
-    {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
       "hot": "❤️ 10 💬 3",
       "desc": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 ",
@@ -161,168 +145,22 @@
       "source": "dev",
       "tag": "ai,  programming",
       "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Xiaomi MiMo v2.6",
-      "hot": "3.0m",
-      "desc": "mimo.xiaomi.com",
-      "source": "tech",
-      "tag": "⬆️ 305 points",
-      "url": "https://mimo.xiaomi.com/mimo-v2-6"
     },
     {
-      "title": "The NASA/ESA Mars Sample Return mission has been canceled",
-      "hot": "3.0m",
-      "desc": "science.org",
-      "source": "tech",
-      "tag": "⬆️ 216 points",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"
+      "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
+      "hot": "❤️ 126 💬 42",
+      "desc": "TL;DR  GPT-6 Astra has started another familiar AI conversation. The model is more capable, Jensen...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al"
     },
     {
-      "title": "Transformers Explained Visually",
-      "hot": "3.0m",
-      "desc": "poloclub.github.io",
-      "source": "tech",
-      "tag": "⬆️ 103 points",
-      "url": "https://poloclub.github.io/transformer-explainer/"
-    },
-    {
-      "title": "What Sun got wrong",
-      "hot": "3.0m",
-      "desc": "bcantrill.dtrace.org",
-      "source": "tech",
-      "tag": "⬆️ 449 points",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"
-    },
-    {
-      "title": "Attention is all you have",
-      "hot": "2.9m",
-      "desc": "alicegg.tech",
-      "source": "tech",
-      "tag": "⬆️ 497 points",
-      "url": "https://alicegg.tech/2026/09/21/attention"
-    },
-    {
-      "title": "Divide by Depth for Instant 3D",
-      "hot": "2.9m",
-      "desc": "gabrieloc.com",
-      "source": "tech",
-      "tag": "⬆️ 44 points",
-      "url": "https://gabrieloc.com/2026/09/15/perspective.html"
-    },
-    {
-      "title": "Why does mathmain need an encrypted loader?",
-      "hot": "2.9m",
-      "desc": "safedep.io",
-      "source": "tech",
-      "tag": "⬆️ 88 points",
-      "url": "https://safedep.io/mathmain-encrypted-loader/"
-    },
-    {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "hot": "2.9m",
-      "desc": "terrytao.wordpress.com",
-      "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
-    },
-    {
-      "title": "Apple Copland D11E4 Booting in the Browser",
-      "hot": "2.9m",
-      "desc": "pagetable.com",
-      "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://www.pagetable.com/300"
-    },
-    {
-      "title": "Grok 4.7",
-      "hot": "2.9m",
-      "desc": "x.ai",
-      "source": "tech",
-      "tag": "⬆️ 440 points",
-      "url": "https://x.ai/news/grok-4-7"
-    },
-    {
-      "title": "In Search of a Compositional Theory of Self-Stabilization",
-      "hot": "2.9m",
-      "desc": "muratbuffalo.blogspot.com",
-      "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html"
-    },
-    {
-      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-      "hot": "2.8m",
-      "desc": "robocurve.org",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://robocurve.org/roboharm/"
-    },
-    {
-      "title": "CBP suspends all personal prescription importation Oct 22",
-      "hot": "2.8m",
-      "desc": "personalimportation.org",
-      "source": "tech",
-      "tag": "⬆️ 67 points",
-      "url": "https://www.personalimportation.org/advocacy"
-    },
-    {
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
-      "hot": "2.8m",
-      "desc": "reuters.com",
-      "source": "tech",
-      "tag": "⬆️ 154 points",
-      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/"
-    },
-    {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "hot": "2.8m",
-      "desc": "linear.app",
-      "source": "tech",
-      "tag": "⬆️ 83 points",
-      "url": "https://linear.app/now/ci-bottleneck-reworked"
-    },
-    {
-      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "hot": "2.8m",
-      "desc": "support.apple.com",
-      "source": "tech",
-      "tag": "⬆️ 199 points",
-      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac"
-    },
-    {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 378 points",
-      "url": "https://github.com/jaredpalmer/kev/tree/main"
-    },
-    {
-      "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
-      "hot": "2.7m",
-      "desc": "nongnu.org",
-      "source": "tech",
-      "tag": "⬆️ 9 points",
-      "url": "https://www.nongnu.org/txr/"
-    },
-    {
-      "title": "Frontier AI on Your Own Hardware",
-      "hot": "2.7m",
-      "desc": "timdettmers.com",
-      "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
-    },
-    {
-      "title": "Python Workers are now generally available",
-      "hot": "2.7m",
-      "desc": "blog.cloudflare.com",
-      "source": "tech",
-      "tag": "⬆️ 158 points",
-      "url": "https://blog.cloudflare.com/python-workers-ga/"
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "hot": "❤️ 12 💬 5",
+      "desc": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figu",
+      "source": "dev",
+      "tag": "amd,  mcp",
+      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
     }
   ],
   "space": [
@@ -450,7 +288,7 @@
   "github": [
     {
       "title": "browser-use/jev-ultrafast: Fastest and cheapest web agent",
-      "hot": "⭐ 15.5k",
+      "hot": "⭐ 15.7k",
       "desc": "Fastest and cheapest web agent",
       "source": "github",
       "tag": "Python",
@@ -458,7 +296,7 @@
     },
     {
       "title": "NandhaKishorM/laya: ",
-      "hot": "⭐ 9.8k",
+      "hot": "⭐ 10.3k",
       "desc": "NandhaKishorM/laya",
       "source": "github",
       "tag": "Python",
@@ -466,7 +304,7 @@
     },
     {
       "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
-      "hot": "⭐ 5.9k",
+      "hot": "⭐ 6.0k",
       "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
       "source": "github",
       "tag": "TypeScript",
@@ -474,7 +312,7 @@
     },
     {
       "title": "zai-org/ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "hot": "⭐ 5.5k",
+      "hot": "⭐ 5.6k",
       "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "source": "github",
       "tag": "TypeScript",
@@ -482,7 +320,7 @@
     },
     {
       "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
-      "hot": "⭐ 4.3k",
+      "hot": "⭐ 4.4k",
       "desc": "The Photoshop alternative for Mac",
       "source": "github",
       "tag": "Swift",
@@ -490,7 +328,7 @@
     },
     {
       "title": "mizorewww/laya-mlx: Native MLX runtime for Laya typed decision models — 7–14 ms ",
-      "hot": "⭐ 3.7k",
+      "hot": "⭐ 3.9k",
       "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "source": "github",
       "tag": "Python",
@@ -506,7 +344,7 @@
     },
     {
       "title": "jaredpalmer/kev: tiny Jev-like family of decision models built on top of Qwen3.5",
-      "hot": "⭐ 2.4k",
+      "hot": "⭐ 2.5k",
       "desc": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
       "source": "github",
       "tag": "Python",
@@ -522,7 +360,7 @@
     },
     {
       "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
-      "hot": "⭐ 1.8k",
+      "hot": "⭐ 1.9k",
       "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
       "source": "github",
       "tag": "TypeScript",
@@ -546,7 +384,7 @@
     },
     {
       "title": "Mak5er/AirCard: Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-      "hot": "⭐ 1.3k",
+      "hot": "⭐ 1.4k",
       "desc": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
       "source": "github",
       "tag": "Swift",
@@ -561,12 +399,174 @@
       "url": "https://github.com/vinnylarouge/jevlike"
     },
     {
-      "title": "QwenLM/Qwen-Image-2.1: Qwen's most powerful open-source image generation model",
-      "hot": "⭐ 985",
-      "desc": "Qwen's most powerful open-source image generation model",
+      "title": "jev-chat/jev-chat-jarvis: 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你",
+      "hot": "⭐ 1.0k",
+      "desc": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/QwenLM/Qwen-Image-2.1"
+      "tag": "Kotlin",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Xiaomi MiMo v2.6",
+      "hot": "3.0m",
+      "desc": "mimo.xiaomi.com",
+      "source": "tech",
+      "tag": "⬆️ 493 points",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6"
+    },
+    {
+      "title": "Spymarks, Not Watermarks",
+      "hot": "3.0m",
+      "desc": "brand.io",
+      "source": "tech",
+      "tag": "⬆️ 67 points",
+      "url": "https://brand.io/article/spymarks/"
+    },
+    {
+      "title": "I don't want to read what you didn't write",
+      "hot": "3.0m",
+      "desc": "blog.colinbreck.com",
+      "source": "tech",
+      "tag": "⬆️ 185 points",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/"
+    },
+    {
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "hot": "3.0m",
+      "desc": "science.org",
+      "source": "tech",
+      "tag": "⬆️ 292 points",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "hot": "2.9m",
+      "desc": "poloclub.github.io",
+      "source": "tech",
+      "tag": "⬆️ 177 points",
+      "url": "https://poloclub.github.io/transformer-explainer/"
+    },
+    {
+      "title": "What Sun got wrong",
+      "hot": "2.9m",
+      "desc": "bcantrill.dtrace.org",
+      "source": "tech",
+      "tag": "⬆️ 492 points",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"
+    },
+    {
+      "title": "Attention is all you have",
+      "hot": "2.9m",
+      "desc": "alicegg.tech",
+      "source": "tech",
+      "tag": "⬆️ 563 points",
+      "url": "https://alicegg.tech/2026/09/21/attention"
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "hot": "2.9m",
+      "desc": "linear.app",
+      "source": "tech",
+      "tag": "⬆️ 128 points",
+      "url": "https://linear.app/now/ci-bottleneck-reworked"
+    },
+    {
+      "title": "Looking forward to Git 2.56 – and 3.0",
+      "hot": "2.9m",
+      "desc": "lwn.net",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/"
+    },
+    {
+      "title": "First Shader from Zero in Godot 4",
+      "hot": "2.9m",
+      "desc": "gdquest.com",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://www.gdquest.com/library/first_shader_godot4_portal/"
+    },
+    {
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "hot": "2.9m",
+      "desc": "terrytao.wordpress.com",
+      "source": "tech",
+      "tag": "⬆️ 78 points",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
+    },
+    {
+      "title": "Divide by depth for instant 3D",
+      "hot": "2.8m",
+      "desc": "gabrieloc.com",
+      "source": "tech",
+      "tag": "⬆️ 72 points",
+      "url": "https://gabrieloc.com/2026/09/15/perspective.html"
+    },
+    {
+      "title": "Why does mathmain need an encrypted loader?",
+      "hot": "2.8m",
+      "desc": "safedep.io",
+      "source": "tech",
+      "tag": "⬆️ 104 points",
+      "url": "https://safedep.io/mathmain-encrypted-loader/"
+    },
+    {
+      "title": "How do traffic signals work? (2019)",
+      "hot": "2.8m",
+      "desc": "practical.engineering",
+      "source": "tech",
+      "tag": "⬆️ 60 points",
+      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work"
+    },
+    {
+      "title": "Apple Copland D11E4 Booting in the Browser",
+      "hot": "2.8m",
+      "desc": "pagetable.com",
+      "source": "tech",
+      "tag": "⬆️ 89 points",
+      "url": "https://www.pagetable.com/300"
+    },
+    {
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "hot": "2.8m",
+      "desc": "support.apple.com",
+      "source": "tech",
+      "tag": "⬆️ 235 points",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac"
+    },
+    {
+      "title": "Grok 4.7",
+      "hot": "2.8m",
+      "desc": "x.ai",
+      "source": "tech",
+      "tag": "⬆️ 489 points",
+      "url": "https://x.ai/news/grok-4-7"
+    },
+    {
+      "title": "Frontier AI on Your Own Hardware",
+      "hot": "2.7m",
+      "desc": "timdettmers.com",
+      "source": "tech",
+      "tag": "⬆️ 93 points",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
+    },
+    {
+      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+      "hot": "2.7m",
+      "desc": "robocurve.org",
+      "source": "tech",
+      "tag": "⬆️ 34 points",
+      "url": "https://robocurve.org/roboharm/"
+    },
+    {
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 402 points",
+      "url": "https://github.com/jaredpalmer/kev/tree/main"
     }
   ]
 }

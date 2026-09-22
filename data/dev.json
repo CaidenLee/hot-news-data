@@ -81,22 +81,6 @@
       "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
     },
     {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "hot": "❤️ 11 💬 5",
-      "desc": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP to",
-      "source": "dev",
-      "tag": "amd,  vllm",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9"
-    },
-    {
-      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
-      "hot": "❤️ 8 💬 1",
-      "desc": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through ",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h"
-    },
-    {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
       "hot": "❤️ 10 💬 3",
       "desc": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 ",
@@ -159,7 +143,23 @@
       "source": "dev",
       "tag": "ai,  programming",
       "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd"
+    },
+    {
+      "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
+      "hot": "❤️ 126 💬 42",
+      "desc": "TL;DR  GPT-6 Astra has started another familiar AI conversation. The model is more capable, Jensen...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al"
+    },
+    {
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "hot": "❤️ 12 💬 5",
+      "desc": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figu",
+      "source": "dev",
+      "tag": "amd,  mcp",
+      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
     }
   ],
-  "updatedAt": "2026-09-21T22:20:19.911Z"
+  "updatedAt": "2026-09-22T00:55:39.684Z"
 }
