@@ -46,20 +46,27 @@ function post(url, body, headers = {}) {
   });
 }
 
-// AI 调用（https.request 替代 fetch，GitHub Actions 兼容）
-async function aiCall(repo, sfKey) {
-  const body = {
-    model: 'Qwen/Qwen3.5-9B', temperature: 0.3, max_tokens: 50,
-    messages: [{ role: 'user', content: `GitHub仓库: ${repo.full_name}\n描述: ${repo.description || '(无)'}\n\n用中文一句话30字内说清这个项目做什么，直接输出。` }]
-  };
-  const raw = await post('https://api.siliconflow.cn/v1/chat/completions', body, { Authorization: `Bearer ${sfKey}` });
-  const j = JSON.parse(raw);
-  return (j.choices?.[0]?.message?.content || '').trim();
+// AI 调用：通过 Cloudflare Worker 代理，带超时保护
+async function aiCall(repo) {
+  const body = JSON.stringify({
+    messages: [{ role: 'user', content: `GitHub仓库: ${repo.full_name}\n描述: ${repo.description || '(无)'}\n\n用中文一句话30字内说清这个项目做什么，直接输出。` }],
+    max_tokens: 60,
+  });
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), 25000);
+  try {
+    const r = await fetch('https://cloudflare-cron-trigger.486569.workers.dev/ai?secret=hotnews-ai-proxy-2026', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' }, body, signal: ctrl.signal,
+    });
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const j = await r.json();
+    if (j.error) throw new Error(j.error);
+    return (j.choices?.[0]?.message?.content || '').trim();
+  } finally { clearTimeout(timer); }
 }
 
-// AI 总结（限制数量 + 串行）
-async function aiSummarize(repos, sfKey) {
-  if (!sfKey) { console.log('   [AI] 跳过: 无 SILICONFLOW_KEY'); return repos; }
+// AI 总结（限制数量 + 串行，通过 Cloudflare Worker 代理）
+async function aiSummarize(repos) {
   const targets = repos.slice(0, AI_MAX_REPOS);
   const results = [];
   for (const repo of repos) {
@@ -68,7 +75,7 @@ async function aiSummarize(repos, sfKey) {
       results.push({ ...repo, summary: '' }); continue; // 不在前 N
     }
     try {
-      const summary = await aiCall(repo, sfKey);
+      const summary = await aiCall(repo);
       results.push({ ...repo, summary });
       process.stdout.write('.');
     } catch (e) {
@@ -122,7 +129,7 @@ async function fetchDouyin() {
   } catch (e) { console.log('   抖音 失败:', e.message); return []; }
 }
 
-async function fetchGithub(sfKey) {
+async function fetchGithub() {
   try {
     const weekAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
     const html = await get(`https://api.github.com/search/repositories?q=created:>=${weekAgo}&sort=stars&order=desc&per_page=15`, { Accept: 'application/vnd.github+json' });
@@ -131,7 +138,7 @@ async function fetchGithub(sfKey) {
       full_name: it.full_name, description: it.description || '',
       stars: it.stargazers_count, url: it.html_url || '', language: it.language || '',
     }));
-    const enriched = await aiSummarize(repos, sfKey);
+    const enriched = await aiSummarize(repos);
     return enriched.map((it) => ({
       title: it.summary ? `${it.full_name} —— ${it.summary}` : it.full_name,
       hot: `⭐ ${it.stars}`, url: it.url, source: 'github', tag: it.language,
@@ -140,9 +147,8 @@ async function fetchGithub(sfKey) {
 }
 
 async function main() {
-  const sfKey = process.env.SILICONFLOW_KEY;
   console.log('🚀 开始抓取...');
-  console.log(`   AI: Qwen3.5-9B ${sfKey ? `(启用, 前${AI_MAX_REPOS}个)` : '(未启用)'}\n`);
+  console.log(`   AI: Qwen3.5-9B via Cloudflare Worker (前${AI_MAX_REPOS}个)\n`);
 
   const now = new Date().toISOString();
   const results = { updatedAt: now, source: 'live' };
@@ -153,7 +159,7 @@ async function main() {
     fetchDouyin().then(d => { results.douyin = d; console.log(`   🎵 抖音: ${d.length}`); }),
   ]);
 
-  results.github = await fetchGithub(sfKey);
+  results.github = await fetchGithub();
   console.log(`   ⭐ GitHub: ${results.github.length}`);
 
   const platforms = ['weibo', 'baidu', 'douyin', 'github'];
