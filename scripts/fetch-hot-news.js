@@ -55,7 +55,7 @@ async function aiSummarize(repos, sfKey) {
       process.stdout.write('.');
     } catch (e) {
       results.push({ ...repo, summary: '' });
-      process.stdout.write('x');
+      process.stdout.write('x'); console.error(' ', e.message?.substring(0,80));
     }
     await new Promise(r => setTimeout(r, 500));
   }
