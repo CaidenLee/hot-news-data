@@ -46,23 +46,19 @@ function post(url, body, headers = {}) {
   });
 }
 
-// AI 调用：通过 Cloudflare Worker 代理，带超时保护
+// AI 调用：fetch 调 Worker（不加 AbortController，Node 20 上有 bug）
 async function aiCall(repo) {
   const body = JSON.stringify({
     messages: [{ role: 'user', content: `GitHub仓库: ${repo.full_name}\n描述: ${repo.description || '(无)'}\n\n用中文一句话30字内说清这个项目做什么，直接输出。` }],
     max_tokens: 60,
   });
-  const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), 25000);
-  try {
-    const r = await fetch('https://cloudflare-cron-trigger.486569.workers.dev/ai?secret=hotnews-ai-proxy-2026', {
-      method: 'POST', headers: { 'Content-Type': 'application/json' }, body, signal: ctrl.signal,
-    });
-    if (!r.ok) throw new Error(`HTTP ${r.status}`);
-    const j = await r.json();
-    if (j.error) throw new Error(j.error);
-    return (j.choices?.[0]?.message?.content || '').trim();
-  } finally { clearTimeout(timer); }
+  const r = await fetch('https://cloudflare-cron-trigger.486569.workers.dev/ai?secret=hotnews-ai-proxy-2026', {
+    method: 'POST', headers: { 'Content-Type': 'application/json' }, body,
+  });
+  if (!r.ok) throw new Error('HTTP ' + r.status);
+  const j = await r.json();
+  if (j.error) throw new Error(j.error);
+  return (j.choices?.[0]?.message?.content || '').trim();
 }
 
 // AI 总结（限制数量 + 串行，通过 Cloudflare Worker 代理）
