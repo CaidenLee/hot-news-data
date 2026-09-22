@@ -23,20 +23,38 @@ function get(url, headers = {}) {
   });
 }
 
-// 单个 AI 调用（带超时）
-async function aiCall(repo, sfKey) {
-  const prompt = `GitHub仓库: ${repo.full_name}\n描述: ${repo.description || '(无)'}\n\n用中文一句话30字内说清这个项目做什么，直接输出。`;
-  const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), 20000);
-  try {
-    const r = await fetch('https://api.siliconflow.cn/v1/chat/completions', {
-      method: 'POST', signal: ctrl.signal,
-      headers: { 'Authorization': `Bearer ${sfKey}`, 'Content-Type': 'application/json' },
-      body: JSON.stringify({ model: 'Qwen/Qwen3.5-9B', messages: [{ role: 'user', content: prompt }], temperature: 0.3, max_tokens: 50 })
+// POST（用于 AI 调用，https 模块 + 可靠 timeout）
+function post(url, body, headers = {}) {
+  return new Promise((resolve, reject) => {
+    const u = new URL(url);
+    const data = typeof body === 'string' ? body : JSON.stringify(body);
+    const req = https.request({
+      hostname: u.hostname, path: u.pathname + u.search, method: 'POST',
+      timeout: 15000, headers: { 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(data), ...headers },
+    }, (res) => {
+      let d = '';
+      res.on('data', (c) => (d += c));
+      res.on('end', () => {
+        if (res.statusCode >= 200 && res.statusCode < 300) resolve(d);
+        else reject(new Error(`HTTP ${res.statusCode}: ${d?.substring(0, 100)}`));
+      });
     });
-    const j = await r.json();
-    return (j.choices?.[0]?.message?.content || '').trim();
-  } finally { clearTimeout(timer); }
+    req.on('error', reject);
+    req.on('timeout', () => { req.destroy(); reject(new Error('timeout')); });
+    req.write(data);
+    req.end();
+  });
+}
+
+// AI 调用（https.request 替代 fetch，GitHub Actions 兼容）
+async function aiCall(repo, sfKey) {
+  const body = {
+    model: 'Qwen/Qwen3.5-9B', temperature: 0.3, max_tokens: 50,
+    messages: [{ role: 'user', content: `GitHub仓库: ${repo.full_name}\n描述: ${repo.description || '(无)'}\n\n用中文一句话30字内说清这个项目做什么，直接输出。` }]
+  };
+  const raw = await post('https://api.siliconflow.cn/v1/chat/completions', body, { Authorization: `Bearer ${sfKey}` });
+  const j = JSON.parse(raw);
+  return (j.choices?.[0]?.message?.content || '').trim();
 }
 
 // AI 总结（限制数量 + 串行）
