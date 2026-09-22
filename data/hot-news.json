@@ -1,572 +1,432 @@
 {
-  "updatedAt": "2026-09-22T03:30:27.015Z",
+  "updatedAt": "2026-09-22T03:44:33.147Z",
   "source": "live",
-  "dev": [
+  "weibo": [
     {
-      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
-      "hot": "❤️ 18 💬 6",
-      "desc": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-ass",
-      "source": "dev",
-      "tag": "ai,  devsecops",
-      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4"
+      "title": "怪不得我们都喜欢睡觉盖被子",
+      "hot": "175万",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E6%88%91%E4%BB%AC%E9%83%BD%E5%96%9C%E6%AC%A2%E7%9D%A1%E8%A7%89%E7%9B%96%E8%A2%AB%E5%AD%90%23",
+      "source": "weibo",
+      "tag": "爆"
     },
     {
-      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 70 💬 29",
-      "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
+      "title": "月饼 卖不动",
+      "hot": "112万",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%A5%BC%20%E5%8D%96%E4%B8%8D%E5%8A%A8%23",
+      "source": "weibo",
+      "tag": "热"
     },
     {
-      "title": "Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs",
-      "hot": "❤️ 6 💬 2",
-      "desc": "How combining Dart's Enhanced Enums with constructor tearoffs turns simple enum values into self-instantiating, type-saf",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9"
+      "title": "高质量发展安徽行",
+      "hot": "110万",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E5%AE%89%E5%BE%BD%E8%A1%8C%23",
+      "source": "weibo",
+      "tag": "热"
     },
     {
-      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif"
+      "title": "上京东买OPPO新机和沈月去追秋",
+      "hot": "110万",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%BA%AC%E4%B8%9C%E4%B9%B0OPPO%E6%96%B0%E6%9C%BA%E5%92%8C%E6%B2%88%E6%9C%88%E5%8E%BB%E8%BF%BD%E7%A7%8B%23",
+      "source": "weibo",
+      "tag": ""
     },
     {
-      "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
-      "hot": "❤️ 7 💬 0",
-      "desc": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using th",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b"
+      "title": "盛夏晴朗",
+      "hot": "110万",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%9B%9B%E5%A4%8F%E6%99%B4%E6%9C%97%23",
+      "source": "weibo",
+      "tag": ""
     },
     {
-      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
-      "hot": "❤️ 4 💬 0",
-      "desc": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from",
-      "source": "dev",
-      "tag": "python,  debugging",
-      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f"
+      "title": "校方称逃避军训男生正在办理退学",
+      "hot": "101万",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E7%A7%B0%E9%80%83%E9%81%BF%E5%86%9B%E8%AE%AD%E7%94%B7%E7%94%9F%E6%AD%A3%E5%9C%A8%E5%8A%9E%E7%90%86%E9%80%80%E5%AD%A6%23",
+      "source": "weibo",
+      "tag": ""
     },
     {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue",
-      "source": "dev",
-      "tag": "mcp,  iceberg",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605"
+      "title": "美心月饼打六折卖",
+      "hot": "82万",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%BF%83%E6%9C%88%E9%A5%BC%E6%89%93%E5%85%AD%E6%8A%98%E5%8D%96%23",
+      "source": "weibo",
+      "tag": ""
     },
     {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 65 💬 42",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb"
+      "title": "盛夏晴朗原班人马",
+      "hot": "57万",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%9B%9B%E5%A4%8F%E6%99%B4%E6%9C%97%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%23",
+      "source": "weibo",
+      "tag": ""
     },
     {
-      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250"
+      "title": "iPhone18系列第一批受害者来了",
+      "hot": "54万",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E6%9D%A5%E4%BA%86%23",
+      "source": "weibo",
+      "tag": ""
     },
     {
-      "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
-      "hot": "❤️ 9 💬 1",
-      "desc": "Apple's container CLI 1.4.1 cannot boot the official debian:13 image as a machine, because it has no /sbin/init. A small",
-      "source": "dev",
-      "tag": "debian,  macos",
-      "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
+      "title": "日本选手遭张展硕逆转称不甘心",
+      "hot": "46万",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E9%81%AD%E5%BC%A0%E5%B1%95%E7%A1%95%E9%80%86%E8%BD%AC%E7%A7%B0%E4%B8%8D%E7%94%98%E5%BF%83%23",
+      "source": "weibo",
+      "tag": ""
     },
     {
-      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
-      "hot": "❤️ 10 💬 3",
-      "desc": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 ",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
+      "title": "不二之臣致歉声明",
+      "hot": "39万",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E4%BA%8C%E4%B9%8B%E8%87%A3%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23",
+      "source": "weibo",
+      "tag": ""
     },
     {
-      "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Schema-valid is not content-correct · Part 1/3           It starts with a storyboard a...",
-      "source": "dev",
-      "tag": "googlecloud,  adk",
-      "url": "https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6"
+      "title": "张家齐15年赚的钱都被妈妈抢走了",
+      "hot": "39万",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%9015%E5%B9%B4%E8%B5%9A%E7%9A%84%E9%92%B1%E9%83%BD%E8%A2%AB%E5%A6%88%E5%A6%88%E6%8A%A2%E8%B5%B0%E4%BA%86%23",
+      "source": "weibo",
+      "tag": ""
     },
     {
-      "title": "The beauty and terror of negative feedback",
-      "hot": "❤️ 21 💬 9",
-      "desc": "Giving my first conference talk recently was an absolute thrill. I was excited, not overly nervous,...",
-      "source": "dev",
-      "tag": "mentalhealth,  techtalks",
-      "url": "https://dev.to/amandamayfield/the-beauty-and-terror-of-negative-feedback-2g4d"
+      "title": "朴信惠二胎产女",
+      "hot": "39万",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B4%E4%BF%A1%E6%83%A0%E4%BA%8C%E8%83%8E%E4%BA%A7%E5%A5%B3%23",
+      "source": "weibo",
+      "tag": ""
     },
     {
-      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA ",
-      "source": "dev",
-      "tag": "security,  devops",
-      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf"
+      "title": "张百乔小雪再互动",
+      "hot": "39万",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%99%BE%E4%B9%94%E5%B0%8F%E9%9B%AA%E5%86%8D%E4%BA%92%E5%8A%A8%23",
+      "source": "weibo",
+      "tag": ""
     },
     {
-      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
-      "hot": "❤️ 10 💬 1",
-      "desc": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Int",
-      "source": "dev",
-      "tag": "mcp,  python",
-      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
-    },
-    {
-      "title": "Harness engineering doesn't mean building your own harness",
-      "hot": "❤️ 8 💬 4",
-      "desc": "It means giving the agent enough context to do the right thing  For this week's Agent Factory...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk"
-    },
-    {
-      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "hot": "❤️ 224 💬 115",
-      "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
-    },
-    {
-      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
-      "hot": "❤️ 10 💬 5",
-      "desc": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd"
-    },
-    {
-      "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
-      "hot": "❤️ 126 💬 42",
-      "desc": "TL;DR  GPT-6 Astra has started another familiar AI conversation. The model is more capable, Jensen...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al"
-    },
-    {
-      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
-      "hot": "❤️ 12 💬 5",
-      "desc": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figu",
-      "source": "dev",
-      "tag": "amd,  mcp",
-      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
+      "title": "理记",
+      "hot": "38万",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%90%86%E8%AE%B0%23",
+      "source": "weibo",
+      "tag": ""
     }
   ],
-  "tech": [
+  "baidu": [
     {
-      "title": "Xiaomi MiMo v2.6",
-      "hot": "3.0m",
-      "desc": "mimo.xiaomi.com",
-      "source": "tech",
-      "tag": "⬆️ 616 points",
-      "url": "https://mimo.xiaomi.com/mimo-v2-6"
+      "title": "共同擘画中美关系新篇章",
+      "hot": "置顶",
+      "url": "https://m.baidu.com/s?word=%E5%85%B1%E5%90%8C%E6%93%98%E7%94%BB%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news",
+      "source": "baidu",
+      "tag": ""
     },
     {
-      "title": "Spymarks, Not Watermarks",
-      "hot": "3.0m",
-      "desc": "brand.io",
-      "source": "tech",
-      "tag": "⬆️ 184 points",
-      "url": "https://brand.io/article/spymarks/"
+      "title": "10次打开软件 8次跳转到某平台",
+      "hot": "TOP 2",
+      "url": "https://m.baidu.com/s?word=10%E6%AC%A1%E6%89%93%E5%BC%80%E8%BD%AF%E4%BB%B6+8%E6%AC%A1%E8%B7%B3%E8%BD%AC%E5%88%B0%E6%9F%90%E5%B9%B3%E5%8F%B0&sa=fyb_news",
+      "source": "baidu",
+      "tag": "热议"
     },
     {
-      "title": "I don't want to read what you didn't write",
-      "hot": "3.0m",
-      "desc": "blog.colinbreck.com",
-      "source": "tech",
-      "tag": "⬆️ 370 points",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/"
+      "title": "国家电网传来重磅突破",
+      "hot": "TOP 3",
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E4%BC%A0%E6%9D%A5%E9%87%8D%E7%A3%85%E7%AA%81%E7%A0%B4&sa=fyb_news",
+      "source": "baidu",
+      "tag": ""
     },
     {
-      "title": "What Sun got wrong",
-      "hot": "3.0m",
-      "desc": "bcantrill.dtrace.org",
-      "source": "tech",
-      "tag": "⬆️ 521 points",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"
+      "title": "共赴技能之约 同筑匠心之基",
+      "hot": "TOP 4",
+      "url": "https://m.baidu.com/s?word=%E5%85%B1%E8%B5%B4%E6%8A%80%E8%83%BD%E4%B9%8B%E7%BA%A6+%E5%90%8C%E7%AD%91%E5%8C%A0%E5%BF%83%E4%B9%8B%E5%9F%BA&sa=fyb_news",
+      "source": "baidu",
+      "tag": ""
     },
     {
-      "title": "Transformers Explained Visually",
-      "hot": "2.9m",
-      "desc": "poloclub.github.io",
-      "source": "tech",
-      "tag": "⬆️ 233 points",
-      "url": "https://poloclub.github.io/transformer-explainer/"
+      "title": "撞坏一个塑料防撞桶为何要赔500元",
+      "hot": "TOP 5",
+      "url": "https://m.baidu.com/s?word=%E6%92%9E%E5%9D%8F%E4%B8%80%E4%B8%AA%E5%A1%91%E6%96%99%E9%98%B2%E6%92%9E%E6%A1%B6%E4%B8%BA%E4%BD%95%E8%A6%81%E8%B5%94500%E5%85%83&sa=fyb_news",
+      "source": "baidu",
+      "tag": ""
     },
     {
-      "title": "Attention is all you have",
-      "hot": "2.9m",
-      "desc": "alicegg.tech",
-      "source": "tech",
-      "tag": "⬆️ 613 points",
-      "url": "https://alicegg.tech/2026/09/21/attention"
+      "title": "00后女孩出生即持股 月领4000元",
+      "hot": "TOP 6",
+      "url": "https://m.baidu.com/s?word=00%E5%90%8E%E5%A5%B3%E5%AD%A9%E5%87%BA%E7%94%9F%E5%8D%B3%E6%8C%81%E8%82%A1+%E6%9C%88%E9%A2%864000%E5%85%83&sa=fyb_news",
+      "source": "baidu",
+      "tag": ""
     },
     {
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "hot": "2.9m",
-      "desc": "science.org",
-      "source": "tech",
-      "tag": "⬆️ 327 points",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"
+      "title": "微信上新2大功能",
+      "hot": "TOP 7",
+      "url": "https://m.baidu.com/s?word=%E5%BE%AE%E4%BF%A1%E4%B8%8A%E6%96%B02%E5%A4%A7%E5%8A%9F%E8%83%BD&sa=fyb_news",
+      "source": "baidu",
+      "tag": "新"
     },
     {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "hot": "2.9m",
-      "desc": "linear.app",
-      "source": "tech",
-      "tag": "⬆️ 160 points",
-      "url": "https://linear.app/now/ci-bottleneck-reworked"
+      "title": "妻子换手机旧手机层层传递",
+      "hot": "TOP 8",
+      "url": "https://m.baidu.com/s?word=%E5%A6%BB%E5%AD%90%E6%8D%A2%E6%89%8B%E6%9C%BA%E6%97%A7%E6%89%8B%E6%9C%BA%E5%B1%82%E5%B1%82%E4%BC%A0%E9%80%92&sa=fyb_news",
+      "source": "baidu",
+      "tag": ""
     },
     {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "hot": "2.9m",
-      "desc": "status.claude.com",
-      "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh"
+      "title": "租房踩坑 进入社会第一课",
+      "hot": "TOP 9",
+      "url": "https://m.baidu.com/s?word=%E7%A7%9F%E6%88%BF%E8%B8%A9%E5%9D%91+%E8%BF%9B%E5%85%A5%E7%A4%BE%E4%BC%9A%E7%AC%AC%E4%B8%80%E8%AF%BE&sa=fyb_news",
+      "source": "baidu",
+      "tag": ""
     },
     {
-      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "hot": "2.9m",
-      "desc": "variety.com",
-      "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/"
+      "title": "多地禁产“老头乐”",
+      "hot": "TOP 10",
+      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E7%A6%81%E4%BA%A7%E2%80%9C%E8%80%81%E5%A4%B4%E4%B9%90%E2%80%9D&sa=fyb_news",
+      "source": "baidu",
+      "tag": "热议"
     },
     {
-      "title": "Divide by depth for instant 3D",
-      "hot": "2.9m",
-      "desc": "gabrieloc.com",
-      "source": "tech",
-      "tag": "⬆️ 95 points",
-      "url": "https://gabrieloc.com/2026/09/15/perspective.html"
+      "title": "日本选手被张展硕逆转后破防",
+      "hot": "TOP 11",
+      "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E8%A2%AB%E5%BC%A0%E5%B1%95%E7%A1%95%E9%80%86%E8%BD%AC%E5%90%8E%E7%A0%B4%E9%98%B2&sa=fyb_news",
+      "source": "baidu",
+      "tag": "新"
     },
     {
-      "title": "Looking forward to Git 2.56 – and 3.0",
-      "hot": "2.8m",
-      "desc": "lwn.net",
-      "source": "tech",
-      "tag": "⬆️ 48 points",
-      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/"
+      "title": "青海辟谣前文旅厅厅长开网约车",
+      "hot": "TOP 12",
+      "url": "https://m.baidu.com/s?word=%E9%9D%92%E6%B5%B7%E8%BE%9F%E8%B0%A3%E5%89%8D%E6%96%87%E6%97%85%E5%8E%85%E5%8E%85%E9%95%BF%E5%BC%80%E7%BD%91%E7%BA%A6%E8%BD%A6&sa=fyb_news",
+      "source": "baidu",
+      "tag": "辟谣"
     },
     {
-      "title": "Socrates vs. the Written Word (2011)",
-      "hot": "2.8m",
-      "desc": "wondermark.com",
-      "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://wondermark.com/socrates-vs-writing/"
+      "title": "教授：至少三分之一的人不适合结婚",
+      "hot": "TOP 13",
+      "url": "https://m.baidu.com/s?word=%E6%95%99%E6%8E%88%EF%BC%9A%E8%87%B3%E5%B0%91%E4%B8%89%E5%88%86%E4%B9%8B%E4%B8%80%E7%9A%84%E4%BA%BA%E4%B8%8D%E9%80%82%E5%90%88%E7%BB%93%E5%A9%9A&sa=fyb_news",
+      "source": "baidu",
+      "tag": ""
     },
     {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "hot": "2.8m",
-      "desc": "terrytao.wordpress.com",
-      "source": "tech",
-      "tag": "⬆️ 99 points",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
+      "title": "雷军回应“打新宇树赚了100多亿”",
+      "hot": "TOP 14",
+      "url": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E2%80%9C%E6%89%93%E6%96%B0%E5%AE%87%E6%A0%91%E8%B5%9A%E4%BA%86100%E5%A4%9A%E4%BA%BF%E2%80%9D&sa=fyb_news",
+      "source": "baidu",
+      "tag": ""
     },
     {
-      "title": "More Floating Point Alternatives",
-      "hot": "2.8m",
-      "desc": "wizardzines.com",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://wizardzines.com/comics/floating-point-alternatives/"
+      "title": "豪华燃油车集体“腰斩式”降价",
+      "hot": "TOP 15",
+      "url": "https://m.baidu.com/s?word=%E8%B1%AA%E5%8D%8E%E7%87%83%E6%B2%B9%E8%BD%A6%E9%9B%86%E4%BD%93%E2%80%9C%E8%85%B0%E6%96%A9%E5%BC%8F%E2%80%9D%E9%99%8D%E4%BB%B7&sa=fyb_news",
+      "source": "baidu",
+      "tag": "热议"
+    }
+  ],
+  "douyin": [
+    {
+      "title": "中国女排将与日本女排争夺金牌",
+      "hot": "1140万",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%B0%86%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92%E4%BA%89%E5%A4%BA%E9%87%91%E7%89%8C",
+      "source": "douyin",
+      "tag": ""
     },
     {
-      "title": "Paper Models of Polyhedra",
-      "hot": "2.8m",
-      "desc": "polyhedra.net",
-      "source": "tech",
-      "tag": "⬆️ 9 points",
-      "url": "https://www.polyhedra.net/en/"
+      "title": "挑战N种方式到创大",
+      "hot": "1139万",
+      "url": "https://www.douyin.com/search/%E6%8C%91%E6%88%98N%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%88%B0%E5%88%9B%E5%A4%A7",
+      "source": "douyin",
+      "tag": ""
     },
     {
-      "title": "Copper-Rs: Live Telemetry Deterministic Twins for Robots",
-      "hot": "2.8m",
-      "desc": "copper-robotics.com",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://www.copper-robotics.com/whats-new/copper-12-live-telemetry-and-replayable-logs-over-a-lossy-one-way-connection-with-twinning"
+      "title": "我国加快建立现代化粮食流通体系",
+      "hot": "1135万",
+      "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%8A%A0%E5%BF%AB%E5%BB%BA%E7%AB%8B%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%B2%AE%E9%A3%9F%E6%B5%81%E9%80%9A%E4%BD%93%E7%B3%BB",
+      "source": "douyin",
+      "tag": ""
     },
     {
-      "title": "Truman World",
-      "hot": "2.7m",
-      "desc": "trumanworld.live",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://trumanworld.live"
+      "title": "全体美食进入超长时代",
+      "hot": "1110万",
+      "url": "https://www.douyin.com/search/%E5%85%A8%E4%BD%93%E7%BE%8E%E9%A3%9F%E8%BF%9B%E5%85%A5%E8%B6%85%E9%95%BF%E6%97%B6%E4%BB%A3",
+      "source": "douyin",
+      "tag": ""
     },
     {
-      "title": "How do traffic signals work? (2019)",
-      "hot": "2.7m",
-      "desc": "practical.engineering",
-      "source": "tech",
-      "tag": "⬆️ 66 points",
-      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work"
+      "title": "中秋国庆调休和高速政策提醒",
+      "hot": "1054万",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E8%B0%83%E4%BC%91%E5%92%8C%E9%AB%98%E9%80%9F%E6%94%BF%E7%AD%96%E6%8F%90%E9%86%92",
+      "source": "douyin",
+      "tag": ""
     },
     {
-      "title": "Frontier AI on Your Own Hardware",
-      "hot": "2.7m",
-      "desc": "timdettmers.com",
-      "source": "tech",
-      "tag": "⬆️ 114 points",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
+      "title": "张展硕回应反超绝杀日本队",
+      "hot": "1050万",
+      "url": "https://www.douyin.com/search/%E5%BC%A0%E5%B1%95%E7%A1%95%E5%9B%9E%E5%BA%94%E5%8F%8D%E8%B6%85%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC%E9%98%9F",
+      "source": "douyin",
+      "tag": ""
+    },
+    {
+      "title": "中秋游呈坎一生无坎",
+      "hot": "940万",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E6%B8%B8%E5%91%88%E5%9D%8E%E4%B8%80%E7%94%9F%E6%97%A0%E5%9D%8E",
+      "source": "douyin",
+      "tag": ""
+    },
+    {
+      "title": "今年中秋一起走月吗",
+      "hot": "939万",
+      "url": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E4%B8%AD%E7%A7%8B%E4%B8%80%E8%B5%B7%E8%B5%B0%E6%9C%88%E5%90%97",
+      "source": "douyin",
+      "tag": ""
+    },
+    {
+      "title": "中秋一起登上杭州月亮船",
+      "hot": "925万",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E4%B8%80%E8%B5%B7%E7%99%BB%E4%B8%8A%E6%9D%AD%E5%B7%9E%E6%9C%88%E4%BA%AE%E8%88%B9",
+      "source": "douyin",
+      "tag": ""
+    },
+    {
+      "title": "首届糯门零食大赛",
+      "hot": "923万",
+      "url": "https://www.douyin.com/search/%E9%A6%96%E5%B1%8A%E7%B3%AF%E9%97%A8%E9%9B%B6%E9%A3%9F%E5%A4%A7%E8%B5%9B",
+      "source": "douyin",
+      "tag": ""
+    },
+    {
+      "title": "一口中秋蟹味鲜",
+      "hot": "923万",
+      "url": "https://www.douyin.com/search/%E4%B8%80%E5%8F%A3%E4%B8%AD%E7%A7%8B%E8%9F%B9%E5%91%B3%E9%B2%9C",
+      "source": "douyin",
+      "tag": ""
+    },
+    {
+      "title": "把平凡的一天拍出名场面",
+      "hot": "918万",
+      "url": "https://www.douyin.com/search/%E6%8A%8A%E5%B9%B3%E5%87%A1%E7%9A%84%E4%B8%80%E5%A4%A9%E6%8B%8D%E5%87%BA%E5%90%8D%E5%9C%BA%E9%9D%A2",
+      "source": "douyin",
+      "tag": ""
+    },
+    {
+      "title": "青海辟谣前文旅厅厅长开网约车",
+      "hot": "917万",
+      "url": "https://www.douyin.com/search/%E9%9D%92%E6%B5%B7%E8%BE%9F%E8%B0%A3%E5%89%8D%E6%96%87%E6%97%85%E5%8E%85%E5%8E%85%E9%95%BF%E5%BC%80%E7%BD%91%E7%BA%A6%E8%BD%A6",
+      "source": "douyin",
+      "tag": ""
+    },
+    {
+      "title": "汪也学会闪身步了",
+      "hot": "913万",
+      "url": "https://www.douyin.com/search/%E6%B1%AA%E4%B9%9F%E5%AD%A6%E4%BC%9A%E9%97%AA%E8%BA%AB%E6%AD%A5%E4%BA%86",
+      "source": "douyin",
+      "tag": ""
+    },
+    {
+      "title": "苹果新机或更名为iPhone 20",
+      "hot": "912万",
+      "url": "https://www.douyin.com/search/%E8%8B%B9%E6%9E%9C%E6%96%B0%E6%9C%BA%E6%88%96%E6%9B%B4%E5%90%8D%E4%B8%BAiPhone%2020",
+      "source": "douyin",
+      "tag": ""
     }
   ],
   "github": [
     {
-      "title": "browser-use/jev-ultrafast: Fastest and cheapest web agent",
-      "hot": "⭐ 16.2k",
-      "desc": "Fastest and cheapest web agent",
+      "title": "browser-use/jev-ultrafast",
+      "hot": "⭐ 16218",
+      "url": "https://github.com/browser-use/jev-ultrafast",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/browser-use/jev-ultrafast"
+      "tag": "Python"
     },
     {
-      "title": "NandhaKishorM/laya: ",
-      "hot": "⭐ 11.2k",
-      "desc": "NandhaKishorM/laya",
+      "title": "NandhaKishorM/laya",
+      "hot": "⭐ 11318",
+      "url": "https://github.com/NandhaKishorM/laya",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/NandhaKishorM/laya"
+      "tag": "Python"
     },
     {
-      "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
-      "hot": "⭐ 6.0k",
-      "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
+      "title": "tamaratran/fast-jev-compaction",
+      "hot": "⭐ 6029",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
       "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/tamaratran/fast-jev-compaction"
+      "tag": "TypeScript"
     },
     {
-      "title": "zai-org/ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "hot": "⭐ 5.8k",
-      "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "title": "zai-org/ZCode",
+      "hot": "⭐ 5836",
+      "url": "https://github.com/zai-org/ZCode",
       "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/zai-org/ZCode"
+      "tag": "TypeScript"
     },
     {
-      "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
-      "hot": "⭐ 4.5k",
-      "desc": "The Photoshop alternative for Mac",
+      "title": "robbietilton/Compositor",
+      "hot": "⭐ 4469",
+      "url": "https://github.com/robbietilton/Compositor",
       "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/robbietilton/Compositor"
+      "tag": "Swift"
     },
     {
-      "title": "mizorewww/laya-mlx: Native MLX runtime for Laya typed decision models — 7–14 ms ",
-      "hot": "⭐ 4.1k",
-      "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "title": "mizorewww/laya-mlx",
+      "hot": "⭐ 4131",
+      "url": "https://github.com/mizorewww/laya-mlx",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mizorewww/laya-mlx"
+      "tag": "Python"
     },
     {
-      "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
-      "hot": "⭐ 3.3k",
-      "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "title": "TheoLeeCJ/SemIf",
+      "hot": "⭐ 3337",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TheoLeeCJ/SemIf"
+      "tag": "Python"
     },
     {
-      "title": "jaredpalmer/kev: tiny Jev-like family of decision models built on top of Qwen3.5",
-      "hot": "⭐ 2.6k",
-      "desc": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "title": "jaredpalmer/kev",
+      "hot": "⭐ 2599",
+      "url": "https://github.com/jaredpalmer/kev",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jaredpalmer/kev"
+      "tag": "Python"
     },
     {
-      "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
-      "hot": "⭐ 2.4k",
-      "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "title": "mcncarl/jianying-headless",
+      "hot": "⭐ 2399",
+      "url": "https://github.com/mcncarl/jianying-headless",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mcncarl/jianying-headless"
+      "tag": "Python"
     },
     {
-      "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
-      "hot": "⭐ 1.9k",
-      "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "title": "jarrodwatts/jev-trader",
+      "hot": "⭐ 1878",
+      "url": "https://github.com/jarrodwatts/jev-trader",
       "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/jarrodwatts/jev-trader"
+      "tag": "TypeScript"
     },
     {
-      "title": "TianyuCodings/NanoJev: A nano replica of Jev: parallel decisions, dynamic candid",
-      "hot": "⭐ 1.8k",
-      "desc": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "title": "TianyuCodings/NanoJev",
+      "hot": "⭐ 1846",
+      "url": "https://github.com/TianyuCodings/NanoJev",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TianyuCodings/NanoJev"
+      "tag": "Python"
     },
     {
-      "title": "Mak5er/AirCard: Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-      "hot": "⭐ 1.6k",
-      "desc": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "title": "Mak5er/AirCard",
+      "hot": "⭐ 1632",
+      "url": "https://github.com/Mak5er/AirCard",
       "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/Mak5er/AirCard"
+      "tag": "Swift"
     },
     {
-      "title": "jev-chat/jev-chat-jarvis: 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你",
-      "hot": "⭐ 1.5k",
-      "desc": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "title": "jev-chat/jev-chat-jarvis",
+      "hot": "⭐ 1543",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
       "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis"
+      "tag": "Kotlin"
     },
     {
-      "title": "bespokelabsai/nimble: Local typed decisions, contrastive data curation, and mode",
-      "hot": "⭐ 1.5k",
-      "desc": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "title": "bespokelabsai/nimble",
+      "hot": "⭐ 1509",
+      "url": "https://github.com/bespokelabsai/nimble",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/bespokelabsai/nimble"
+      "tag": "Python"
     },
     {
-      "title": "vinnylarouge/jevlike: ",
-      "hot": "⭐ 1.2k",
-      "desc": "vinnylarouge/jevlike",
+      "title": "vinnylarouge/jevlike",
+      "hot": "⭐ 1170",
+      "url": "https://github.com/vinnylarouge/jevlike",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/vinnylarouge/jevlike"
-    }
-  ],
-  "space": [
-    {
-      "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory",
-      "hot": "9/21",
-      "desc": "The Republic of Albania signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, joining the coa",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/"
-    },
-    {
-      "title": "NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce",
-      "hot": "9/21",
-      "desc": "NASA kicked off its State Hubs for Skilled Technical Workforce initiative Sept. 15, 2026 with awardees at Space Center Houston. Agency leadership conv",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/"
-    },
-    {
-      "title": "Launch Preview: Electron, Falcon 9, and Starship set for launches",
-      "hot": "9/21",
-      "desc": "A total of five orbital launches are scheduled this week. SpaceX will launch its Falcon…\nThe post Launch Preview: Electron, Falcon 9, and Starship set",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092126/"
-    },
-    {
-      "title": "Perseverance’s View of ‘Turquoise Bay’",
-      "hot": "9/21",
-      "desc": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this 360-degree panorama of “Turquoise Bay,” a geologic area of intere",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/"
-    },
-    {
-      "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
-      "hot": "9/21",
-      "desc": "NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/"
-    },
-    {
-      "title": "SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch",
-      "hot": "9/21",
-      "desc": "The first planned orbital Starship mission is scheduled for launch from Starbase in Texas as soon as Sept. 28, pending final approval from the Federal",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/"
-    },
-    {
-      "title": "Exolaunch, Space Cargo book Starship Starfall missions",
-      "hot": "9/21",
-      "desc": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…\nThe post Exolaunch, Space Cargo book Starship Starfall mi",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/"
-    },
-    {
-      "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
-      "hot": "9/21",
-      "desc": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/"
-    },
-    {
-      "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
-      "hot": "9/21",
-      "desc": "\nSeptember 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA)",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/"
-    },
-    {
-      "title": "Pikachu in the Cupola",
-      "hot": "9/21",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"
-    },
-    {
-      "title": "ESA x TPCI - Pikachu in the Cupola",
-      "hot": "9/21",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
-    },
-    {
-      "title": "Juice to fly past Earth for third gravity assist",
-      "hot": "9/21",
-      "desc": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft cl",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist"
-    },
-    {
-      "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
-      "hot": "9/21",
-      "desc": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Pa",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/"
-    },
-    {
-      "title": "ESA brings public and private capital together to accelerate Europe’s space economy",
-      "hot": "9/21",
-      "desc": "Paris, 18 September 2026 – Access to appropriate finance is becoming a strategic enabler of Europe’s space ambitions. At ESA Headquarters in Paris, in",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy"
-    },
-    {
-      "title": "ESA and ISRO extend and broaden cooperation agreement",
-      "hot": "9/21",
-      "desc": "The European Space Agency (ESA) and the Indian Space Research Organisation (ISRO) have signed an exchange of letters extending their long-standing Coo",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement"
+      "tag": "Python"
     }
   ]
 }
