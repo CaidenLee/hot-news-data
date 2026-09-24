@@ -10,12 +10,11 @@ const WORKER = "https://cloudflare-cron-trigger.486569.workers.dev";
 const WORKER_SECRET = "hotnews-api-2026";
 const TIMEOUT = 20000;
 
-// 要抓的源（对应 Worker 的 /api/{source}）
+// 要抓的源（抖音已删，cookie 机制复杂）
 const SOURCES = [
   { key: "weibo",      label: "微博",      icon: "🔥" },
   { key: "zhihu",      label: "知乎",      icon: "📚" },
   { key: "baidu",      label: "百度",      icon: "🔍" },
-  { key: "douyin",     label: "抖音",      icon: "🎵" },
   { key: "36kr",       label: "36氪",      icon: "💡" },
   { key: "juejin",     label: "掘金",      icon: "⛏️" },
   { key: "hackernews", label: "HackerNews", icon: "👾" },

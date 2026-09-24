@@ -8,16 +8,26 @@ const APP_ID = process.env.FEISHU_APP_ID;
 const APP_SECRET = process.env.FEISHU_APP_SECRET;
 const CHAT_ID = process.env.FEISHU_CHAT_ID;
 
+// 顺序即卡片展示顺序，抖音已删（cookie 机制复杂）
 const PLATFORM_ICONS = {
-  weibo: '🔥 微博',
-  zhihu: '📚 知乎',
-  baidu: '🔍 百度',
-  douyin: '🎵 抖音',
+  weibo: '🔥 微博热搜',
+  zhihu: '📚 知乎热榜',
+  baidu: '🔍 百度热搜',
   '36kr': '💡 36氪',
   juejin: '⛏️ 掘金',
   hackernews: '👾 HackerNews',
-  github: '⭐ GitHub',
+  github: '⭐ GitHub Trending',
 };
+
+// 数字格式化: 12500000 → 1250万, 20855 → 2.1万
+function fmtHot(v) {
+  if (!v) return '';
+  const n = typeof v === 'string' ? parseInt(v.replace(/[^\d]/g, ''), 10) || 0 : v;
+  if (!n) return '';
+  if (n >= 100000000) return (n / 100000000).toFixed(1) + '亿';
+  if (n >= 10000) return (n / 10000).toFixed(1) + '万';
+  return String(n);
+}
 
 function request(options, body) {
   return new Promise((resolve, reject) => {
@@ -48,49 +58,50 @@ async function getToken() {
 }
 
 function buildCard(data) {
-  // 新结构: { dailyhot: { weibo: [...], ... }, github: [...] }
-  // 旧结构兼容: { weibo: [...], github: [...] }
   const hotNews = data.dailyhot || data;
   const github = data.github || [];
 
   const sections = [];
   let total = 0;
 
-  // dailyhot 各源
-  for (const [key, icon] of Object.entries(PLATFORM_ICONS)) {
+  for (const [key, label] of Object.entries(PLATFORM_ICONS)) {
     if (key === 'github') continue;
-    const items = (hotNews[key] || []).slice(0, 5);
+    const items = (hotNews[key] || []).slice(0, 5).filter((it) => it.title && it.title !== '暂无数据');
     if (items.length === 0) continue;
     total += items.length;
     const lines = items
       .map((it, i) => {
-        const title = (it.title || '').replace(/\n/g, '').substring(0, 40);
-        const hot = it.hot || '';
+        const title = (it.title || '').replace(/\n/g, '').substring(0, 45);
+        const hot = fmtHot(it.hot);
         const url = it.url || '';
-        return `${i + 1}. [${title}](${url})  ${hot ? `\`${hot}\`` : ''}`;
+        // 序号 + 标题链接 + 灰色热度小字
+        const num = ['①', '②', '③', '④', '⑤'][i] || `${i + 1}.`;
+        const hotPart = hot ? `<font color='grey'>  ·  ${hot}</font>` : '';
+        return `${num} [${title}](${url || '#'})${hotPart}`;
       })
       .join('\n');
     sections.push({
       tag: 'div',
-      text: { tag: 'lark_md', content: `**${icon}**\n${lines}` },
+      text: { tag: 'lark_md', content: `**${label}**\n${lines}` },
     });
   }
 
-  // GitHub 单独处理
   const ghItems = github.slice(0, 5);
   if (ghItems.length > 0) {
     total += ghItems.length;
     const lines = ghItems
       .map((it, i) => {
-        const title = (it.title || '').replace(/\n/g, '').substring(0, 50);
-        const hot = it.hot || '';
+        const title = (it.title || '').replace(/\n/g, '').substring(0, 55);
+        const hot = (it.hot || '').replace('⭐ ', '');
         const url = it.url || '';
-        return `${i + 1}. [${title}](${url})  ${hot ? `\`${hot}\`` : ''}`;
+        const num = ['①', '②', '③', '④', '⑤'][i] || `${i + 1}.`;
+        const hotPart = hot ? `<font color='grey'>  ·  ${hot}</font>` : '';
+        return `${num} [${title}](${url || '#'})${hotPart}`;
       })
       .join('\n');
     sections.push({
       tag: 'div',
-      text: { tag: 'lark_md', content: `**⭐ GitHub**\n${lines}` },
+      text: { tag: 'lark_md', content: `**⭐ GitHub Trending**\n${lines}` },
     });
   }
 
@@ -99,18 +110,18 @@ function buildCard(data) {
   return {
     config: { wide_screen_mode: true },
     header: {
-      title: { tag: 'plain_text', content: `🔥 热点推送 ${now}` },
-      template: 'blue',
+      title: { tag: 'plain_text', content: `📰 每日热榜 · ${now}` },
+      template: 'turquoise',
     },
     elements: [
-      { tag: 'div', text: { tag: 'lark_md', content: `**共 ${total} 条热榜** | 每 30 分钟自动更新` } },
+      { tag: 'div', text: { tag: 'lark_md', content: `<font color='grey'>共 ${total} 条 · 每 30 分钟自动更新</font>` } },
       { tag: 'hr' },
       ...sections,
       { tag: 'hr' },
       {
         tag: 'note',
         elements: [
-          { tag: 'plain_text', content: `🤖 GitHub Actions 自动抓取 | jsDelivr CDN 加速` },
+          { tag: 'plain_text', content: `🤖 Auto by GitHub Actions | 数据源: 自部署 Cloudflare Worker` },
         ],
       },
     ],
