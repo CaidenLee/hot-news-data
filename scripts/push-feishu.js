@@ -1,4 +1,4 @@
-// 飞书自建应用推送：读取 data/hot-news.json → 组装 interactive 卡片 → POST 到 Feishu API
+﻿// 飞书自建应用推送：读取 data/hot-news.json → 组装 interactive 卡片 → POST 到 Feishu API
 // 零依赖，Node.js 内置 https
 const https = require('https');
 const fs = require('fs');
@@ -92,7 +92,6 @@ function buildCard(data) {
       elements.push({
         tag: 'column_set',
         horizontal_spacing: 'small',
-        margin: '1px 0px',
         columns: [
           {
             tag: 'column', width: 'auto', vertical_align: 'center',
@@ -131,7 +130,6 @@ function buildCard(data) {
       elements.push({
         tag: 'column_set',
         horizontal_spacing: 'small',
-        margin: '1px 0px',
         columns: [
           {
             tag: 'column', width: 'auto', vertical_align: 'center',
@@ -218,3 +216,4 @@ async function sendCard(token, chatId, card) {
   console.error('[feishu] FAIL:', e.message);
   process.exit(1);
 });
+
