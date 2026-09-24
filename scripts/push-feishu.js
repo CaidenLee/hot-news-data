@@ -10,16 +10,16 @@ const CHAT_ID = process.env.FEISHU_CHAT_ID;
 
 // 顺序即卡片展示顺序，抖音已删（cookie 机制复杂）
 const PLATFORM_ICONS = {
-  weibo: '🔥 微博热搜',
-  zhihu: '📚 知乎热榜',
-  baidu: '🔍 百度热搜',
-  '36kr': '💡 36氪',
-  juejin: '⛏️ 掘金',
-  hackernews: '👾 HackerNews',
-  github: '⭐ GitHub Trending',
+  weibo: '微博热搜',
+  zhihu: '知乎热榜',
+  baidu: '百度热搜',
+  '36kr': '36氪',
+  juejin: '掘金',
+  hackernews: 'HackerNews',
+  github: 'GitHub Trending',
 };
 
-// 数字格式化 + 热度分级 emoji
+// 数字格式化: 12500000 → 1250万, 20855 → 2.1万
 function fmtHot(v) {
   if (!v) return '';
   const n = typeof v === 'string' ? parseInt(v.replace(/[^\d]/g, ''), 10) || 0 : v;
@@ -28,14 +28,6 @@ function fmtHot(v) {
   if (n >= 10000) return (n / 10000).toFixed(1) + '万';
   return String(n);
 }
-function hotEmoji(v) {
-  const n = typeof v === 'string' ? parseInt(v.replace(/[^\d]/g, ''), 10) || 0 : (v || 0);
-  if (n >= 5000000) return '🔥🔥🔥';
-  if (n >= 1000000) return '🔥🔥';
-  if (n >= 100000) return '🔥';
-  return '';
-}
-const MEDALS = ['🥇', '🥈', '🥉', '④', '⑤'];
 
 function request(options, body) {
   return new Promise((resolve, reject) => {
@@ -72,30 +64,22 @@ function buildCard(data) {
   const elements = [];
   let total = 0;
 
-  // 构造一个源的行列表（column_set 三列布局）
-  function buildSourceSection(label, key, items, titleExtract = null) {
-    if (key === 'github') return;
-
+  function buildSourceSection(label, items) {
     const list = items.slice(0, 5).filter((it) => it.title && it.title !== '暂无数据');
     if (list.length === 0) return;
-
     total += list.length;
-    elements.push({
-      tag: 'div',
-      text: { tag: 'lark_md', content: `**${label}**` },
-    });
-
+    elements.push({ tag: 'div', text: { tag: 'lark_md', content: `**${label}**` } });
     list.forEach((it, i) => {
-      const title = titleExtract ? titleExtract(it) : (it.title || '').replace(/\n/g, '').substring(0, 45);
+      const title = (it.title || '').replace(/\n/g, '').substring(0, 48);
       const url = it.url || '#';
-      const hot = hotEmoji(it.hot);
+      const hot = fmtHot(it.hot);
       elements.push({
         tag: 'column_set',
         horizontal_spacing: 'small',
         columns: [
           {
             tag: 'column', width: 'auto', vertical_align: 'center',
-            elements: [{ tag: 'div', text: { tag: 'plain_text', content: MEDALS[i] || `${i + 1}.` } }],
+            elements: [{ tag: 'div', text: { tag: 'plain_text', content: `${i + 1}` } }],
           },
           {
             tag: 'column', width: 'weighted', weight: 4, vertical_align: 'center',
@@ -111,21 +95,18 @@ function buildCard(data) {
     elements.push({ tag: 'hr' });
   }
 
-  // 各热榜源
   for (const [key, label] of Object.entries(PLATFORM_ICONS)) {
     if (key === 'github') continue;
-    buildSourceSection(label, key, hotNews[key] || []);
+    buildSourceSection(label, hotNews[key] || []);
   }
 
-  // GitHub Trending
   const ghItems = github.slice(0, 5);
   if (ghItems.length > 0) {
     total += ghItems.length;
-    elements.push({ tag: 'div', text: { tag: 'lark_md', content: '**⭐ GitHub Trending**' } });
+    elements.push({ tag: 'div', text: { tag: 'lark_md', content: '**GitHub Trending**' } });
     ghItems.forEach((it, i) => {
-      const title = (it.title || '').replace(/\n/g, '').substring(0, 55);
+      const title = (it.title || '').replace(/\n/g, '').substring(0, 58);
       const url = it.url || '#';
-      // GitHub 的 star 数直接显示，不走热度 emoji
       const stars = (it.hot || '').replace('⭐ ', '');
       elements.push({
         tag: 'column_set',
@@ -133,7 +114,7 @@ function buildCard(data) {
         columns: [
           {
             tag: 'column', width: 'auto', vertical_align: 'center',
-            elements: [{ tag: 'div', text: { tag: 'plain_text', content: MEDALS[i] || `${i + 1}.` } }],
+            elements: [{ tag: 'div', text: { tag: 'plain_text', content: `${i + 1}` } }],
           },
           {
             tag: 'column', width: 'weighted', weight: 4, vertical_align: 'center',
@@ -141,33 +122,25 @@ function buildCard(data) {
           },
           {
             tag: 'column', width: 'auto', vertical_align: 'center',
-            elements: [{ tag: 'div', text: { tag: 'plain_text', content: stars ? `⭐${stars}` : '' } }],
+            elements: [{ tag: 'div', text: { tag: 'plain_text', content: stars } }],
           },
         ],
       });
     });
   }
 
-  // 删掉最后一个 hr（如果存在）+ 加底部
   while (elements[elements.length - 1]?.tag === 'hr') elements.pop();
   elements.push({ tag: 'hr' });
-  elements.push({
-    tag: 'note',
-    elements: [{ tag: 'plain_text', content: `🤖 Auto | Cloudflare Worker + GitHub Actions` }],
-  });
+  elements.push({ tag: 'note', elements: [{ tag: 'plain_text', content: `Auto by Cloudflare Worker + GitHub Actions` }] });
 
-  // 头部信息
   const now = new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
   elements.unshift({ tag: 'hr' });
-  elements.unshift({
-    tag: 'div',
-    text: { tag: 'lark_md', content: `<font color='grey'>共 ${total} 条 · 每 30 分钟自动更新</font>` },
-  });
+  elements.unshift({ tag: 'div', text: { tag: 'lark_md', content: `<font color='grey'>共 ${total} 条 · 每 30 分钟自动更新</font>` } });
 
   return {
     config: { wide_screen_mode: true },
     header: {
-      title: { tag: 'plain_text', content: `📰 每日热榜 · ${now}` },
+      title: { tag: 'plain_text', content: `每日热榜 · ${now}` },
       template: 'turquoise',
     },
     elements,
