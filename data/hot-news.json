@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-09-24T02:48:13.257Z",
+  "updatedAt": "2026-09-24T03:00:22.068Z",
   "dailyhot": {
-    "weibo": [
-      {
-        "title": "暂无数据",
-        "source": "微博"
-      }
-    ],
     "zhihu": [
       {
         "title": "暂无数据",
         "source": "知乎"
       }
     ],
-    "douyin": [
+    "weibo": [
       {
         "title": "暂无数据",
-        "source": "抖音"
+        "source": "微博"
       }
     ],
     "baidu": [
       {
         "title": "暂无数据",
         "source": "百度"
+      }
+    ],
+    "douyin": [
+      {
+        "title": "暂无数据",
+        "source": "抖音"
       }
     ],
     "36kr": [
@@ -37,58 +37,58 @@
         "source": "B站"
       }
     ],
-    "hackernews": [
-      {
-        "title": "暂无数据",
-        "source": "HackerNews"
-      }
-    ],
     "juejin": [
       {
         "title": "暂无数据",
         "source": "掘金"
+      }
+    ],
+    "hackernews": [
+      {
+        "title": "暂无数据",
+        "source": "HackerNews"
       }
     ]
   },
   "github": [
     {
       "title": "NandhaKishorM/laya —— Non-autoregressive System 1 decision eng",
-      "hot": "⭐ 20752",
+      "hot": "⭐ 20785",
       "url": "https://github.com/NandhaKishorM/laya",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "tamaratran/fast-jev-compaction —— Claude Code plugin that replaces the com",
-      "hot": "⭐ 6598",
+      "hot": "⭐ 6599",
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "zai-org/ZCode —— Z.ai's coding agent harness. Powerful, i",
-      "hot": "⭐ 6557",
+      "hot": "⭐ 6561",
       "url": "https://github.com/zai-org/ZCode",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "jaredpalmer/kev —— tiny Jev-like family of decision models ",
-      "hot": "⭐ 6097",
+      "hot": "⭐ 6108",
       "url": "https://github.com/jaredpalmer/kev",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "mizorewww/laya-mlx —— Native MLX runtime for Laya typed decisi",
-      "hot": "⭐ 5992",
+      "hot": "⭐ 5993",
       "url": "https://github.com/mizorewww/laya-mlx",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "jev-chat/jev-chat-jarvis —— 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复",
-      "hot": "⭐ 5322",
+      "hot": "⭐ 5341",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
       "source": "GitHub",
       "tag": "Kotlin"
@@ -102,14 +102,14 @@
     },
     {
       "title": "unreallabsai/unreal-agent —— Async-first agent harness",
-      "hot": "⭐ 1746",
+      "hot": "⭐ 1747",
       "url": "https://github.com/unreallabsai/unreal-agent",
       "source": "GitHub",
       "tag": "Go"
     },
     {
       "title": "bespokelabsai/nimble —— Local typed decisions, contrastive data ",
-      "hot": "⭐ 1692",
+      "hot": "⭐ 1693",
       "url": "https://github.com/bespokelabsai/nimble",
       "source": "GitHub",
       "tag": "Python"
@@ -130,14 +130,14 @@
     },
     {
       "title": "mizorewww/laya-coreml —— Local Laya typed decisions on Apple Core",
-      "hot": "⭐ 1397",
+      "hot": "⭐ 1398",
       "url": "https://github.com/mizorewww/laya-coreml",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "newliver666/apk-reverse —— Suitable for Android APK reverse enginee",
-      "hot": "⭐ 1315",
+      "hot": "⭐ 1316",
       "url": "https://github.com/newliver666/apk-reverse",
       "source": "GitHub",
       "tag": "Python"
@@ -151,7 +151,7 @@
     },
     {
       "title": "heyjunpenn/awesome-jev —— A verified, community-maintained catalog",
-      "hot": "⭐ 776",
+      "hot": "⭐ 777",
       "url": "https://github.com/heyjunpenn/awesome-jev",
       "source": "GitHub",
       "tag": "Astro"
