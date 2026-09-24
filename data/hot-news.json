@@ -1,47 +1,53 @@
 {
-  "updatedAt": "2026-09-24T19:30:33.737Z",
+  "updatedAt": "2026-09-24T20:00:27.127Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "F-Droid 2.0",
-        "hot": 550,
+        "hot": 608,
         "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
         "source": "HackerNews"
       },
       {
         "title": "Show HN: Make cursed fonts like Times New Bastard",
-        "hot": 132,
+        "hot": 166,
         "url": "https://bastardica.mitpit.com",
         "source": "HackerNews"
       },
       {
         "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-        "hot": 94,
+        "hot": 108,
         "url": "https://github.com/devdotfast/whiteboard",
         "source": "HackerNews"
       },
       {
         "title": "Rails World 2026 Opening Keynote [video]",
-        "hot": 101,
+        "hot": 122,
         "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
         "source": "HackerNews"
       },
       {
         "title": "Fearless SIMD v1.0",
-        "hot": 69,
+        "hot": 83,
         "url": "https://linebender.org/blog/fearless-simd-1-0/",
         "source": "HackerNews"
       },
       {
-        "title": "Creatine uptake enhances antitumor immunity",
-        "hot": 77,
-        "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+        "title": "Programming Tutorials Are Dead",
+        "hot": 29,
+        "url": "https://robrace.dev/blog/programming-tutorials-are-dead/",
         "source": "HackerNews"
       },
       {
-        "title": "The forgotten battle of East Lansing",
-        "hot": 38,
-        "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+        "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+        "hot": 78,
+        "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Creatine uptake enhances antitumor immunity",
+        "hot": 103,
+        "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
         "source": "HackerNews"
       },
       {
@@ -51,59 +57,47 @@
         "source": "HackerNews"
       },
       {
-        "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
-        "hot": 27,
-        "url": "https://eprint.iacr.org/2026/2131.pdf",
+        "title": "The forgotten battle of East Lansing",
+        "hot": 47,
+        "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
         "source": "HackerNews"
       },
       {
         "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-        "hot": 36,
+        "hot": 43,
         "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
         "source": "HackerNews"
       },
       {
-        "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-        "hot": 55,
-        "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+        "title": "Show HN: Radix – Visual UI for agentic programming",
+        "hot": 12,
+        "url": "https://radix-os.com",
         "source": "HackerNews"
       },
       {
-        "title": "Two-tier encryption in the UK",
-        "hot": 309,
-        "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+        "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+        "hot": 30,
+        "url": "https://eprint.iacr.org/2026/2131.pdf",
         "source": "HackerNews"
       },
       {
         "title": "Why is the liver so weirdly regenerative?",
-        "hot": 70,
+        "hot": 87,
         "url": "https://dynomight.substack.com/p/liver",
         "source": "HackerNews"
       },
       {
-        "title": "Security auditing in the age of (good enough) AI",
-        "hot": 25,
-        "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Geothermal heat map of US hot springs",
-        "hot": 34,
-        "url": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+        "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+        "hot": 6,
+        "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
         "source": "HackerNews"
       }
     ],
     "zhihu": [
       {
         "title": "亚运乒乓女团决赛，中国 3-0 横扫日本，豪取亚运六连冠，如何评价本场比赛？",
-        "hot": 6470000,
+        "hot": 6350000,
         "url": "https://www.zhihu.com/question/2086478313287940000",
-        "source": "知乎"
-      },
-      {
-        "title": "重庆立法「艾滋病感染者应主动告知配偶、与本人有性关系者等」，有哪些意义？解决了哪些问题？",
-        "hot": 3060000,
-        "url": "https://www.zhihu.com/question/2086391671403591200",
         "source": "知乎"
       },
       {
@@ -113,8 +107,14 @@
         "source": "知乎"
       },
       {
+        "title": "重庆立法「艾滋病感染者应主动告知配偶、与本人有性关系者等」，有哪些意义？解决了哪些问题？",
+        "hot": 2430000,
+        "url": "https://www.zhihu.com/question/2086391671403591200",
+        "source": "知乎"
+      },
+      {
         "title": "网友吐槽美团抽成太多，一份25元的外卖商家实际到手收入6.08元，是真的吗？剩下的钱都花在了什么环节？",
-        "hot": 1410000,
+        "hot": 1420000,
         "url": "https://www.zhihu.com/question/2086444635463705900",
         "source": "知乎"
       },
@@ -126,38 +126,32 @@
       },
       {
         "title": "亚运会羽毛球男团决赛，中国 2-3 不敌印尼，如何评��本场比赛？",
-        "hot": 1050000,
+        "hot": 870000,
         "url": "https://www.zhihu.com/question/2086476360046699300",
         "source": "知乎"
       },
       {
-        "title": "很多人只上公立学校，不补课，每年教育预算不到3千，照样考985，照样考清北，你支持“躺平式培养”吗？",
-        "hot": 940000,
-        "url": "https://www.zhihu.com/question/2086234571297896000",
-        "source": "知乎"
-      },
-      {
-        "title": "如何评价大伟哥在米哈游2027校园招聘宣讲会上海交通大学专场的演讲？",
-        "hot": 900000,
-        "url": "https://www.zhihu.com/question/2086256784436740600",
-        "source": "知乎"
-      },
-      {
         "title": "山西忻州通报「煤企为抄近道拦腰截断明长城」，将深入调查历年来存在的问题，哪些信息值得关注？",
-        "hot": 870000,
+        "hot": 770000,
         "url": "https://www.zhihu.com/question/2085739185508557000",
         "source": "知乎"
       },
       {
         "title": "在西游记中，为什么孙悟空明明是抢了东海龙王的定海神针，在孙悟空遇到困难的时候东海龙王还肯帮忙？",
-        "hot": 750000,
+        "hot": 770000,
         "url": "https://www.zhihu.com/question/2067422261213128400",
         "source": "知乎"
       },
       {
-        "title": "毁掉职业生涯的坏习惯有哪些？",
-        "hot": 670000,
-        "url": "https://www.zhihu.com/question/1942850990509363500",
+        "title": "很多人只上公立学校，不补课，每年教育预算不到3千，照样考985，照样考清北，你支持“躺平式培养”吗？",
+        "hot": 730000,
+        "url": "https://www.zhihu.com/question/2086234571297896000",
+        "source": "知乎"
+      },
+      {
+        "title": "如何评价大伟哥在米哈游2027校园招聘宣讲会上海交通大学专场的演讲？",
+        "hot": 680000,
+        "url": "https://www.zhihu.com/question/2086256784436740600",
         "source": "知乎"
       },
       {
@@ -173,8 +167,14 @@
         "source": "知乎"
       },
       {
-        "title": "为什么有些人明明知道自己想要什么，却还是没有力量往前走？",
+        "title": "毁掉职业生涯的坏习惯有哪些？",
         "hot": 590000,
+        "url": "https://www.zhihu.com/question/1942850990509363500",
+        "source": "知乎"
+      },
+      {
+        "title": "为什么有些人明明知道自己想要什么，却还是没有力量往前走？",
+        "hot": 580000,
         "url": "https://www.zhihu.com/question/2080656215315690500",
         "source": "知乎"
       },
@@ -193,9 +193,9 @@
         "source": "微博"
       },
       {
-        "title": "邀请10万名美国青少年来华交流学习",
+        "title": "亚运会游泳",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%82%80%E8%AF%B710%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0",
+        "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%B8%B8%E6%B3%B3",
         "source": "微博"
       },
       {
@@ -205,9 +205,15 @@
         "source": "微博"
       },
       {
-        "title": "中美不必讳言竞争",
+        "title": "让家更有AI",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E4%B8%8D%E5%BF%85%E8%AE%B3%E8%A8%80%E7%AB%9E%E4%BA%89",
+        "url": "https://s.weibo.com/weibo?q=%E8%AE%A9%E5%AE%B6%E6%9B%B4%E6%9C%89AI",
+        "source": "微博"
+      },
+      {
+        "title": "邀请10万名美国青少年来华交流学习",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%82%80%E8%AF%B710%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0",
         "source": "微博"
       },
       {
@@ -217,33 +223,27 @@
         "source": "微博"
       },
       {
+        "title": "中美不必讳言竞争",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E4%B8%8D%E5%BF%85%E8%AE%B3%E8%A8%80%E7%AB%9E%E4%BA%89",
+        "source": "微博"
+      },
+      {
+        "title": "郑钦文0比2保利尼",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%870%E6%AF%942%E4%BF%9D%E5%88%A9%E5%B0%BC",
+        "source": "微博"
+      },
+      {
         "title": "国乒女团金牌",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E9%87%91%E7%89%8C",
         "source": "微博"
       },
       {
-        "title": "小家团圆大国梦圆",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AE%B6%E5%9B%A2%E5%9C%86%E5%A4%A7%E5%9B%BD%E6%A2%A6%E5%9C%86",
-        "source": "微博"
-      },
-      {
-        "title": "李现新剧首播反响",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E6%96%B0%E5%89%A7%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D",
-        "source": "微博"
-      },
-      {
         "title": "郑钦文 观众干扰比赛",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%20%E8%A7%82%E4%BC%97%E5%B9%B2%E6%89%B0%E6%AF%94%E8%B5%9B",
-        "source": "微博"
-      },
-      {
-        "title": "亚运会游泳",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%B8%B8%E6%B3%B3",
         "source": "微博"
       },
       {
@@ -271,9 +271,9 @@
         "source": "微博"
       },
       {
-        "title": "郑钦文0比2保利尼",
+        "title": "孙颖莎回应国乒女团金牌",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%870%E6%AF%942%E4%BF%9D%E5%88%A9%E5%B0%BC",
+        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E9%87%91%E7%89%8C",
         "source": "微博"
       }
     ],
@@ -303,7 +303,7 @@
         "source": "36氪"
       },
       {
-        "title": "中文用户全线中招，Claude网页限速，只因回复里有汉字",
+        "title": "���文用户全线中招，Claude网页限速，只因回复里有汉字",
         "hot": 5,
         "url": "https://www.36kr.com/p/3996795697844104",
         "source": "36氪"
@@ -372,13 +372,13 @@
     "juejin": [
       {
         "title": "⚡上线 24 小时，13% 的付费团队连夜换到 Jev：它到底什么来头？",
-        "hot": 1350,
+        "hot": 1359,
         "url": "https://juejin.cn/post/7687855879103021108",
         "source": "掘金"
       },
       {
         "title": "程序员即将隐退，建造者持续闪耀",
-        "hot": 1197,
+        "hot": 1215,
         "url": "https://juejin.cn/post/7688298824981856271",
         "source": "掘金"
       },
@@ -390,7 +390,7 @@
       },
       {
         "title": "最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！",
-        "hot": 711,
+        "hot": 720,
         "url": "https://juejin.cn/post/7688238990706016283",
         "source": "掘金"
       },
@@ -402,7 +402,7 @@
       },
       {
         "title": "16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测",
-        "hot": 504,
+        "hot": 513,
         "url": "https://juejin.cn/post/7687509634027831348",
         "source": "掘金"
       },
@@ -464,92 +464,92 @@
     "baidu": [
       {
         "title": "40余年 跨越太平洋的友谊",
-        "hot": 7904470,
+        "hot": 7904622,
         "url": "https://www.baidu.com/s?wd=40%E4%BD%99%E5%B9%B4%20%E8%B7%A8%E8%B6%8A%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9A%84%E5%8F%8B%E8%B0%8A",
         "source": "百度"
       },
       {
         "title": "习近平：美方应慎重处理台湾问题",
-        "hot": 7809024,
+        "hot": 7808447,
         "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BE%8E%E6%96%B9%E5%BA%94%E6%85%8E%E9%87%8D%E5%A4%84%E7%90%86%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98",
         "source": "百度"
       },
       {
         "title": "习近平出席特朗普举行的欢迎仪式",
-        "hot": 7714487,
+        "hot": 7712522,
         "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E7%9A%84%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F",
         "source": "百度"
       },
       {
         "title": "世界技能大赛究竟比什么",
-        "hot": 7617045,
+        "hot": 7616894,
         "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B5%9B%E7%A9%B6%E7%AB%9F%E6%AF%94%E4%BB%80%E4%B9%88",
         "source": "百度"
       },
       {
         "title": "习近平在白宫欢迎仪式上的致辞",
-        "hot": 7523022,
+        "hot": 7522055,
         "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E7%99%BD%E5%AE%AB%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F%E4%B8%8A%E7%9A%84%E8%87%B4%E8%BE%9E",
         "source": "百度"
       },
       {
         "title": "大熊猫“平平”“福双”将赴美",
-        "hot": 7428932,
+        "hot": 7427292,
         "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E2%80%9C%E5%B9%B3%E5%B9%B3%E2%80%9D%E2%80%9C%E7%A6%8F%E5%8F%8C%E2%80%9D%E5%B0%86%E8%B5%B4%E7%BE%8E",
         "source": "百度"
       },
       {
         "title": "邓亚萍谈国乒男团输日本",
-        "hot": 7327534,
+        "hot": 7328747,
         "url": "https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E8%B0%88%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E8%BE%93%E6%97%A5%E6%9C%AC",
         "source": "百度"
       },
       {
         "title": "多地商场把“C位”留给国之栋梁",
-        "hot": 7233690,
+        "hot": 7235209,
         "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%95%86%E5%9C%BA%E6%8A%8A%E2%80%9CC%E4%BD%8D%E2%80%9D%E7%95%99%E7%BB%99%E5%9B%BD%E4%B9%8B%E6%A0%8B%E6%A2%81",
         "source": "百度"
       },
       {
         "title": "坐高铁用不用一次性座椅套垫",
-        "hot": 7139482,
+        "hot": 7141352,
         "url": "https://www.baidu.com/s?wd=%E5%9D%90%E9%AB%98%E9%93%81%E7%94%A8%E4%B8%8D%E7%94%A8%E4%B8%80%E6%AC%A1%E6%80%A7%E5%BA%A7%E6%A4%85%E5%A5%97%E5%9E%AB",
         "source": "百度"
       },
       {
         "title": "全国赏秋地图来了",
-        "hot": 7048462,
+        "hot": 7042686,
         "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E8%B5%8F%E7%A7%8B%E5%9C%B0%E5%9B%BE%E6%9D%A5%E4%BA%86",
         "source": "百度"
       },
       {
         "title": "中秋节",
-        "hot": 6952634,
+        "hot": 6952716,
         "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E8%8A%82",
         "source": "百度"
       },
       {
         "title": "陌生快递寄来礼品卡？误区要注意",
-        "hot": 6855872,
+        "hot": 6847145,
         "url": "https://www.baidu.com/s?wd=%E9%99%8C%E7%94%9F%E5%BF%AB%E9%80%92%E5%AF%84%E6%9D%A5%E7%A4%BC%E5%93%81%E5%8D%A1%EF%BC%9F%E8%AF%AF%E5%8C%BA%E8%A6%81%E6%B3%A8%E6%84%8F",
         "source": "百度"
       },
       {
         "title": "张雪就泰康人寿拒赔一事发声",
-        "hot": 6762861,
+        "hot": 6753365,
         "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B0%B1%E6%B3%B0%E5%BA%B7%E4%BA%BA%E5%AF%BF%E6%8B%92%E8%B5%94%E4%B8%80%E4%BA%8B%E5%8F%91%E5%A3%B0",
         "source": "百度"
       },
       {
-        "title": "王曼昱3比2逆转张本美和",
-        "hot": 6666172,
-        "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%942%E9%80%86%E8%BD%AC%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C",
+        "title": "黑芝麻糊检出霉菌超标27倍 维维回应",
+        "hot": 6658648,
+        "url": "https://www.baidu.com/s?wd=%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A%E6%A3%80%E5%87%BA%E9%9C%89%E8%8F%8C%E8%B6%85%E6%A0%8727%E5%80%8D%20%E7%BB%B4%E7%BB%B4%E5%9B%9E%E5%BA%94",
         "source": "百度"
       },
       {
-        "title": "黑芝麻糊检出霉菌超标27倍 维维回应",
-        "hot": 6562759,
-        "url": "https://www.baidu.com/s?wd=%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A%E6%A3%80%E5%87%BA%E9%9C%89%E8%8F%8C%E8%B6%85%E6%A0%8727%E5%80%8D%20%E7%BB%B4%E7%BB%B4%E5%9B%9E%E5%BA%94",
+        "title": "王曼昱3比2逆转张本美和",
+        "hot": 6571143,
+        "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%942%E9%80%86%E8%BD%AC%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C",
         "source": "百度"
       }
     ]
@@ -557,56 +557,56 @@
   "github": [
     {
       "title": "NandhaKishorM/laya —— Non-autoregressive System 1 decision eng",
-      "hot": "⭐ 22744",
+      "hot": "⭐ 22784",
       "url": "https://github.com/NandhaKishorM/laya",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "tamaratran/fast-jev-compaction —— Claude Code plugin that replaces the com",
-      "hot": "⭐ 6701",
+      "hot": "⭐ 6704",
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
-      "title": "zai-org/ZCode —— Z.ai's coding agent harness. Powerful, i",
-      "hot": "⭐ 6697",
-      "url": "https://github.com/zai-org/ZCode",
-      "source": "GitHub",
-      "tag": "TypeScript"
-    },
-    {
       "title": "jaredpalmer/kev —— Jev-like family of decision models built",
-      "hot": "⭐ 6694",
+      "hot": "⭐ 6699",
       "url": "https://github.com/jaredpalmer/kev",
       "source": "GitHub",
       "tag": "Python"
     },
     {
+      "title": "zai-org/ZCode —— Z.ai's coding agent harness. Powerful, i",
+      "hot": "⭐ 6699",
+      "url": "https://github.com/zai-org/ZCode",
+      "source": "GitHub",
+      "tag": "TypeScript"
+    },
+    {
       "title": "mizorewww/laya-mlx —— Native MLX runtime for Laya typed decisi",
-      "hot": "⭐ 6193",
+      "hot": "⭐ 6197",
       "url": "https://github.com/mizorewww/laya-mlx",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "jev-chat/jev-chat-jarvis —— 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填",
-      "hot": "⭐ 5988",
+      "hot": "⭐ 5997",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
       "source": "GitHub",
       "tag": "Kotlin"
     },
     {
       "title": "TianyuCodings/NanoJev —— A nano replica of Jev: parallel decision",
-      "hot": "⭐ 2189",
+      "hot": "⭐ 2191",
       "url": "https://github.com/TianyuCodings/NanoJev",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "unreallabsai/unreal-agent —— Async-first agent harness",
-      "hot": "⭐ 1865",
+      "hot": "⭐ 1866",
       "url": "https://github.com/unreallabsai/unreal-agent",
       "source": "GitHub",
       "tag": "Go"
@@ -620,7 +620,7 @@
     },
     {
       "title": "yibie/awesome-jev —— A curated list of public projects, integ",
-      "hot": "⭐ 1609",
+      "hot": "⭐ 1610",
       "url": "https://github.com/yibie/awesome-jev",
       "source": "GitHub",
       "tag": "Python"
@@ -634,28 +634,28 @@
     },
     {
       "title": "mizorewww/laya-coreml —— Local Laya typed decisions on Apple Core",
-      "hot": "⭐ 1424",
+      "hot": "⭐ 1425",
       "url": "https://github.com/mizorewww/laya-coreml",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "newliver666/apk-reverse —— Suitable for Android APK reverse enginee",
-      "hot": "⭐ 1411",
+      "hot": "⭐ 1412",
       "url": "https://github.com/newliver666/apk-reverse",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "driceroland/Search —— A small, fast WebKit browser for macOS, ",
-      "hot": "⭐ 1172",
+      "hot": "⭐ 1185",
       "url": "https://github.com/driceroland/Search",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "deepopen-com/deepopen —— 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen",
-      "hot": "⭐ 995",
+      "hot": "⭐ 996",
       "url": "https://github.com/deepopen-com/deepopen",
       "source": "GitHub",
       "tag": "Python"
