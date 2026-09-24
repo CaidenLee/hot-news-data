@@ -19,7 +19,7 @@ const PLATFORM_ICONS = {
   github: '⭐ GitHub Trending',
 };
 
-// 数字格式化: 12500000 → 1250万, 20855 → 2.1万
+// 数字格式化 + 热度分级 emoji
 function fmtHot(v) {
   if (!v) return '';
   const n = typeof v === 'string' ? parseInt(v.replace(/[^\d]/g, ''), 10) || 0 : v;
@@ -28,6 +28,14 @@ function fmtHot(v) {
   if (n >= 10000) return (n / 10000).toFixed(1) + '万';
   return String(n);
 }
+function hotEmoji(v) {
+  const n = typeof v === 'string' ? parseInt(v.replace(/[^\d]/g, ''), 10) || 0 : (v || 0);
+  if (n >= 5000000) return '🔥🔥🔥';
+  if (n >= 1000000) return '🔥🔥';
+  if (n >= 100000) return '🔥';
+  return '';
+}
+const MEDALS = ['🥇', '🥈', '🥉', '④', '⑤'];
 
 function request(options, body) {
   return new Promise((resolve, reject) => {
@@ -61,51 +69,102 @@ function buildCard(data) {
   const hotNews = data.dailyhot || data;
   const github = data.github || [];
 
-  const sections = [];
+  const elements = [];
   let total = 0;
 
-  for (const [key, label] of Object.entries(PLATFORM_ICONS)) {
-    if (key === 'github') continue;
-    const items = (hotNews[key] || []).slice(0, 5).filter((it) => it.title && it.title !== '暂无数据');
-    if (items.length === 0) continue;
-    total += items.length;
-    const lines = items
-      .map((it, i) => {
-        const title = (it.title || '').replace(/\n/g, '').substring(0, 45);
-        const hot = fmtHot(it.hot);
-        const url = it.url || '';
-        // 序号 + 标题链接 + 灰色热度小字
-        const num = ['①', '②', '③', '④', '⑤'][i] || `${i + 1}.`;
-        const hotPart = hot ? `<font color='grey'>  ·  ${hot}</font>` : '';
-        return `${num} [${title}](${url || '#'})${hotPart}`;
-      })
-      .join('\n');
-    sections.push({
+  // 构造一个源的行列表（column_set 三列布局）
+  function buildSourceSection(label, key, items, titleExtract = null) {
+    if (key === 'github') return;
+
+    const list = items.slice(0, 5).filter((it) => it.title && it.title !== '暂无数据');
+    if (list.length === 0) return;
+
+    total += list.length;
+    elements.push({
       tag: 'div',
-      text: { tag: 'lark_md', content: `**${label}**\n${lines}` },
+      text: { tag: 'lark_md', content: `**${label}**` },
     });
+
+    list.forEach((it, i) => {
+      const title = titleExtract ? titleExtract(it) : (it.title || '').replace(/\n/g, '').substring(0, 45);
+      const url = it.url || '#';
+      const hot = hotEmoji(it.hot);
+      elements.push({
+        tag: 'column_set',
+        horizontal_spacing: 'small',
+        margin: '1px 0px',
+        columns: [
+          {
+            tag: 'column', width: 'auto', vertical_align: 'center',
+            elements: [{ tag: 'div', text: { tag: 'plain_text', content: MEDALS[i] || `${i + 1}.` } }],
+          },
+          {
+            tag: 'column', width: 'weighted', weight: 4, vertical_align: 'center',
+            elements: [{ tag: 'div', text: { tag: 'lark_md', content: `[${title}](${url})` } }],
+          },
+          {
+            tag: 'column', width: 'auto', vertical_align: 'center',
+            elements: [{ tag: 'div', text: { tag: 'plain_text', content: hot } }],
+          },
+        ],
+      });
+    });
+    elements.push({ tag: 'hr' });
   }
 
+  // 各热榜源
+  for (const [key, label] of Object.entries(PLATFORM_ICONS)) {
+    if (key === 'github') continue;
+    buildSourceSection(label, key, hotNews[key] || []);
+  }
+
+  // GitHub Trending
   const ghItems = github.slice(0, 5);
   if (ghItems.length > 0) {
     total += ghItems.length;
-    const lines = ghItems
-      .map((it, i) => {
-        const title = (it.title || '').replace(/\n/g, '').substring(0, 55);
-        const hot = (it.hot || '').replace('⭐ ', '');
-        const url = it.url || '';
-        const num = ['①', '②', '③', '④', '⑤'][i] || `${i + 1}.`;
-        const hotPart = hot ? `<font color='grey'>  ·  ${hot}</font>` : '';
-        return `${num} [${title}](${url || '#'})${hotPart}`;
-      })
-      .join('\n');
-    sections.push({
-      tag: 'div',
-      text: { tag: 'lark_md', content: `**⭐ GitHub Trending**\n${lines}` },
+    elements.push({ tag: 'div', text: { tag: 'lark_md', content: '**⭐ GitHub Trending**' } });
+    ghItems.forEach((it, i) => {
+      const title = (it.title || '').replace(/\n/g, '').substring(0, 55);
+      const url = it.url || '#';
+      // GitHub 的 star 数直接显示，不走热度 emoji
+      const stars = (it.hot || '').replace('⭐ ', '');
+      elements.push({
+        tag: 'column_set',
+        horizontal_spacing: 'small',
+        margin: '1px 0px',
+        columns: [
+          {
+            tag: 'column', width: 'auto', vertical_align: 'center',
+            elements: [{ tag: 'div', text: { tag: 'plain_text', content: MEDALS[i] || `${i + 1}.` } }],
+          },
+          {
+            tag: 'column', width: 'weighted', weight: 4, vertical_align: 'center',
+            elements: [{ tag: 'div', text: { tag: 'lark_md', content: `[${title}](${url})` } }],
+          },
+          {
+            tag: 'column', width: 'auto', vertical_align: 'center',
+            elements: [{ tag: 'div', text: { tag: 'plain_text', content: stars ? `⭐${stars}` : '' } }],
+          },
+        ],
+      });
     });
   }
 
+  // 删掉最后一个 hr（如果存在）+ 加底部
+  while (elements[elements.length - 1]?.tag === 'hr') elements.pop();
+  elements.push({ tag: 'hr' });
+  elements.push({
+    tag: 'note',
+    elements: [{ tag: 'plain_text', content: `🤖 Auto | Cloudflare Worker + GitHub Actions` }],
+  });
+
+  // 头部信息
   const now = new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
+  elements.unshift({ tag: 'hr' });
+  elements.unshift({
+    tag: 'div',
+    text: { tag: 'lark_md', content: `<font color='grey'>共 ${total} 条 · 每 30 分钟自动更新</font>` },
+  });
 
   return {
     config: { wide_screen_mode: true },
@@ -113,18 +172,7 @@ function buildCard(data) {
       title: { tag: 'plain_text', content: `📰 每日热榜 · ${now}` },
       template: 'turquoise',
     },
-    elements: [
-      { tag: 'div', text: { tag: 'lark_md', content: `<font color='grey'>共 ${total} 条 · 每 30 分钟自动更新</font>` } },
-      { tag: 'hr' },
-      ...sections,
-      { tag: 'hr' },
-      {
-        tag: 'note',
-        elements: [
-          { tag: 'plain_text', content: `🤖 Auto by GitHub Actions | 数据源: 自部署 Cloudflare Worker` },
-        ],
-      },
-    ],
+    elements,
   };
 }
 
