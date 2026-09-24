@@ -10,12 +10,13 @@ const CHAT_ID = process.env.FEISHU_CHAT_ID;
 
 const PLATFORM_ICONS = {
   weibo: '🔥 微博',
+  zhihu: '📚 知乎',
   baidu: '🔍 百度',
-  zhihu: '💡 知乎',
   douyin: '🎵 抖音',
-  space: '🚀 航天',
+  '36kr': '💡 36氪',
+  juejin: '⛏️ 掘金',
+  hackernews: '👾 HackerNews',
   github: '⭐ GitHub',
-  tech: '💻 Hacker News',
 };
 
 function request(options, body) {
@@ -46,14 +47,24 @@ async function getToken() {
   return j.tenant_access_token;
 }
 
-function buildCard(hotNews) {
+function buildCard(data) {
+  // 新结构: { dailyhot: { weibo: [...], ... }, github: [...] }
+  // 旧结构兼容: { weibo: [...], github: [...] }
+  const hotNews = data.dailyhot || data;
+  const github = data.github || [];
+
   const sections = [];
+  let total = 0;
+
+  // dailyhot 各源
   for (const [key, icon] of Object.entries(PLATFORM_ICONS)) {
+    if (key === 'github') continue;
     const items = (hotNews[key] || []).slice(0, 5);
     if (items.length === 0) continue;
+    total += items.length;
     const lines = items
       .map((it, i) => {
-        const title = it.title.replace(/\n/g, '').substring(0, 40);
+        const title = (it.title || '').replace(/\n/g, '').substring(0, 40);
         const hot = it.hot || '';
         const url = it.url || '';
         return `${i + 1}. [${title}](${url})  ${hot ? `\`${hot}\`` : ''}`;
@@ -65,7 +76,24 @@ function buildCard(hotNews) {
     });
   }
 
-  const total = Object.values(hotNews).reduce((s, arr) => s + (arr || []).length, 0);
+  // GitHub 单独处理
+  const ghItems = github.slice(0, 5);
+  if (ghItems.length > 0) {
+    total += ghItems.length;
+    const lines = ghItems
+      .map((it, i) => {
+        const title = (it.title || '').replace(/\n/g, '').substring(0, 50);
+        const hot = it.hot || '';
+        const url = it.url || '';
+        return `${i + 1}. [${title}](${url})  ${hot ? `\`${hot}\`` : ''}`;
+      })
+      .join('\n');
+    sections.push({
+      tag: 'div',
+      text: { tag: 'lark_md', content: `**⭐ GitHub**\n${lines}` },
+    });
+  }
+
   const now = new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
 
   return {
