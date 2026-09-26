@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-09-26T21:01:15.947Z",
+  "updatedAt": "2026-09-26T21:30:52.293Z",
   "dailyhot": {
+    "zhihu": [
+      {
+        "title": "暂无数据",
+        "source": "知乎"
+      }
+    ],
     "juejin": [
       {
         "title": "我把 Cursor 接到了蓝湖上，设计师再也不用追着我问\"还原了吗\"",
@@ -10,7 +16,7 @@
       },
       {
         "title": "同样叫 Harness，DeepSeek Harness 和 Pi 根本不在同一层",
-        "hot": 360,
+        "hot": 369,
         "url": "https://juejin.cn/post/7688805244534325263",
         "source": "掘金"
       },
@@ -27,7 +33,7 @@
         "source": "掘金"
       },
       {
-        "title": "WorkBuddy 每天自动领积分！教你用云函数做个签到机器人",
+        "title": "WorkBuddy 每天自动领积分！教你用云函数做个签到机器���",
         "hot": 252,
         "url": "https://juejin.cn/post/7688905988846305289",
         "source": "掘金"
@@ -64,7 +70,7 @@
       },
       {
         "title": "VibeCoding 一套 Admin 系统，五种技术栈实现",
-        "hot": 126,
+        "hot": 135,
         "url": "https://juejin.cn/post/7688739949714997288",
         "source": "掘金"
       },
@@ -81,292 +87,108 @@
         "source": "掘金"
       },
       {
+        "title": "Flutter 获取 iPhone Duo 预留区位置",
+        "hot": 99,
+        "url": "https://juejin.cn/post/7688917667420717091",
+        "source": "掘金"
+      },
+      {
         "title": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案",
         "hot": 99,
         "url": "https://juejin.cn/post/7688585710283014184",
         "source": "掘金"
-      },
-      {
-        "title": "我打回了 AI 写的 PR：新立 3 条规矩，第 1 条就有争议",
-        "hot": 90,
-        "url": "https://juejin.cn/post/7689029662157668390",
-        "source": "掘金"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "亚运会乒乓球混双决赛，王楚钦/孙颖莎 0-4 林诗栋/蒯曼，国乒包揽亚运混双金银牌，如何评价本场比赛？",
-        "hot": 23460000,
-        "url": "https://www.zhihu.com/question/2087238239216034300",
-        "source": "知乎"
-      },
-      {
-        "title": "亚运乒乓男单 1/4 决赛，张本智和 3-4 不敌伊朗阿拉米扬，如何评价本场比赛，张本到底什么水平？",
-        "hot": 8300000,
-        "url": "https://www.zhihu.com/question/2087227137711240700",
-        "source": "知乎"
-      },
-      {
-        "title": "如何评价哈工程新出台的校园网管理办法？",
-        "hot": 2240000,
-        "url": "https://www.zhihu.com/question/2086440332393238800",
-        "source": "知乎"
-      },
-      {
-        "title": "中美同意共同构建基于尊重、公平、对等的建设性战略稳定关系，这一新定位有哪些深意和影响？",
-        "hot": 1820000,
-        "url": "https://www.zhihu.com/question/2087138028443668700",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么现在不谈论可燃冰了？",
-        "hot": 1720000,
-        "url": "https://www.zhihu.com/question/652812178",
-        "source": "知乎"
-      },
-      {
-        "title": "浙江男子出生28天就被送养到山东，58年后寻亲成功，比哥哥高一头，山东人每天吃什么？为啥会高出这么多？",
-        "hot": 1470000,
-        "url": "https://www.zhihu.com/question/2087153255042082800",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么鸡转头是「一下一下」「瞬移」，而不是像人一样有肉眼可见的转头过程？",
-        "hot": 1450000,
-        "url": "https://www.zhihu.com/question/665173840",
-        "source": "知乎"
-      },
-      {
-        "title": "到底能不能在高速公路服务区停车过夜？",
-        "hot": 1430000,
-        "url": "https://www.zhihu.com/question/654323142",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么像刘���这样「国民级」的音乐人越来越难出现？",
-        "hot": 1390000,
-        "url": "https://www.zhihu.com/question/2087126350851044900",
-        "source": "知乎"
-      },
-      {
-        "title": "国家出手调控油价了，本轮涨幅砍半，半年四次压缩成品油涨幅，怎样解读？",
-        "hot": 1240000,
-        "url": "https://www.zhihu.com/question/2087110406200194000",
-        "source": "知乎"
-      },
-      {
-        "title": "著名音乐家刘欢于9月25日在上海病逝，享年63岁，如何评价他在华语乐坛的地位？哪首歌是你的时代记忆？",
-        "hot": 1140000,
-        "url": "https://www.zhihu.com/question/2087120107130598100",
-        "source": "知乎"
-      },
-      {
-        "title": "比尔•盖茨警告AI或可致十亿人死亡，呼吁立法监管，怎样看待他的观点？现阶段需要怎样的法律约束 AI？",
-        "hot": 1090000,
-        "url": "https://www.zhihu.com/question/2087176327761585000",
-        "source": "知乎"
-      },
-      {
-        "title": "冯小刚承认《抓特务》亏本但否认成本 3 亿，称电影「受到了一种网暴式、非理性的干扰」，你如何看待？",
-        "hot": 1040000,
-        "url": "https://www.zhihu.com/question/2086137290808457200",
-        "source": "知乎"
-      },
-      {
-        "title": "有酒店推出 369 元自助早餐月卡，可任选 70 种餐品，你愿意去吃吗？为啥酒店开始卖早餐月卡？",
-        "hot": 990000,
-        "url": "https://www.zhihu.com/question/2086826480202250200",
-        "source": "知乎"
-      },
-      {
-        "title": "2026赛季F1阿塞拜疆大奖赛，拉塞尔夺冠，勒克莱尔第四，如何评价本场比赛？",
-        "hot": 900000,
-        "url": "https://www.zhihu.com/question/2087291029670074000",
-        "source": "知乎"
       }
     ],
     "hackernews": [
       {
         "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-        "hot": 238,
+        "hot": 249,
         "url": "https://github.com/InfinityLoop1308/PipePipe",
         "source": "HackerNews"
       },
       {
         "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-        "hot": 73,
+        "hot": 91,
         "url": "https://github.com/reladraw/reladraw",
         "source": "HackerNews"
       },
       {
         "title": "DeepSeek Elastic Compute (DSec)",
-        "hot": 35,
+        "hot": 53,
         "url": "https://arxiv.org/abs/2609.22978",
         "source": "HackerNews"
       },
       {
-        "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-        "hot": 72,
-        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-        "source": "HackerNews"
-      },
-      {
         "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-        "hot": 56,
+        "hot": 66,
         "url": "https://www.movingimagearchive.com/",
         "source": "HackerNews"
       },
       {
-        "title": "The Lost Atomic Update on Loongson CPU",
-        "hot": 81,
-        "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+        "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+        "hot": 78,
+        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+        "hot": 10,
+        "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
         "source": "HackerNews"
       },
       {
         "title": "Fifteen years later, the Apple Cards origin story",
-        "hot": 301,
+        "hot": 306,
         "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
         "source": "HackerNews"
       },
       {
+        "title": "The Lost Atomic Update on Loongson CPU",
+        "hot": 85,
+        "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "LA Metro has some of the slowest escalators on Earth",
+        "hot": 15,
+        "url": "https://basin.la/articles/ninety-feet-a-minute.html",
+        "source": "HackerNews"
+      },
+      {
         "title": "Modern Object Pascal Introduction for Programmers",
-        "hot": 114,
+        "hot": 123,
         "url": "https://castle-engine.io/modern_pascal",
         "source": "HackerNews"
       },
       {
         "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "hot": 678,
+        "hot": 686,
         "url": "https://swarmtraces.org/",
         "source": "HackerNews"
       },
       {
-        "title": "LA Metro has some of the slowest escalators on Earth",
-        "hot": 7,
-        "url": "https://basin.la/articles/ninety-feet-a-minute.html",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-        "hot": 44,
-        "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-        "source": "HackerNews"
-      },
-      {
-        "title": "We're gonna need a lot more mathematicians",
-        "hot": 330,
-        "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-        "source": "HackerNews"
-      },
-      {
         "title": "The Rise of Audio AR",
-        "hot": 17,
+        "hot": 20,
         "url": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
         "source": "HackerNews"
       },
       {
-        "title": "Reflections on 1,000 Days of Math",
-        "hot": 70,
-        "url": "https://gmays.com/reflections-on-1000-days-of-math/",
+        "title": "We're gonna need a lot more mathematicians",
+        "hot": 336,
+        "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+        "hot": 46,
+        "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
         "source": "HackerNews"
       },
       {
         "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-        "hot": 591,
+        "hot": 600,
         "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
         "source": "HackerNews"
-      }
-    ],
-    "baidu": [
-      {
-        "title": "习近平主席美国之行",
-        "hot": 7904213,
-        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%BE%8E%E5%9B%BD%E4%B9%8B%E8%A1%8C",
-        "source": "百度"
-      },
-      {
-        "title": "中美达成八点成果共识",
-        "hot": 7808784,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86",
-        "source": "百度"
-      },
-      {
-        "title": "防止军国主义复活是中美共同责任",
-        "hot": 7713081,
-        "url": "https://www.baidu.com/s?wd=%E9%98%B2%E6%AD%A2%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%A4%8D%E6%B4%BB%E6%98%AF%E4%B8%AD%E7%BE%8E%E5%85%B1%E5%90%8C%E8%B4%A3%E4%BB%BB",
-        "source": "百度"
-      },
-      {
-        "title": "把中美建设性战略稳定关系转为行动",
-        "hot": 7617110,
-        "url": "https://www.baidu.com/s?wd=%E6%8A%8A%E4%B8%AD%E7%BE%8E%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB%E8%BD%AC%E4%B8%BA%E8%A1%8C%E5%8A%A8",
-        "source": "百度"
-      },
-      {
-        "title": "林诗栋蒯曼4比0王楚钦孙颖莎夺冠",
-        "hot": 7523192,
-        "url": "https://www.baidu.com/s?wd=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC4%E6%AF%940%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0",
-        "source": "百度"
-      },
-      {
-        "title": "林诗栋 跨栏",
-        "hot": 7428429,
-        "url": "https://www.baidu.com/s?wd=%E6%9E%97%E8%AF%97%E6%A0%8B%20%E8%B7%A8%E6%A0%8F",
-        "source": "百度"
-      },
-      {
-        "title": "十五的月亮十七圆 错过要等到2043年",
-        "hot": 7329590,
-        "url": "https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%94%E7%9A%84%E6%9C%88%E4%BA%AE%E5%8D%81%E4%B8%83%E5%9C%86%20%E9%94%99%E8%BF%87%E8%A6%81%E7%AD%89%E5%88%B02043%E5%B9%B4",
-        "source": "百度"
-      },
-      {
-        "title": "张本智和回应爆冷出局",
-        "hot": 7233124,
-        "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%9B%9E%E5%BA%94%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80",
-        "source": "百度"
-      },
-      {
-        "title": "吴艳妮13秒18晋级100米栏决赛",
-        "hot": 7137215,
-        "url": "https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE13%E7%A7%9218%E6%99%8B%E7%BA%A7100%E7%B1%B3%E6%A0%8F%E5%86%B3%E8%B5%9B",
-        "source": "百度"
-      },
-      {
-        "title": "中美关系定位内涵进一步丰富",
-        "hot": 7046909,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%AE%9A%E4%BD%8D%E5%86%85%E6%B6%B5%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%B8%B0%E5%AF%8C",
-        "source": "百度"
-      },
-      {
-        "title": "中方回应美方“超级智能”提法",
-        "hot": 6950488,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E2%80%9C%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E2%80%9D%E6%8F%90%E6%B3%95",
-        "source": "百度"
-      },
-      {
-        "title": "龙眼外壳发白是打蜡泡药？误区",
-        "hot": 6847658,
-        "url": "https://www.baidu.com/s?wd=%E9%BE%99%E7%9C%BC%E5%A4%96%E5%A3%B3%E5%8F%91%E7%99%BD%E6%98%AF%E6%89%93%E8%9C%A1%E6%B3%A1%E8%8D%AF%EF%BC%9F%E8%AF%AF%E5%8C%BA",
-        "source": "百度"
-      },
-      {
-        "title": "三大运营商为何全面暂停0元购机",
-        "hot": 6753739,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E4%B8%BA%E4%BD%95%E5%85%A8%E9%9D%A2%E6%9A%82%E5%81%9C0%E5%85%83%E8%B4%AD%E6%9C%BA",
-        "source": "百度"
-      },
-      {
-        "title": "央视曝光吃作业隐患",
-        "hot": 6668582,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%83%E4%BD%9C%E4%B8%9A%E9%9A%90%E6%82%A3",
-        "source": "百度"
-      },
-      {
-        "title": "那英哽咽演唱《弯弯的月亮》",
-        "hot": 6567784,
-        "url": "https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E5%93%BD%E5%92%BD%E6%BC%94%E5%94%B1%E3%80%8A%E5%BC%AF%E5%BC%AF%E7%9A%84%E6%9C%88%E4%BA%AE%E3%80%8B",
-        "source": "百度"
       }
     ],
     "weibo": [
@@ -389,15 +211,15 @@
         "source": "微博"
       },
       {
-        "title": "乒乓球男��",
+        "title": "中美延期吉隆坡经贸磋商成果",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%8D%95",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%BB%B6%E6%9C%9F%E5%90%89%E9%9A%86%E5%9D%A1%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%E6%88%90%E6%9E%9C",
         "source": "微博"
       },
       {
-        "title": "米兰时装周",
+        "title": "乒乓球男单",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8",
+        "url": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%8D%95",
         "source": "微博"
       },
       {
@@ -407,21 +229,15 @@
         "source": "微博"
       },
       {
-        "title": "医生戳破饮料配料表误区",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E6%88%B3%E7%A0%B4%E9%A5%AE%E6%96%99%E9%85%8D%E6%96%99%E8%A1%A8%E8%AF%AF%E5%8C%BA",
-        "source": "微博"
-      },
-      {
         "title": "九月多位公众人物相继离世",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E6%9C%88%E5%A4%9A%E4%BD%8D%E5%85%AC%E4%BC%97%E4%BA%BA%E7%89%A9%E7%9B%B8%E7%BB%A7%E7%A6%BB%E4%B8%96",
         "source": "微博"
       },
       {
-        "title": "EDG stew",
+        "title": "米兰时装周",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=EDG%20stew",
+        "url": "https://s.weibo.com/weibo?q=%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8",
         "source": "微博"
       },
       {
@@ -431,9 +247,9 @@
         "source": "微博"
       },
       {
-        "title": "中美相互支持对方办好APEC和G20",
+        "title": "蔡磊确诊渐冻症后的第七个中秋",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E7%9B%B8%E4%BA%92%E6%94%AF%E6%8C%81%E5%AF%B9%E6%96%B9%E5%8A%9E%E5%A5%BDAPEC%E5%92%8CG20",
+        "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E7%A3%8A%E7%A1%AE%E8%AF%8A%E6%B8%90%E5%86%BB%E7%97%87%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%83%E4%B8%AA%E4%B8%AD%E7%A7%8B",
         "source": "微博"
       },
       {
@@ -443,7 +259,7 @@
         "source": "微博"
       },
       {
-        "title": "孙颖莎说���会可以报两对混双",
+        "title": "孙颖莎说协会可以报两对混双",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E5%8D%8F%E4%BC%9A%E5%8F%AF%E4%BB%A5%E6%8A%A5%E4%B8%A4%E5%AF%B9%E6%B7%B7%E5%8F%8C",
         "source": "微博"
@@ -459,6 +275,104 @@
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90%20%E6%8D%A2%E4%BA%86%E6%90%AD%E6%A1%A3%E7%85%A7%E6%A0%B7%E5%A4%BA%E5%86%A0",
         "source": "微博"
+      },
+      {
+        "title": "现在的消费需求越来越清晰了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%B6%88%E8%B4%B9%E9%9C%80%E6%B1%82%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%B8%85%E6%99%B0%E4%BA%86",
+        "source": "微博"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "习近平主席美国之行",
+        "hot": 7904866,
+        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%BE%8E%E5%9B%BD%E4%B9%8B%E8%A1%8C",
+        "source": "百度"
+      },
+      {
+        "title": "中美达成八点成果共识",
+        "hot": 7809293,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86",
+        "source": "百度"
+      },
+      {
+        "title": "防止军国主义复活是中美共同责任",
+        "hot": 7713843,
+        "url": "https://www.baidu.com/s?wd=%E9%98%B2%E6%AD%A2%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%A4%8D%E6%B4%BB%E6%98%AF%E4%B8%AD%E7%BE%8E%E5%85%B1%E5%90%8C%E8%B4%A3%E4%BB%BB",
+        "source": "百度"
+      },
+      {
+        "title": "把中美建设性战略稳定关系转为行动",
+        "hot": 7618184,
+        "url": "https://www.baidu.com/s?wd=%E6%8A%8A%E4%B8%AD%E7%BE%8E%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB%E8%BD%AC%E4%B8%BA%E8%A1%8C%E5%8A%A8",
+        "source": "百度"
+      },
+      {
+        "title": "林诗栋蒯曼4比0王楚钦孙颖莎夺冠",
+        "hot": 7520138,
+        "url": "https://www.baidu.com/s?wd=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC4%E6%AF%940%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0",
+        "source": "百度"
+      },
+      {
+        "title": "林诗栋 跨栏",
+        "hot": 7424534,
+        "url": "https://www.baidu.com/s?wd=%E6%9E%97%E8%AF%97%E6%A0%8B%20%E8%B7%A8%E6%A0%8F",
+        "source": "百度"
+      },
+      {
+        "title": "十五的月亮十七圆 错过要等到2043年",
+        "hot": 7327783,
+        "url": "https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%94%E7%9A%84%E6%9C%88%E4%BA%AE%E5%8D%81%E4%B8%83%E5%9C%86%20%E9%94%99%E8%BF%87%E8%A6%81%E7%AD%89%E5%88%B02043%E5%B9%B4",
+        "source": "百度"
+      },
+      {
+        "title": "张本智和回应爆冷出局",
+        "hot": 7238394,
+        "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%9B%9E%E5%BA%94%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80",
+        "source": "百度"
+      },
+      {
+        "title": "吴艳妮13秒18晋级100米栏决赛",
+        "hot": 7137321,
+        "url": "https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE13%E7%A7%9218%E6%99%8B%E7%BA%A7100%E7%B1%B3%E6%A0%8F%E5%86%B3%E8%B5%9B",
+        "source": "百度"
+      },
+      {
+        "title": "中美关系定位内涵进一步丰富",
+        "hot": 7044237,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%AE%9A%E4%BD%8D%E5%86%85%E6%B6%B5%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%B8%B0%E5%AF%8C",
+        "source": "百度"
+      },
+      {
+        "title": "中方回应美方“超级智能”提法",
+        "hot": 6950267,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E2%80%9C%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E2%80%9D%E6%8F%90%E6%B3%95",
+        "source": "百度"
+      },
+      {
+        "title": "龙眼外壳发白是打蜡泡药？误区",
+        "hot": 6856948,
+        "url": "https://www.baidu.com/s?wd=%E9%BE%99%E7%9C%BC%E5%A4%96%E5%A3%B3%E5%8F%91%E7%99%BD%E6%98%AF%E6%89%93%E8%9C%A1%E6%B3%A1%E8%8D%AF%EF%BC%9F%E8%AF%AF%E5%8C%BA",
+        "source": "百度"
+      },
+      {
+        "title": "三大运营商为何全面暂停0元购机",
+        "hot": 6762218,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E4%B8%BA%E4%BD%95%E5%85%A8%E9%9D%A2%E6%9A%82%E5%81%9C0%E5%85%83%E8%B4%AD%E6%9C%BA",
+        "source": "百度"
+      },
+      {
+        "title": "伊朗向美方提出重开霍尔木兹海峡计划",
+        "hot": 6656912,
+        "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E6%96%B9%E6%8F%90%E5%87%BA%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%AE%A1%E5%88%92",
+        "source": "百度"
+      },
+      {
+        "title": "陈芋汐卢为10米台夺金",
+        "hot": 6566714,
+        "url": "https://www.baidu.com/s?wd=%E9%99%88%E8%8A%8B%E6%B1%90%E5%8D%A2%E4%B8%BA10%E7%B1%B3%E5%8F%B0%E5%A4%BA%E9%87%91",
+        "source": "百度"
       }
     ],
     "36kr": [
@@ -493,15 +407,15 @@
         "source": "36氪"
       },
       {
-        "title": "中国汽车横扫全球，为何拿不下越南？",
-        "hot": 10,
-        "url": "https://www.36kr.com/p/3998658992394112",
-        "source": "36氪"
-      },
-      {
         "title": "融资3亿，她宣布公司倒闭",
         "hot": 21,
         "url": "https://www.36kr.com/p/4000001733414792",
+        "source": "36氪"
+      },
+      {
+        "title": "中国汽车横扫全球，为何拿不下越南？",
+        "hot": 10,
+        "url": "https://www.36kr.com/p/3998658992394112",
         "source": "36氪"
       },
       {
@@ -529,15 +443,15 @@
         "source": "36氪"
       },
       {
-        "title": "0元购机，卒于2026",
-        "hot": 7,
-        "url": "https://www.36kr.com/p/3999583659661184",
-        "source": "36氪"
-      },
-      {
         "title": "Claude取得理论物理突破，只用了一句话+几千美元",
         "hot": 9,
         "url": "https://www.36kr.com/p/3999414374174598",
+        "source": "36氪"
+      },
+      {
+        "title": "0元购机，卒于2026",
+        "hot": 7,
+        "url": "https://www.36kr.com/p/3999583659661184",
         "source": "36氪"
       },
       {
@@ -557,7 +471,7 @@
   "github": [
     {
       "title": "zai-org/ZCode —— Z.ai's coding agent harness. Powerful, i",
-      "hot": "⭐ 6829",
+      "hot": "⭐ 6830",
       "url": "https://github.com/zai-org/ZCode",
       "source": "GitHub",
       "tag": "TypeScript"
@@ -571,21 +485,21 @@
     },
     {
       "title": "mizorewww/laya-mlx —— Native MLX runtime for Laya typed decisi",
-      "hot": "⭐ 6418",
+      "hot": "⭐ 6420",
       "url": "https://github.com/mizorewww/laya-mlx",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "driceroland/Search —— A small, fast WebKit browser for macOS, ",
-      "hot": "⭐ 2093",
+      "hot": "⭐ 2096",
       "url": "https://github.com/driceroland/Search",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "newliver666/apk-reverse —— Suitable for Android APK reverse enginee",
-      "hot": "⭐ 1976",
+      "hot": "⭐ 1987",
       "url": "https://github.com/newliver666/apk-reverse",
       "source": "GitHub",
       "tag": "Python"
@@ -599,7 +513,7 @@
     },
     {
       "title": "Contrastive-LM/CLM",
-      "hot": "⭐ 1534",
+      "hot": "⭐ 1539",
       "url": "https://github.com/Contrastive-LM/CLM",
       "source": "GitHub",
       "tag": "Python"
@@ -613,24 +527,31 @@
     },
     {
       "title": "pallavi-shekhar/ai-engineering-interview-questions-company-wise —— Your Cheat Sheet For AI Engineering Inte",
-      "hot": "⭐ 1378",
+      "hot": "⭐ 1380",
       "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
       "source": "GitHub",
       "tag": "Markdown"
     },
     {
       "title": "tobi/disktree —— A treemap for finding and removing what ",
-      "hot": "⭐ 1256",
+      "hot": "⭐ 1259",
       "url": "https://github.com/tobi/disktree",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "Mak5er/AirCard-iOS ——  Apple Wallet card skins and lock screen",
-      "hot": "⭐ 1049",
+      "hot": "⭐ 1051",
       "url": "https://github.com/Mak5er/AirCard-iOS",
       "source": "GitHub",
       "tag": "Swift"
+    },
+    {
+      "title": "JohnHeibel/PDoomVideo —— Source code for the Claude Opus 5.5 musi",
+      "hot": "⭐ 1035",
+      "url": "https://github.com/JohnHeibel/PDoomVideo",
+      "source": "GitHub",
+      "tag": "JavaScript"
     },
     {
       "title": "deepopen-com/deepopen —— 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen",
@@ -640,15 +561,8 @@
       "tag": "Python"
     },
     {
-      "title": "JohnHeibel/PDoomVideo —— Source code for the Claude Opus 5.5 musi",
-      "hot": "⭐ 1031",
-      "url": "https://github.com/JohnHeibel/PDoomVideo",
-      "source": "GitHub",
-      "tag": "JavaScript"
-    },
-    {
       "title": "yetone/magpie —— Every agent's model. One place. Codex on",
-      "hot": "⭐ 984",
+      "hot": "⭐ 985",
       "url": "https://github.com/yetone/magpie",
       "source": "GitHub",
       "tag": "Go"
