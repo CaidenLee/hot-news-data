@@ -1,286 +1,102 @@
 {
-  "updatedAt": "2026-09-26T08:01:13.293Z",
+  "updatedAt": "2026-09-26T08:30:53.689Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "hot": 441,
+        "hot": 456,
         "url": "https://swarmtraces.org/",
         "source": "HackerNews"
       },
       {
         "title": "A single function Jev-like wrapper for LLMs, including vision models",
-        "hot": 53,
+        "hot": 56,
         "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
         "source": "HackerNews"
       },
       {
+        "title": "We're gonna need a lot more mathematicians",
+        "hot": 100,
+        "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+        "source": "HackerNews"
+      },
+      {
         "title": "Plan mode is dead",
-        "hot": 278,
+        "hot": 291,
         "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
         "source": "HackerNews"
       },
       {
         "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-        "hot": 425,
+        "hot": 433,
         "url": "https://ollaya.dev/",
         "source": "HackerNews"
       },
       {
         "title": "Show HN: Jev Plays Pokémon Red",
-        "hot": 191,
+        "hot": 193,
         "url": "https://jev-pokemon.vercel.app/",
         "source": "HackerNews"
       },
       {
         "title": "What even is an OS now?",
-        "hot": 176,
+        "hot": 181,
         "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
         "source": "HackerNews"
       },
       {
         "title": "The Murky History of Soviet-Born Tetris",
-        "hot": 32,
+        "hot": 37,
         "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
         "source": "HackerNews"
       },
       {
-        "title": "Postgres SELECT DISTINCT Does Not Scale",
-        "hot": 66,
-        "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
-        "source": "HackerNews"
-      },
-      {
         "title": "How I changed teaching after AI managed to do all my homework assignments",
-        "hot": 54,
+        "hot": 61,
         "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
         "source": "HackerNews"
       },
       {
         "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-        "hot": 201,
+        "hot": 206,
         "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
         "source": "HackerNews"
       },
       {
-        "title": "A new world airport and its baggage",
-        "hot": 14,
-        "url": "https://computer.rip/2026-09-20-denver-baggage.html",
+        "title": "Postgres SELECT DISTINCT Does Not Scale",
+        "hot": 70,
+        "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
         "source": "HackerNews"
       },
       {
         "title": "Gravity seems holographic. What does that mean for reality?",
-        "hot": 184,
+        "hot": 188,
         "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
         "source": "HackerNews"
       },
       {
         "title": "Scientists build most accurate atomic clock",
-        "hot": 5,
+        "hot": 7,
         "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
         "source": "HackerNews"
       },
       {
+        "title": "A new world airport and its baggage",
+        "hot": 18,
+        "url": "https://computer.rip/2026-09-20-denver-baggage.html",
+        "source": "HackerNews"
+      },
+      {
         "title": "Fourier Analysis: Drawing Llamas with Circles",
-        "hot": 32,
+        "hot": 35,
         "url": "https://adekau.github.io/posts/2020/llamas.html",
         "source": "HackerNews"
-      },
-      {
-        "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-        "hot": 164,
-        "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-        "source": "HackerNews"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "美方称中美「贸易休战」延长至明年 1 月，这对世界局势有何影响？",
-        "hot": 26090000,
-        "url": "https://www.zhihu.com/question/2086393162981979400",
-        "source": "知乎"
-      },
-      {
-        "title": "樊振东回归能解决目前国乒的问题吗？他回归的可能性有多大？",
-        "hot": 14480000,
-        "url": "https://www.zhihu.com/question/2086536830514460000",
-        "source": "知乎"
-      },
-      {
-        "title": "亚运会男子 100 米半决赛，泰国选手汶颂跑出 9.91 秒，突破苏炳添亚运纪录，如何评价？",
-        "hot": 4300000,
-        "url": "https://www.zhihu.com/question/2086892833596600600",
-        "source": "知乎"
-      },
-      {
-        "title": "中美同意共同构建基于尊重、公平、对等的建设性战略稳定关系，这一新定位有哪些深意和影响？",
-        "hot": 2930000,
-        "url": "https://www.zhihu.com/question/2087138028443668700",
-        "source": "知乎"
-      },
-      {
-        "title": "网红狗头萝莉自曝负债 650 万成老赖，主播为何频频陷入天价违约金困境？",
-        "hot": 2260000,
-        "url": "https://www.zhihu.com/question/2086478767204086800",
-        "source": "知乎"
-      },
-      {
-        "title": "现在的孩子要什么有什么，为啥眼里没了光？",
-        "hot": 1600000,
-        "url": "https://www.zhihu.com/question/2086030429858051800",
-        "source": "知乎"
-      },
-      {
-        "title": "张本智和 3-0 王楚钦，赛后称等这枚金牌等了十年，现在张本智和的水平在哪个层次？对国乒威胁有多大？",
-        "hot": 1570000,
-        "url": "https://www.zhihu.com/question/2086566324948264700",
-        "source": "知乎"
-      },
-      {
-        "title": "《微微一笑很倾城》女主换脸后重上流媒体，你观感如何？类似原因下架的作品都能这样「复活」吗？",
-        "hot": 1560000,
-        "url": "https://www.zhihu.com/question/2086446703897310700",
-        "source": "知乎"
-      },
-      {
-        "title": "护士突发脑出血倒在工作岗位，人社局称抢救十天不予认定工伤，为何倒在工位上仍无法认定工伤？",
-        "hot": 1550000,
-        "url": "https://www.zhihu.com/question/2086839765966348300",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待千亿航天被曝强制加班、非客观原因开除，其 CEO 回应称管理方式比较粗暴并就不实信息报警？",
-        "hot": 1540000,
-        "url": "https://www.zhihu.com/question/2086212993591857200",
-        "source": "知乎"
-      },
-      {
-        "title": "著名音乐家刘欢于9月25日在上海病逝，享年63岁，如何评价他在华语乐坛的地位？哪首歌是你的时代记忆？",
-        "hot": 1530000,
-        "url": "https://www.zhihu.com/question/2087120107130598100",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么鸡转头是「一下一下」「瞬移」，而��是像人一样有肉眼可见的转头过程？",
-        "hot": 1530000,
-        "url": "https://www.zhihu.com/question/665173840",
-        "source": "知乎"
-      },
-      {
-        "title": "王楚钦之后谁还能扛起国乒大旗？为什么感觉新人都差了那么一点？",
-        "hot": 1500000,
-        "url": "https://www.zhihu.com/question/2086538132225091000",
-        "source": "知乎"
-      },
-      {
-        "title": "刘欢 63 岁去世，生前长期受股骨头缺血性坏死困扰，该病被称为「不死的癌症」，它会如何逐步拖垮身体？",
-        "hot": 1480000,
-        "url": "https://www.zhihu.com/question/2087134099702137000",
-        "source": "知乎"
-      },
-      {
-        "title": "财务自由的感觉是怎样的？",
-        "hot": 1460000,
-        "url": "https://www.zhihu.com/question/23668539",
-        "source": "知乎"
-      }
-    ],
-    "weibo": [
-      {
-        "title": "中美两国元首夫妇参观美国国家档案馆",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86",
-        "source": "微博"
-      },
-      {
-        "title": "月饼回收价800元一吨",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E9%A5%BC%E5%9B%9E%E6%94%B6%E4%BB%B7800%E5%85%83%E4%B8%80%E5%90%A8",
-        "source": "微博"
-      },
-      {
-        "title": "中美共同构建建设性战略稳定关系",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%B1%E5%90%8C%E6%9E%84%E5%BB%BA%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB",
-        "source": "微博"
-      },
-      {
-        "title": "看见5年城长力",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%9C%8B%E8%A7%815%E5%B9%B4%E5%9F%8E%E9%95%BF%E5%8A%9B",
-        "source": "微博"
-      },
-      {
-        "title": "为什么你去旅游很无聊",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%8E%BB%E6%97%85%E6%B8%B8%E5%BE%88%E6%97%A0%E8%81%8A",
-        "source": "微博"
-      },
-      {
-        "title": "华为 赛力斯",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%20%E8%B5%9B%E5%8A%9B%E6%96%AF",
-        "source": "微博"
-      },
-      {
-        "title": "亚运国足vs泰国",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E5%9B%BD%E8%B6%B3vs%E6%B3%B0%E5%9B%BD",
-        "source": "微博"
-      },
-      {
-        "title": "全款买房空置6年被人装修入住4年",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E7%A9%BA%E7%BD%AE6%E5%B9%B4%E8%A2%AB%E4%BA%BA%E8%A3%85%E4%BF%AE%E5%85%A5%E4%BD%8F4%E5%B9%B4",
-        "source": "微博"
-      },
-      {
-        "title": "U23国足进四强",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=U23%E5%9B%BD%E8%B6%B3%E8%BF%9B%E5%9B%9B%E5%BC%BA",
-        "source": "微博"
-      },
-      {
-        "title": "孙颖莎魔鬼赛程",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%AD%94%E9%AC%BC%E8%B5%9B%E7%A8%8B",
-        "source": "微博"
-      },
-      {
-        "title": "特朗普称期待下次会面",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%9F%E5%BE%85%E4%B8%8B%E6%AC%A1%E4%BC%9A%E9%9D%A2",
-        "source": "微博"
-      },
-      {
-        "title": "众歌手悼念刘欢",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BC%97%E6%AD%8C%E6%89%8B%E6%82%BC%E5%BF%B5%E5%88%98%E6%AC%A2",
-        "source": "微博"
-      },
-      {
-        "title": "王楚钦说没有精力了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E6%B2%A1%E6%9C%89%E7%B2%BE%E5%8A%9B%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "比尔盖茨发出严厉警告",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%8F%91%E5%87%BA%E4%B8%A5%E5%8E%89%E8%AD%A6%E5%91%8A",
-        "source": "微博"
-      },
-      {
-        "title": "刘欢去世",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E6%AC%A2%E5%8E%BB%E4%B8%96",
-        "source": "微博"
       }
     ],
     "juejin": [
       {
         "title": "给Codex配上Jev，直接起飞。",
-        "hot": 603,
+        "hot": 612,
         "url": "https://juejin.cn/post/7688401277182066738",
         "source": "掘金"
       },
@@ -310,7 +126,7 @@
       },
       {
         "title": " 2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写",
-        "hot": 324,
+        "hot": 333,
         "url": "https://juejin.cn/post/7687902696659894314",
         "source": "掘金"
       },
@@ -369,105 +185,191 @@
         "source": "掘金"
       }
     ],
+    "weibo": [
+      {
+        "title": "中美达成八点成果共识",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86",
+        "source": "微博"
+      },
+      {
+        "title": "U23国足进四强",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=U23%E5%9B%BD%E8%B6%B3%E8%BF%9B%E5%9B%9B%E5%BC%BA",
+        "source": "微博"
+      },
+      {
+        "title": "中美共同构建建设性战略稳定关系",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%B1%E5%90%8C%E6%9E%84%E5%BB%BA%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB",
+        "source": "微博"
+      },
+      {
+        "title": "鸿星尔克于适运动男友风",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E4%BA%8E%E9%80%82%E8%BF%90%E5%8A%A8%E7%94%B7%E5%8F%8B%E9%A3%8E",
+        "source": "微博"
+      },
+      {
+        "title": "月饼回收价800元一吨",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E9%A5%BC%E5%9B%9E%E6%94%B6%E4%BB%B7800%E5%85%83%E4%B8%80%E5%90%A8",
+        "source": "微博"
+      },
+      {
+        "title": "亚运国足vs泰国",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E5%9B%BD%E8%B6%B3vs%E6%B3%B0%E5%9B%BD",
+        "source": "微博"
+      },
+      {
+        "title": "孙颖莎魔鬼赛程",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%AD%94%E9%AC%BC%E8%B5%9B%E7%A8%8B",
+        "source": "微博"
+      },
+      {
+        "title": "我的宝藏食谱",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E5%AE%9D%E8%97%8F%E9%A3%9F%E8%B0%B1",
+        "source": "微博"
+      },
+      {
+        "title": "为什么你去旅游很无聊",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%8E%BB%E6%97%85%E6%B8%B8%E5%BE%88%E6%97%A0%E8%81%8A",
+        "source": "微博"
+      },
+      {
+        "title": "华为 赛力斯",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%20%E8%B5%9B%E5%8A%9B%E6%96%AF",
+        "source": "微博"
+      },
+      {
+        "title": "身亡护士妈妈不愿48小时内放弃抢救",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%BA%AB%E4%BA%A1%E6%8A%A4%E5%A3%AB%E5%A6%88%E5%A6%88%E4%B8%8D%E6%84%BF48%E5%B0%8F%E6%97%B6%E5%86%85%E6%94%BE%E5%BC%83%E6%8A%A2%E6%95%91",
+        "source": "微博"
+      },
+      {
+        "title": "特朗普称期待下次会面",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%9F%E5%BE%85%E4%B8%8B%E6%AC%A1%E4%BC%9A%E9%9D%A2",
+        "source": "微博"
+      },
+      {
+        "title": "刘欢妻子发文我永远的爱永远的痛",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E5%8F%91%E6%96%87%E6%88%91%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%88%B1%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%97%9B",
+        "source": "微博"
+      },
+      {
+        "title": "比尔盖茨发出严厉警告",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%8F%91%E5%87%BA%E4%B8%A5%E5%8E%89%E8%AD%A6%E5%91%8A",
+        "source": "微博"
+      },
+      {
+        "title": "众歌手悼念刘欢",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BC%97%E6%AD%8C%E6%89%8B%E6%82%BC%E5%BF%B5%E5%88%98%E6%AC%A2",
+        "source": "微博"
+      }
+    ],
     "baidu": [
       {
         "title": "习近平圆满结束对美国的国事访问",
-        "hot": 7904732,
+        "hot": 7904479,
         "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%86%E6%BB%A1%E7%BB%93%E6%9D%9F%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
         "source": "百度"
       },
       {
         "title": "习近平结束访美回到北京",
-        "hot": 7809357,
+        "hot": 7808324,
         "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E8%AE%BF%E7%BE%8E%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC",
         "source": "百度"
       },
       {
         "title": "中美达成八点成果共识",
-        "hot": 7714300,
+        "hot": 7711983,
         "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86",
         "source": "百度"
       },
       {
         "title": "落实中美关系新定位",
-        "hot": 7616506,
+        "hot": 7618927,
         "url": "https://www.baidu.com/s?wd=%E8%90%BD%E5%AE%9E%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E6%96%B0%E5%AE%9A%E4%BD%8D",
         "source": "百度"
       },
       {
         "title": "习近平结束访美 特朗普第一时间发文",
-        "hot": 7523384,
+        "hot": 7524019,
         "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E8%AE%BF%E7%BE%8E%20%E7%89%B9%E6%9C%97%E6%99%AE%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E5%8F%91%E6%96%87",
         "source": "百度"
       },
       {
-        "title": "中国队 第100金",
-        "hot": 7426598,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%20%E7%AC%AC100%E9%87%91",
-        "source": "百度"
-      },
-      {
-        "title": "王钰栋遭停赛",
-        "hot": 7328713,
-        "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E9%92%B0%E6%A0%8B%E9%81%AD%E5%81%9C%E8%B5%9B",
-        "source": "百度"
-      },
-      {
         "title": "中国男足战胜泰国队晋级4强",
-        "hot": 7232692,
+        "hot": 7424164,
         "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%88%98%E8%83%9C%E6%B3%B0%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A74%E5%BC%BA",
         "source": "百度"
       },
       {
+        "title": "中国队 第100金",
+        "hot": 7328366,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%20%E7%AC%AC100%E9%87%91",
+        "source": "百度"
+      },
+      {
+        "title": "男足本世纪以来首次打入亚运4强",
+        "hot": 7234182,
+        "url": "https://www.baidu.com/s?wd=%E7%94%B7%E8%B6%B3%E6%9C%AC%E4%B8%96%E7%BA%AA%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1%E6%89%93%E5%85%A5%E4%BA%9A%E8%BF%904%E5%BC%BA",
+        "source": "百度"
+      },
+      {
         "title": "2米多长金箍棒 一口价428.8万",
-        "hot": 7136416,
+        "hot": 7141733,
         "url": "https://www.baidu.com/s?wd=2%E7%B1%B3%E5%A4%9A%E9%95%BF%E9%87%91%E7%AE%8D%E6%A3%92%20%E4%B8%80%E5%8F%A3%E4%BB%B7428.8%E4%B8%87",
         "source": "百度"
       },
       {
         "title": "白宫里的三张照片见证中美关系",
-        "hot": 7045984,
+        "hot": 7044224,
         "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E9%87%8C%E7%9A%84%E4%B8%89%E5%BC%A0%E7%85%A7%E7%89%87%E8%A7%81%E8%AF%81%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB",
         "source": "百度"
       },
       {
-        "title": "这次中美元首会晤 外媒直呼不一般",
-        "hot": 6946606,
-        "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%AC%A1%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%20%E5%A4%96%E5%AA%92%E7%9B%B4%E5%91%BC%E4%B8%8D%E4%B8%80%E8%88%AC",
+        "title": "齐达内：姆巴佩的情况看起来不太好",
+        "hot": 6952563,
+        "url": "https://www.baidu.com/s?wd=%E9%BD%90%E8%BE%BE%E5%86%85%EF%BC%9A%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9A%84%E6%83%85%E5%86%B5%E7%9C%8B%E8%B5%B7%E6%9D%A5%E4%B8%8D%E5%A4%AA%E5%A5%BD",
         "source": "百度"
       },
       {
         "title": "月饼和螃蟹一起吃会中毒？假的",
-        "hot": 6848304,
+        "hot": 6857852,
         "url": "https://www.baidu.com/s?wd=%E6%9C%88%E9%A5%BC%E5%92%8C%E8%9E%83%E8%9F%B9%E4%B8%80%E8%B5%B7%E5%90%83%E4%BC%9A%E4%B8%AD%E6%AF%92%EF%BC%9F%E5%81%87%E7%9A%84",
         "source": "百度"
       },
       {
         "title": "刘欢在家人陪伴下病逝",
-        "hot": 6753320,
+        "hot": 6756096,
         "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%E5%9C%A8%E5%AE%B6%E4%BA%BA%E9%99%AA%E4%BC%B4%E4%B8%8B%E7%97%85%E9%80%9D",
         "source": "百度"
       },
       {
-        "title": "男子全款买房未入住 6年后一看懵了",
-        "hot": 6660572,
-        "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E6%9C%AA%E5%85%A5%E4%BD%8F%206%E5%B9%B4%E5%90%8E%E4%B8%80%E7%9C%8B%E6%87%B5%E4%BA%86",
+        "title": "刘欢妻子：我永远的爱永远的痛",
+        "hot": 6659253,
+        "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%EF%BC%9A%E6%88%91%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%88%B1%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%97%9B",
         "source": "百度"
       },
       {
         "title": "比尔·盖茨警告AI或致十亿人死亡",
-        "hot": 6561330,
+        "hot": 6565161,
         "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8%E8%AD%A6%E5%91%8AAI%E6%88%96%E8%87%B4%E5%8D%81%E4%BA%BF%E4%BA%BA%E6%AD%BB%E4%BA%A1",
         "source": "百度"
       }
     ],
     "36kr": [
-      {
-        "title": "一件T恤卖2块，河北人把义乌打懵了",
-        "hot": 52,
-        "url": "https://www.36kr.com/p/3998444556570500",
-        "source": "36氪"
-      },
       {
         "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
         "hot": 12,
@@ -499,15 +401,15 @@
         "source": "36氪"
       },
       {
-        "title": "Meta Muse为超级智能买单",
-        "hot": 39,
-        "url": "https://www.36kr.com/p/3999313876734086",
-        "source": "36氪"
-      },
-      {
         "title": "红果一打四，爱优腾芒集体沉默",
         "hot": 9,
         "url": "https://www.36kr.com/p/3998964027412613",
+        "source": "36氪"
+      },
+      {
+        "title": "Meta Muse为超级智能买单",
+        "hot": 39,
+        "url": "https://www.36kr.com/p/3999313876734086",
         "source": "36氪"
       },
       {
@@ -551,34 +453,132 @@
         "hot": 2,
         "url": "https://www.36kr.com/p/3999542785937545",
         "source": "36氪"
+      },
+      {
+        "title": "买奶茶送“老式烧水壶”！一杯40元，提前锁定景区爆款",
+        "hot": 3,
+        "url": "https://www.36kr.com/p/3999566680543109",
+        "source": "36氪"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "中美同意共同构建基于尊重、公平、对等的建设性战略稳定关系，这一新定位有哪些深意和影响？",
+        "hot": 26040000,
+        "url": "https://www.zhihu.com/question/2087138028443668700",
+        "source": "知乎"
+      },
+      {
+        "title": "樊振东回归能解决目前国乒的问题吗？他回归的可能性有多大？",
+        "hot": 14440000,
+        "url": "https://www.zhihu.com/question/2086536830514460000",
+        "source": "知乎"
+      },
+      {
+        "title": "亚运会��子 100 米半决赛，泰国选手汶颂跑出 9.91 秒，突破苏炳添亚运纪录，如何评价？",
+        "hot": 4310000,
+        "url": "https://www.zhihu.com/question/2086892833596600600",
+        "source": "知乎"
+      },
+      {
+        "title": "亚运男足 1/4 决赛，中国男足 3-0 泰国男足，如何评价本场比赛？",
+        "hot": 3200000,
+        "url": "https://www.zhihu.com/question/2087159273436313600",
+        "source": "知乎"
+      },
+      {
+        "title": "网红狗头萝莉自曝负债 650 万成老赖，主播为何频频陷入天价违约金困境？",
+        "hot": 2450000,
+        "url": "https://www.zhihu.com/question/2086478767204086800",
+        "source": "知乎"
+      },
+      {
+        "title": "美方称中美「贸易休战」延长至明年 1 月，这对世界局势有何影响？",
+        "hot": 1720000,
+        "url": "https://www.zhihu.com/question/2086393162981979400",
+        "source": "知乎"
+      },
+      {
+        "title": "张本智和 3-0 王楚钦，赛后称等这枚金牌等了十年，现在张本智和的水平在哪个层次？对国乒威胁有多大？",
+        "hot": 1680000,
+        "url": "https://www.zhihu.com/question/2086566324948264700",
+        "source": "知乎"
+      },
+      {
+        "title": "《微微一笑很倾城》女主换脸后重上流媒体，你观感如何？类似原因下架的作品都能这样「复活」吗？",
+        "hot": 1670000,
+        "url": "https://www.zhihu.com/question/2086446703897310700",
+        "source": "知乎"
+      },
+      {
+        "title": "护士突发脑出血倒在工作岗位，人社局称抢救十天不予认定工伤，为何倒在工位上仍无法认定工伤？",
+        "hot": 1660000,
+        "url": "https://www.zhihu.com/question/2086839765966348300",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待千亿航天被曝强制加班、非客观原因开除，其 CEO 回应称管理方式比较粗暴并就不实信息报警？",
+        "hot": 1650000,
+        "url": "https://www.zhihu.com/question/2086212993591857200",
+        "source": "知乎"
+      },
+      {
+        "title": "著名音乐家刘欢于9月25日在上海病逝，享年63岁，如何评价他在华语乐坛的地位？哪首歌是你的时代记忆？",
+        "hot": 1650000,
+        "url": "https://www.zhihu.com/question/2087120107130598100",
+        "source": "知乎"
+      },
+      {
+        "title": "为什么鸡转头是「一下一下」「瞬移」，而不是像人一样有肉眼可见的转头过程？",
+        "hot": 1640000,
+        "url": "https://www.zhihu.com/question/665173840",
+        "source": "知乎"
+      },
+      {
+        "title": "王楚钦之后谁还能扛起国乒大旗？为什么感觉新人都差了那么一点？",
+        "hot": 1610000,
+        "url": "https://www.zhihu.com/question/2086538132225091000",
+        "source": "知乎"
+      },
+      {
+        "title": "刘欢 63 岁去世，生前长期受股骨头缺血性坏死困扰，该病被称为「不死的癌症」，它会如何逐步拖垮身体？",
+        "hot": 1590000,
+        "url": "https://www.zhihu.com/question/2087134099702137000",
+        "source": "知乎"
+      },
+      {
+        "title": "财务自由的感觉是怎样的？",
+        "hot": 1570000,
+        "url": "https://www.zhihu.com/question/23668539",
+        "source": "知乎"
       }
     ]
   },
   "github": [
     {
       "title": "zai-org/ZCode —— Z.ai's coding agent harness. Powerful, i",
-      "hot": "⭐ 6797",
+      "hot": "⭐ 6799",
       "url": "https://github.com/zai-org/ZCode",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "jev-chat/jev-chat-jarvis —— 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填",
-      "hot": "⭐ 6565",
+      "hot": "⭐ 6571",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
       "source": "GitHub",
       "tag": "Kotlin"
     },
     {
       "title": "mizorewww/laya-mlx —— Native MLX runtime for Laya typed decisi",
-      "hot": "⭐ 6374",
+      "hot": "⭐ 6380",
       "url": "https://github.com/mizorewww/laya-mlx",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "driceroland/Search —— A small, fast WebKit browser for macOS, ",
-      "hot": "⭐ 1957",
+      "hot": "⭐ 1972",
       "url": "https://github.com/driceroland/Search",
       "source": "GitHub",
       "tag": "Swift"
@@ -592,7 +592,7 @@
     },
     {
       "title": "newliver666/apk-reverse —— Suitable for Android APK reverse enginee",
-      "hot": "⭐ 1476",
+      "hot": "⭐ 1477",
       "url": "https://github.com/newliver666/apk-reverse",
       "source": "GitHub",
       "tag": "Python"
@@ -606,21 +606,21 @@
     },
     {
       "title": "Contrastive-LM/CLM",
-      "hot": "⭐ 1343",
+      "hot": "⭐ 1352",
       "url": "https://github.com/Contrastive-LM/CLM",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "pallavi-shekhar/ai-engineering-interview-questions-company-wise —— Your Cheat Sheet For AI Engineering Inte",
-      "hot": "⭐ 1250",
+      "hot": "⭐ 1255",
       "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
       "source": "GitHub",
       "tag": "Markdown"
     },
     {
       "title": "tobi/disktree —— A treemap for finding and removing what ",
-      "hot": "⭐ 1046",
+      "hot": "⭐ 1058",
       "url": "https://github.com/tobi/disktree",
       "source": "GitHub",
       "tag": "Rust"
@@ -634,14 +634,14 @@
     },
     {
       "title": "mikehasa/golive-skill —— Take your agent-built product live: host",
-      "hot": "⭐ 956",
+      "hot": "⭐ 957",
       "url": "https://github.com/mikehasa/golive-skill",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "JohnHeibel/PDoomVideo —— Source code for the Claude Opus 5.5 musi",
-      "hot": "⭐ 942",
+      "hot": "⭐ 944",
       "url": "https://github.com/JohnHeibel/PDoomVideo",
       "source": "GitHub",
       "tag": "JavaScript"
