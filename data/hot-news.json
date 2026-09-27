@@ -1,83 +1,71 @@
 {
-  "updatedAt": "2026-09-27T12:31:26.733Z",
+  "updatedAt": "2026-09-27T13:00:56.936Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-        "hot": 52,
+        "hot": 58,
         "url": "https://arxiv.org/abs/2609.25021",
         "source": "HackerNews"
       },
       {
         "title": "Flip Fluid on Flip Dots",
-        "hot": 138,
+        "hot": 155,
         "url": "https://mitxela.com/projects/flipflip",
         "source": "HackerNews"
       },
       {
         "title": "Does Georgism work? Five years later",
-        "hot": 382,
+        "hot": 392,
         "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
         "source": "HackerNews"
       },
       {
         "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-        "hot": 315,
+        "hot": 340,
         "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
         "source": "HackerNews"
       },
       {
         "title": "Go Concurrency Distilled",
-        "hot": 255,
+        "hot": 265,
         "url": "https://antonz.org/go-concurrency-distilled/",
         "source": "HackerNews"
       },
       {
-        "title": "Finally, A True Blue Rose Exists",
-        "hot": 28,
-        "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
-        "source": "HackerNews"
-      },
-      {
         "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-        "hot": 440,
+        "hot": 443,
         "url": "https://github.com/InfinityLoop1308/PipePipe",
         "source": "HackerNews"
       },
       {
         "title": "DeepSeek Elastic Compute (DSec)",
-        "hot": 268,
+        "hot": 274,
         "url": "https://arxiv.org/abs/2609.22978",
         "source": "HackerNews"
       },
       {
         "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-        "hot": 330,
+        "hot": 333,
         "url": "https://github.com/reladraw/reladraw",
         "source": "HackerNews"
       },
       {
         "title": "Improving site performance by shipping more CSS",
-        "hot": 53,
+        "hot": 57,
         "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
         "source": "HackerNews"
       },
       {
-        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-        "hot": 244,
-        "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+        "title": "Finally, A True Blue Rose Exists",
+        "hot": 31,
+        "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
         "source": "HackerNews"
       },
       {
-        "title": "The internet discovers TLA+. Now what?",
-        "hot": 30,
-        "url": "https://reasonable.io/blog/tla-tutorial/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Accelerated Out of Core Shuffling",
-        "hot": 6,
-        "url": "https://quasiben.github.io/blog/ooc-shuffling-rapidsmpf/",
+        "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+        "hot": 322,
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
         "source": "HackerNews"
       },
       {
@@ -87,101 +75,205 @@
         "source": "HackerNews"
       },
       {
-        "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-        "hot": 312,
-        "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+        "title": "Accelerated Out of Core Shuffling",
+        "hot": 6,
+        "url": "https://quasiben.github.io/blog/ooc-shuffling-rapidsmpf/",
         "source": "HackerNews"
+      },
+      {
+        "title": "Teaching a World Model to Play Pokemon",
+        "hot": 18,
+        "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Biology might not be quantum, but its math is quantumlike",
+        "hot": 84,
+        "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+        "source": "HackerNews"
+      }
+    ],
+    "weibo": [
+      {
+        "title": "王曼昱冠军",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%A0%E5%86%9B",
+        "source": "微博"
+      },
+      {
+        "title": "孙颖莎vs王曼昱",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1",
+        "source": "微博"
+      },
+      {
+        "title": "中国队昂扬向上的精神太动人",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%98%82%E6%89%AC%E5%90%91%E4%B8%8A%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%A4%AA%E5%8A%A8%E4%BA%BA",
+        "source": "微博"
+      },
+      {
+        "title": "孙颖莎亚军",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BA%9A%E5%86%9B",
+        "source": "微博"
+      },
+      {
+        "title": "吴艳妮铜牌",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E8%89%B3%E5%A6%AE%E9%93%9C%E7%89%8C",
+        "source": "微博"
+      },
+      {
+        "title": "严子怡破亚运会纪录",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%A5%E5%AD%90%E6%80%A1%E7%A0%B4%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95",
+        "source": "微博"
+      },
+      {
+        "title": "金鹰节开幕式让观众听爽了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F%E8%AE%A9%E8%A7%82%E4%BC%97%E5%90%AC%E7%88%BD%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "陈圆将110米栏金牌",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%9C%86%E5%B0%86110%E7%B1%B3%E6%A0%8F%E9%87%91%E7%89%8C",
+        "source": "微博"
+      },
+      {
+        "title": "陈妤颉说200米摘银是教训",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%A6%A4%E9%A2%89%E8%AF%B4200%E7%B1%B3%E6%91%98%E9%93%B6%E6%98%AF%E6%95%99%E8%AE%AD",
+        "source": "微博"
+      },
+      {
+        "title": "黄友政林诗栋金牌",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%8F%8B%E6%94%BF%E6%9E%97%E8%AF%97%E6%A0%8B%E9%87%91%E7%89%8C",
+        "source": "微博"
+      },
+      {
+        "title": "合肥地震",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%88%E8%82%A5%E5%9C%B0%E9%9C%87",
+        "source": "微博"
+      },
+      {
+        "title": "爱奇艺广告 请勿眨眼",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B9%BF%E5%91%8A%20%E8%AF%B7%E5%8B%BF%E7%9C%A8%E7%9C%BC",
+        "source": "微博"
+      },
+      {
+        "title": "国乒女单金牌",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%8D%95%E9%87%91%E7%89%8C",
+        "source": "微博"
+      },
+      {
+        "title": "仅退款的风终于吹到了影视界",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E7%9A%84%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%88%B0%E4%BA%86%E5%BD%B1%E8%A7%86%E7%95%8C",
+        "source": "微博"
+      },
+      {
+        "title": "金鹰奖",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96",
+        "source": "微博"
       }
     ],
     "zhihu": [
       {
         "title": "中美达成八点成果共识，达成「300亿美元」对等降税安排，哪些信息值得重点关注？",
-        "hot": 20440000,
+        "hot": 13610000,
         "url": "https://www.zhihu.com/question/2087214676530525400",
         "source": "知乎"
       },
       {
         "title": "亚运会乒乓球男双决赛，林诗栋/黄友政 4-2 张本智和/篠塚大登，获男双金牌，如何评价本场比赛？",
-        "hot": 8290000,
+        "hot": 11000000,
         "url": "https://www.zhihu.com/question/2087560514792419800",
         "source": "知乎"
       },
       {
-        "title": "一技校101名毕业生入职北大，学生一般大二就被预订，主要去实验室做科研助手，这是一种怎样的职业路径？",
-        "hot": 6550000,
+        "title": "一技校101名毕业��入职北大，学生一般大二就被预订，主要去实验室做科研助手，这是一种怎样的职业路径？",
+        "hot": 6690000,
         "url": "https://www.zhihu.com/question/2087469941116990500",
         "source": "知乎"
       },
       {
         "title": "亚运会女子 200 米决赛，陈妤颉摘得银牌，如何评价本场比赛和她的表现？",
-        "hot": 3040000,
+        "hot": 3420000,
         "url": "https://www.zhihu.com/question/2087540791207879400",
         "source": "知乎"
       },
       {
-        "title": "男子为泄愤拧松他人轿车轮胎螺母获刑三年，从法律角度该如何解读？",
-        "hot": 2190000,
-        "url": "https://www.zhihu.com/question/2085923092581323000",
+        "title": "亚运会乒乓球女单决赛，王曼昱 4-2 战胜孙颖莎夺冠， 国乒包揽女单金银牌，如何评价本场比赛？",
+        "hot": 2680000,
+        "url": "https://www.zhihu.com/question/2087560172042281700",
         "source": "知乎"
       },
       {
-        "title": "交个朋友为「售卖的网红溜溜��被曝用发霉木板、废旧海绵」道歉，称启动退赔，如何看待此事？",
-        "hot": 2090000,
-        "url": "https://www.zhihu.com/question/2086797910025450200",
+        "title": "「每卖一辆问界，华为分走13.6万」的传闻是真的吗？华为赛力斯合作模式调整后，能降价反馈给消费者吗？",
+        "hot": 2160000,
+        "url": "https://www.zhihu.com/question/2087540436025831700",
         "source": "知乎"
       },
       {
         "title": "亚运会乒乓球男双半决赛，温瑞博/向鹏 3-4 张本智和/篠塚大登，无缘决赛，如何评价本场比赛？",
-        "hot": 2050000,
+        "hot": 2110000,
         "url": "https://www.zhihu.com/question/2087528591474910000",
         "source": "知乎"
       },
       {
         "title": "既然国人嫌弃月饼高油高糖，为啥不把月饼出口到喜爱糖油混合物的美国呢？",
-        "hot": 2030000,
+        "hot": 2090000,
         "url": "https://www.zhihu.com/question/2084270983846875400",
         "source": "知乎"
       },
       {
-        "title": "「每卖一辆问界，华为分走13.6万」的传闻是真的吗？华为赛力斯合作模式调整后，能降价反馈给消费者吗？",
-        "hot": 2010000,
-        "url": "https://www.zhihu.com/question/2087540436025831700",
-        "source": "知乎"
-      },
-      {
         "title": "刘欢在中国乐坛的地位是怎样的？",
-        "hot": 1910000,
+        "hot": 2070000,
         "url": "https://www.zhihu.com/question/20404153",
         "source": "知乎"
       },
       {
-        "title": "男子因长期食用生鱼片，感染阔节裂头绦虫，体内排出 4.5 米长虫，为什么能这么长？对身体危害有多大？",
-        "hot": 1430000,
-        "url": "https://www.zhihu.com/question/2086787652607652900",
+        "title": "交个朋友为「售卖的网红溜溜凳被曝用发霉木板、废旧海绵」道歉，称启动退赔，如何看待此事？",
+        "hot": 1820000,
+        "url": "https://www.zhihu.com/question/2086797910025450200",
+        "source": "知乎"
+      },
+      {
+        "title": "男子为泄愤拧松他人轿车轮胎螺母获刑三年，从法律角度该如何解读？",
+        "hot": 1730000,
+        "url": "https://www.zhihu.com/question/2085923092581323000",
+        "source": "知乎"
+      },
+      {
+        "title": "亚运会女子 100 米栏决赛，福部真子夺冠，吴艳妮铜牌，如何评价她们的表现和本场比赛？",
+        "hot": 1570000,
+        "url": "https://www.zhihu.com/question/2087541086738540000",
+        "source": "知乎"
+      },
+      {
+        "title": "交强险2025年经营亏损230亿元，3.86亿辆机动车参保，赔付支出2524亿元，哪些信息值得关注？",
+        "hot": 1410000,
+        "url": "https://www.zhihu.com/question/2087512663706133800",
         "source": "知乎"
       },
       {
         "title": "子弹连钢板都能打穿，为何打不穿麻沙袋？这是什么原理？",
-        "hot": 1300000,
+        "hot": 1380000,
         "url": "https://www.zhihu.com/question/2086150926117750500",
         "source": "知乎"
       },
       {
         "title": "大熊猫「平平」「福双」已抵达美国，将落户美国亚特兰大动物园，对中美两国有哪些意义？",
-        "hot": 1240000,
+        "hot": 1330000,
         "url": "https://www.zhihu.com/question/2086764289658807600",
-        "source": "知乎"
-      },
-      {
-        "title": "日本乒乓男团前脚3-2胜国乒，后脚被林诗栋阿拉米扬淘汰无缘男单四强，为啥会这样？日本乒乓实力到底如何？",
-        "hot": 1180000,
-        "url": "https://www.zhihu.com/question/2087229213245798000",
-        "source": "知乎"
-      },
-      {
-        "title": "交个朋友直播间被曝卖病死鱼，罗永浩连发 16 条内容辟谣，具体是怎么回事？",
-        "hot": 1010000,
-        "url": "https://www.zhihu.com/question/2086823700276277800",
         "source": "知乎"
       }
     ],
@@ -277,207 +369,109 @@
         "source": "掘金"
       }
     ],
-    "weibo": [
-      {
-        "title": "孙颖莎vs王曼昱",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1",
-        "source": "微博"
-      },
-      {
-        "title": "吴艳妮铜牌",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E8%89%B3%E5%A6%AE%E9%93%9C%E7%89%8C",
-        "source": "微博"
-      },
-      {
-        "title": "中国队昂扬向上的精神太动人",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%98%82%E6%89%AC%E5%90%91%E4%B8%8A%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%A4%AA%E5%8A%A8%E4%BA%BA",
-        "source": "微博"
-      },
-      {
-        "title": "WMA红毯闯关排名",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=WMA%E7%BA%A2%E6%AF%AF%E9%97%AF%E5%85%B3%E6%8E%92%E5%90%8D",
-        "source": "微博"
-      },
-      {
-        "title": "黄友政林诗栋金牌",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%8F%8B%E6%94%BF%E6%9E%97%E8%AF%97%E6%A0%8B%E9%87%91%E7%89%8C",
-        "source": "微博"
-      },
-      {
-        "title": "国乒女单金牌",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%8D%95%E9%87%91%E7%89%8C",
-        "source": "微博"
-      },
-      {
-        "title": "合肥地震",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%90%88%E8%82%A5%E5%9C%B0%E9%9C%87",
-        "source": "微博"
-      },
-      {
-        "title": "陈圆将110米栏金牌",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%9C%86%E5%B0%86110%E7%B1%B3%E6%A0%8F%E9%87%91%E7%89%8C",
-        "source": "微博"
-      },
-      {
-        "title": "陈妤颉200米摘银",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%A6%A4%E9%A2%89200%E7%B1%B3%E6%91%98%E9%93%B6",
-        "source": "微博"
-      },
-      {
-        "title": "工作人员将液体面料喷向模特",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B0%86%E6%B6%B2%E4%BD%93%E9%9D%A2%E6%96%99%E5%96%B7%E5%90%91%E6%A8%A1%E7%89%B9",
-        "source": "微博"
-      },
-      {
-        "title": "曝时代少年团新综艺分组",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E7%BB%BC%E8%89%BA%E5%88%86%E7%BB%84",
-        "source": "微博"
-      },
-      {
-        "title": "仅退款的风终于吹到了影视界",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E7%9A%84%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%88%B0%E4%BA%86%E5%BD%B1%E8%A7%86%E7%95%8C",
-        "source": "微博"
-      },
-      {
-        "title": "张家齐称未删妈妈微信是给她留个念想",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E7%A7%B0%E6%9C%AA%E5%88%A0%E5%A6%88%E5%A6%88%E5%BE%AE%E4%BF%A1%E6%98%AF%E7%BB%99%E5%A5%B9%E7%95%99%E4%B8%AA%E5%BF%B5%E6%83%B3",
-        "source": "微博"
-      },
-      {
-        "title": "刘雯被粉丝叮嘱少上网多务工",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%AF%E8%A2%AB%E7%B2%89%E4%B8%9D%E5%8F%AE%E5%98%B1%E5%B0%91%E4%B8%8A%E7%BD%91%E5%A4%9A%E5%8A%A1%E5%B7%A5",
-        "source": "微博"
-      },
-      {
-        "title": "兰香如故 二爷",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%20%E4%BA%8C%E7%88%B7",
-        "source": "微博"
-      }
-    ],
     "baidu": [
       {
         "title": "习近平主席讲述中美人民友好故事",
-        "hot": 7904343,
+        "hot": 7904435,
         "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E8%AE%B2%E8%BF%B0%E4%B8%AD%E7%BE%8E%E4%BA%BA%E6%B0%91%E5%8F%8B%E5%A5%BD%E6%95%85%E4%BA%8B",
         "source": "百度"
       },
       {
-        "title": "黄友政林诗栋4比2战胜日本夺金",
-        "hot": 7808233,
-        "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%8F%8B%E6%94%BF%E6%9E%97%E8%AF%97%E6%A0%8B4%E6%AF%942%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E9%87%91",
+        "title": "王曼昱亚运女单冠军",
+        "hot": 7808053,
+        "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
         "source": "百度"
       },
       {
         "title": "吴艳妮100米栏铜牌",
-        "hot": 7714095,
+        "hot": 7712819,
         "url": "https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE100%E7%B1%B3%E6%A0%8F%E9%93%9C%E7%89%8C",
         "source": "百度"
       },
       {
         "title": "期待中美青年继续友好交流",
-        "hot": 7618552,
+        "hot": 7616923,
         "url": "https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%85%E4%B8%AD%E7%BE%8E%E9%9D%92%E5%B9%B4%E7%BB%A7%E7%BB%AD%E5%8F%8B%E5%A5%BD%E4%BA%A4%E6%B5%81",
         "source": "百度"
       },
       {
         "title": "陈圆将110米栏金牌",
-        "hot": 7520952,
+        "hot": 7522871,
         "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%9C%86%E5%B0%86110%E7%B1%B3%E6%A0%8F%E9%87%91%E7%89%8C",
         "source": "百度"
       },
       {
-        "title": "陪看女单决赛 孙颖莎vs王曼昱",
-        "hot": 7426906,
-        "url": "https://www.baidu.com/s?wd=%E9%99%AA%E7%9C%8B%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B%20%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1",
+        "title": "黄友政林诗栋4比2战胜日本夺金",
+        "hot": 7424911,
+        "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%8F%8B%E6%94%BF%E6%9E%97%E8%AF%97%E6%A0%8B4%E6%AF%942%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E9%87%91",
         "source": "百度"
       },
       {
         "title": "安徽合肥地震",
-        "hot": 7331762,
+        "hot": 7330331,
         "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%90%88%E8%82%A5%E5%9C%B0%E9%9C%87",
         "source": "百度"
       },
       {
         "title": "没有海却出海鲜 中国人怎么做到的",
-        "hot": 7233805,
+        "hot": 7237952,
         "url": "https://www.baidu.com/s?wd=%E6%B2%A1%E6%9C%89%E6%B5%B7%E5%8D%B4%E5%87%BA%E6%B5%B7%E9%B2%9C%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E5%81%9A%E5%88%B0%E7%9A%84",
         "source": "百度"
       },
       {
         "title": "陈妤颉200米银牌",
-        "hot": 7136975,
+        "hot": 7139903,
         "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%A6%A4%E9%A2%89200%E7%B1%B3%E9%93%B6%E7%89%8C",
         "source": "百度"
       },
       {
-        "title": "售价39元 主播抽成9元",
-        "hot": 7043246,
-        "url": "https://www.baidu.com/s?wd=%E5%94%AE%E4%BB%B739%E5%85%83%20%E4%B8%BB%E6%92%AD%E6%8A%BD%E6%88%909%E5%85%83",
-        "source": "百度"
-      },
-      {
         "title": "李克勤迟到 草根歌手救场连唱20首",
-        "hot": 6948697,
+        "hot": 7041847,
         "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%BF%9F%E5%88%B0%20%E8%8D%89%E6%A0%B9%E6%AD%8C%E6%89%8B%E6%95%91%E5%9C%BA%E8%BF%9E%E5%94%B120%E9%A6%96",
         "source": "百度"
       },
       {
+        "title": "豆包手机助手致歉",
+        "hot": 6945243,
+        "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E8%87%B4%E6%AD%89",
+        "source": "百度"
+      },
+      {
         "title": "12306辟谣给公众号发信息能抢到票",
-        "hot": 6855385,
+        "hot": 6848961,
         "url": "https://www.baidu.com/s?wd=12306%E8%BE%9F%E8%B0%A3%E7%BB%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8F%91%E4%BF%A1%E6%81%AF%E8%83%BD%E6%8A%A2%E5%88%B0%E7%A5%A8",
         "source": "百度"
       },
       {
+        "title": "男子拾荒21年领到42万养老金",
+        "hot": 6758534,
+        "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8B%BE%E8%8D%9221%E5%B9%B4%E9%A2%86%E5%88%B042%E4%B8%87%E5%85%BB%E8%80%81%E9%87%91",
+        "source": "百度"
+      },
+      {
+        "title": "孙颖莎银牌",
+        "hot": 6660076,
+        "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%93%B6%E7%89%8C",
+        "source": "百度"
+      },
+      {
         "title": "男子修手机发现相册被使用15分钟",
-        "hot": 6759127,
+        "hot": 6562358,
         "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E5%8F%91%E7%8E%B0%E7%9B%B8%E5%86%8C%E8%A2%AB%E4%BD%BF%E7%94%A815%E5%88%86%E9%92%9F",
-        "source": "百度"
-      },
-      {
-        "title": "有学校限制学生在校最高消费额度",
-        "hot": 6665509,
-        "url": "https://www.baidu.com/s?wd=%E6%9C%89%E5%AD%A6%E6%A0%A1%E9%99%90%E5%88%B6%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%A0%A1%E6%9C%80%E9%AB%98%E6%B6%88%E8%B4%B9%E9%A2%9D%E5%BA%A6",
-        "source": "百度"
-      },
-      {
-        "title": "尼泊尔发生雪崩 多人失联",
-        "hot": 6566464,
-        "url": "https://www.baidu.com/s?wd=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8F%91%E7%94%9F%E9%9B%AA%E5%B4%A9%20%E5%A4%9A%E4%BA%BA%E5%A4%B1%E8%81%94",
         "source": "百度"
       }
     ],
     "36kr": [
       {
         "title": "腾讯悄悄做了个“中国版Muse”",
-        "hot": 67,
+        "hot": 69,
         "url": "https://www.36kr.com/p/4000995103395716",
         "source": "36氪"
       },
       {
         "title": "国产旗舰手机又被苹果搅局？",
-        "hot": 26,
+        "hot": 29,
         "url": "https://www.36kr.com/p/4000899826487173",
-        "source": "36氪"
-      },
-      {
-        "title": "第一批放假补觉的人，已经被生物钟“背刺”了",
-        "hot": 34,
-        "url": "https://www.36kr.com/p/4000928361566086",
         "source": "36氪"
       },
       {
@@ -487,27 +481,33 @@
         "source": "36氪"
       },
       {
+        "title": "第一批放假补觉的人，已经被生物钟“背刺”了",
+        "hot": 37,
+        "url": "https://www.36kr.com/p/4000928361566086",
+        "source": "36氪"
+      },
+      {
         "title": "不打怪不取经，爆火的“2026版西游”把打工人戳疼了",
         "hot": 12,
         "url": "https://www.36kr.com/p/4000959353819268",
         "source": "36氪"
       },
       {
-        "title": "卖不完的月饼，去哪儿了���",
-        "hot": 12,
+        "title": "卖不完的月饼，去哪儿了？",
+        "hot": 14,
         "url": "https://www.36kr.com/p/4000164826863240",
+        "source": "36氪"
+      },
+      {
+        "title": "涨价 2500 块的新 Mac mini，反而成了最值得买的苹果设备？",
+        "hot": 16,
+        "url": "https://www.36kr.com/p/4001134199066759",
         "source": "36氪"
       },
       {
         "title": "刚刚，OpenAI又停训了：Agent逃出沙箱，更多越权事件被扒",
         "hot": 17,
         "url": "https://www.36kr.com/p/4000844543561857",
-        "source": "36氪"
-      },
-      {
-        "title": "涨价 2500 块的新 Mac mini，反而成了最值得买的苹果设备？",
-        "hot": 14,
-        "url": "https://www.36kr.com/p/4001134199066759",
         "source": "36氪"
       },
       {
@@ -530,7 +530,7 @@
       },
       {
         "title": "从B站UP主到500亿上市公司，33岁天才少年再闯港交所",
-        "hot": 2,
+        "hot": 3,
         "url": "https://www.36kr.com/p/4001283028095108",
         "source": "36氪"
       },
@@ -557,56 +557,56 @@
   "github": [
     {
       "title": "zai-org/ZCode —— Z.ai's coding agent harness. Powerful, i",
-      "hot": "⭐ 6866",
+      "hot": "⭐ 6869",
       "url": "https://github.com/zai-org/ZCode",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "jev-chat/jev-chat-jarvis —— 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填",
-      "hot": "⭐ 6746",
+      "hot": "⭐ 6747",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
       "source": "GitHub",
       "tag": "Kotlin"
     },
     {
       "title": "driceroland/Search —— A small, fast WebKit browser for macOS, ",
-      "hot": "⭐ 2148",
+      "hot": "⭐ 2150",
       "url": "https://github.com/driceroland/Search",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "unreallabsai/unreal-agent —— Async-first agent harness",
-      "hot": "⭐ 1978",
+      "hot": "⭐ 1979",
       "url": "https://github.com/unreallabsai/unreal-agent",
       "source": "GitHub",
       "tag": "Go"
     },
     {
       "title": "Contrastive-LM/CLM",
-      "hot": "⭐ 1749",
+      "hot": "⭐ 1755",
       "url": "https://github.com/Contrastive-LM/CLM",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "tobi/disktree —— A treemap for finding and removing what ",
-      "hot": "⭐ 1452",
+      "hot": "⭐ 1462",
       "url": "https://github.com/tobi/disktree",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "yetone/magpie —— Every agent's model. One place. Codex on",
-      "hot": "⭐ 1164",
+      "hot": "⭐ 1168",
       "url": "https://github.com/yetone/magpie",
       "source": "GitHub",
       "tag": "Go"
     },
     {
       "title": "JohnHeibel/PDoomVideo —— Source code for the Claude Opus 5.5 musi",
-      "hot": "⭐ 1129",
+      "hot": "⭐ 1132",
       "url": "https://github.com/JohnHeibel/PDoomVideo",
       "source": "GitHub",
       "tag": "JavaScript"
@@ -627,14 +627,14 @@
     },
     {
       "title": "kryvora-network/kryvora-node —— Reference client daemon and verification",
-      "hot": "⭐ 949",
+      "hot": "⭐ 953",
       "url": "https://github.com/kryvora-network/kryvora-node",
       "source": "GitHub",
       "tag": "Go"
     },
     {
       "title": "freestylefly/WeChatBridge —— 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macO",
-      "hot": "⭐ 830",
+      "hot": "⭐ 832",
       "url": "https://github.com/freestylefly/WeChatBridge",
       "source": "GitHub",
       "tag": "Swift"
@@ -648,14 +648,14 @@
     },
     {
       "title": "nokia-applied-research/AnyJev —— Turn any LLM into a Jev-style decision m",
-      "hot": "⭐ 807",
+      "hot": "⭐ 809",
       "url": "https://github.com/nokia-applied-research/AnyJev",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "dgreenheck/tidewater —— Coastal town built with Opus 5.5",
-      "hot": "⭐ 784",
+      "hot": "⭐ 788",
       "url": "https://github.com/dgreenheck/tidewater",
       "source": "GitHub",
       "tag": "JavaScript"
