@@ -1,280 +1,96 @@
 {
-  "updatedAt": "2026-09-29T18:01:05.603Z",
+  "updatedAt": "2026-09-29T18:30:52.528Z",
   "dailyhot": {
-    "zhihu": [
-      {
-        "title": "居民房贷贴息政策10月1日起实施，年化贴息1%、最长补贴5年，限定房价150万以内，哪些信息值得关注？",
-        "hot": 38010000,
-        "url": "https://www.zhihu.com/question/2088328834617811200",
-        "source": "知乎"
-      },
-      {
-        "title": "陕西醉驾碾压教师并拖行5.9公里致死案提级审理，罪名变更为故意杀人，法律上如何分析？",
-        "hot": 8600000,
-        "url": "https://www.zhihu.com/question/2088119863676089000",
-        "source": "知乎"
-      },
-      {
-        "title": "深蓝董事长称车载冰箱使用率 5%，娱乐屏全年使用不足10次，这些配置真的鸡肋吗？那为啥行业在狂卷配置？",
-        "hot": 3340000,
-        "url": "https://www.zhihu.com/question/2087587655189881300",
-        "source": "知乎"
-      },
-      {
-        "title": "亚运会男女混4×100米接力决赛，中国队以40秒78夺金，拿下该项目亚运会历史首金，如何评价这场比赛？",
-        "hot": 2030000,
-        "url": "https://www.zhihu.com/question/2088247556220400600",
-        "source": "知乎"
-      },
-      {
-        "title": "8.59 元香菜遭「仅退款」，商家驱车千里跨省讨回，如何评价？电商商家维权成本这么高，症结在哪？",
-        "hot": 1840000,
-        "url": "https://www.zhihu.com/question/2087999455794566700",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待 AMD 收购李飞飞创立的World Labs，李飞飞将任AMD执行副总裁兼首席科学家？",
-        "hot": 1750000,
-        "url": "https://www.zhihu.com/question/2088185975017153500",
-        "source": "知乎"
-      },
-      {
-        "title": "国乒亚运会参加7项，拿下6金4银，仅男团未能夺金，如何评价本届亚运会国乒战绩？",
-        "hot": 1700000,
-        "url": "https://www.zhihu.com/question/2088001437158720300",
-        "source": "知乎"
-      },
-      {
-        "title": "媒体追问那英临时加唱是否罚款引热议，「举报式采访」为啥引发争议？媒体这样报道合理吗？",
-        "hot": 1660000,
-        "url": "https://www.zhihu.com/question/2088304193140252700",
-        "source": "知乎"
-      },
-      {
-        "title": "2 岁娃疑似连吃 8 个月银鳕鱼汞中毒，生产商回应深海野生银鳕天然存在微量汞，儿童食用银鳕鱼安全吗？",
-        "hot": 1660000,
-        "url": "https://www.zhihu.com/question/2088189824180266200",
-        "source": "知乎"
-      },
-      {
-        "title": "怎么看媒体曝 Anthropic 提交 IPO 招股书，25年营收增长12倍，净亏损420亿美元？",
-        "hot": 1650000,
-        "url": "https://www.zhihu.com/question/2088194648518947800",
-        "source": "知乎"
-      },
-      {
-        "title": "东京奥运前夕，张家齐母亲写了一封满是训诫内容的家书，但教练没有把家书给张家齐，怎样看待教练的做法？",
-        "hot": 1510000,
-        "url": "https://www.zhihu.com/question/2087956519622898700",
-        "source": "知乎"
-      },
-      {
-        "title": "曾风靡全国的五笔为什么逐渐被拼音输入法取代了？",
-        "hot": 1370000,
-        "url": "https://www.zhihu.com/question/561899452",
-        "source": "知乎"
-      },
-      {
-        "title": "假如我在GPT3.5发布的第三天立刻上线性能对标DeepSeekV4.1的模型会怎么样？",
-        "hot": 1190000,
-        "url": "https://www.zhihu.com/question/2086464412991371300",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么河虾的价格比明虾高那么多？",
-        "hot": 980000,
-        "url": "https://www.zhihu.com/question/3827459284",
-        "source": "知乎"
-      },
-      {
-        "title": "有运动员称亚运金牌有「瑕疵」，边缘区域存在色差，组委会连夜更换，为什么会这样？可能是哪些环节出现问题？",
-        "hot": 790000,
-        "url": "https://www.zhihu.com/question/2087090532799308500",
-        "source": "知乎"
-      }
-    ],
     "hackernews": [
       {
-        "title": "GPT 6.1 Sol",
-        "hot": 291,
-        "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Dots",
-        "hot": 196,
+        "title": "Dots: Always-on agents",
+        "hot": 270,
         "url": "https://openai.com/index/introducing-dots/",
         "source": "HackerNews"
       },
       {
+        "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+        "hot": 362,
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+        "source": "HackerNews"
+      },
+      {
         "title": "Tcl/Tk 9.1 Released",
-        "hot": 37,
+        "hot": 62,
         "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
         "source": "HackerNews"
       },
       {
-        "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-        "hot": 177,
-        "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-        "source": "HackerNews"
-      },
-      {
         "title": "How Delhi cut electricity loss from 50 to 5 percent",
-        "hot": 320,
+        "hot": 339,
         "url": "https://spectrum.ieee.org/delhi-electricity-loss",
         "source": "HackerNews"
       },
       {
-        "title": "DevDay 2026 Recap",
-        "hot": 28,
-        "url": "https://openai.com/index/devday-2026-recap/",
+        "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+        "hot": 229,
+        "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+        "source": "HackerNews"
+      },
+      {
+        "title": "New PlayStation 5 Console Jailbreak Released",
+        "hot": 47,
+        "url": "https://github.com/ntfargo/Relapse-Exploit",
         "source": "HackerNews"
       },
       {
         "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-        "hot": 378,
+        "hot": 384,
         "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
         "source": "HackerNews"
       },
       {
-        "title": "Without the Hot Air",
-        "hot": 99,
-        "url": "https://www.withouthotair.com/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Jeeves. Reasoning improves Jev-like decision models",
-        "hot": 187,
-        "url": "https://github.com/PostHog/jeeves",
-        "source": "HackerNews"
-      },
-      {
         "title": "Virus Stole a Human Gene and Won't Let Go of It",
-        "hot": 19,
+        "hot": 29,
         "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
         "source": "HackerNews"
       },
       {
-        "title": "Show HN: NSL – WSL for Linux",
-        "hot": 43,
-        "url": "https://frostyard.github.io/nsl/",
-        "source": "HackerNews"
-      },
-      {
         "title": "Walking Men",
-        "hot": 46,
+        "hot": 57,
         "url": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html",
         "source": "HackerNews"
       },
       {
-        "title": "ChatGPT Pro 500",
-        "hot": 70,
-        "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-        "source": "HackerNews"
-      },
-      {
-        "title": "You are no longer invited to dinner",
-        "hot": 576,
-        "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+        "title": "Without the Hot Air",
+        "hot": 105,
+        "url": "https://www.withouthotair.com/",
         "source": "HackerNews"
       },
       {
         "title": "NAND-16: a computer built from 277,248 NAND gates",
-        "hot": 6,
+        "hot": 13,
         "url": "https://somethingbig.ai/computer",
         "source": "HackerNews"
-      }
-    ],
-    "baidu": [
-      {
-        "title": "三张照片 见证中美关系的刻度",
-        "hot": 7904379,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%BC%A0%E7%85%A7%E7%89%87%20%E8%A7%81%E8%AF%81%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%BB%E5%BA%A6",
-        "source": "百度"
       },
       {
-        "title": "房地产迎来史诗级大招",
-        "hot": 7809448,
-        "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%BF%8E%E6%9D%A5%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%A4%A7%E6%8B%9B",
-        "source": "百度"
+        "title": "Jeeves. Reasoning improves Jev-like decision models",
+        "hot": 191,
+        "url": "https://github.com/PostHog/jeeves",
+        "source": "HackerNews"
       },
       {
-        "title": "于和伟获金鹰奖最佳男主角",
-        "hot": 7712857,
-        "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%92%8C%E4%BC%9F%E8%8E%B7%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92",
-        "source": "百度"
+        "title": "ChatGPT Pro 500",
+        "hot": 110,
+        "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+        "source": "HackerNews"
       },
       {
-        "title": "中国已建成世界规模最大的教育体系",
-        "hot": 7618244,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%BB%BA%E6%88%90%E4%B8%96%E7%95%8C%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E7%9A%84%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB",
-        "source": "百度"
+        "title": "Phyllotaxis: An audio-reactive LED display",
+        "hot": 224,
+        "url": "https://jagi.studio/posts/phyllotaxis/",
+        "source": "HackerNews"
       },
       {
-        "title": "重大利好！央行“四箭齐发”",
-        "hot": 7520340,
-        "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%A7%E5%88%A9%E5%A5%BD%EF%BC%81%E5%A4%AE%E8%A1%8C%E2%80%9C%E5%9B%9B%E7%AE%AD%E9%BD%90%E5%8F%91%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "金鹰奖获奖名单",
-        "hot": 7427759,
-        "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%B9%B0%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
-        "source": "百度"
-      },
-      {
-        "title": "朱亚文获奖 宋佳哭了",
-        "hot": 7330784,
-        "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E4%BA%9A%E6%96%87%E8%8E%B7%E5%A5%96%20%E5%AE%8B%E4%BD%B3%E5%93%AD%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "“小孩姐”陈妤颉极限逆转",
-        "hot": 7233407,
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%AD%A9%E5%A7%90%E2%80%9D%E9%99%88%E5%A6%A4%E9%A2%89%E6%9E%81%E9%99%90%E9%80%86%E8%BD%AC",
-        "source": "百度"
-      },
-      {
-        "title": "《生命树》获金鹰奖最佳电视剧",
-        "hot": 7137372,
-        "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%94%9F%E5%91%BD%E6%A0%91%E3%80%8B%E8%8E%B7%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E8%A7%86%E5%89%A7",
-        "source": "百度"
-      },
-      {
-        "title": "于和伟：奖项应该给吴石将军",
-        "hot": 7048879,
-        "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%92%8C%E4%BC%9F%EF%BC%9A%E5%A5%96%E9%A1%B9%E5%BA%94%E8%AF%A5%E7%BB%99%E5%90%B4%E7%9F%B3%E5%B0%86%E5%86%9B",
-        "source": "百度"
-      },
-      {
-        "title": "朋友圈的贷款广告 为啥突然没了",
-        "hot": 6948136,
-        "url": "https://www.baidu.com/s?wd=%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E8%B4%B7%E6%AC%BE%E5%B9%BF%E5%91%8A%20%E4%B8%BA%E5%95%A5%E7%AA%81%E7%84%B6%E6%B2%A1%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "网传“电竞将退出亚运会”不实",
-        "hot": 6855157,
-        "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B5%E7%AB%9E%E5%B0%86%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E2%80%9D%E4%B8%8D%E5%AE%9E",
-        "source": "百度"
-      },
-      {
-        "title": "老人报警丢4万民警找出23万",
-        "hot": 6755681,
-        "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E4%B8%A24%E4%B8%87%E6%B0%91%E8%AD%A6%E6%89%BE%E5%87%BA23%E4%B8%87",
-        "source": "百度"
-      },
-      {
-        "title": "荷兰2岁患病幼儿被安乐死",
-        "hot": 6658881,
-        "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B02%E5%B2%81%E6%82%A3%E7%97%85%E5%B9%BC%E5%84%BF%E8%A2%AB%E5%AE%89%E4%B9%90%E6%AD%BB",
-        "source": "百度"
-      },
-      {
-        "title": "泰国洪灾大量蛇和鳄鱼出现在街道",
-        "hot": 6562535,
-        "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%B4%AA%E7%81%BE%E5%A4%A7%E9%87%8F%E8%9B%87%E5%92%8C%E9%B3%84%E9%B1%BC%E5%87%BA%E7%8E%B0%E5%9C%A8%E8%A1%97%E9%81%93",
-        "source": "百度"
+        "title": "DevDay 2026 Recap",
+        "hot": 44,
+        "url": "https://openai.com/index/devday-2026-recap/",
+        "source": "HackerNews"
       }
     ],
     "weibo": [
@@ -297,9 +113,9 @@
         "source": "微博"
       },
       {
-        "title": "不赶时间赶海",
+        "title": "NBA新赛季为主队爆灯",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%B5%B6%E6%97%B6%E9%97%B4%E8%B5%B6%E6%B5%B7",
+        "url": "https://s.weibo.com/weibo?q=NBA%E6%96%B0%E8%B5%9B%E5%AD%A3%E4%B8%BA%E4%B8%BB%E9%98%9F%E7%88%86%E7%81%AF",
         "source": "微博"
       },
       {
@@ -339,9 +155,9 @@
         "source": "微博"
       },
       {
-        "title": "网传大学生替缺课老师讲课一小时",
+        "title": "罗福莉31岁登顶小米最高职级",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9B%BF%E7%BC%BA%E8%AF%BE%E8%80%81%E5%B8%88%E8%AE%B2%E8%AF%BE%E4%B8%80%E5%B0%8F%E6%97%B6",
+        "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E7%A6%8F%E8%8E%8931%E5%B2%81%E7%99%BB%E9%A1%B6%E5%B0%8F%E7%B1%B3%E6%9C%80%E9%AB%98%E8%81%8C%E7%BA%A7",
         "source": "微博"
       },
       {
@@ -351,7 +167,7 @@
         "source": "微博"
       },
       {
-        "title": "张家齐说陈芋汐21��状态可怕",
+        "title": "张家齐说陈芋汐21岁状态可怕",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E8%AF%B4%E9%99%88%E8%8A%8B%E6%B1%9021%E5%B2%81%E7%8A%B6%E6%80%81%E5%8F%AF%E6%80%95",
         "source": "微博"
@@ -367,6 +183,282 @@
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%BF%83%E5%8A%A89%20%E8%84%9A%E5%BA%95%E6%9D%BF",
         "source": "微博"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "居民房贷贴息政策10月1日起实施，年化贴息1%、最长补贴5年，限定房价150万以内，哪些信息值得关注？",
+        "hot": 36130000,
+        "url": "https://www.zhihu.com/question/2088328834617811200",
+        "source": "知乎"
+      },
+      {
+        "title": "陕西醉驾碾压教师并拖行5.9公里致死案提级审理，罪名变更为故意杀人，法律上如何分析？",
+        "hot": 8490000,
+        "url": "https://www.zhihu.com/question/2088119863676089000",
+        "source": "知乎"
+      },
+      {
+        "title": "深蓝董事长称车载冰箱使用率 5%，娱乐屏全年使用不足10次，这些配置真的鸡肋吗？那为啥行业在狂卷配置？",
+        "hot": 3020000,
+        "url": "https://www.zhihu.com/question/2087587655189881300",
+        "source": "知乎"
+      },
+      {
+        "title": "8.59 元香菜遭「仅退款」，商家驱车千里跨省讨回，如何评价？电商商家维权成本这么高，症结在哪？",
+        "hot": 1850000,
+        "url": "https://www.zhihu.com/question/2087999455794566700",
+        "source": "知乎"
+      },
+      {
+        "title": "媒体追问那英临时加唱是否罚款引热议，「举报式采访」为啥引发争议？媒体这样报道合理吗？",
+        "hot": 1630000,
+        "url": "https://www.zhihu.com/question/2088304193140252700",
+        "source": "知乎"
+      },
+      {
+        "title": "怎么看媒体曝 Anthropic 提交 IPO 招股书，25年营收增长12倍，净亏损420亿美元？",
+        "hot": 1620000,
+        "url": "https://www.zhihu.com/question/2088194648518947800",
+        "source": "知乎"
+      },
+      {
+        "title": "国乒亚运会参加7项，拿下6金4银，仅男团未能夺金，如何评价本届亚运会国乒战绩？",
+        "hot": 1570000,
+        "url": "https://www.zhihu.com/question/2088001437158720300",
+        "source": "知乎"
+      },
+      {
+        "title": "2 岁娃疑似连吃 8 个月银鳕鱼汞中毒，生产商回应深海野生银鳕天然存在微量汞，儿童食用银鳕鱼安全吗？",
+        "hot": 1530000,
+        "url": "https://www.zhihu.com/question/2088189824180266200",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待 AMD 收购李飞飞创立的World Labs，李飞飞将任AMD执行副总裁兼首席科学家？",
+        "hot": 1460000,
+        "url": "https://www.zhihu.com/question/2088185975017153500",
+        "source": "知乎"
+      },
+      {
+        "title": "亚运会男女混4×100米接力决赛，中国队以40秒78夺金，拿下该项目亚运会历史首金，如何评价这场比赛？",
+        "hot": 1410000,
+        "url": "https://www.zhihu.com/question/2088247556220400600",
+        "source": "知乎"
+      },
+      {
+        "title": "东京奥运前夕，张家齐母亲写了一封满是训诫内容的家书，但教练没有把家书给张家齐，怎样看待教练的做法？",
+        "hot": 1390000,
+        "url": "https://www.zhihu.com/question/2087956519622898700",
+        "source": "知乎"
+      },
+      {
+        "title": "曾风靡全国的五笔为什么逐渐被拼音输入法取代了？",
+        "hot": 1380000,
+        "url": "https://www.zhihu.com/question/561899452",
+        "source": "知乎"
+      },
+      {
+        "title": "假如我在GPT3.5发布的第三天立刻上线性能对标DeepSeekV4.1的模型会怎么样？",
+        "hot": 1190000,
+        "url": "https://www.zhihu.com/question/2086464412991371300",
+        "source": "知乎"
+      },
+      {
+        "title": "于和伟、宋佳分封视帝、视后，如何评价第 33 届中国电视金鹰奖获奖名单？",
+        "hot": 970000,
+        "url": "https://www.zhihu.com/question/2088357319029384000",
+        "source": "知乎"
+      },
+      {
+        "title": "有运动员称亚运金牌有「瑕疵」，边缘区域存在色差，组委会连夜更换，为什么会这样？可能是哪些环节出现问题？",
+        "hot": 800000,
+        "url": "https://www.zhihu.com/question/2087090532799308500",
+        "source": "知乎"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "三张照片 见证中美关系的刻度",
+        "hot": 7903962,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%BC%A0%E7%85%A7%E7%89%87%20%E8%A7%81%E8%AF%81%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%BB%E5%BA%A6",
+        "source": "百度"
+      },
+      {
+        "title": "房地产迎来史诗级大招",
+        "hot": 7808016,
+        "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%BF%8E%E6%9D%A5%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%A4%A7%E6%8B%9B",
+        "source": "百度"
+      },
+      {
+        "title": "于和伟获金鹰奖最佳男主角",
+        "hot": 7711917,
+        "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%92%8C%E4%BC%9F%E8%8E%B7%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92",
+        "source": "百度"
+      },
+      {
+        "title": "中国已建成世界规模最大的教��体系",
+        "hot": 7618492,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%BB%BA%E6%88%90%E4%B8%96%E7%95%8C%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E7%9A%84%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB",
+        "source": "百度"
+      },
+      {
+        "title": "重大利好！央行“四箭齐发”",
+        "hot": 7523587,
+        "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%A7%E5%88%A9%E5%A5%BD%EF%BC%81%E5%A4%AE%E8%A1%8C%E2%80%9C%E5%9B%9B%E7%AE%AD%E9%BD%90%E5%8F%91%E2%80%9D",
+        "source": "百度"
+      },
+      {
+        "title": "金鹰奖获奖名单",
+        "hot": 7426016,
+        "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%B9%B0%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
+        "source": "百度"
+      },
+      {
+        "title": "老人报警丢4万民警找出23万",
+        "hot": 7330888,
+        "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E4%B8%A24%E4%B8%87%E6%B0%91%E8%AD%A6%E6%89%BE%E5%87%BA23%E4%B8%87",
+        "source": "百度"
+      },
+      {
+        "title": "“小孩姐”陈妤颉极限逆转",
+        "hot": 7238589,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%AD%A9%E5%A7%90%E2%80%9D%E9%99%88%E5%A6%A4%E9%A2%89%E6%9E%81%E9%99%90%E9%80%86%E8%BD%AC",
+        "source": "百度"
+      },
+      {
+        "title": "《生命树》获金鹰奖最佳电视剧",
+        "hot": 7140183,
+        "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%94%9F%E5%91%BD%E6%A0%91%E3%80%8B%E8%8E%B7%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E8%A7%86%E5%89%A7",
+        "source": "百度"
+      },
+      {
+        "title": "于和伟：奖项应该给吴石将军",
+        "hot": 7042264,
+        "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%92%8C%E4%BC%9F%EF%BC%9A%E5%A5%96%E9%A1%B9%E5%BA%94%E8%AF%A5%E7%BB%99%E5%90%B4%E7%9F%B3%E5%B0%86%E5%86%9B",
+        "source": "百度"
+      },
+      {
+        "title": "充电器忘拔烧毁整个家",
+        "hot": 6946126,
+        "url": "https://www.baidu.com/s?wd=%E5%85%85%E7%94%B5%E5%99%A8%E5%BF%98%E6%8B%94%E7%83%A7%E6%AF%81%E6%95%B4%E4%B8%AA%E5%AE%B6",
+        "source": "百度"
+      },
+      {
+        "title": "网传“电竞将退出亚运会”不实",
+        "hot": 6858513,
+        "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B5%E7%AB%9E%E5%B0%86%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E2%80%9D%E4%B8%8D%E5%AE%9E",
+        "source": "百度"
+      },
+      {
+        "title": "朋友圈的贷款广告 为啥突然没了",
+        "hot": 6760748,
+        "url": "https://www.baidu.com/s?wd=%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E8%B4%B7%E6%AC%BE%E5%B9%BF%E5%91%8A%20%E4%B8%BA%E5%95%A5%E7%AA%81%E7%84%B6%E6%B2%A1%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "“独居男孩”母亲质问房东曝光目的",
+        "hot": 6655067,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%8B%AC%E5%B1%85%E7%94%B7%E5%AD%A9%E2%80%9D%E6%AF%8D%E4%BA%B2%E8%B4%A8%E9%97%AE%E6%88%BF%E4%B8%9C%E6%9B%9D%E5%85%89%E7%9B%AE%E7%9A%84",
+        "source": "百度"
+      },
+      {
+        "title": "北京办抓“毛毛虫”大赛 2天抓7万条",
+        "hot": 6569518,
+        "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%8A%9E%E6%8A%93%E2%80%9C%E6%AF%9B%E6%AF%9B%E8%99%AB%E2%80%9D%E5%A4%A7%E8%B5%9B%202%E5%A4%A9%E6%8A%937%E4%B8%87%E6%9D%A1",
+        "source": "百度"
+      }
+    ],
+    "36kr": [
+      {
+        "title": "8点1氪丨遭实名举报偷税漏税，罗永浩回应；段永平买入3万股贵州茅台；比尔盖茨发出严厉警告：AI或足以造成“10亿人死亡”",
+        "hot": 38,
+        "url": "https://www.36kr.com/p/4003721627455616",
+        "source": "36氪"
+      },
+      {
+        "title": "刚刚，苏妈李飞飞两大女王合体，AMD 550亿吞下世界模型",
+        "hot": 43,
+        "url": "https://www.36kr.com/p/4003672762126217",
+        "source": "36氪"
+      },
+      {
+        "title": "豆包要切滴滴的蛋糕",
+        "hot": 31,
+        "url": "https://www.36kr.com/p/4003891766038402",
+        "source": "36氪"
+      },
+      {
+        "title": "神秘模型“太空兔”火了，效果直逼GPT-6 Astra，10万人围观",
+        "hot": 38,
+        "url": "https://www.36kr.com/p/4003031659908995",
+        "source": "36氪"
+      },
+      {
+        "title": "刚刚，性价比之王Sonnet 5.5发布",
+        "hot": 9,
+        "url": "https://www.36kr.com/p/4003673243471752",
+        "source": "36氪"
+      },
+      {
+        "title": "雷军把罗福莉升到了小米最高职级",
+        "hot": 3,
+        "url": "https://www.36kr.com/p/4003956019957637",
+        "source": "36氪"
+      },
+      {
+        "title": "外卖小哥的电瓶车，为什么能跑一天？",
+        "hot": 10,
+        "url": "https://www.36kr.com/p/4003938736918662",
+        "source": "36氪"
+      },
+      {
+        "title": "自研电池不是罪",
+        "hot": 19,
+        "url": "https://www.36kr.com/p/4003053027463304",
+        "source": "36氪"
+      },
+      {
+        "title": "缺斤短两的大闸蟹盲盒，被AI干掉了",
+        "hot": 3,
+        "url": "https://www.36kr.com/p/4003878670292871",
+        "source": "36氪"
+      },
+      {
+        "title": "OpenAI紧急叫停GPT-6.1",
+        "hot": 3,
+        "url": "https://www.36kr.com/p/4004255063510917",
+        "source": "36氪"
+      },
+      {
+        "title": "小微能成为中国的Muse吗？",
+        "hot": 3,
+        "url": "https://www.36kr.com/p/4004401917005955",
+        "source": "36氪"
+      },
+      {
+        "title": "定价最低，荣耀Magic9系列为IPO拼了",
+        "hot": 9,
+        "url": "https://www.36kr.com/p/4003187308861064",
+        "source": "36氪"
+      },
+      {
+        "title": "裁掉700人后，这家公司又把客服招回来了",
+        "hot": 5,
+        "url": "https://www.36kr.com/p/4003111829458816",
+        "source": "36氪"
+      },
+      {
+        "title": "36氪专访丨华为诺亚生成式大模型负责人创业家庭具身，一年融了超10亿",
+        "hot": 15,
+        "url": "https://www.36kr.com/p/4003270787993737",
+        "source": "36氪"
+      },
+      {
+        "title": "书，还是要读纸质的",
+        "hot": 21,
+        "url": "https://www.36kr.com/p/3963104878623876",
+        "source": "36氪"
       }
     ],
     "juejin": [
@@ -455,161 +547,76 @@
         "source": "掘金"
       },
       {
-        "title": "分享一个做视频的skill，这条白板视频，每���笔都是代码画的",
+        "title": "分享一个做视频的skill，这条白板视��，每一笔都是代码画的",
         "hot": 171,
         "url": "https://juejin.cn/post/7690026779798208547",
         "source": "掘金"
-      }
-    ],
-    "36kr": [
-      {
-        "title": "8点1氪丨遭实名举报偷税漏税，罗永浩回应；段永平买入3万股贵州茅台；比尔盖茨发出严厉警告：AI或足以造成“10亿人死亡”",
-        "hot": 38,
-        "url": "https://www.36kr.com/p/4003721627455616",
-        "source": "36氪"
-      },
-      {
-        "title": "刚刚，苏妈李飞飞两大女王合体，AMD 550亿吞下世界模型",
-        "hot": 43,
-        "url": "https://www.36kr.com/p/4003672762126217",
-        "source": "36氪"
-      },
-      {
-        "title": "豆包要切滴滴的蛋糕",
-        "hot": 31,
-        "url": "https://www.36kr.com/p/4003891766038402",
-        "source": "36氪"
-      },
-      {
-        "title": "神秘模型“太空兔”火了，效果直逼GPT-6 Astra，10万人围观",
-        "hot": 38,
-        "url": "https://www.36kr.com/p/4003031659908995",
-        "source": "36氪"
-      },
-      {
-        "title": "刚刚，性价比之王Sonnet 5.5发布",
-        "hot": 9,
-        "url": "https://www.36kr.com/p/4003673243471752",
-        "source": "36氪"
-      },
-      {
-        "title": "雷军把罗福莉升到了小米最高职级",
-        "hot": 3,
-        "url": "https://www.36kr.com/p/4003956019957637",
-        "source": "36氪"
-      },
-      {
-        "title": "外卖小哥的电瓶车，为什么能跑一天？",
-        "hot": 10,
-        "url": "https://www.36kr.com/p/4003938736918662",
-        "source": "36氪"
-      },
-      {
-        "title": "自研电池不是罪",
-        "hot": 19,
-        "url": "https://www.36kr.com/p/4003053027463304",
-        "source": "36氪"
-      },
-      {
-        "title": "缺斤短两的大闸蟹盲盒，被AI干掉了",
-        "hot": 3,
-        "url": "https://www.36kr.com/p/4003878670292871",
-        "source": "36氪"
-      },
-      {
-        "title": "OpenAI紧急叫停GPT-6.1",
-        "hot": 3,
-        "url": "https://www.36kr.com/p/4004255063510917",
-        "source": "36氪"
-      },
-      {
-        "title": "定价最低，荣耀Magic9系列为IPO拼了",
-        "hot": 9,
-        "url": "https://www.36kr.com/p/4003187308861064",
-        "source": "36氪"
-      },
-      {
-        "title": "小微能成为中国的Muse吗？",
-        "hot": 3,
-        "url": "https://www.36kr.com/p/4004401917005955",
-        "source": "36氪"
-      },
-      {
-        "title": "裁掉700人后，这家公司又把客服招回来了",
-        "hot": 5,
-        "url": "https://www.36kr.com/p/4003111829458816",
-        "source": "36氪"
-      },
-      {
-        "title": "36氪专访丨华为诺亚生成式大模型负责人创业家庭具身，一年融了超10亿",
-        "hot": 15,
-        "url": "https://www.36kr.com/p/4003270787993737",
-        "source": "36氪"
-      },
-      {
-        "title": "AI色情，已经入侵了未成年的生活",
-        "hot": 1,
-        "url": "https://www.36kr.com/p/4003856108588934",
-        "source": "36氪"
       }
     ]
   },
   "github": [
     {
-      "title": "KKKKhazix/AIHOT —— 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你��行业",
-      "hot": "⭐ 2897",
+      "title": "KKKKhazix/AIHOT —— 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热",
+      "hot": "⭐ 2921",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "yetone/magpie —— Every agent's model. One place. Codex on",
-      "hot": "⭐ 2508",
+      "hot": "⭐ 2520",
       "url": "https://github.com/yetone/magpie",
       "source": "GitHub",
       "tag": "Go"
     },
     {
       "title": "Contrastive-LM/CLM",
-      "hot": "⭐ 2470",
+      "hot": "⭐ 2474",
       "url": "https://github.com/Contrastive-LM/CLM",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "mexicat/pdoom-video —— Code-rendered music video for \"I'm Uppin",
-      "hot": "⭐ 1952",
+      "hot": "⭐ 1953",
       "url": "https://github.com/mexicat/pdoom-video",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "tobi/disktree —— A treemap for finding and removing what ",
-      "hot": "⭐ 1887",
+      "hot": "⭐ 1889",
       "url": "https://github.com/tobi/disktree",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "dzhng/jevgrep —— Find code by asking what it does. A CLI ",
-      "hot": "⭐ 1721",
+      "hot": "⭐ 1724",
       "url": "https://github.com/dzhng/jevgrep",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "Niko1221/Strata —— Qwen3.8-Flash-Next (125B MoE) on a 8GB+ ",
-      "hot": "⭐ 1568",
+      "hot": "⭐ 1585",
       "url": "https://github.com/Niko1221/Strata",
       "source": "GitHub",
       "tag": "C++"
     },
     {
       "title": "JohnHeibel/PDoomVideo —— Source code for the Claude Opus 5.5 musi",
-      "hot": "⭐ 1497",
+      "hot": "⭐ 1498",
       "url": "https://github.com/JohnHeibel/PDoomVideo",
       "source": "GitHub",
       "tag": "JavaScript"
+    },
+    {
+      "title": "kryvora-network/kryvora-node —— Reference client daemon and verification",
+      "hot": "⭐ 1101",
+      "url": "https://github.com/kryvora-network/kryvora-node",
+      "source": "GitHub",
+      "tag": "Go"
     },
     {
       "title": "mikehasa/golive-skill —— Take your agent-built product live: host",
@@ -619,43 +626,36 @@
       "tag": "TypeScript"
     },
     {
-      "title": "kryvora-network/kryvora-node —— Reference client daemon and verification",
-      "hot": "⭐ 1096",
-      "url": "https://github.com/kryvora-network/kryvora-node",
-      "source": "GitHub",
-      "tag": "Go"
-    },
-    {
       "title": "852wa/JIZURA —— 歌詞から文字PVを自動で組み立てるブラウザアプリ",
-      "hot": "⭐ 1084",
+      "hot": "⭐ 1085",
       "url": "https://github.com/852wa/JIZURA",
       "source": "GitHub",
       "tag": "HTML"
     },
     {
       "title": "feitangyuan/onetake —— Motion films that never cut to the next ",
-      "hot": "⭐ 964",
+      "hot": "⭐ 966",
       "url": "https://github.com/feitangyuan/onetake",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "ollaya-dev/ollaya —— Run open decision models locally: pull a",
-      "hot": "⭐ 963",
+      "hot": "⭐ 965",
       "url": "https://github.com/ollaya-dev/ollaya",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "dgreenheck/tidewater —— Coastal town built with Opus 5.5",
-      "hot": "⭐ 958",
+      "hot": "⭐ 959",
       "url": "https://github.com/dgreenheck/tidewater",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "firelex/jeff —— Fine-tunes of Qwen3.5 and Gemma 4 for ze",
-      "hot": "⭐ 952",
+      "hot": "⭐ 957",
       "url": "https://github.com/firelex/jeff",
       "source": "GitHub",
       "tag": "Python"
