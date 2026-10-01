@@ -1,187 +1,101 @@
 {
-  "updatedAt": "2026-10-01T17:00:49.217Z",
+  "updatedAt": "2026-10-01T17:30:56.634Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "Clef: our open-source decision models",
-        "hot": 53,
+        "hot": 118,
         "url": "https://blog.cloudflare.com/clef-decision-models/",
         "source": "HackerNews"
       },
       {
         "title": "RIP, vector database",
-        "hot": 62,
+        "hot": 83,
         "url": "https://turbopuffer.com/blog/rip-vector-database",
         "source": "HackerNews"
       },
       {
         "title": "StreetComplete on iOS is now in public beta",
-        "hot": 386,
+        "hot": 397,
         "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
         "source": "HackerNews"
       },
       {
-        "title": "How to speed up the Rust compiler in September 2026",
-        "hot": 164,
-        "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+        "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+        "hot": 36,
+        "url": "https://blog.gitbutler.com/git-3-sha-256",
         "source": "HackerNews"
       },
       {
         "title": "RacketCon Is Saturday",
-        "hot": 48,
+        "hot": 62,
         "url": "https://con.racket-lang.org/",
         "source": "HackerNews"
       },
       {
-        "title": "OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)",
-        "hot": 39,
+        "title": "How to speed up the Rust compiler in September 2026",
+        "hot": 170,
+        "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Identity Management for Agentic AI [pdf] (2025)",
+        "hot": 42,
         "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
         "source": "HackerNews"
       },
       {
         "title": "Cloudflare K2: serverless event streams",
-        "hot": 61,
+        "hot": 72,
         "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
         "source": "HackerNews"
       },
       {
         "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-        "hot": 20,
+        "hot": 23,
         "url": "https://www.polyedergarten.de/e_index.htm",
         "source": "HackerNews"
       },
       {
+        "title": "Gemini 4 Argon",
+        "hot": 1585,
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+        "source": "HackerNews"
+      },
+      {
         "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-        "hot": 128,
+        "hot": 132,
         "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
         "source": "HackerNews"
       },
       {
+        "title": "Red Hat being phased out of existence?",
+        "hot": 79,
+        "url": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+        "hot": 15,
+        "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+        "source": "HackerNews"
+      },
+      {
         "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-        "hot": 92,
+        "hot": 102,
         "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
         "source": "HackerNews"
       },
       {
         "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-        "hot": 209,
+        "hot": 211,
         "url": "https://github.com/maanHimself/OpenDLSS-NR",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Gemini 4 Argon",
-        "hot": 1581,
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Red Hat Being Phased Out of Existence (Like Many Other Companies IBM Bought)",
-        "hot": 65,
-        "url": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
-        "source": "HackerNews"
-      },
-      {
-        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-        "hot": 139,
-        "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
-        "hot": 199,
-        "url": "https://bookofshapes.com/",
         "source": "HackerNews"
       }
     ],
     "zhihu": [
       {
-        "title": "如何看待华为、赛力斯达成新五年合作：共同升级问界业务推动品牌向上，余承东与张兴海出席签约？",
-        "hot": 15190000,
-        "url": "https://www.zhihu.com/question/2089062587409421000",
-        "source": "知乎"
-      },
-      {
-        "title": "车企9月销量数据出炉，比亚迪超46万，小米交付超4万台，理想、深蓝交付超3万台，怎样解读各家表现？",
-        "hot": 6750000,
-        "url": "https://www.zhihu.com/question/2088948992545485000",
-        "source": "知乎"
-      },
-      {
-        "title": "男子用土豆当主食半年瘦25斤，称���肪肝没了，血压、血糖稳了，真的会这样吗？这种减肥方法适合什么样的人？",
-        "hot": 6110000,
-        "url": "https://www.zhihu.com/question/2088884615444543500",
-        "source": "知乎"
-      },
-      {
-        "title": "C 罗擅自离开葡萄牙队集训或面临最高 6 个月禁赛，这会带来哪些影响？",
-        "hot": 1440000,
-        "url": "https://www.zhihu.com/question/2088897790541932000",
-        "source": "知乎"
-      },
-      {
-        "title": "网传一大学生因公选课老师连续缺课，自己上台用AI生成PPT讲了一小时课，是真的吗？暴露了哪些问题？",
-        "hot": 1440000,
-        "url": "https://www.zhihu.com/question/2088388963652166100",
-        "source": "知乎"
-      },
-      {
-        "title": "三大运营商全面叫停金融分期「0 元购机」业务，背后有哪些深层原因？已经办理的用户该怎么办？",
-        "hot": 1130000,
-        "url": "https://www.zhihu.com/question/2087296998558938400",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么天天喊���负，不在中小学强制执行5天8小时学习制？",
-        "hot": 990000,
-        "url": "https://www.zhihu.com/question/2085252425859055600",
-        "source": "知乎"
-      },
-      {
-        "title": "如何评价黄霑先生及他的《沧海一声笑》？",
-        "hot": 970000,
-        "url": "https://www.zhihu.com/question/22235355",
-        "source": "知乎"
-      },
-      {
-        "title": "如果曼城要被扣联赛积分70分，具体怎么扣由英超其他球队决定，可以分赛季扣，但要现在就确定，会怎么扣？",
-        "hot": 920000,
-        "url": "https://www.zhihu.com/question/2087835385917395000",
-        "source": "知乎"
-      },
-      {
-        "title": "老婆生完孩子想去月子中心坐月子，我觉得没必要怎么办?",
-        "hot": 900000,
-        "url": "https://www.zhihu.com/question/10669456096",
-        "source": "知乎"
-      },
-      {
-        "title": "如何评价《原神》2026年10月1日更新的幻想真境剧诗（水冰风）？",
-        "hot": 870000,
-        "url": "https://www.zhihu.com/question/2088877650123277000",
-        "source": "知乎"
-      },
-      {
-        "title": "25岁画师约稿时遭遇境外网络诈骗，诱导扫码和借贷，被骗4万余元最终坠亡离世，这起悲剧留给我们哪些反思？",
-        "hot": 860000,
-        "url": "https://www.zhihu.com/question/2088693062239367700",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待zeta5（ζ5）已经被一个大二学生证明是无理数？",
-        "hot": 850000,
-        "url": "https://www.zhihu.com/question/2086480318463268400",
-        "source": "知乎"
-      },
-      {
-        "title": "华为Mate90系列售价5999元起，余承东称「在内存大涨价的今天，定价很有诚意」，怎样看待这一定价？",
-        "hot": 840000,
-        "url": "https://www.zhihu.com/question/2088953459273725700",
-        "source": "知乎"
-      },
-      {
-        "title": "中国有哪些两站之间相距很近的火车站？",
-        "hot": 800000,
-        "url": "https://www.zhihu.com/question/662359469",
+        "title": "暂无数据",
         "source": "知乎"
       }
     ],
@@ -211,15 +125,21 @@
         "source": "微博"
       },
       {
-        "title": "刘学义都三十好几了能没经验吗",
+        "title": "高速等5个小时充电车主发声",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E9%83%BD%E4%B8%89%E5%8D%81%E5%A5%BD%E5%87%A0%E4%BA%86%E8%83%BD%E6%B2%A1%E7%BB%8F%E9%AA%8C%E5%90%97",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E9%80%9F%E7%AD%895%E4%B8%AA%E5%B0%8F%E6%97%B6%E5%85%85%E7%94%B5%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0",
         "source": "微博"
       },
       {
         "title": "张凌赫你这是在干什么",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BD%A0%E8%BF%99%E6%98%AF%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88",
+        "source": "微博"
+      },
+      {
+        "title": "刘学义都三十好几了能没经验吗",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E9%83%BD%E4%B8%89%E5%8D%81%E5%A5%BD%E5%87%A0%E4%BA%86%E8%83%BD%E6%B2%A1%E7%BB%8F%E9%AA%8C%E5%90%97",
         "source": "微博"
       },
       {
@@ -235,21 +155,15 @@
         "source": "微博"
       },
       {
-        "title": "馒化脸是什么",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%A6%92%E5%8C%96%E8%84%B8%E6%98%AF%E4%BB%80%E4%B9%88",
-        "source": "微博"
-      },
-      {
-        "title": "高速服务区新能源车充电像排队打饭",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E5%83%8F%E6%8E%92%E9%98%9F%E6%89%93%E9%A5%AD",
-        "source": "微博"
-      },
-      {
         "title": "中国队155金71银64铜",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F155%E9%87%9171%E9%93%B664%E9%93%9C",
+        "source": "微博"
+      },
+      {
+        "title": "馒化脸是什么",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%A6%92%E5%8C%96%E8%84%B8%E6%98%AF%E4%BB%80%E4%B9%88",
         "source": "微博"
       },
       {
@@ -310,13 +224,13 @@
       },
       {
         "title": "卡戴珊“闯中”太接地气，但700块一件的网红衣还卖得动吗？",
-        "hot": 31,
+        "hot": 32,
         "url": "https://www.36kr.com/p/4006830758989953",
         "source": "36氪"
       },
       {
         "title": "如何记住所有学过的知识",
-        "hot": 72,
+        "hot": 74,
         "url": "https://www.36kr.com/p/3963176848522629",
         "source": "36氪"
       },
@@ -327,102 +241,10 @@
         "source": "36氪"
       }
     ],
-    "baidu": [
-      {
-        "title": "跟着习近平总书记一起唱响《歌唱祖国》",
-        "hot": 7904113,
-        "url": "https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E5%94%B1%E5%93%8D%E3%80%8A%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%E3%80%8B",
-        "source": "百度"
-      },
-      {
-        "title": "我们的飞机不用再飞第二遍了",
-        "hot": 7809463,
-        "url": "https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E7%9A%84%E9%A3%9E%E6%9C%BA%E4%B8%8D%E7%94%A8%E5%86%8D%E9%A3%9E%E7%AC%AC%E4%BA%8C%E9%81%8D%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "一时恍惚分不清是在中国还是在澳洲",
-        "hot": 7712148,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%97%B6%E6%81%8D%E6%83%9A%E5%88%86%E4%B8%8D%E6%B8%85%E6%98%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BF%98%E6%98%AF%E5%9C%A8%E6%BE%B3%E6%B4%B2",
-        "source": "百度"
-      },
-      {
-        "title": "中国人专属仪式感",
-        "hot": 7616557,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%93%E5%B1%9E%E4%BB%AA%E5%BC%8F%E6%84%9F",
-        "source": "百度"
-      },
-      {
-        "title": "昔日明星电动车彻底卖不动了",
-        "hot": 7521099,
-        "url": "https://www.baidu.com/s?wd=%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%BD%BB%E5%BA%95%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "13岁男孩2小时手搓爱国电视机",
-        "hot": 7425785,
-        "url": "https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A92%E5%B0%8F%E6%97%B6%E6%89%8B%E6%90%93%E7%88%B1%E5%9B%BD%E7%94%B5%E8%A7%86%E6%9C%BA",
-        "source": "百度"
-      },
-      {
-        "title": "爸爸扛60多斤女儿看升旗硬扛30多分钟",
-        "hot": 7331286,
-        "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E6%89%9B60%E5%A4%9A%E6%96%A4%E5%A5%B3%E5%84%BF%E7%9C%8B%E5%8D%87%E6%97%97%E7%A1%AC%E6%89%9B30%E5%A4%9A%E5%88%86%E9%92%9F",
-        "source": "百度"
-      },
-      {
-        "title": "中方敦促日方严惩凶犯",
-        "hot": 7234042,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E4%B8%A5%E6%83%A9%E5%87%B6%E7%8A%AF",
-        "source": "百度"
-      },
-      {
-        "title": "高速服务区新能源车充电像排队打饭",
-        "hot": 7136504,
-        "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E5%83%8F%E6%8E%92%E9%98%9F%E6%89%93%E9%A5%AD",
-        "source": "百度"
-      },
-      {
-        "title": "C罗退队惊动葡萄牙总理",
-        "hot": 7042627,
-        "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%80%80%E9%98%9F%E6%83%8A%E5%8A%A8%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86",
-        "source": "百度"
-      },
-      {
-        "title": "《什么意思夫妇》票房破4000万",
-        "hot": 6946142,
-        "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%E5%A4%AB%E5%A6%87%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B44000%E4%B8%87",
-        "source": "百度"
-      },
-      {
-        "title": "绵阳越王楼将被拆除？不实",
-        "hot": 6858204,
-        "url": "https://www.baidu.com/s?wd=%E7%BB%B5%E9%98%B3%E8%B6%8A%E7%8E%8B%E6%A5%BC%E5%B0%86%E8%A2%AB%E6%8B%86%E9%99%A4%EF%BC%9F%E4%B8%8D%E5%AE%9E",
-        "source": "百度"
-      },
-      {
-        "title": "伊拉克宣布实现国家完全主权",
-        "hot": 6751624,
-        "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E5%AE%A3%E5%B8%83%E5%AE%9E%E7%8E%B0%E5%9B%BD%E5%AE%B6%E5%AE%8C%E5%85%A8%E4%B8%BB%E6%9D%83",
-        "source": "百度"
-      },
-      {
-        "title": "车主等3小时掐点下高速省257元",
-        "hot": 6662524,
-        "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E7%AD%893%E5%B0%8F%E6%97%B6%E6%8E%90%E7%82%B9%E4%B8%8B%E9%AB%98%E9%80%9F%E7%9C%81257%E5%85%83",
-        "source": "百度"
-      },
-      {
-        "title": "“美国白蛾 收你的人来了”",
-        "hot": 6561056,
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8E%E5%9B%BD%E7%99%BD%E8%9B%BE%20%E6%94%B6%E4%BD%A0%E7%9A%84%E4%BA%BA%E6%9D%A5%E4%BA%86%E2%80%9D",
-        "source": "百度"
-      }
-    ],
     "juejin": [
       {
         "title": "漫话大模型：7 家中国公司被点名「蒸馏」，他们到底偷走了什么？",
-        "hot": 972,
+        "hot": 981,
         "url": "https://juejin.cn/post/7690769804492341298",
         "source": "掘金"
       },
@@ -445,7 +267,7 @@
         "source": "掘金"
       },
       {
-        "title": "再��了 WebUI，DeepSeek 桌面版真不错。",
+        "title": "再见了 WebUI，DeepSeek 桌面版真不错。",
         "hot": 423,
         "url": "https://juejin.cn/post/7690490511467544602",
         "source": "掘金"
@@ -510,113 +332,205 @@
         "url": "https://juejin.cn/post/7690505279806373931",
         "source": "掘金"
       }
+    ],
+    "baidu": [
+      {
+        "title": "跟着习近平总书记一起唱响《歌唱祖国》",
+        "hot": 7904666,
+        "url": "https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E5%94%B1%E5%93%8D%E3%80%8A%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%E3%80%8B",
+        "source": "百度"
+      },
+      {
+        "title": "我们的飞机不用再飞第二遍了",
+        "hot": 7807972,
+        "url": "https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E7%9A%84%E9%A3%9E%E6%9C%BA%E4%B8%8D%E7%94%A8%E5%86%8D%E9%A3%9E%E7%AC%AC%E4%BA%8C%E9%81%8D%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "一时恍惚分不清是在中国还是在澳洲",
+        "hot": 7713151,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%97%B6%E6%81%8D%E6%83%9A%E5%88%86%E4%B8%8D%E6%B8%85%E6%98%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BF%98%E6%98%AF%E5%9C%A8%E6%BE%B3%E6%B4%B2",
+        "source": "百度"
+      },
+      {
+        "title": "中国人专属仪式感",
+        "hot": 7618161,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%93%E5%B1%9E%E4%BB%AA%E5%BC%8F%E6%84%9F",
+        "source": "百度"
+      },
+      {
+        "title": "昔日明星电动车彻底卖不动了",
+        "hot": 7523706,
+        "url": "https://www.baidu.com/s?wd=%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%BD%BB%E5%BA%95%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "13岁男孩2小时手搓爱国电视机",
+        "hot": 7429233,
+        "url": "https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A92%E5%B0%8F%E6%97%B6%E6%89%8B%E6%90%93%E7%88%B1%E5%9B%BD%E7%94%B5%E8%A7%86%E6%9C%BA",
+        "source": "百度"
+      },
+      {
+        "title": "爸爸扛60多斤女儿看升旗硬扛30多分钟",
+        "hot": 7329750,
+        "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E6%89%9B60%E5%A4%9A%E6%96%A4%E5%A5%B3%E5%84%BF%E7%9C%8B%E5%8D%87%E6%97%97%E7%A1%AC%E6%89%9B30%E5%A4%9A%E5%88%86%E9%92%9F",
+        "source": "百度"
+      },
+      {
+        "title": "中方敦促日方严惩凶犯",
+        "hot": 7234248,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E4%B8%A5%E6%83%A9%E5%87%B6%E7%8A%AF",
+        "source": "百度"
+      },
+      {
+        "title": "高速服务区新能源车充电像排队打饭",
+        "hot": 7136677,
+        "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E5%83%8F%E6%8E%92%E9%98%9F%E6%89%93%E9%A5%AD",
+        "source": "百度"
+      },
+      {
+        "title": "C罗退队惊动葡萄牙总理",
+        "hot": 7042377,
+        "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%80%80%E9%98%9F%E6%83%8A%E5%8A%A8%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86",
+        "source": "百度"
+      },
+      {
+        "title": "闪身步已经闪到台湾了",
+        "hot": 6943963,
+        "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BA%AB%E6%AD%A5%E5%B7%B2%E7%BB%8F%E9%97%AA%E5%88%B0%E5%8F%B0%E6%B9%BE%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "绵阳越王楼将被拆除？不实",
+        "hot": 6855170,
+        "url": "https://www.baidu.com/s?wd=%E7%BB%B5%E9%98%B3%E8%B6%8A%E7%8E%8B%E6%A5%BC%E5%B0%86%E8%A2%AB%E6%8B%86%E9%99%A4%EF%BC%9F%E4%B8%8D%E5%AE%9E",
+        "source": "百度"
+      },
+      {
+        "title": "伊拉克宣布实现国家完全主权",
+        "hot": 6760220,
+        "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E5%AE%A3%E5%B8%83%E5%AE%9E%E7%8E%B0%E5%9B%BD%E5%AE%B6%E5%AE%8C%E5%85%A8%E4%B8%BB%E6%9D%83",
+        "source": "百度"
+      },
+      {
+        "title": "肖战长城上演唱《我和我的祖国》",
+        "hot": 6659932,
+        "url": "https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E9%95%BF%E5%9F%8E%E4%B8%8A%E6%BC%94%E5%94%B1%E3%80%8A%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%E3%80%8B",
+        "source": "百度"
+      },
+      {
+        "title": "“美国白蛾 收你的人来了”",
+        "hot": 6559588,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8E%E5%9B%BD%E7%99%BD%E8%9B%BE%20%E6%94%B6%E4%BD%A0%E7%9A%84%E4%BA%BA%E6%9D%A5%E4%BA%86%E2%80%9D",
+        "source": "百度"
+      }
     ]
   },
   "github": [
     {
-      "title": "KKKKhazix/AIHOT —— 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热",
-      "hot": "⭐ 4573",
+      "title": "KKKKhazix/AIHOT —— 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的���",
+      "hot": "⭐ 4586",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "Niko1221/Strata —— Qwen3.8-Flash-Next on any consumer hardw",
-      "hot": "⭐ 4267",
+      "hot": "⭐ 4301",
       "url": "https://github.com/Niko1221/Strata",
       "source": "GitHub",
       "tag": "C++"
     },
     {
       "title": "Louis-CFM/coucou —— A tiny friend that lives in your notch (",
-      "hot": "⭐ 2264",
+      "hot": "⭐ 2288",
       "url": "https://github.com/Louis-CFM/coucou",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "mexicat/pdoom-video —— Code-rendered music video for \"I'm Uppin",
-      "hot": "⭐ 2173",
+      "hot": "⭐ 2174",
       "url": "https://github.com/mexicat/pdoom-video",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "feder-cr/dots —— Open-source dots for the web: an AI agen",
-      "hot": "⭐ 2164",
+      "hot": "⭐ 2166",
       "url": "https://github.com/feder-cr/dots",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "tobi/disktree —— A treemap for finding and removing what ",
-      "hot": "⭐ 2090",
+      "hot": "⭐ 2092",
       "url": "https://github.com/tobi/disktree",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "dzhng/jevgrep —— Find code by asking what it does. A CLI ",
-      "hot": "⭐ 1977",
+      "hot": "⭐ 1978",
       "url": "https://github.com/dzhng/jevgrep",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "shihabal3amri/DiPlay —— Independent CarPlay receiver for compati",
-      "hot": "⭐ 1934",
+      "hot": "⭐ 1943",
       "url": "https://github.com/shihabal3amri/DiPlay",
       "source": "GitHub",
       "tag": "Kotlin"
     },
     {
       "title": "rehan-remade/universal-modder —— Point Claude at any game. Skills, tools ",
-      "hot": "⭐ 1385",
+      "hot": "⭐ 1398",
       "url": "https://github.com/rehan-remade/universal-modder",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "kaankiziltug/logo-design-skill —— A comprehensive logo-design skill for Cl",
-      "hot": "⭐ 1296",
+      "hot": "⭐ 1298",
       "url": "https://github.com/kaankiziltug/logo-design-skill",
       "source": "GitHub",
       "tag": "HTML"
     },
     {
       "title": "firelex/jeff —— Millisecond decisions, any domain: a 0.8",
-      "hot": "⭐ 1251",
+      "hot": "⭐ 1253",
       "url": "https://github.com/firelex/jeff",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "yihui-dev/awesome-opus5-5-videos —— A growing collection of viral videos mad",
-      "hot": "⭐ 1217",
+      "hot": "⭐ 1220",
       "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
       "source": "GitHub",
       "tag": ""
     },
     {
       "title": "wy51ai/floorplan-3d",
-      "hot": "⭐ 1141",
+      "hot": "⭐ 1149",
       "url": "https://github.com/wy51ai/floorplan-3d",
       "source": "GitHub",
       "tag": "HTML"
     },
     {
       "title": "feitangyuan/onetake —— Motion films that never cut to the next ",
-      "hot": "⭐ 1114",
+      "hot": "⭐ 1115",
       "url": "https://github.com/feitangyuan/onetake",
       "source": "GitHub",
       "tag": "Python"
     },
     {
-      "title": "supermemoryai/company-brain —— Open-sourcing our company brain - A team",
-      "hot": "⭐ 887",
-      "url": "https://github.com/supermemoryai/company-brain",
+      "title": "nanaism/yomiyasu —— AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent ",
+      "hot": "⭐ 889",
+      "url": "https://github.com/nanaism/yomiyasu",
       "source": "GitHub",
-      "tag": "TypeScript"
+      "tag": "Python"
     }
   ]
 }
