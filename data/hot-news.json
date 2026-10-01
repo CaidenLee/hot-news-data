@@ -1,102 +1,96 @@
 {
-  "updatedAt": "2026-10-01T23:00:52.889Z",
+  "updatedAt": "2026-10-01T23:30:43.756Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "Pi 1.0",
-        "hot": 553,
+        "hot": 606,
         "url": "https://earendil.com/posts/pi-1-0/",
         "source": "HackerNews"
       },
       {
         "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-        "hot": 374,
+        "hot": 390,
         "url": "https://blog.cloudflare.com/clef-decision-models/",
         "source": "HackerNews"
       },
       {
-        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-        "hot": 36,
-        "url": "https://github.com/Vibra-Ingenn/Janus",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-        "hot": 122,
-        "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Ask HN: Who is hiring? (October 2026)",
-        "hot": 130,
-        "url": "https://news.ycombinator.com/item?id=49922569",
-        "source": "HackerNews"
-      },
-      {
         "title": "SvelteKit 3",
-        "hot": 45,
+        "hot": 71,
         "url": "https://svelte.dev/blog/sveltekit-3-is-here",
         "source": "HackerNews"
       },
       {
-        "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-        "hot": 25,
-        "url": "https://www.cssbed.com",
+        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+        "hot": 40,
+        "url": "https://github.com/Vibra-Ingenn/Janus",
         "source": "HackerNews"
       },
       {
-        "title": "ArXiv's Updated Rate Limit Policy",
-        "hot": 42,
-        "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "RIP, vector database",
-        "hot": 254,
-        "url": "https://turbopuffer.com/blog/rip-vector-database",
-        "source": "HackerNews"
-      },
-      {
-        "title": "StreetComplete on iOS is now in public beta",
-        "hot": 497,
-        "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
-        "hot": 65,
-        "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+        "title": "Ask HN: Who is hiring? (October 2026)",
+        "hot": 134,
+        "url": "https://news.ycombinator.com/item?id=49922569",
         "source": "HackerNews"
       },
       {
         "title": "Pi Durable",
-        "hot": 158,
+        "hot": 176,
         "url": "https://earendil.com/posts/pi-durable/",
         "source": "HackerNews"
       },
       {
-        "title": "Bez: Generating a browser engine from specs and tests",
-        "hot": 81,
-        "url": "https://tangled.org/burrito.space/bez",
+        "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+        "hot": 30,
+        "url": "https://www.cssbed.com",
+        "source": "HackerNews"
+      },
+      {
+        "title": "StreetComplete on iOS is now in public beta",
+        "hot": 502,
+        "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+        "source": "HackerNews"
+      },
+      {
+        "title": "RIP, vector database",
+        "hot": 258,
+        "url": "https://turbopuffer.com/blog/rip-vector-database",
+        "source": "HackerNews"
+      },
+      {
+        "title": "ArXiv's Updated Rate Limit Policy",
+        "hot": 53,
+        "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+        "hot": 128,
+        "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
+        "hot": 69,
+        "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
         "source": "HackerNews"
       },
       {
         "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-        "hot": 11,
+        "hot": 18,
         "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
         "source": "HackerNews"
       },
       {
+        "title": "Aweb – Communication for AI Agents",
+        "hot": 8,
+        "url": "https://aweb.ai",
+        "source": "HackerNews"
+      },
+      {
         "title": "Vote on which of Hacker News' challenges for AI have been met",
-        "hot": 57,
+        "hot": 61,
         "url": "https://stoppels.ch/goalposts/",
         "source": "HackerNews"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "暂无数据",
-        "source": "知乎"
       }
     ],
     "juejin": [
@@ -125,7 +119,7 @@
         "source": "掘金"
       },
       {
-        "title": "再见�� WebUI，DeepSeek 桌面版真不错。",
+        "title": "再见了 WebUI���DeepSeek 桌面版真不错。",
         "hot": 441,
         "url": "https://juejin.cn/post/7690490511467544602",
         "source": "掘金"
@@ -191,65 +185,103 @@
         "source": "掘金"
       }
     ],
+    "zhihu": [
+      {
+        "title": "如何看待华为、赛力斯达成新五年合作：共同升级问界业务推动品牌向上，余承东与张兴海出席签约？",
+        "hot": 6050000,
+        "url": "https://www.zhihu.com/question/2089062587409421000",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待美国田纳西州死刑犯接受两轮致死注射后，不仅没死还打起了鼾？可能是哪个环节的问题？",
+        "hot": 3890000,
+        "url": "https://www.zhihu.com/question/2088990170007745800",
+        "source": "知乎"
+      },
+      {
+        "title": "江歌妈妈最新发文「10 年维权路，尘埃终将落定」，哪些信息值得关注？",
+        "hot": 2330000,
+        "url": "https://www.zhihu.com/question/2088971415525356000",
+        "source": "知乎"
+      },
+      {
+        "title": "男子用土豆当主食半年瘦25斤，称脂肪肝没了，血压、血糖稳了，真的会这样吗？这种减肥方法适合什么样的人？",
+        "hot": 2000000,
+        "url": "https://www.zhihu.com/question/2088884615444543500",
+        "source": "知乎"
+      },
+      {
+        "title": "比亚迪9月销量46.36万辆，连续数月环比增长，如何看待比亚迪目前的销量走势？",
+        "hot": 1900000,
+        "url": "https://www.zhihu.com/question/2089066625966290400",
+        "source": "知乎"
+      },
+      {
+        "title": "网传一大学生因公选课老师连续缺课，自己上台用AI生成PPT讲了一小时课，是真的吗？暴露了哪些问题？",
+        "hot": 1280000,
+        "url": "https://www.zhihu.com/question/2088388963652166100",
+        "source": "知乎"
+      },
+      {
+        "title": "车企9月销量数据出炉，比亚迪超46万，小米交付超4万台，理想、深蓝交付超3万台，怎样解读各家表现？",
+        "hot": 920000,
+        "url": "https://www.zhihu.com/question/2088948992545485000",
+        "source": "知乎"
+      },
+      {
+        "title": "罗永浩因为溜溜凳问题死磕俞敏洪，他为什么对俞敏洪有这么大敌意？",
+        "hot": 900000,
+        "url": "https://www.zhihu.com/question/2087610479766250800",
+        "source": "知乎"
+      },
+      {
+        "title": "动物它们平时在休息，或者在发呆的时候，它们都在想什么问题？会像我们人类一样为了生存思考各种问题吗？",
+        "hot": 810000,
+        "url": "https://www.zhihu.com/question/2088471361840735000",
+        "source": "知乎"
+      },
+      {
+        "title": "C 罗擅自离开葡萄牙队集训或面临最高 6 个月禁赛，这会带来哪些���响？",
+        "hot": 700000,
+        "url": "https://www.zhihu.com/question/2088897790541932000",
+        "source": "知乎"
+      },
+      {
+        "title": "老婆生完孩子想去月子中心坐月子，我觉得没必要怎么办?",
+        "hot": 650000,
+        "url": "https://www.zhihu.com/question/10669456096",
+        "source": "知乎"
+      },
+      {
+        "title": "���为Mate90系列售价5999元起，余承东称「在内存大涨价的今天，定价很有诚意」，怎样看待这一定价？",
+        "hot": 590000,
+        "url": "https://www.zhihu.com/question/2088953459273725700",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待zeta5（ζ5）已经被一个大二学生证明是无理数？",
+        "hot": 590000,
+        "url": "https://www.zhihu.com/question/2086480318463268400",
+        "source": "知乎"
+      },
+      {
+        "title": "如何判断自己属不属于高认知人群？",
+        "hot": 590000,
+        "url": "https://www.zhihu.com/question/2084664301017740300",
+        "source": "知乎"
+      },
+      {
+        "title": "三大运营商全面叫停金融分期「0 元购机」业务，背后有哪些深层原因？已经办理的用户该怎么办？",
+        "hot": 590000,
+        "url": "https://www.zhihu.com/question/2087296998558938400",
+        "source": "知乎"
+      }
+    ],
     "weibo": [
       {
         "title": "500万放余额宝一天的收益",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=500%E4%B8%87%E6%94%BE%E4%BD%99%E9%A2%9D%E5%AE%9D%E4%B8%80%E5%A4%A9%E7%9A%84%E6%94%B6%E7%9B%8A",
-        "source": "微博"
-      },
-      {
-        "title": "中国高铁站两对卧龙凤雏",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E7%AB%99%E4%B8%A4%E5%AF%B9%E5%8D%A7%E9%BE%99%E5%87%A4%E9%9B%8F",
-        "source": "微博"
-      },
-      {
-        "title": "国庆假期流动的中国具象化了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%B5%81%E5%8A%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "刘学义都三十好几了能没经验吗",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E9%83%BD%E4%B8%89%E5%8D%81%E5%A5%BD%E5%87%A0%E4%BA%86%E8%83%BD%E6%B2%A1%E7%BB%8F%E9%AA%8C%E5%90%97",
-        "source": "微博"
-      },
-      {
-        "title": "狗狗害怕打针直接把护士驮走",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%8B%97%E7%8B%97%E5%AE%B3%E6%80%95%E6%89%93%E9%92%88%E7%9B%B4%E6%8E%A5%E6%8A%8A%E6%8A%A4%E5%A3%AB%E9%A9%AE%E8%B5%B0",
-        "source": "微博"
-      },
-      {
-        "title": "小学生被老师掌掴致耳聋警方终止调查",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E8%87%B4%E8%80%B3%E8%81%8B%E8%AD%A6%E6%96%B9%E7%BB%88%E6%AD%A2%E8%B0%83%E6%9F%A5",
-        "source": "微博"
-      },
-      {
-        "title": "张凌赫你这是在干什么",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BD%A0%E8%BF%99%E6%98%AF%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88",
-        "source": "微博"
-      },
-      {
-        "title": "华为赛力斯 复合",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF%20%E5%A4%8D%E5%90%88",
-        "source": "微博"
-      },
-      {
-        "title": "外围股市涨疯了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%B4%E8%82%A1%E5%B8%82%E6%B6%A8%E7%96%AF%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "2026KPL年度总决赛",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=2026KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9B",
         "source": "微博"
       },
       {
@@ -259,9 +291,69 @@
         "source": "微博"
       },
       {
-        "title": "樊振东波尔同���杜塞尔多夫",
+        "title": "国庆假期流动的中国具象化了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%B5%81%E5%8A%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "中国高铁站两对卧龙凤雏",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E7%AB%99%E4%B8%A4%E5%AF%B9%E5%8D%A7%E9%BE%99%E5%87%A4%E9%9B%8F",
+        "source": "微博"
+      },
+      {
+        "title": "小学生被老师掌掴致耳聋警方终止调查",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E8%87%B4%E8%80%B3%E8%81%8B%E8%AD%A6%E6%96%B9%E7%BB%88%E6%AD%A2%E8%B0%83%E6%9F%A5",
+        "source": "微博"
+      },
+      {
+        "title": "刘学义都三十好几了能没经验吗",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E9%83%BD%E4%B8%89%E5%8D%81%E5%A5%BD%E5%87%A0%E4%BA%86%E8%83%BD%E6%B2%A1%E7%BB%8F%E9%AA%8C%E5%90%97",
+        "source": "微博"
+      },
+      {
+        "title": "华为赛力斯 复合",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF%20%E5%A4%8D%E5%90%88",
+        "source": "微博"
+      },
+      {
+        "title": "狗狗害怕打针直接把护士驮走",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%8B%97%E7%8B%97%E5%AE%B3%E6%80%95%E6%89%93%E9%92%88%E7%9B%B4%E6%8E%A5%E6%8A%8A%E6%8A%A4%E5%A3%AB%E9%A9%AE%E8%B5%B0",
+        "source": "微博"
+      },
+      {
+        "title": "张凌赫你这是在干什么",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BD%A0%E8%BF%99%E6%98%AF%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88",
+        "source": "微博"
+      },
+      {
+        "title": "外围股市涨疯了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%B4%E8%82%A1%E5%B8%82%E6%B6%A8%E7%96%AF%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "Lily长成了小S一生的宿敌的样子",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=Lily%E9%95%BF%E6%88%90%E4%BA%86%E5%B0%8FS%E4%B8%80%E7%94%9F%E7%9A%84%E5%AE%BF%E6%95%8C%E7%9A%84%E6%A0%B7%E5%AD%90",
+        "source": "微博"
+      },
+      {
+        "title": "樊振东波尔同游杜塞尔多夫",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%B3%A2%E5%B0%94%E5%90%8C%E6%B8%B8%E6%9D%9C%E5%A1%9E%E5%B0%94%E5%A4%9A%E5%A4%AB",
+        "source": "微博"
+      },
+      {
+        "title": "对刘学义183的身高有了实感",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%AF%B9%E5%88%98%E5%AD%A6%E4%B9%89183%E7%9A%84%E8%BA%AB%E9%AB%98%E6%9C%89%E4%BA%86%E5%AE%9E%E6%84%9F",
         "source": "微博"
       },
       {
@@ -275,12 +367,98 @@
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%9B%BD%E5%BA%86%E8%8A%82%E7%9B%AE%E4%B8%80%E9%81%8D%E9%81%8D%E6%89%93%E7%A3%A8",
         "source": "微博"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "跟着习近平总书记一起唱响《歌唱祖国》",
+        "hot": 7904385,
+        "url": "https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E5%94%B1%E5%93%8D%E3%80%8A%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%E3%80%8B",
+        "source": "百度"
       },
       {
-        "title": "对刘学义183的身高有了实感",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%AF%B9%E5%88%98%E5%AD%A6%E4%B9%89183%E7%9A%84%E8%BA%AB%E9%AB%98%E6%9C%89%E4%BA%86%E5%AE%9E%E6%84%9F",
-        "source": "微博"
+        "title": "我们的飞机不用再飞第二遍了",
+        "hot": 7808092,
+        "url": "https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E7%9A%84%E9%A3%9E%E6%9C%BA%E4%B8%8D%E7%94%A8%E5%86%8D%E9%A3%9E%E7%AC%AC%E4%BA%8C%E9%81%8D%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "国庆出行有车辆仅剩1%电量后“趴窝”",
+        "hot": 7713831,
+        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E6%9C%89%E8%BD%A6%E8%BE%86%E4%BB%85%E5%89%A91%25%E7%94%B5%E9%87%8F%E5%90%8E%E2%80%9C%E8%B6%B4%E7%AA%9D%E2%80%9D",
+        "source": "百度"
+      },
+      {
+        "title": "中国人专属仪式感",
+        "hot": 7619297,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%93%E5%B1%9E%E4%BB%AA%E5%BC%8F%E6%84%9F",
+        "source": "百度"
+      },
+      {
+        "title": "华为与赛力斯达成新五年合作",
+        "hot": 7521576,
+        "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%8E%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%BE%BE%E6%88%90%E6%96%B0%E4%BA%94%E5%B9%B4%E5%90%88%E4%BD%9C",
+        "source": "百度"
+      },
+      {
+        "title": "张悦彤：我夺冠不是爆冷",
+        "hot": 7423710,
+        "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%82%A6%E5%BD%A4%EF%BC%9A%E6%88%91%E5%A4%BA%E5%86%A0%E4%B8%8D%E6%98%AF%E7%88%86%E5%86%B7",
+        "source": "百度"
+      },
+      {
+        "title": "女子父亲突然离世 邻居1分钟赶到帮忙",
+        "hot": 7330363,
+        "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%88%B6%E4%BA%B2%E7%AA%81%E7%84%B6%E7%A6%BB%E4%B8%96%20%E9%82%BB%E5%B1%851%E5%88%86%E9%92%9F%E8%B5%B6%E5%88%B0%E5%B8%AE%E5%BF%99",
+        "source": "百度"
+      },
+      {
+        "title": "房贷贴息落地 客户房东都坐不住了",
+        "hot": 7239116,
+        "url": "https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E8%B4%B4%E6%81%AF%E8%90%BD%E5%9C%B0%20%E5%AE%A2%E6%88%B7%E6%88%BF%E4%B8%9C%E9%83%BD%E5%9D%90%E4%B8%8D%E4%BD%8F%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "小学生被老师掌掴致耳聋警方终止调查",
+        "hot": 7139037,
+        "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E8%87%B4%E8%80%B3%E8%81%8B%E8%AD%A6%E6%96%B9%E7%BB%88%E6%AD%A2%E8%B0%83%E6%9F%A5",
+        "source": "百度"
+      },
+      {
+        "title": "2026国庆档票房破2亿",
+        "hot": 7040078,
+        "url": "https://www.baidu.com/s?wd=2026%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B42%E4%BA%BF",
+        "source": "百度"
+      },
+      {
+        "title": "女子扒车门试图阻止高铁关门",
+        "hot": 6944510,
+        "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%92%E8%BD%A6%E9%97%A8%E8%AF%95%E5%9B%BE%E9%98%BB%E6%AD%A2%E9%AB%98%E9%93%81%E5%85%B3%E9%97%A8",
+        "source": "百度"
+      },
+      {
+        "title": "绵阳越王楼将被拆除？不实",
+        "hot": 6851998,
+        "url": "https://www.baidu.com/s?wd=%E7%BB%B5%E9%98%B3%E8%B6%8A%E7%8E%8B%E6%A5%BC%E5%B0%86%E8%A2%AB%E6%8B%86%E9%99%A4%EF%BC%9F%E4%B8%8D%E5%AE%9E",
+        "source": "百度"
+      },
+      {
+        "title": "高速服务区新能源车充电像排队打饭",
+        "hot": 6752420,
+        "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E5%83%8F%E6%8E%92%E9%98%9F%E6%89%93%E9%A5%AD",
+        "source": "百度"
+      },
+      {
+        "title": "C罗退队惊动葡萄牙总理",
+        "hot": 6655605,
+        "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%80%80%E9%98%9F%E6%83%8A%E5%8A%A8%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86",
+        "source": "百度"
+      },
+      {
+        "title": "国庆第一天各地开启“人从众”模式",
+        "hot": 6566653,
+        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%90%84%E5%9C%B0%E5%BC%80%E5%90%AF%E2%80%9C%E4%BA%BA%E4%BB%8E%E4%BC%97%E2%80%9D%E6%A8%A1%E5%BC%8F",
+        "source": "百度"
       }
     ],
     "36kr": [
@@ -332,132 +510,40 @@
         "url": "https://www.36kr.com/p/4006690290765959",
         "source": "36氪"
       }
-    ],
-    "baidu": [
-      {
-        "title": "跟着习近平总书记一起唱响《歌唱祖国》",
-        "hot": 7903924,
-        "url": "https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E5%94%B1%E5%93%8D%E3%80%8A%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%E3%80%8B",
-        "source": "百度"
-      },
-      {
-        "title": "我们的飞机不用再飞第二遍了",
-        "hot": 7808271,
-        "url": "https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E7%9A%84%E9%A3%9E%E6%9C%BA%E4%B8%8D%E7%94%A8%E5%86%8D%E9%A3%9E%E7%AC%AC%E4%BA%8C%E9%81%8D%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "一时恍惚分不清是在中国还是在澳洲",
-        "hot": 7711922,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%97%B6%E6%81%8D%E6%83%9A%E5%88%86%E4%B8%8D%E6%B8%85%E6%98%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BF%98%E6%98%AF%E5%9C%A8%E6%BE%B3%E6%B4%B2",
-        "source": "百度"
-      },
-      {
-        "title": "中国人专属仪式感",
-        "hot": 7616739,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%93%E5%B1%9E%E4%BB%AA%E5%BC%8F%E6%84%9F",
-        "source": "百度"
-      },
-      {
-        "title": "昔日明星电动车彻底卖不动了",
-        "hot": 7522043,
-        "url": "https://www.baidu.com/s?wd=%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%BD%BB%E5%BA%95%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "13岁男孩2小时手搓爱国电视机",
-        "hot": 7424116,
-        "url": "https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A92%E5%B0%8F%E6%97%B6%E6%89%8B%E6%90%93%E7%88%B1%E5%9B%BD%E7%94%B5%E8%A7%86%E6%9C%BA",
-        "source": "百度"
-      },
-      {
-        "title": "C罗退队惊动葡萄牙总理",
-        "hot": 7329545,
-        "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%80%80%E9%98%9F%E6%83%8A%E5%8A%A8%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86",
-        "source": "百度"
-      },
-      {
-        "title": "高速服务区新能源车充电像排队打饭",
-        "hot": 7238386,
-        "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E5%83%8F%E6%8E%92%E9%98%9F%E6%89%93%E9%A5%AD",
-        "source": "百度"
-      },
-      {
-        "title": "国庆第一天各地开启“人从众”模式",
-        "hot": 7144062,
-        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%90%84%E5%9C%B0%E5%BC%80%E5%90%AF%E2%80%9C%E4%BA%BA%E4%BB%8E%E4%BC%97%E2%80%9D%E6%A8%A1%E5%BC%8F",
-        "source": "百度"
-      },
-      {
-        "title": "华为与赛力斯达成新五年合作",
-        "hot": 7048242,
-        "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%8E%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%BE%BE%E6%88%90%E6%96%B0%E4%BA%94%E5%B9%B4%E5%90%88%E4%BD%9C",
-        "source": "百度"
-      },
-      {
-        "title": "伊拉克宣布实现国家完全主权",
-        "hot": 6947648,
-        "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E5%AE%A3%E5%B8%83%E5%AE%9E%E7%8E%B0%E5%9B%BD%E5%AE%B6%E5%AE%8C%E5%85%A8%E4%B8%BB%E6%9D%83",
-        "source": "百度"
-      },
-      {
-        "title": "绵阳越王楼将被拆除？不实",
-        "hot": 6856384,
-        "url": "https://www.baidu.com/s?wd=%E7%BB%B5%E9%98%B3%E8%B6%8A%E7%8E%8B%E6%A5%BC%E5%B0%86%E8%A2%AB%E6%8B%86%E9%99%A4%EF%BC%9F%E4%B8%8D%E5%AE%9E",
-        "source": "百度"
-      },
-      {
-        "title": "女子扒车门试图阻止高铁关门",
-        "hot": 6753760,
-        "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%92%E8%BD%A6%E9%97%A8%E8%AF%95%E5%9B%BE%E9%98%BB%E6%AD%A2%E9%AB%98%E9%93%81%E5%85%B3%E9%97%A8",
-        "source": "百度"
-      },
-      {
-        "title": "葡萄牙主帅和足协主席追到机场劝C罗",
-        "hot": 6662405,
-        "url": "https://www.baidu.com/s?wd=%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E5%B8%85%E5%92%8C%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD%E8%BF%BD%E5%88%B0%E6%9C%BA%E5%9C%BA%E5%8A%9DC%E7%BD%97",
-        "source": "百度"
-      },
-      {
-        "title": "闪身步已经闪到台湾了",
-        "hot": 6562415,
-        "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BA%AB%E6%AD%A5%E5%B7%B2%E7%BB%8F%E9%97%AA%E5%88%B0%E5%8F%B0%E6%B9%BE%E4%BA%86",
-        "source": "百度"
-      }
     ]
   },
   "github": [
     {
       "title": "Niko1221/Strata —— Qwen3.8-Flash-Next on any consumer hardw",
-      "hot": "⭐ 4645",
+      "hot": "⭐ 4666",
       "url": "https://github.com/Niko1221/Strata",
       "source": "GitHub",
       "tag": "C++"
     },
     {
       "title": "KKKKhazix/AIHOT —— 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热",
-      "hot": "⭐ 4628",
+      "hot": "⭐ 4636",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "Louis-CFM/coucou —— A tiny friend that lives in your notch (",
-      "hot": "⭐ 2446",
+      "hot": "⭐ 2451",
       "url": "https://github.com/Louis-CFM/coucou",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "feder-cr/dots —— Open-source dots for the web: an AI agen",
-      "hot": "⭐ 2356",
+      "hot": "⭐ 2370",
       "url": "https://github.com/feder-cr/dots",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "mexicat/pdoom-video —— Code-rendered music video for \"I'm Uppin",
-      "hot": "⭐ 2193",
+      "hot": "⭐ 2194",
       "url": "https://github.com/mexicat/pdoom-video",
       "source": "GitHub",
       "tag": "TypeScript"
@@ -471,21 +557,21 @@
     },
     {
       "title": "dzhng/jevgrep —— Find code by asking what it does. A CLI ",
-      "hot": "⭐ 1997",
+      "hot": "⭐ 1998",
       "url": "https://github.com/dzhng/jevgrep",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "shihabal3amri/DiPlay —— Independent CarPlay receiver for compati",
-      "hot": "⭐ 1978",
+      "hot": "⭐ 1988",
       "url": "https://github.com/shihabal3amri/DiPlay",
       "source": "GitHub",
       "tag": "Kotlin"
     },
     {
       "title": "rehan-remade/universal-modder —— Point Claude at any game. Skills, tools ",
-      "hot": "⭐ 1521",
+      "hot": "⭐ 1530",
       "url": "https://github.com/rehan-remade/universal-modder",
       "source": "GitHub",
       "tag": "Python"
@@ -513,21 +599,21 @@
     },
     {
       "title": "wy51ai/floorplan-3d",
-      "hot": "⭐ 1158",
+      "hot": "⭐ 1159",
       "url": "https://github.com/wy51ai/floorplan-3d",
       "source": "GitHub",
       "tag": "HTML"
     },
     {
       "title": "feitangyuan/onetake —— Motion films that never cut to the next ",
-      "hot": "⭐ 1133",
+      "hot": "⭐ 1135",
       "url": "https://github.com/feitangyuan/onetake",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "nanaism/yomiyasu —— AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent ",
-      "hot": "⭐ 923",
+      "hot": "⭐ 928",
       "url": "https://github.com/nanaism/yomiyasu",
       "source": "GitHub",
       "tag": "Python"
