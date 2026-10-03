@@ -1,466 +1,6 @@
 {
-  "updatedAt": "2026-10-03T13:31:02.367Z",
+  "updatedAt": "2026-10-03T14:01:14.291Z",
   "dailyhot": {
-    "hackernews": [
-      {
-        "title": "The Escalation of War in Ethiopia",
-        "hot": 20,
-        "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Show HN: Germany's new sovereign AI model Kolibri",
-        "hot": 57,
-        "url": "https://tej.as/blog/aleph-alpha-kolibri",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Newgrounds.com – A community of games, music, and art",
-        "hot": 305,
-        "url": "https://www.newgrounds.com/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "C++ Insights – See your source code with the eyes of a Compiler",
-        "hot": 16,
-        "url": "https://github.com/andreasfertig/cppinsights",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-        "hot": 687,
-        "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Apple Pass Designer",
-        "hot": 467,
-        "url": "https://developer.apple.com/pass-designer/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Mike Tomlin spent 12 years building a Minecraft city",
-        "hot": 529,
-        "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Show HN: Offrun – manage every coding agent from one workspace",
-        "hot": 21,
-        "url": "https://offrun.dev/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
-        "hot": 1,
-        "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Cloudflare OHTTP gateway",
-        "hot": 112,
-        "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-        "hot": 318,
-        "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-        "source": "HackerNews"
-      },
-      {
-        "title": "GitHub's new dashboard experience now the default",
-        "hot": 47,
-        "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "An Update on Orion for Linux and Windows",
-        "hot": 98,
-        "url": "https://blog.kagi.com/update-orion-linux-windows",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Loss of cell identity drives human aging: Two new papers",
-        "hot": 285,
-        "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Make Tmux the OS",
-        "hot": 92,
-        "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-        "source": "HackerNews"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "亚运男足铜牌争夺战，中国 U23 点球 4-3 乌兹别克斯坦 U23，获得铜牌，如何评价本场比赛？",
-        "hot": 32010000,
-        "url": "https://www.zhihu.com/question/2089722594677055700",
-        "source": "知乎"
-      },
-      {
-        "title": "网友称纹身是免疫细胞一辈子的战斗，这是真的吗？对健康会有哪些影响？",
-        "hot": 4010000,
-        "url": "https://www.zhihu.com/question/2089414718989365800",
-        "source": "知乎"
-      },
-      {
-        "title": "亚运会男足铜牌战，李昊扑出两个点球助中国队获得铜牌，完成这样的扑救有多难？会怎样影响球队？",
-        "hot": 2720000,
-        "url": "https://www.zhihu.com/question/2089756234240844300",
-        "source": "知乎"
-      },
-      {
-        "title": "七国集团将释放 1 亿桶战略石油储备，会带来哪些影响？",
-        "hot": 2150000,
-        "url": "https://www.zhihu.com/question/2089655246322495700",
-        "source": "知乎"
-      },
-      {
-        "title": "国足 U23 屡创佳绩，关键胜因是什么？这支年轻球队正在发生哪些变化？能给中国足球带来更多可能吗？",
-        "hot": 1870000,
-        "url": "https://www.zhihu.com/question/2089761055652012000",
-        "source": "知乎"
-      },
-      {
-        "title": "六神是怎么做到在花露水市场常年稳居第一的？甚至有不少人除了六神好像都不了解其他的花露水品牌？",
-        "hot": 1400000,
-        "url": "https://www.zhihu.com/question/2087306147153666600",
-        "source": "知乎"
-      },
-      {
-        "title": "怎么看 Claude Code 发布 Mod，崔添翼说 DSH Plugin 是不是要改叫 Mod ？",
-        "hot": 1100000,
-        "url": "https://www.zhihu.com/question/2089377620265911000",
-        "source": "知乎"
-      },
-      {
-        "title": "为何家用WiFi总觉得2.4G反而快于5G，这是我的错觉吗？",
-        "hot": 1090000,
-        "url": "https://www.zhihu.com/question/2066457750947763500",
-        "source": "知乎"
-      },
-      {
-        "title": "如何评价马伊琍、王佳佳主演的悬疑剧《余红旧事》？",
-        "hot": 900000,
-        "url": "https://www.zhihu.com/question/2088305221902587600",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么秦桧之后没人再用桧字取名，但司马懿之后还有无数人叫懿？",
-        "hot": 750000,
-        "url": "https://www.zhihu.com/question/2088675997675688700",
-        "source": "知乎"
-      },
-      {
-        "title": "葡足协主席希望C罗「以体面的方式谢幕」，正推动其重返国家队，如何理解当前各方态度？最终可能怎样收场？",
-        "hot": 750000,
-        "url": "https://www.zhihu.com/question/2089646327395082200",
-        "source": "知乎"
-      },
-      {
-        "title": "如何评价极客湾最新视频《逻辑折叠深度解析！华为Mate 90系列韬定律芯片有多强？》？",
-        "hot": 750000,
-        "url": "https://www.zhihu.com/question/2089412797440455400",
-        "source": "知乎"
-      },
-      {
-        "title": "秋天都有哪些美食？",
-        "hot": 740000,
-        "url": "https://www.zhihu.com/question/2076630617412978400",
-        "source": "知乎"
-      },
-      {
-        "title": "汉大帮高育良的外甥女陆亦可为什么被大家厌恶？她和侯亮平是一类人吗？",
-        "hot": 590000,
-        "url": "https://www.zhihu.com/question/2086972101483930400",
-        "source": "知乎"
-      },
-      {
-        "title": "网友质疑国足0比5惨败却让17岁小将赵松源接受采访，如何看待这种安排？是有意为之吗？",
-        "hot": 590000,
-        "url": "https://www.zhihu.com/question/2089616052405498400",
-        "source": "知乎"
-      }
-    ],
-    "baidu": [
-      {
-        "title": "怀爱国之心 立报国之志",
-        "hot": 7903931,
-        "url": "https://www.baidu.com/s?wd=%E6%80%80%E7%88%B1%E5%9B%BD%E4%B9%8B%E5%BF%83%20%E7%AB%8B%E6%8A%A5%E5%9B%BD%E4%B9%8B%E5%BF%97",
-        "source": "百度"
-      },
-      {
-        "title": "巴勒斯坦球员向国足道歉",
-        "hot": 7809460,
-        "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
-        "source": "百度"
-      },
-      {
-        "title": "中国队169金89银83铜",
-        "hot": 7712339,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C",
-        "source": "百度"
-      },
-      {
-        "title": "国庆长假自驾出行 怎么开才安全",
-        "hot": 7618146,
-        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E9%95%BF%E5%81%87%E8%87%AA%E9%A9%BE%E5%87%BA%E8%A1%8C%20%E6%80%8E%E4%B9%88%E5%BC%80%E6%89%8D%E5%AE%89%E5%85%A8",
-        "source": "百度"
-      },
-      {
-        "title": "中国男足时隔28年再夺亚运铜牌",
-        "hot": 7522556,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9428%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C",
-        "source": "百度"
-      },
-      {
-        "title": "AI面试 恐怖谷",
-        "hot": 7427475,
-        "url": "https://www.baidu.com/s?wd=AI%E9%9D%A2%E8%AF%95%20%E6%81%90%E6%80%96%E8%B0%B7",
-        "source": "百度"
-      },
-      {
-        "title": "中国人解压包一样出现在世界各地",
-        "hot": 7327585,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A7%A3%E5%8E%8B%E5%8C%85%E4%B8%80%E6%A0%B7%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0",
-        "source": "百度"
-      },
-      {
-        "title": "冷空气来袭 气温将大范围创新低",
-        "hot": 7232712,
-        "url": "https://www.baidu.com/s?wd=%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E8%A2%AD%20%E6%B0%94%E6%B8%A9%E5%B0%86%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%88%9B%E6%96%B0%E4%BD%8E",
-        "source": "百度"
-      },
-      {
-        "title": "小沈阳回应肿成蜜蜂小狗",
-        "hot": 7142098,
-        "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%9B%9E%E5%BA%94%E8%82%BF%E6%88%90%E8%9C%9C%E8%9C%82%E5%B0%8F%E7%8B%97",
-        "source": "百度"
-      },
-      {
-        "title": "安东尼奥谈国足0比5惨败",
-        "hot": 7039556,
-        "url": "https://www.baidu.com/s?wd=%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E8%B0%88%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5",
-        "source": "百度"
-      },
-      {
-        "title": "特鲁姆普vs吴宜泽",
-        "hot": 6947098,
-        "url": "https://www.baidu.com/s?wd=%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AEvs%E5%90%B4%E5%AE%9C%E6%B3%BD",
-        "source": "百度"
-      },
-      {
-        "title": "“水猴子拖人下水淹死”系谣言",
-        "hot": 6851927,
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E7%8C%B4%E5%AD%90%E6%8B%96%E4%BA%BA%E4%B8%8B%E6%B0%B4%E6%B7%B9%E6%AD%BB%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
-        "source": "百度"
-      },
-      {
-        "title": "国足夺铜牌 安东尼奥抱起李昊欢呼",
-        "hot": 6758320,
-        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E5%A4%BA%E9%93%9C%E7%89%8C%20%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E6%8A%B1%E8%B5%B7%E6%9D%8E%E6%98%8A%E6%AC%A2%E5%91%BC",
-        "source": "百度"
-      },
-      {
-        "title": "73岁大爷心脏长反 每天乱跳超3万次",
-        "hot": 6667614,
-        "url": "https://www.baidu.com/s?wd=73%E5%B2%81%E5%A4%A7%E7%88%B7%E5%BF%83%E8%84%8F%E9%95%BF%E5%8F%8D%20%E6%AF%8F%E5%A4%A9%E4%B9%B1%E8%B7%B3%E8%B6%853%E4%B8%87%E6%AC%A1",
-        "source": "百度"
-      },
-      {
-        "title": "中俄等8国战略演习 普京前往视察",
-        "hot": 6572222,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%AD%898%E5%9B%BD%E6%88%98%E7%95%A5%E6%BC%94%E4%B9%A0%20%E6%99%AE%E4%BA%AC%E5%89%8D%E5%BE%80%E8%A7%86%E5%AF%9F",
-        "source": "百度"
-      }
-    ],
-    "weibo": [
-      {
-        "title": "爬珠峰的人都堵了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%88%AC%E7%8F%A0%E5%B3%B0%E7%9A%84%E4%BA%BA%E9%83%BD%E5%A0%B5%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "巴勒斯坦球员向国足道歉",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
-        "source": "微博"
-      },
-      {
-        "title": "中国队创亚运境外参赛金牌新纪录",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%88%9B%E4%BA%9A%E8%BF%90%E5%A2%83%E5%A4%96%E5%8F%82%E8%B5%9B%E9%87%91%E7%89%8C%E6%96%B0%E7%BA%AA%E5%BD%95",
-        "source": "微博"
-      },
-      {
-        "title": "中国队169金89银83铜收官",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C%E6%94%B6%E5%AE%98",
-        "source": "微博"
-      },
-      {
-        "title": "兰香如故许兰香掉马",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%AE%B8%E5%85%B0%E9%A6%99%E6%8E%89%E9%A9%AC",
-        "source": "微博"
-      },
-      {
-        "title": "为什么现在退房时酒店不查房了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E9%80%80%E6%88%BF%E6%97%B6%E9%85%92%E5%BA%97%E4%B8%8D%E6%9F%A5%E6%88%BF%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "赵今麦隔空投送徐迟碎片",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%E9%9A%94%E7%A9%BA%E6%8A%95%E9%80%81%E5%BE%90%E8%BF%9F%E7%A2%8E%E7%89%87",
-        "source": "微博"
-      },
-      {
-        "title": "月光闪 夯",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E5%85%89%E9%97%AA%20%E5%A4%AF",
-        "source": "微博"
-      },
-      {
-        "title": "男子回应走应急车道被罚6000",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B5%B0%E5%BA%94%E6%80%A5%E8%BD%A6%E9%81%93%E8%A2%AB%E7%BD%9A6000",
-        "source": "微博"
-      },
-      {
-        "title": "EDGM战胜JDG",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=EDGM%E6%88%98%E8%83%9CJDG",
-        "source": "微博"
-      },
-      {
-        "title": "郑钦文即时排名重返前50",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%8D%B3%E6%97%B6%E6%8E%92%E5%90%8D%E9%87%8D%E8%BF%94%E5%89%8D50",
-        "source": "微博"
-      },
-      {
-        "title": "田馥甄亲手毁掉了自己的演艺生涯",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%94%B0%E9%A6%A5%E7%94%84%E4%BA%B2%E6%89%8B%E6%AF%81%E6%8E%89%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BC%94%E8%89%BA%E7%94%9F%E6%B6%AF",
-        "source": "微博"
-      },
-      {
-        "title": "烟草局招聘体育特长生",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%83%9F%E8%8D%89%E5%B1%80%E6%8B%9B%E8%81%98%E4%BD%93%E8%82%B2%E7%89%B9%E9%95%BF%E7%94%9F",
-        "source": "微博"
-      },
-      {
-        "title": "黄安两个妹妹剃度出家",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AE%89%E4%B8%A4%E4%B8%AA%E5%A6%B9%E5%A6%B9%E5%89%83%E5%BA%A6%E5%87%BA%E5%AE%B6",
-        "source": "微博"
-      },
-      {
-        "title": "刘乐妍称祝福祖国台湾艺人仅19位",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E4%B9%90%E5%A6%8D%E7%A7%B0%E7%A5%9D%E7%A6%8F%E7%A5%96%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E4%BB%8519%E4%BD%8D",
-        "source": "微博"
-      }
-    ],
-    "36kr": [
-      {
-        "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
-        "hot": 63,
-        "url": "https://www.36kr.com/p/4009475424063619",
-        "source": "36氪"
-      },
-      {
-        "title": "1.8万一枚、平替几十元，智能戒指是智商税还是真风口？",
-        "hot": 26,
-        "url": "https://www.36kr.com/p/4009334243774592",
-        "source": "36氪"
-      },
-      {
-        "title": "刚刚，Meta开源Muse Gadgets，让全球开发者自己「造AI外设」",
-        "hot": 12,
-        "url": "https://www.36kr.com/p/4009352273236101",
-        "source": "36氪"
-      },
-      {
-        "title": "女掌门人带队，3年吸金21亿，河南爆火景区要IPO了",
-        "hot": 22,
-        "url": "https://www.36kr.com/p/4008744797442177",
-        "source": "36氪"
-      },
-      {
-        "title": "欢迎来到“差不多”世界：当AI样样精通，人类的脑力正在集体退化？",
-        "hot": 52,
-        "url": "https://www.36kr.com/p/3966471483284738",
-        "source": "36氪"
-      },
-      {
-        "title": "苏姿丰抬头，李飞飞低头",
-        "hot": 20,
-        "url": "https://www.36kr.com/p/4009381083600769",
-        "source": "36氪"
-      },
-      {
-        "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了",
-        "hot": 5,
-        "url": "https://www.36kr.com/p/4009647948746628",
-        "source": "36氪"
-      },
-      {
-        "title": "国庆出游用AI，第一批人已经被坑惨了",
-        "hot": 10,
-        "url": "https://www.36kr.com/p/4009478235295881",
-        "source": "36氪"
-      },
-      {
-        "title": "Jev被请下王座，StartLux中国开源决策模型冲上第一",
-        "hot": 9,
-        "url": "https://www.36kr.com/p/4009510615027849",
-        "source": "36氪"
-      },
-      {
-        "title": "黄仁勋，是怎样学习的？",
-        "hot": 27,
-        "url": "https://www.36kr.com/p/4008772968763266",
-        "source": "36氪"
-      },
-      {
-        "title": "他俩的邪门CP爆了，内娱一年白干",
-        "hot": 7,
-        "url": "https://www.36kr.com/p/4009611696509060",
-        "source": "36氪"
-      },
-      {
-        "title": "13部新片扎堆无爆款，国庆档首次步入“无大片”时代？",
-        "hot": 2,
-        "url": "https://www.36kr.com/p/4009658666029189",
-        "source": "36氪"
-      },
-      {
-        "title": "Beats 360 评测：做一支 TWS 头戴耳机，代价有多大？",
-        "hot": 2,
-        "url": "https://www.36kr.com/p/4009629817491591",
-        "source": "36氪"
-      },
-      {
-        "title": "杀猪盘用上了AI，骗局开始批量生产",
-        "hot": 9,
-        "url": "https://www.36kr.com/p/4009610454093960",
-        "source": "36氪"
-      },
-      {
-        "title": "Karpathy的新玩法！40年前的航空规范，救了爱说废话的AI",
-        "hot": 15,
-        "url": "https://www.36kr.com/p/4009626690539397",
-        "source": "36氪"
-      }
-    ],
     "juejin": [
       {
         "title": "Shopify 回应为什么从 RN 回到原生，为什么不用 KMP ？",
@@ -511,15 +51,15 @@
         "source": "掘金"
       },
       {
-        "title": "OpenAI 给 AI 发了台电脑，可惜你还没学会派活",
-        "hot": 81,
-        "url": "https://juejin.cn/post/7691151105850654758",
-        "source": "掘金"
-      },
-      {
         "title": "Node.js 50个优势场景盘点：一个人单干，为啥我多数时候只用它",
         "hot": 81,
         "url": "https://juejin.cn/post/7691227873459028006",
+        "source": "掘金"
+      },
+      {
+        "title": "OpenAI 给 AI 发了台电脑，可惜你还没学会派活",
+        "hot": 81,
+        "url": "https://juejin.cn/post/7691151105850654758",
         "source": "掘金"
       },
       {
@@ -552,96 +92,556 @@
         "url": "https://juejin.cn/post/7691284233897951295",
         "source": "掘金"
       }
+    ],
+    "zhihu": [
+      {
+        "title": "亚运男足铜牌争夺战，中国 U23 点球 4-3 乌兹别克斯坦 U23，获得铜牌，如何评价本场比赛？",
+        "hot": 32850000,
+        "url": "https://www.zhihu.com/question/2089722594677055700",
+        "source": "知乎"
+      },
+      {
+        "title": "网友称纹身是免疫细胞一辈子的战斗，这是真的吗？对健康会有哪些影响？",
+        "hot": 4120000,
+        "url": "https://www.zhihu.com/question/2089414718989365800",
+        "source": "知乎"
+      },
+      {
+        "title": "亚运会男足铜牌战，李昊扑出两个点球助中国队获得铜牌，完成这样的扑救有多难？会怎样影响球队？",
+        "hot": 2980000,
+        "url": "https://www.zhihu.com/question/2089756234240844300",
+        "source": "知乎"
+      },
+      {
+        "title": "七国集团将释放 1 亿桶战略石油储备，会带来哪些影响？",
+        "hot": 2300000,
+        "url": "https://www.zhihu.com/question/2089655246322495700",
+        "source": "知乎"
+      },
+      {
+        "title": "国足 U23 屡创佳绩，关键胜因是什么？这支年轻球队正在发生哪些变化？能给中国足球带来更多可能吗？",
+        "hot": 2110000,
+        "url": "https://www.zhihu.com/question/2089761055652012000",
+        "source": "知乎"
+      },
+      {
+        "title": "如何评价亚运会中国代表团169金89银83铜收官，创境外参加亚运会最佳战绩？有哪些项目发挥关键作用？",
+        "hot": 1680000,
+        "url": "https://www.zhihu.com/question/2089736714340102400",
+        "source": "知乎"
+      },
+      {
+        "title": "如何评价Gemini Flash 和 Pro 模型将于2026年10月9日转入付费模式？",
+        "hot": 1520000,
+        "url": "https://www.zhihu.com/question/2089670263927464700",
+        "source": "知乎"
+      },
+      {
+        "title": "六神是怎么做到在花露水市场常年稳居第一的？甚至有不少人除了六神好像都不了解其他的花露水品牌？",
+        "hot": 1330000,
+        "url": "https://www.zhihu.com/question/2087306147153666600",
+        "source": "知乎"
+      },
+      {
+        "title": "怎么看 Claude Code 发布 Mod，崔添翼说 DSH Plugin 是不是要改叫 Mod ？",
+        "hot": 1160000,
+        "url": "https://www.zhihu.com/question/2089377620265911000",
+        "source": "知乎"
+      },
+      {
+        "title": "为何家用WiFi总觉得2.4G反而快于5G，这是我的错觉吗？",
+        "hot": 1120000,
+        "url": "https://www.zhihu.com/question/2066457750947763500",
+        "source": "知乎"
+      },
+      {
+        "title": "如何评价极客湾最新视频《逻辑折叠深度解析！华为Mate 90系列韬定律芯片有多强？》？",
+        "hot": 1120000,
+        "url": "https://www.zhihu.com/question/2089412797440455400",
+        "source": "知乎"
+      },
+      {
+        "title": "葡足协主席希望C罗「以体面的方式谢幕」，正推动其重返国家队，如何理解当前各方态度？最终可能怎样收场？",
+        "hot": 1110000,
+        "url": "https://www.zhihu.com/question/2089646327395082200",
+        "source": "知乎"
+      },
+      {
+        "title": "《艾希》续作众筹破 1200 万元远超预期，为何能引发现象级反响？",
+        "hot": 1110000,
+        "url": "https://www.zhihu.com/question/2089411284261512200",
+        "source": "知乎"
+      },
+      {
+        "title": "汉大帮高育良的外甥女陆亦可为什么被大家厌恶？她和侯亮平是一类人吗？",
+        "hot": 1050000,
+        "url": "https://www.zhihu.com/question/2086972101483930400",
+        "source": "知乎"
+      },
+      {
+        "title": "网友质疑国足0比5惨败却让17岁小将赵松源接受采访，如何看待这种安排？是有意为之吗？",
+        "hot": 1020000,
+        "url": "https://www.zhihu.com/question/2089616052405498400",
+        "source": "知乎"
+      }
+    ],
+    "hackernews": [
+      {
+        "title": "The Escalation of War in Ethiopia",
+        "hot": 46,
+        "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Show HN: Germany's new sovereign AI model Kolibri",
+        "hot": 81,
+        "url": "https://tej.as/blog/aleph-alpha-kolibri",
+        "source": "HackerNews"
+      },
+      {
+        "title": "C++ Insights – See your source code with the eyes of a Compiler",
+        "hot": 24,
+        "url": "https://github.com/andreasfertig/cppinsights",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Newgrounds.com – A community of games, music, and art",
+        "hot": 312,
+        "url": "https://www.newgrounds.com/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+        "hot": 691,
+        "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Apple Pass Designer",
+        "hot": 473,
+        "url": "https://developer.apple.com/pass-designer/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+        "hot": 37,
+        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Mike Tomlin spent 12 years building a Minecraft city",
+        "hot": 534,
+        "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Cloudflare OHTTP gateway",
+        "hot": 121,
+        "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+        "hot": 1,
+        "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+        "source": "HackerNews"
+      },
+      {
+        "title": "GitHub's new dashboard experience now the default",
+        "hot": 52,
+        "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Show HN: Offrun – manage every coding agent from one workspace",
+        "hot": 24,
+        "url": "https://offrun.dev/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+        "hot": 325,
+        "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Loss of cell identity drives human aging: Two new papers",
+        "hot": 291,
+        "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+        "source": "HackerNews"
+      },
+      {
+        "title": "An Update on Orion for Linux and Windows",
+        "hot": 109,
+        "url": "https://blog.kagi.com/update-orion-linux-windows",
+        "source": "HackerNews"
+      }
+    ],
+    "weibo": [
+      {
+        "title": "爬珠峰的人都堵了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%88%AC%E7%8F%A0%E5%B3%B0%E7%9A%84%E4%BA%BA%E9%83%BD%E5%A0%B5%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "巴勒斯坦球员向国足道歉",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
+        "source": "微博"
+      },
+      {
+        "title": "中国队创亚运境外参赛金牌新纪录",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%88%9B%E4%BA%9A%E8%BF%90%E5%A2%83%E5%A4%96%E5%8F%82%E8%B5%9B%E9%87%91%E7%89%8C%E6%96%B0%E7%BA%AA%E5%BD%95",
+        "source": "微博"
+      },
+      {
+        "title": "中国队169金89银83铜收官",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C%E6%94%B6%E5%AE%98",
+        "source": "微博"
+      },
+      {
+        "title": "为什么现在退房时酒店不查房了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E9%80%80%E6%88%BF%E6%97%B6%E9%85%92%E5%BA%97%E4%B8%8D%E6%9F%A5%E6%88%BF%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "月光闪 夯",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E5%85%89%E9%97%AA%20%E5%A4%AF",
+        "source": "微博"
+      },
+      {
+        "title": "披荆斩棘 票数",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%20%E7%A5%A8%E6%95%B0",
+        "source": "微博"
+      },
+      {
+        "title": "男子回应走应急车道被罚6000",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B5%B0%E5%BA%94%E6%80%A5%E8%BD%A6%E9%81%93%E8%A2%AB%E7%BD%9A6000",
+        "source": "微博"
+      },
+      {
+        "title": "EDGM战胜JDG",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=EDGM%E6%88%98%E8%83%9CJDG",
+        "source": "微博"
+      },
+      {
+        "title": "兰香如故许兰香掉马",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%AE%B8%E5%85%B0%E9%A6%99%E6%8E%89%E9%A9%AC",
+        "source": "微博"
+      },
+      {
+        "title": "田馥甄亲手毁掉了自己的演艺生涯",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%94%B0%E9%A6%A5%E7%94%84%E4%BA%B2%E6%89%8B%E6%AF%81%E6%8E%89%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BC%94%E8%89%BA%E7%94%9F%E6%B6%AF",
+        "source": "微博"
+      },
+      {
+        "title": "烟草局招聘体育特长生",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%83%9F%E8%8D%89%E5%B1%80%E6%8B%9B%E8%81%98%E4%BD%93%E8%82%B2%E7%89%B9%E9%95%BF%E7%94%9F",
+        "source": "微博"
+      },
+      {
+        "title": "黄安两个妹妹剃度出家",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AE%89%E4%B8%A4%E4%B8%AA%E5%A6%B9%E5%A6%B9%E5%89%83%E5%BA%A6%E5%87%BA%E5%AE%B6",
+        "source": "微博"
+      },
+      {
+        "title": "内娱编剧写不好低学历女主了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E7%BC%96%E5%89%A7%E5%86%99%E4%B8%8D%E5%A5%BD%E4%BD%8E%E5%AD%A6%E5%8E%86%E5%A5%B3%E4%B8%BB%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "郑钦文即时排名重返前50",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%8D%B3%E6%97%B6%E6%8E%92%E5%90%8D%E9%87%8D%E8%BF%94%E5%89%8D50",
+        "source": "微博"
+      }
+    ],
+    "36kr": [
+      {
+        "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
+        "hot": 63,
+        "url": "https://www.36kr.com/p/4009475424063619",
+        "source": "36氪"
+      },
+      {
+        "title": "1.8万一枚、平替几十元，智能戒指是智商税还是真风口？",
+        "hot": 25,
+        "url": "https://www.36kr.com/p/4009334243774592",
+        "source": "36氪"
+      },
+      {
+        "title": "刚刚，Meta开源Muse Gadgets，让全球开发者自己「造AI外设」",
+        "hot": 12,
+        "url": "https://www.36kr.com/p/4009352273236101",
+        "source": "36氪"
+      },
+      {
+        "title": "女掌门人带队，3年吸金21亿，河南爆火景区要IPO了",
+        "hot": 22,
+        "url": "https://www.36kr.com/p/4008744797442177",
+        "source": "36氪"
+      },
+      {
+        "title": "欢迎来到“差不多”世界：当AI样样精通，人类的脑力正在集体退化？",
+        "hot": 52,
+        "url": "https://www.36kr.com/p/3966471483284738",
+        "source": "36氪"
+      },
+      {
+        "title": "苏姿丰抬头，李飞飞低头",
+        "hot": 20,
+        "url": "https://www.36kr.com/p/4009381083600769",
+        "source": "36氪"
+      },
+      {
+        "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了",
+        "hot": 5,
+        "url": "https://www.36kr.com/p/4009647948746628",
+        "source": "36氪"
+      },
+      {
+        "title": "国庆出游用AI，第一批人已经被坑惨了",
+        "hot": 12,
+        "url": "https://www.36kr.com/p/4009478235295881",
+        "source": "36氪"
+      },
+      {
+        "title": "Jev被请下王座，StartLux中国开源决策模型冲上第一",
+        "hot": 9,
+        "url": "https://www.36kr.com/p/4009510615027849",
+        "source": "36氪"
+      },
+      {
+        "title": "黄仁勋，是怎样学习的？",
+        "hot": 27,
+        "url": "https://www.36kr.com/p/4008772968763266",
+        "source": "36氪"
+      },
+      {
+        "title": "他俩的邪门CP爆了，内娱一年白干",
+        "hot": 7,
+        "url": "https://www.36kr.com/p/4009611696509060",
+        "source": "36氪"
+      },
+      {
+        "title": "13部新片扎堆无爆款，国庆档首次步入“无大片”时代？",
+        "hot": 2,
+        "url": "https://www.36kr.com/p/4009658666029189",
+        "source": "36氪"
+      },
+      {
+        "title": "杀猪盘用上了AI，骗局开始批量生产",
+        "hot": 9,
+        "url": "https://www.36kr.com/p/4009610454093960",
+        "source": "36氪"
+      },
+      {
+        "title": "Beats 360 评测：做一支 TWS 头戴耳机，代价有多大？",
+        "hot": 2,
+        "url": "https://www.36kr.com/p/4009629817491591",
+        "source": "36氪"
+      },
+      {
+        "title": "Karpathy的新玩法！40年前的航空规范，救了爱说废话的AI",
+        "hot": 15,
+        "url": "https://www.36kr.com/p/4009626690539397",
+        "source": "36氪"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "怀爱国之心 立报国之志",
+        "hot": 7904810,
+        "url": "https://www.baidu.com/s?wd=%E6%80%80%E7%88%B1%E5%9B%BD%E4%B9%8B%E5%BF%83%20%E7%AB%8B%E6%8A%A5%E5%9B%BD%E4%B9%8B%E5%BF%97",
+        "source": "百度"
+      },
+      {
+        "title": "巴勒斯坦球员向国足道歉",
+        "hot": 7809561,
+        "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
+        "source": "百度"
+      },
+      {
+        "title": "中国队169金89银83铜",
+        "hot": 7714365,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C",
+        "source": "百度"
+      },
+      {
+        "title": "国庆长假自驾出行 怎么开才安全",
+        "hot": 7617389,
+        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E9%95%BF%E5%81%87%E8%87%AA%E9%A9%BE%E5%87%BA%E8%A1%8C%20%E6%80%8E%E4%B9%88%E5%BC%80%E6%89%8D%E5%AE%89%E5%85%A8",
+        "source": "百度"
+      },
+      {
+        "title": "中国男足时隔28年再夺亚运铜牌",
+        "hot": 7521754,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9428%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C",
+        "source": "百度"
+      },
+      {
+        "title": "知识以流口水的方式出现了",
+        "hot": 7426390,
+        "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E8%AF%86%E4%BB%A5%E6%B5%81%E5%8F%A3%E6%B0%B4%E7%9A%84%E6%96%B9%E5%BC%8F%E5%87%BA%E7%8E%B0%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "中国人解压包一样出现在世界各地",
+        "hot": 7333932,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A7%A3%E5%8E%8B%E5%8C%85%E4%B8%80%E6%A0%B7%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0",
+        "source": "百度"
+      },
+      {
+        "title": "冷空气来袭 气温将大范围创新低",
+        "hot": 7236843,
+        "url": "https://www.baidu.com/s?wd=%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E8%A2%AD%20%E6%B0%94%E6%B8%A9%E5%B0%86%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%88%9B%E6%96%B0%E4%BD%8E",
+        "source": "百度"
+      },
+      {
+        "title": "小沈阳回应肿成蜜蜂小狗",
+        "hot": 7142838,
+        "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%9B%9E%E5%BA%94%E8%82%BF%E6%88%90%E8%9C%9C%E8%9C%82%E5%B0%8F%E7%8B%97",
+        "source": "百度"
+      },
+      {
+        "title": "安东尼奥谈国足0比5惨败",
+        "hot": 7043031,
+        "url": "https://www.baidu.com/s?wd=%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E8%B0%88%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5",
+        "source": "百度"
+      },
+      {
+        "title": "特鲁姆普vs吴宜泽",
+        "hot": 6950785,
+        "url": "https://www.baidu.com/s?wd=%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AEvs%E5%90%B4%E5%AE%9C%E6%B3%BD",
+        "source": "百度"
+      },
+      {
+        "title": "“水猴子拖人下水淹死”系谣言",
+        "hot": 6850202,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E7%8C%B4%E5%AD%90%E6%8B%96%E4%BA%BA%E4%B8%8B%E6%B0%B4%E6%B7%B9%E6%AD%BB%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+        "source": "百度"
+      },
+      {
+        "title": "处于低谷的中国足球 有了一个好消息",
+        "hot": 6752358,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%84%E4%BA%8E%E4%BD%8E%E8%B0%B7%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%20%E6%9C%89%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A5%BD%E6%B6%88%E6%81%AF",
+        "source": "百度"
+      },
+      {
+        "title": "73岁大爷心脏长反 每天乱跳超3万次",
+        "hot": 6655322,
+        "url": "https://www.baidu.com/s?wd=73%E5%B2%81%E5%A4%A7%E7%88%B7%E5%BF%83%E8%84%8F%E9%95%BF%E5%8F%8D%20%E6%AF%8F%E5%A4%A9%E4%B9%B1%E8%B7%B3%E8%B6%853%E4%B8%87%E6%AC%A1",
+        "source": "百度"
+      },
+      {
+        "title": "国足夺铜牌 安东尼奥抱起李昊欢呼",
+        "hot": 6561158,
+        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E5%A4%BA%E9%93%9C%E7%89%8C%20%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E6%8A%B1%E8%B5%B7%E6%9D%8E%E6%98%8A%E6%AC%A2%E5%91%BC",
+        "source": "百度"
+      }
     ]
   },
   "github": [
     {
-      "title": "KKKKhazix/AIHOT —— 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你��行业",
-      "hot": "⭐ 5186",
+      "title": "KKKKhazix/AIHOT —— 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热",
+      "hot": "⭐ 5210",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "Louis-CFM/coucou —— A tiny friend that lives in your notch (",
-      "hot": "⭐ 3130",
+      "hot": "⭐ 3131",
       "url": "https://github.com/Louis-CFM/coucou",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "feder-cr/dots —— Open-source dots for the web: an AI agen",
-      "hot": "⭐ 2567",
+      "hot": "⭐ 2568",
       "url": "https://github.com/feder-cr/dots",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "rehan-remade/universal-modder —— Point Claude at any game. Skills, tools ",
-      "hot": "⭐ 2398",
+      "hot": "⭐ 2415",
       "url": "https://github.com/rehan-remade/universal-modder",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "dzhng/jevgrep —— Find code by asking what it does. A CLI ",
-      "hot": "⭐ 2102",
+      "hot": "⭐ 2104",
       "url": "https://github.com/dzhng/jevgrep",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "CopilotKit/OpenDots —— Your always-on AI coworkers that move be",
-      "hot": "⭐ 1948",
+      "hot": "⭐ 1973",
       "url": "https://github.com/CopilotKit/OpenDots",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "kaankiziltug/logo-design-skill —— A comprehensive logo-design skill for Cl",
-      "hot": "⭐ 1616",
+      "hot": "⭐ 1620",
       "url": "https://github.com/kaankiziltug/logo-design-skill",
       "source": "GitHub",
       "tag": "HTML"
     },
     {
       "title": "yihui-dev/awesome-opus5-5-videos —— A growing collection of viral videos mad",
-      "hot": "⭐ 1506",
+      "hot": "⭐ 1507",
       "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
       "source": "GitHub",
       "tag": ""
     },
     {
       "title": "feitangyuan/onetake —— Motion films that never cut to the next ",
-      "hot": "⭐ 1407",
+      "hot": "⭐ 1409",
       "url": "https://github.com/feitangyuan/onetake",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "wy51ai/floorplan-3d",
-      "hot": "⭐ 1354",
+      "hot": "⭐ 1357",
       "url": "https://github.com/wy51ai/floorplan-3d",
       "source": "GitHub",
       "tag": "HTML"
     },
     {
       "title": "firelex/jeff —— Millisecond decisions, any domain: a 0.8",
-      "hot": "⭐ 1339",
+      "hot": "⭐ 1340",
       "url": "https://github.com/firelex/jeff",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "nanaism/yomiyasu —— AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent ",
-      "hot": "⭐ 1266",
+      "hot": "⭐ 1274",
       "url": "https://github.com/nanaism/yomiyasu",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "edenfunf/reelmimic —— Show it a video you love. Get a new vide",
-      "hot": "⭐ 1022",
+      "hot": "⭐ 1025",
       "url": "https://github.com/edenfunf/reelmimic",
       "source": "GitHub",
       "tag": "JavaScript"
@@ -655,7 +655,7 @@
     },
     {
       "title": "CAPCOM-TD-OSS/REDox —— High-performance, token-based structured",
-      "hot": "⭐ 940",
+      "hot": "⭐ 942",
       "url": "https://github.com/CAPCOM-TD-OSS/REDox",
       "source": "GitHub",
       "tag": "C#"
