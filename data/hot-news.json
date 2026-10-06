@@ -1,188 +1,280 @@
 {
-  "updatedAt": "2026-10-06T21:01:12.914Z",
+  "updatedAt": "2026-10-06T21:31:00.457Z",
   "dailyhot": {
-    "zhihu": [
+    "hackernews": [
       {
-        "title": "王皓遭辱骂拍照取证，其妻子发声「不理解竞技体育怎么变这样了」，怎样看待这一现象？骂人者会受到处罚吗？",
-        "hot": 7060000,
-        "url": "https://www.zhihu.com/question/2090900901653209300",
-        "source": "知乎"
+        "title": "Mistral Large 4",
+        "hot": 1410,
+        "url": "https://mistral.ai/news/mistral-large-4/\\",
+        "source": "HackerNews"
       },
       {
-        "title": "缅方曾称没有中国人死，起初拒绝中国警方从电诈园区带回同胞遗骸，哪些信息值得关注？",
-        "hot": 3580000,
-        "url": "https://www.zhihu.com/question/2090761132268942600",
-        "source": "知乎"
+        "title": "Nobel Prize in Physics 2026: Francis Halzen",
+        "hot": 480,
+        "url": "https://www.nobelprize.org/prizes/physics/2026/",
+        "source": "HackerNews"
       },
       {
-        "title": "OPPO 为何要寻求 12 亿美元银团贷款？",
-        "hot": 1660000,
-        "url": "https://www.zhihu.com/question/2089518959808857600",
-        "source": "知乎"
+        "title": "EmbeddingGemma 2",
+        "hot": 89,
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+        "source": "HackerNews"
       },
       {
-        "title": "国足对阵塔吉克斯坦，韦世豪情绪失控肘击对手，被红牌罚下，怎样评价他的表现？",
-        "hot": 1450000,
-        "url": "https://www.zhihu.com/question/2090915470492660000",
-        "source": "知乎"
+        "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
+        "hot": 68,
+        "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+        "source": "HackerNews"
       },
       {
-        "title": "为什么 macOS 比 Windows 好用且美观，但是国内 Windows 依旧是主流操作系统？",
-        "hot": 1440000,
-        "url": "https://www.zhihu.com/question/656502284",
-        "source": "知乎"
+        "title": "OpenSSH 10.6",
+        "hot": 27,
+        "url": "https://www.openssh.org/releasenotes.html#10.6",
+        "source": "HackerNews"
       },
       {
-        "title": "媒体曝多项研究证实最佳睡眠时长为7小时，这一结论的依据是啥？为什么很多网友觉得黄金睡眠时长一直在缩水？",
-        "hot": 1400000,
-        "url": "https://www.zhihu.com/question/2090731672496858600",
-        "source": "知乎"
+        "title": "Benchmark in Milliseconds",
+        "hot": 113,
+        "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+        "source": "HackerNews"
       },
       {
-        "title": "纪录片《缅北电诈覆灭纪实》首播，有哪些抓捕细节和内幕值得关注？",
-        "hot": 1360000,
-        "url": "https://www.zhihu.com/question/2090520646019183600",
-        "source": "知乎"
+        "title": "The Early History of Smalltalk (1993)",
+        "hot": 94,
+        "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+        "source": "HackerNews"
       },
       {
-        "title": "国足友谊赛 3 连败，1 球未进丢掉 9 球，邵佳一该下课吗？",
-        "hot": 1310000,
-        "url": "https://www.zhihu.com/question/2090921655505609000",
-        "source": "知乎"
+        "title": "Gleam doesn't compile to Erlang source anymore",
+        "hot": 273,
+        "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+        "source": "HackerNews"
       },
       {
-        "title": "法国国债利差飙升至「欧债危机」以来最高水平，欧洲央行拟采取危机干预，法国会引爆金融危机么？",
-        "hot": 1220000,
-        "url": "https://www.zhihu.com/question/2090039404593267000",
-        "source": "知乎"
+        "title": "System-level ad-blocking in Android",
+        "hot": 16,
+        "url": "https://kevinboone.me/adblock.html",
+        "source": "HackerNews"
       },
       {
-        "title": "普宁教师岗考生称因HIV体检不合格被教育局劝签自愿放弃聘用，这合理吗？日常教学接触会传染到学生吗？",
-        "hot": 1150000,
-        "url": "https://www.zhihu.com/question/2090360680104683500",
-        "source": "知乎"
+        "title": "Mathematics of Geothermal Energy",
+        "hot": 61,
+        "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
+        "source": "HackerNews"
       },
       {
-        "title": "如何看待TES上单zuian签证两次被��，369紧急成为TES S16首发上单？",
-        "hot": 1110000,
-        "url": "https://www.zhihu.com/question/2090797548009153500",
-        "source": "知乎"
+        "title": "What's Earth's dominant species by mass?",
+        "hot": 84,
+        "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
+        "source": "HackerNews"
       },
       {
-        "title": "家长称孩子打印作业开销太高，四年级一学期单科最高达300元，打印作业应该由家长做吗？怎样能降低成本？",
-        "hot": 1070000,
-        "url": "https://www.zhihu.com/question/2090852996590428700",
-        "source": "知乎"
+        "title": "Subquadratic 3SUM and Subcubic APSP",
+        "hot": 78,
+        "url": "https://arxiv.org/abs/2610.06783",
+        "source": "HackerNews"
       },
       {
-        "title": "如何看待曝一大厂职工靠加班将服务器成本降低2亿致全组被裁？网友说「程序员要学会养bug」，怎么理解？",
-        "hot": 1050000,
-        "url": "https://www.zhihu.com/question/2089288174748919600",
-        "source": "知乎"
+        "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+        "hot": 52,
+        "url": "https://peterszentkiralyi.eu/darkplug/",
+        "source": "HackerNews"
       },
       {
-        "title": "如何看待教育部要求辅导员与学生同吃同住同生活、思政工作下沉至学生私生活？",
-        "hot": 1050000,
-        "url": "https://www.zhihu.com/question/2089644710965024300",
-        "source": "知乎"
+        "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
+        "hot": 32,
+        "url": "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/",
+        "source": "HackerNews"
       },
       {
-        "title": "Adobe Photoshop 是否已经过时？",
-        "hot": 1010000,
-        "url": "https://www.zhihu.com/question/26705971",
-        "source": "知乎"
+        "title": "Polars 2.0",
+        "hot": 386,
+        "url": "https://pola.rs/posts/release-polars-2/",
+        "source": "HackerNews"
       }
     ],
     "baidu": [
       {
         "title": "听总书记谈“奋斗”",
-        "hot": 7904400,
+        "hot": 7904576,
         "url": "https://www.baidu.com/s?wd=%E5%90%AC%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B0%88%E2%80%9C%E5%A5%8B%E6%96%97%E2%80%9D",
         "source": "百度"
       },
       {
         "title": "下次回来就是2027年了",
-        "hot": 7809176,
+        "hot": 7808369,
         "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E6%AC%A1%E5%9B%9E%E6%9D%A5%E5%B0%B1%E6%98%AF2027%E5%B9%B4%E4%BA%86",
         "source": "百度"
       },
       {
         "title": "国庆返程高峰来了！尾灯红成一片",
-        "hot": 7712926,
+        "hot": 7712615,
         "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0%E6%9D%A5%E4%BA%86%EF%BC%81%E5%B0%BE%E7%81%AF%E7%BA%A2%E6%88%90%E4%B8%80%E7%89%87",
         "source": "百度"
       },
       {
         "title": "一批大国重器与重点工程迎来新突破",
-        "hot": 7618269,
+        "hot": 7617669,
         "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%89%B9%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E4%B8%8E%E9%87%8D%E7%82%B9%E5%B7%A5%E7%A8%8B%E8%BF%8E%E6%9D%A5%E6%96%B0%E7%AA%81%E7%A0%B4",
         "source": "百度"
       },
       {
         "title": "“16条人命只剩5具尸体1份骨灰”",
-        "hot": 7524177,
+        "hot": 7521938,
         "url": "https://www.baidu.com/s?wd=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D",
         "source": "百度"
       },
       {
         "title": "100元不够买三斤鲜牛肉",
-        "hot": 7427195,
+        "hot": 7428405,
         "url": "https://www.baidu.com/s?wd=100%E5%85%83%E4%B8%8D%E5%A4%9F%E4%B9%B0%E4%B8%89%E6%96%A4%E9%B2%9C%E7%89%9B%E8%82%89",
         "source": "百度"
       },
       {
         "title": "保时捷卡宴降20万 奥迪A8降30万",
-        "hot": 7330253,
+        "hot": 7330827,
         "url": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%8D%A1%E5%AE%B4%E9%99%8D20%E4%B8%87%20%E5%A5%A5%E8%BF%AAA8%E9%99%8D30%E4%B8%87",
         "source": "百度"
       },
       {
         "title": "外交部回应台接收美战斗机",
-        "hot": 7236066,
+        "hot": 7234732,
         "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%8E%A5%E6%94%B6%E7%BE%8E%E6%88%98%E6%96%97%E6%9C%BA",
         "source": "百度"
       },
       {
         "title": "大学生旅游攻略 坑麻国庆出行中年人",
-        "hot": 7139864,
+        "hot": 7139765,
         "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5%20%E5%9D%91%E9%BA%BB%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E4%B8%AD%E5%B9%B4%E4%BA%BA",
         "source": "百度"
       },
       {
         "title": "韩国考虑废除“金牌免兵役”制度",
-        "hot": 7040283,
+        "hot": 7041587,
         "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%80%83%E8%99%91%E5%BA%9F%E9%99%A4%E2%80%9C%E9%87%91%E7%89%8C%E5%85%8D%E5%85%B5%E5%BD%B9%E2%80%9D%E5%88%B6%E5%BA%A6",
         "source": "百度"
       },
       {
         "title": "邵佳一回应国足三连败：试错是好事",
-        "hot": 6947435,
+        "hot": 6949493,
         "url": "https://www.baidu.com/s?wd=%E9%82%B5%E4%BD%B3%E4%B8%80%E5%9B%9E%E5%BA%94%E5%9B%BD%E8%B6%B3%E4%B8%89%E8%BF%9E%E8%B4%A5%EF%BC%9A%E8%AF%95%E9%94%99%E6%98%AF%E5%A5%BD%E4%BA%8B",
         "source": "百度"
       },
       {
         "title": "“稻城亚丁景区封闭”系谣言",
-        "hot": 6854701,
+        "hot": 6856703,
         "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E6%99%AF%E5%8C%BA%E5%B0%81%E9%97%AD%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
         "source": "百度"
       },
       {
         "title": "10人国足0比1不敌塔吉克斯坦",
-        "hot": 6761195,
+        "hot": 6759095,
         "url": "https://www.baidu.com/s?wd=10%E4%BA%BA%E5%9B%BD%E8%B6%B30%E6%AF%941%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
         "source": "百度"
       },
       {
-        "title": "又输了！这支国足到底怎么了",
-        "hot": 6664466,
-        "url": "https://www.baidu.com/s?wd=%E5%8F%88%E8%BE%93%E4%BA%86%EF%BC%81%E8%BF%99%E6%94%AF%E5%9B%BD%E8%B6%B3%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E4%BA%86",
+        "title": "央视调查后 “牛奶湖”发布通告",
+        "hot": 6658870,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%90%8E%20%E2%80%9C%E7%89%9B%E5%A5%B6%E6%B9%96%E2%80%9D%E5%8F%91%E5%B8%83%E9%80%9A%E5%91%8A",
         "source": "百度"
       },
       {
-        "title": "央视调查后 “牛奶湖”发布通告",
-        "hot": 6564323,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%90%8E%20%E2%80%9C%E7%89%9B%E5%A5%B6%E6%B9%96%E2%80%9D%E5%8F%91%E5%B8%83%E9%80%9A%E5%91%8A",
+        "title": "孩子打印作业开销让家长直呼扛不住",
+        "hot": 6571567,
+        "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%93%E5%8D%B0%E4%BD%9C%E4%B8%9A%E5%BC%80%E9%94%80%E8%AE%A9%E5%AE%B6%E9%95%BF%E7%9B%B4%E5%91%BC%E6%89%9B%E4%B8%8D%E4%BD%8F",
         "source": "百度"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "王皓遭辱骂拍照取证，其妻子发声「不理解竞技体育怎么变这样了」，怎样看待这一现象？骂人者会受到处罚吗？",
+        "hot": 7010000,
+        "url": "https://www.zhihu.com/question/2090900901653209300",
+        "source": "知乎"
+      },
+      {
+        "title": "缅方曾称没有中国人死，起初拒绝中国警方从电诈园区带回同胞遗骸，哪些信息值得关注？",
+        "hot": 3480000,
+        "url": "https://www.zhihu.com/question/2090761132268942600",
+        "source": "知乎"
+      },
+      {
+        "title": "国足对阵塔吉克斯坦，韦世豪情绪失控肘击对手，被红牌罚下，怎样评价他的表现？",
+        "hot": 1440000,
+        "url": "https://www.zhihu.com/question/2090915470492660000",
+        "source": "知乎"
+      },
+      {
+        "title": "为什么 macOS 比 Windows 好用且美观，但是国内 Windows 依旧是主流操作系统？",
+        "hot": 1340000,
+        "url": "https://www.zhihu.com/question/656502284",
+        "source": "知乎"
+      },
+      {
+        "title": "OPPO 为何要寻求 12 亿美元银团贷款？",
+        "hot": 1300000,
+        "url": "https://www.zhihu.com/question/2089518959808857600",
+        "source": "知乎"
+      },
+      {
+        "title": "法国国债利差飙升至「欧债危机」以来最高水平，欧洲央行拟采取危机干预，法国会引爆金融危机么？",
+        "hot": 1200000,
+        "url": "https://www.zhihu.com/question/2090039404593267000",
+        "source": "知乎"
+      },
+      {
+        "title": "国足友谊赛 3 连败，1 球未进丢掉 9 球，邵佳一该下课吗？",
+        "hot": 1140000,
+        "url": "https://www.zhihu.com/question/2090921655505609000",
+        "source": "知乎"
+      },
+      {
+        "title": "纪录片《缅北电诈覆灭纪实》首播，有哪些抓捕细节和内幕值得关注？",
+        "hot": 1130000,
+        "url": "https://www.zhihu.com/question/2090520646019183600",
+        "source": "知乎"
+      },
+      {
+        "title": "普宁教师岗考生称因HIV体检不合格被教育局劝签自愿放弃聘用，这合理吗？日常教学接触会传染到学生吗？",
+        "hot": 1130000,
+        "url": "https://www.zhihu.com/question/2090360680104683500",
+        "source": "知乎"
+      },
+      {
+        "title": "媒体曝多项研究证实最佳睡眠时长为7小时，这一结论的依据是啥？为什么很多网友觉得黄金睡眠时长一直在缩水？",
+        "hot": 1100000,
+        "url": "https://www.zhihu.com/question/2090731672496858600",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待TES上单zuian签证两次被拒，369紧急成为TES S16首发上单？",
+        "hot": 1090000,
+        "url": "https://www.zhihu.com/question/2090797548009153500",
+        "source": "知乎"
+      },
+      {
+        "title": "家长称孩子打印作业开销太高，四年级一学期单科最高达300元，打印作业应该由家长做吗？怎样能降低成本？",
+        "hot": 1090000,
+        "url": "https://www.zhihu.com/question/2090852996590428700",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待曝一大厂职工靠加班将服务器成本降低2亿致全组被裁？网友说「程序员要学会养bug」，怎么理解？",
+        "hot": 1040000,
+        "url": "https://www.zhihu.com/question/2089288174748919600",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待教育部要求辅导员与学生同吃同住同生活、思政工作下沉至学生私生活？",
+        "hot": 1030000,
+        "url": "https://www.zhihu.com/question/2089644710965024300",
+        "source": "知乎"
+      },
+      {
+        "title": "从暴雪到育碧，感觉这些大厂都已不复往日光彩，欧美游戏行业近几年到底怎么了？",
+        "hot": 1000000,
+        "url": "https://www.zhihu.com/question/5203224038",
+        "source": "知乎"
       }
     ],
     "weibo": [
@@ -253,27 +345,27 @@
         "source": "微博"
       },
       {
-        "title": "缅北电诈头目白应苍给中国人民道歉",
+        "title": "罗老师结婚了",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E7%99%BD%E5%BA%94%E8%8B%8D%E7%BB%99%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%81%93%E6%AD%89",
+        "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E8%80%81%E5%B8%88%E7%BB%93%E5%A9%9A%E4%BA%86",
         "source": "微博"
       },
       {
-        "title": "印度高种姓博主游览中国农村",
+        "title": "印度高种姓博主游览中国��村",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%AB%98%E7%A7%8D%E5%A7%93%E5%8D%9A%E4%B8%BB%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91",
-        "source": "微博"
-      },
-      {
-        "title": "代露娃艺考老师发文",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BB%A3%E9%9C%B2%E5%A8%83%E8%89%BA%E8%80%83%E8%80%81%E5%B8%88%E5%8F%91%E6%96%87",
         "source": "微博"
       },
       {
         "title": "中国游客国庆出行让日媒很闹心",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E8%AE%A9%E6%97%A5%E5%AA%92%E5%BE%88%E9%97%B9%E5%BF%83",
+        "source": "微博"
+      },
+      {
+        "title": "代露娃艺考老师发文",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BB%A3%E9%9C%B2%E5%A8%83%E8%89%BA%E8%80%83%E8%80%81%E5%B8%88%E5%8F%91%E6%96%87",
         "source": "微博"
       }
     ],
@@ -309,7 +401,7 @@
         "source": "36氪"
       },
       {
-        "title": "如何���上一种深度的智识生活",
+        "title": "如何过上一种深度的智识生活",
         "hot": 77,
         "url": "https://www.36kr.com/p/3974503150874885",
         "source": "36氪"
@@ -442,125 +534,33 @@
         "url": "https://juejin.cn/post/7691876829276602377",
         "source": "掘金"
       }
-    ],
-    "hackernews": [
-      {
-        "title": "Mistral Large 4",
-        "hot": 1372,
-        "url": "https://mistral.ai/news/mistral-large-4/\\",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Nobel Prize in Physics 2026: Francis Halzen",
-        "hot": 463,
-        "url": "https://www.nobelprize.org/prizes/physics/2026/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "OpenSSH 10.6 Released",
-        "hot": 8,
-        "url": "https://www.openssh.org/releasenotes.html#10.6",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
-        "hot": 83,
-        "url": "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
-        "hot": 34,
-        "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "EmbeddingGemma 2",
-        "hot": 52,
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
-        "hot": 119,
-        "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Benchmark in Milliseconds",
-        "hot": 108,
-        "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
-        "source": "HackerNews"
-      },
-      {
-        "title": "The Early History of Smalltalk (1993)",
-        "hot": 87,
-        "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Gleam doesn't compile to Erlang source anymore",
-        "hot": 263,
-        "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Mathematics of Geothermal Energy",
-        "hot": 61,
-        "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Subquadratic 3SUM and Subcubic APSP",
-        "hot": 72,
-        "url": "https://arxiv.org/abs/2610.06783",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Polars 2.0",
-        "hot": 376,
-        "url": "https://pola.rs/posts/release-polars-2/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
-        "hot": 48,
-        "url": "https://peterszentkiralyi.eu/darkplug/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "What's Earth's dominant species by mass?",
-        "hot": 69,
-        "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
-        "source": "HackerNews"
-      }
     ]
   },
   "github": [
     {
       "title": "storytold/photocraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 5259",
+      "hot": "⭐ 5586",
       "url": "https://github.com/storytold/photocraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "rehan-remade/universal-modder —— Point Claude at any game. Skills, tools ",
-      "hot": "⭐ 4514",
+      "hot": "⭐ 4524",
       "url": "https://github.com/rehan-remade/universal-modder",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "CopilotKit/OpenDots —— Your always-on AI coworkers that move be",
-      "hot": "⭐ 3910",
+      "hot": "⭐ 3913",
       "url": "https://github.com/CopilotKit/OpenDots",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "omlahore/RemoveMacAI —— Turn off Apple Intelligence on macOS 27 ",
-      "hot": "⭐ 3019",
+      "hot": "⭐ 3039",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "source": "GitHub",
       "tag": "Swift"
@@ -574,14 +574,14 @@
     },
     {
       "title": "nykooi1/vibe-wise —— A Claude Code plugin that helps you lear",
-      "hot": "⭐ 2486",
+      "hot": "⭐ 2508",
       "url": "https://github.com/nykooi1/vibe-wise",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "QingYunA/answer-me-with-html —— Answer me with HTML — an agent skill tha",
-      "hot": "⭐ 1746",
+      "hot": "⭐ 1750",
       "url": "https://github.com/QingYunA/answer-me-with-html",
       "source": "GitHub",
       "tag": "JavaScript"
@@ -602,10 +602,17 @@
     },
     {
       "title": "facebookincubator/muse-gadget-sdk —— Open source SDK to build Muse gadgets",
-      "hot": "⭐ 1531",
+      "hot": "⭐ 1533",
       "url": "https://github.com/facebookincubator/muse-gadget-sdk",
       "source": "GitHub",
       "tag": "C"
+    },
+    {
+      "title": "storytold/filmcraft —— An open-source, clean-room reimplementat",
+      "hot": "⭐ 1455",
+      "url": "https://github.com/storytold/filmcraft",
+      "source": "GitHub",
+      "tag": "Rust"
     },
     {
       "title": "wy51ai/floorplan-3d",
@@ -615,29 +622,22 @@
       "tag": "HTML"
     },
     {
-      "title": "storytold/filmcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 1392",
-      "url": "https://github.com/storytold/filmcraft",
-      "source": "GitHub",
-      "tag": "Rust"
-    },
-    {
       "title": "BlueHeisenberg/SCSKiller —— Kill shader compilation stutter before y",
-      "hot": "⭐ 1195",
+      "hot": "⭐ 1199",
       "url": "https://github.com/BlueHeisenberg/SCSKiller",
       "source": "GitHub",
       "tag": "C#"
     },
     {
       "title": "deadinside28/bloodborne_pc",
-      "hot": "⭐ 1178",
+      "hot": "⭐ 1189",
       "url": "https://github.com/deadinside28/bloodborne_pc",
       "source": "GitHub",
       "tag": "C++"
     },
     {
       "title": "CAPCOM-TD-OSS/REDox —— High-performance, token-based structured",
-      "hot": "⭐ 1115",
+      "hot": "⭐ 1116",
       "url": "https://github.com/CAPCOM-TD-OSS/REDox",
       "source": "GitHub",
       "tag": "C#"
