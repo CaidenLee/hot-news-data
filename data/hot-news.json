@@ -1,188 +1,102 @@
 {
-  "updatedAt": "2026-10-06T20:01:07.067Z",
+  "updatedAt": "2026-10-06T20:30:57.237Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "Mistral Large 4",
-        "hot": 1255,
+        "hot": 1309,
         "url": "https://mistral.ai/news/mistral-large-4/\\",
         "source": "HackerNews"
       },
       {
         "title": "Nobel Prize in Physics 2026: Francis Halzen",
-        "hot": 442,
+        "hot": 455,
         "url": "https://www.nobelprize.org/prizes/physics/2026/",
         "source": "HackerNews"
       },
       {
-        "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
-        "hot": 107,
-        "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
-        "source": "HackerNews"
-      },
-      {
         "title": "Berthd",
-        "hot": 6,
+        "hot": 24,
         "url": "https://berthd.app/",
         "source": "HackerNews"
       },
       {
+        "title": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
+        "hot": 36,
+        "url": "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+        "hot": 113,
+        "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+        "source": "HackerNews"
+      },
+      {
         "title": "Benchmark in Milliseconds",
-        "hot": 98,
+        "hot": 101,
         "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
         "source": "HackerNews"
       },
       {
+        "title": "The Early History of Smalltalk (1993)",
+        "hot": 82,
+        "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+        "source": "HackerNews"
+      },
+      {
         "title": "Gleam doesn't compile to Erlang source anymore",
-        "hot": 250,
+        "hot": 259,
         "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
         "source": "HackerNews"
       },
       {
+        "title": "A sustainable web career, for when all this blows over",
+        "hot": 4,
+        "url": "https://dbushell.com/2026/10/07/sustainable-web-career/",
+        "source": "HackerNews"
+      },
+      {
         "title": "Mathematics of Geothermal Energy",
-        "hot": 55,
+        "hot": 56,
         "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
         "source": "HackerNews"
       },
       {
         "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
-        "hot": 42,
+        "hot": 46,
         "url": "https://peterszentkiralyi.eu/darkplug/",
         "source": "HackerNews"
       },
       {
-        "title": "The Early History of Smalltalk (1993)",
-        "hot": 74,
-        "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Subquadratic 3SUM and Subcubic APSP",
-        "hot": 60,
-        "url": "https://arxiv.org/abs/2610.06783",
-        "source": "HackerNews"
-      },
-      {
         "title": "Polars 2.0",
-        "hot": 353,
+        "hot": 364,
         "url": "https://pola.rs/posts/release-polars-2/",
         "source": "HackerNews"
       },
       {
+        "title": "Subquadratic 3SUM and Subcubic APSP",
+        "hot": 68,
+        "url": "https://arxiv.org/abs/2610.06783",
+        "source": "HackerNews"
+      },
+      {
         "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
-        "hot": 264,
+        "hot": 272,
         "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
         "source": "HackerNews"
       },
       {
         "title": "Beam: Reflection's 501B open-weight model",
-        "hot": 526,
+        "hot": 529,
         "url": "https://reflection.ai/blog/introducing-beam",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Example.com just launched the biggest redesign in decades",
-        "hot": 318,
-        "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
-        "hot": 59,
-        "url": "https://www.parseable.com",
         "source": "HackerNews"
       }
     ],
-    "juejin": [
+    "zhihu": [
       {
-        "title": "副业搞起来，小说，漫画，漫剧的成本优化思路",
-        "hot": 315,
-        "url": "https://juejin.cn/post/7692440533922971667",
-        "source": "掘金"
-      },
-      {
-        "title": " Meta 分享怎么用 AI 迁移 Compose 项目不烧心",
-        "hot": 225,
-        "url": "https://juejin.cn/post/7692485970524373026",
-        "source": "掘金"
-      },
-      {
-        "title": "Muse 登顶 App Store 第一，SDK 直接开源：AI Agent 开始进入下一个阶段",
-        "hot": 216,
-        "url": "https://juejin.cn/post/7692296625806508072",
-        "source": "掘金"
-      },
-      {
-        "title": "2026-09-27-Qwen-Image-2.1-1660Ti本地部署实战",
-        "hot": 153,
-        "url": "https://juejin.cn/post/7692143474695569458",
-        "source": "掘金"
-      },
-      {
-        "title": "Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机",
-        "hot": 126,
-        "url": "https://juejin.cn/post/7692379120273899560",
-        "source": "掘金"
-      },
-      {
-        "title": "2026年后端开发进化：告别CRUD内卷，拥抱AI原生架构与服务编排新时代",
-        "hot": 117,
-        "url": "https://juejin.cn/post/7691917465479446591",
-        "source": "掘金"
-      },
-      {
-        "title": "我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录",
-        "hot": 108,
-        "url": "https://juejin.cn/post/7692743066844135433",
-        "source": "掘金"
-      },
-      {
-        "title": "LangChain4j 新手入门实战教程（Java版）",
-        "hot": 108,
-        "url": "https://juejin.cn/post/7692127219867123750",
-        "source": "掘金"
-      },
-      {
-        "title": "前端转 NestJS 全栈实践：从表单页面到微信业务系统",
-        "hot": 108,
-        "url": "https://juejin.cn/post/7691774360802164751",
-        "source": "掘金"
-      },
-      {
-        "title": "用纯 Java 做一个企业级 Agent Harness 平台：BizBuddy 的设计与取舍",
-        "hot": 90,
-        "url": "https://juejin.cn/post/7692084224499367971",
-        "source": "掘金"
-      },
-      {
-        "title": "用 Codex 加速 Java 开发：从代码生成到测试覆盖的完整实战",
-        "hot": 90,
-        "url": "https://juejin.cn/post/7692058641252237322",
-        "source": "掘金"
-      },
-      {
-        "title": "diff 算法（虚拟 DOM Reconciliation）",
-        "hot": 81,
-        "url": "https://juejin.cn/post/7692296625806229544",
-        "source": "掘金"
-      },
-      {
-        "title": "canvas最大能开多大：先看面积，再看导出格式",
-        "hot": 81,
-        "url": "https://juejin.cn/post/7691876829276602377",
-        "source": "掘金"
-      },
-      {
-        "title": "ai agent --- 文件存储",
-        "hot": 81,
-        "url": "https://juejin.cn/post/7692274273326579748",
-        "source": "掘金"
-      },
-      {
-        "title": "🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些\"插槽\"(前置介绍)",
-        "hot": 72,
-        "url": "https://juejin.cn/post/7692500213994586153",
-        "source": "掘金"
+        "title": "暂无数据",
+        "source": "知乎"
       }
     ],
     "weibo": [
@@ -205,9 +119,9 @@
         "source": "微博"
       },
       {
-        "title": "LV大秀",
+        "title": "偷偷藏不住",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80",
+        "url": "https://s.weibo.com/weibo?q=%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F",
         "source": "微博"
       },
       {
@@ -223,21 +137,33 @@
         "source": "微博"
       },
       {
-        "title": "牛奶性寒是误区腹泻源于乳糖不耐受",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%89%9B%E5%A5%B6%E6%80%A7%E5%AF%92%E6%98%AF%E8%AF%AF%E5%8C%BA%E8%85%B9%E6%B3%BB%E6%BA%90%E4%BA%8E%E4%B9%B3%E7%B3%96%E4%B8%8D%E8%80%90%E5%8F%97",
-        "source": "微博"
-      },
-      {
         "title": "粤J2888T战绩全网可查",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E7%B2%A4J2888T%E6%88%98%E7%BB%A9%E5%85%A8%E7%BD%91%E5%8F%AF%E6%9F%A5",
         "source": "微博"
       },
       {
+        "title": "华晨宇说别觉得无病呻吟",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E8%AF%B4%E5%88%AB%E8%A7%89%E5%BE%97%E6%97%A0%E7%97%85%E5%91%BB%E5%90%9F",
+        "source": "微博"
+      },
+      {
+        "title": "LV大秀",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80",
+        "source": "微博"
+      },
+      {
         "title": "贺炜评国足不敌塔吉克斯坦",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E8%B4%BA%E7%82%9C%E8%AF%84%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
+        "source": "微博"
+      },
+      {
+        "title": "亚运会冠军金牌已经磨花了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%86%A0%E5%86%9B%E9%87%91%E7%89%8C%E5%B7%B2%E7%BB%8F%E7%A3%A8%E8%8A%B1%E4%BA%86",
         "source": "微博"
       },
       {
@@ -253,120 +179,16 @@
         "source": "微博"
       },
       {
-        "title": "偷偷藏不住",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F",
-        "source": "微博"
-      },
-      {
-        "title": "亚运会冠军金牌已经磨花了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%86%A0%E5%86%9B%E9%87%91%E7%89%8C%E5%B7%B2%E7%BB%8F%E7%A3%A8%E8%8A%B1%E4%BA%86",
-        "source": "微博"
-      },
-      {
         "title": "印度高种姓博主游览中国农村",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%AB%98%E7%A7%8D%E5%A7%93%E5%8D%9A%E4%B8%BB%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91",
         "source": "微博"
       },
       {
-        "title": "中国游客国庆出行让日媒很闹心",
+        "title": "辛芷蕾好美有肉但不胖瘦而不柴",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E8%AE%A9%E6%97%A5%E5%AA%92%E5%BE%88%E9%97%B9%E5%BF%83",
+        "url": "https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%A5%BD%E7%BE%8E%E6%9C%89%E8%82%89%E4%BD%86%E4%B8%8D%E8%83%96%E7%98%A6%E8%80%8C%E4%B8%8D%E6%9F%B4",
         "source": "微博"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "王皓遭辱骂拍照取证，其妻子发声「不理解竞技体育怎么变这样了」，怎样看待这一现象？骂人者会受到处罚吗？",
-        "hot": 7280000,
-        "url": "https://www.zhihu.com/question/2090900901653209300",
-        "source": "知乎"
-      },
-      {
-        "title": "缅方曾称没有中国人死，起初拒绝中国警方从电诈园区带回同胞遗骸，哪些信息值得关注？",
-        "hot": 3760000,
-        "url": "https://www.zhihu.com/question/2090761132268942600",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么 macOS 比 Windows 好用且美观，但是国内 Windows 依旧是主流操作系统？",
-        "hot": 2070000,
-        "url": "https://www.zhihu.com/question/656502284",
-        "source": "知乎"
-      },
-      {
-        "title": "媒体曝多项研究证实最佳睡眠时长为7小时，这一结论的依据是啥？为什么很多网友觉得黄金睡眠时长一直在缩水？",
-        "hot": 2010000,
-        "url": "https://www.zhihu.com/question/2090731672496858600",
-        "source": "知乎"
-      },
-      {
-        "title": "纪录片《缅北电诈覆灭纪实》首播，有哪些抓捕细节和内幕值得关注？",
-        "hot": 1820000,
-        "url": "https://www.zhihu.com/question/2090520646019183600",
-        "source": "知乎"
-      },
-      {
-        "title": "法国国债利差飙升至「欧债危机」以来最高水平，欧洲央行拟采取危机干预，法国会引爆金融危机么？",
-        "hot": 1810000,
-        "url": "https://www.zhihu.com/question/2090039404593267000",
-        "source": "知乎"
-      },
-      {
-        "title": "国足对阵塔吉克斯坦，韦世豪情绪失控肘击对手，被红牌罚下，怎样评价他的表现？",
-        "hot": 1800000,
-        "url": "https://www.zhihu.com/question/2090915470492660000",
-        "source": "知乎"
-      },
-      {
-        "title": "Adobe Photoshop 是否已经过时？",
-        "hot": 1790000,
-        "url": "https://www.zhihu.com/question/26705971",
-        "source": "知乎"
-      },
-      {
-        "title": "OPPO 为何要寻求 12 亿美元银团贷款？",
-        "hot": 1780000,
-        "url": "https://www.zhihu.com/question/2089518959808857600",
-        "source": "知乎"
-      },
-      {
-        "title": "国足友谊赛 3 连败，1 球未进丢掉 9 球，邵佳一该下课吗？",
-        "hot": 1660000,
-        "url": "https://www.zhihu.com/question/2090921655505609000",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待TES上单zuian签证两次被拒，369紧急成为TES S16首发上单？",
-        "hot": 1590000,
-        "url": "https://www.zhihu.com/question/2090797548009153500",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待教育部要求辅导员与学生同吃同住同生活、思政工作下沉至学生私生活？",
-        "hot": 1520000,
-        "url": "https://www.zhihu.com/question/2089644710965024300",
-        "source": "知乎"
-      },
-      {
-        "title": "东南亚真的很危险吗？",
-        "hot": 1500000,
-        "url": "https://www.zhihu.com/question/14535550405",
-        "source": "知乎"
-      },
-      {
-        "title": "佤邦联合军原副总司令落网画面公开，将对缅北电诈清剿及局势带来哪些影响？",
-        "hot": 1340000,
-        "url": "https://www.zhihu.com/question/2090445538684565200",
-        "source": "知乎"
-      },
-      {
-        "title": "普宁教师岗考生称因HIV体检不合格被教育局劝签自愿放弃聘用，这合理吗？日常教学接触会传染到学生吗？",
-        "hot": 1190000,
-        "url": "https://www.zhihu.com/question/2090360680104683500",
-        "source": "知乎"
       }
     ],
     "36kr": [
@@ -401,7 +223,7 @@
         "source": "36氪"
       },
       {
-        "title": "如��过上一种深度的智识生活",
+        "title": "如何过上一种深度的智识生活",
         "hot": 77,
         "url": "https://www.36kr.com/p/3974503150874885",
         "source": "36氪"
@@ -446,121 +268,213 @@
     "baidu": [
       {
         "title": "听总书记谈“奋斗”",
-        "hot": 7904798,
+        "hot": 7904669,
         "url": "https://www.baidu.com/s?wd=%E5%90%AC%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B0%88%E2%80%9C%E5%A5%8B%E6%96%97%E2%80%9D",
         "source": "百度"
       },
       {
         "title": "下次回来就是2027年了",
-        "hot": 7808552,
+        "hot": 7808521,
         "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E6%AC%A1%E5%9B%9E%E6%9D%A5%E5%B0%B1%E6%98%AF2027%E5%B9%B4%E4%BA%86",
         "source": "百度"
       },
       {
         "title": "国庆返程高峰来了！尾灯红成一片",
-        "hot": 7714184,
+        "hot": 7712187,
         "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0%E6%9D%A5%E4%BA%86%EF%BC%81%E5%B0%BE%E7%81%AF%E7%BA%A2%E6%88%90%E4%B8%80%E7%89%87",
         "source": "百度"
       },
       {
         "title": "一批大国重器与重点工程迎来新突破",
-        "hot": 7616786,
+        "hot": 7619183,
         "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%89%B9%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E4%B8%8E%E9%87%8D%E7%82%B9%E5%B7%A5%E7%A8%8B%E8%BF%8E%E6%9D%A5%E6%96%B0%E7%AA%81%E7%A0%B4",
         "source": "百度"
       },
       {
         "title": "“16条人命只剩5具尸体1份骨灰”",
-        "hot": 7523274,
+        "hot": 7521331,
         "url": "https://www.baidu.com/s?wd=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D",
         "source": "百度"
       },
       {
         "title": "100元不够买三斤鲜牛肉",
-        "hot": 7428895,
+        "hot": 7426979,
         "url": "https://www.baidu.com/s?wd=100%E5%85%83%E4%B8%8D%E5%A4%9F%E4%B9%B0%E4%B8%89%E6%96%A4%E9%B2%9C%E7%89%9B%E8%82%89",
         "source": "百度"
       },
       {
         "title": "保时捷卡宴降20万 奥迪A8降30万",
-        "hot": 7330256,
+        "hot": 7330753,
         "url": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%8D%A1%E5%AE%B4%E9%99%8D20%E4%B8%87%20%E5%A5%A5%E8%BF%AAA8%E9%99%8D30%E4%B8%87",
         "source": "百度"
       },
       {
-        "title": "央视调查后 “牛奶湖”发布通告",
-        "hot": 7235918,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%90%8E%20%E2%80%9C%E7%89%9B%E5%A5%B6%E6%B9%96%E2%80%9D%E5%8F%91%E5%B8%83%E9%80%9A%E5%91%8A",
-        "source": "百度"
-      },
-      {
-        "title": "大学生旅游攻略 坑麻国庆出行中年人",
-        "hot": 7135907,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5%20%E5%9D%91%E9%BA%BB%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E4%B8%AD%E5%B9%B4%E4%BA%BA",
-        "source": "百度"
-      },
-      {
         "title": "韩国考虑废除“金牌免兵役”制度",
-        "hot": 7048155,
+        "hot": 7237290,
         "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%80%83%E8%99%91%E5%BA%9F%E9%99%A4%E2%80%9C%E9%87%91%E7%89%8C%E5%85%8D%E5%85%B5%E5%BD%B9%E2%80%9D%E5%88%B6%E5%BA%A6",
         "source": "百度"
       },
       {
+        "title": "大学生旅游攻略 坑麻国庆出行中年人",
+        "hot": 7136772,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5%20%E5%9D%91%E9%BA%BB%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E4%B8%AD%E5%B9%B4%E4%BA%BA",
+        "source": "百度"
+      },
+      {
         "title": "邵佳一回应国足三连败：试错是好事",
-        "hot": 6943822,
+        "hot": 7048006,
         "url": "https://www.baidu.com/s?wd=%E9%82%B5%E4%BD%B3%E4%B8%80%E5%9B%9E%E5%BA%94%E5%9B%BD%E8%B6%B3%E4%B8%89%E8%BF%9E%E8%B4%A5%EF%BC%9A%E8%AF%95%E9%94%99%E6%98%AF%E5%A5%BD%E4%BA%8B",
         "source": "百度"
       },
       {
+        "title": "央视调查后 “牛奶湖”发布通告",
+        "hot": 6944264,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%90%8E%20%E2%80%9C%E7%89%9B%E5%A5%B6%E6%B9%96%E2%80%9D%E5%8F%91%E5%B8%83%E9%80%9A%E5%91%8A",
+        "source": "百度"
+      },
+      {
         "title": "“稻城亚丁景区封闭”系谣言",
-        "hot": 6848505,
+        "hot": 6857020,
         "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E6%99%AF%E5%8C%BA%E5%B0%81%E9%97%AD%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
         "source": "百度"
       },
       {
         "title": "10人国足0比1不敌塔吉克斯坦",
-        "hot": 6756285,
+        "hot": 6754054,
         "url": "https://www.baidu.com/s?wd=10%E4%BA%BA%E5%9B%BD%E8%B6%B30%E6%AF%941%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
         "source": "百度"
       },
       {
-        "title": "又输了！这支国足到底怎么了",
-        "hot": 6663683,
-        "url": "https://www.baidu.com/s?wd=%E5%8F%88%E8%BE%93%E4%BA%86%EF%BC%81%E8%BF%99%E6%94%AF%E5%9B%BD%E8%B6%B3%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E4%BA%86",
+        "title": "男子轻信中9000万失联3个月在放羊",
+        "hot": 6663585,
+        "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BD%BB%E4%BF%A1%E4%B8%AD9000%E4%B8%87%E5%A4%B1%E8%81%943%E4%B8%AA%E6%9C%88%E5%9C%A8%E6%94%BE%E7%BE%8A",
         "source": "百度"
       },
       {
-        "title": "失语老人用废旧物品手搓一座城堡",
-        "hot": 6561989,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%B1%E8%AF%AD%E8%80%81%E4%BA%BA%E7%94%A8%E5%BA%9F%E6%97%A7%E7%89%A9%E5%93%81%E6%89%8B%E6%90%93%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%A0%A1",
+        "title": "外交部回应台接收美战斗机",
+        "hot": 6569431,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%8E%A5%E6%94%B6%E7%BE%8E%E6%88%98%E6%96%97%E6%9C%BA",
         "source": "百度"
+      }
+    ],
+    "juejin": [
+      {
+        "title": "副业搞起来，小说，漫画，漫剧的成本优化思路",
+        "hot": 315,
+        "url": "https://juejin.cn/post/7692440533922971667",
+        "source": "掘金"
+      },
+      {
+        "title": " Meta 分享怎么用 AI 迁移 Compose 项目不烧心",
+        "hot": 225,
+        "url": "https://juejin.cn/post/7692485970524373026",
+        "source": "掘金"
+      },
+      {
+        "title": "Muse 登顶 App Store 第一，SDK 直接开源：AI Agent 开始进入下一个阶段",
+        "hot": 216,
+        "url": "https://juejin.cn/post/7692296625806508072",
+        "source": "掘金"
+      },
+      {
+        "title": "2026-09-27-Qwen-Image-2.1-1660Ti本地部署实战",
+        "hot": 153,
+        "url": "https://juejin.cn/post/7692143474695569458",
+        "source": "掘金"
+      },
+      {
+        "title": "Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机",
+        "hot": 135,
+        "url": "https://juejin.cn/post/7692379120273899560",
+        "source": "掘金"
+      },
+      {
+        "title": "2026年后端开发进化：告别CRUD内卷，拥抱AI原生架构与服务编排新时代",
+        "hot": 117,
+        "url": "https://juejin.cn/post/7691917465479446591",
+        "source": "掘金"
+      },
+      {
+        "title": "我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录",
+        "hot": 108,
+        "url": "https://juejin.cn/post/7692743066844135433",
+        "source": "掘金"
+      },
+      {
+        "title": "LangChain4j 新手入门实战教程（Java版）",
+        "hot": 108,
+        "url": "https://juejin.cn/post/7692127219867123750",
+        "source": "掘金"
+      },
+      {
+        "title": "前端转 NestJS 全栈实践：从表单页面到微信业务系统",
+        "hot": 108,
+        "url": "https://juejin.cn/post/7691774360802164751",
+        "source": "掘金"
+      },
+      {
+        "title": "用纯 Java 做一个企业级 Agent Harness 平台：BizBuddy 的设计与取舍",
+        "hot": 90,
+        "url": "https://juejin.cn/post/7692084224499367971",
+        "source": "掘金"
+      },
+      {
+        "title": "用 Codex 加速 Java 开发：从代码生成到测试覆盖的完整实战",
+        "hot": 90,
+        "url": "https://juejin.cn/post/7692058641252237322",
+        "source": "掘金"
+      },
+      {
+        "title": "Loop Engineering 保姆级教程 + 项目实战",
+        "hot": 81,
+        "url": "https://juejin.cn/post/7692336657548279842",
+        "source": "掘金"
+      },
+      {
+        "title": "diff 算法（虚拟 DOM Reconciliation）",
+        "hot": 81,
+        "url": "https://juejin.cn/post/7692296625806229544",
+        "source": "掘金"
+      },
+      {
+        "title": "ai agent --- 文件存储",
+        "hot": 81,
+        "url": "https://juejin.cn/post/7692274273326579748",
+        "source": "掘金"
+      },
+      {
+        "title": "canvas最大能开多大：先看面积，再看导出格式",
+        "hot": 81,
+        "url": "https://juejin.cn/post/7691876829276602377",
+        "source": "掘金"
       }
     ]
   },
   "github": [
     {
       "title": "storytold/photocraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 4725",
+      "hot": "⭐ 4985",
       "url": "https://github.com/storytold/photocraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "rehan-remade/universal-modder —— Point Claude at any game. Skills, tools ",
-      "hot": "⭐ 4489",
+      "hot": "⭐ 4501",
       "url": "https://github.com/rehan-remade/universal-modder",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "CopilotKit/OpenDots —— Your always-on AI coworkers that move be",
-      "hot": "⭐ 3898",
+      "hot": "⭐ 3902",
       "url": "https://github.com/CopilotKit/OpenDots",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "omlahore/RemoveMacAI —— Turn off Apple Intelligence on macOS 27 ",
-      "hot": "⭐ 2990",
+      "hot": "⭐ 3007",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "source": "GitHub",
       "tag": "Swift"
@@ -574,7 +488,7 @@
     },
     {
       "title": "nykooi1/vibe-wise —— A Claude Code plugin that helps you lear",
-      "hot": "⭐ 2452",
+      "hot": "⭐ 2471",
       "url": "https://github.com/nykooi1/vibe-wise",
       "source": "GitHub",
       "tag": "Python"
@@ -595,7 +509,7 @@
     },
     {
       "title": "kargulstudio/sales-crm",
-      "hot": "⭐ 1572",
+      "hot": "⭐ 1574",
       "url": "https://github.com/kargulstudio/sales-crm",
       "source": "GitHub",
       "tag": "TypeScript"
@@ -616,21 +530,21 @@
     },
     {
       "title": "storytold/filmcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 1228",
+      "hot": "⭐ 1321",
       "url": "https://github.com/storytold/filmcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "BlueHeisenberg/SCSKiller —— Kill shader compilation stutter before y",
-      "hot": "⭐ 1190",
+      "hot": "⭐ 1193",
       "url": "https://github.com/BlueHeisenberg/SCSKiller",
       "source": "GitHub",
       "tag": "C#"
     },
     {
       "title": "deadinside28/bloodborne_pc",
-      "hot": "⭐ 1158",
+      "hot": "⭐ 1173",
       "url": "https://github.com/deadinside28/bloodborne_pc",
       "source": "GitHub",
       "tag": "C++"
