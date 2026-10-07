@@ -1,280 +1,188 @@
 {
-  "updatedAt": "2026-10-07T05:30:52.563Z",
+  "updatedAt": "2026-10-07T06:01:52.716Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "Sharing AI progress in mathematics",
-        "hot": 669,
+        "hot": 703,
         "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
         "source": "HackerNews"
       },
       {
         "title": "Strands Decider 2B: a small, open-source, decision model",
-        "hot": 94,
+        "hot": 107,
         "url": "https://strandsagents.com/blog/introducing-strands-decider/",
         "source": "HackerNews"
       },
       {
-        "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-        "hot": 22,
-        "url": "https://nanochess.org/la_cueva_bbs.html",
-        "source": "HackerNews"
-      },
-      {
         "title": "Decisions API is in public beta",
-        "hot": 209,
+        "hot": 221,
         "url": "https://developers.openai.com/api/docs/guides/decisions",
         "source": "HackerNews"
       },
       {
         "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-        "hot": 130,
+        "hot": 141,
         "url": "https://penguin-mail.com/",
         "source": "HackerNews"
       },
       {
-        "title": "The cost of lies: A Mineserver story",
-        "hot": 54,
-        "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+        "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+        "hot": 26,
+        "url": "https://nanochess.org/la_cueva_bbs.html",
         "source": "HackerNews"
       },
       {
         "title": "Mistral Large 4",
-        "hot": 1668,
+        "hot": 1677,
         "url": "https://mistral.ai/news/mistral-large-4/\\",
         "source": "HackerNews"
       },
       {
         "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-        "hot": 276,
+        "hot": 285,
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
         "source": "HackerNews"
       },
       {
-        "title": "What Is Codemode",
-        "hot": 43,
-        "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
-        "source": "HackerNews"
-      },
-      {
         "title": "ESP32-C3 Adblock",
-        "hot": 39,
+        "hot": 49,
         "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
         "source": "HackerNews"
       },
       {
-        "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-        "hot": 156,
-        "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+        "title": "What Is Codemode",
+        "hot": 44,
+        "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "The cost of lies: A Mineserver story",
+        "hot": 59,
+        "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
         "source": "HackerNews"
       },
       {
         "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-        "hot": 175,
+        "hot": 183,
         "url": "https://github.com/boykopovar/AnyPS5",
         "source": "HackerNews"
       },
       {
+        "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+        "hot": 162,
+        "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+        "source": "HackerNews"
+      },
+      {
         "title": "Calling It Quits on ServerFault",
-        "hot": 33,
+        "hot": 42,
         "url": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
         "source": "HackerNews"
       },
       {
-        "title": "LLMs may have helped my RSI",
-        "hot": 71,
-        "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+        "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+        "hot": 21,
+        "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
         "source": "HackerNews"
       },
       {
-        "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-        "hot": 260,
-        "url": "https://github.com/FeSens/openTPU",
+        "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+        "hot": 109,
+        "url": "https://news.ycombinator.com/item?id=49982498",
         "source": "HackerNews"
       }
     ],
     "zhihu": [
       {
         "title": "如何看待 C 罗就离队风波致歉并自请重罚？其或面临最高6个月禁赛，你认为他有可能顺利归队吗？",
-        "hot": 15530000,
+        "hot": 15960000,
         "url": "https://www.zhihu.com/question/2091041715104781800",
         "source": "知乎"
       },
       {
         "title": "缅北电诈犯杀陌生人祭天，明珍珍死刑前微笑接受采访，为什么这些电诈犯这么嚣张？背后可能存在哪些保护伞？",
-        "hot": 12090000,
+        "hot": 13220000,
         "url": "https://www.zhihu.com/question/2090789565132793600",
         "source": "知乎"
       },
       {
         "title": "如何看待急诊医生上班期间上厕所被投诉脱岗，医生调监控自证清白？",
-        "hot": 3490000,
+        "hot": 3600000,
         "url": "https://www.zhihu.com/question/2090359345611536100",
         "source": "知乎"
       },
       {
         "title": "中国的音乐产业为什么会变成一个歌手、平台、听众三方都不满意的诡异产业？",
-        "hot": 2390000,
+        "hot": 2530000,
         "url": "https://www.zhihu.com/question/2016313630002521300",
         "source": "知乎"
       },
       {
-        "title": "2026 国庆档票房 6 天破 10亿，为什么今年的增速变慢了？最���大约会到多少？",
-        "hot": 2320000,
+        "title": "2026 国庆档票房 6 天破 10亿，为什么今年的增速变慢了？最终大约会到多少？",
+        "hot": 2390000,
         "url": "https://www.zhihu.com/question/2090851900056942000",
         "source": "知乎"
       },
       {
         "title": "你是怎样发现怎样的新定理或者新公式的？",
-        "hot": 2030000,
+        "hot": 2180000,
         "url": "https://www.zhihu.com/question/1926640028236379000",
         "source": "知乎"
       },
       {
         "title": "俄研究人员疑染鼠疫死亡近 200 人被隔离，该疫情是否有扩散风险？",
-        "hot": 1850000,
+        "hot": 1950000,
         "url": "https://www.zhihu.com/question/2090570375985995800",
         "source": "知乎"
       },
       {
-        "title": "十几年前的网游已经可以支持万人以上同时登陆在线，那时候的技术到底是怎么做到的？",
-        "hot": 1660000,
-        "url": "https://www.zhihu.com/question/2079914321405032000",
-        "source": "知乎"
-      },
-      {
         "title": "为什么现在越来越多的军事爱好者不再买军事杂志了？",
-        "hot": 1600000,
+        "hot": 1720000,
         "url": "https://www.zhihu.com/question/2090763805005452000",
         "source": "知乎"
       },
       {
-        "title": "有些景区靠一个 NPC 带火一座城，也有景区跟风做 NPC 却没什么水花，你觉得成功的关键因素是什么？",
-        "hot": 1370000,
-        "url": "https://www.zhihu.com/question/2058201329277691600",
+        "title": "十几年前的网游已经可以支持万人以上同时登陆在线，那时候的技术到底是怎么做到的？",
+        "hot": 1700000,
+        "url": "https://www.zhihu.com/question/2079914321405032000",
+        "source": "知乎"
+      },
+      {
+        "title": "为什么养女儿，不要经常吼她？",
+        "hot": 1450000,
+        "url": "https://www.zhihu.com/question/1992089217535350500",
         "source": "知乎"
       },
       {
         "title": "如何看待河北大学博士论文《辽代碑志文研究》疑似误用AI编造的错误信息？",
-        "hot": 1350000,
+        "hot": 1440000,
         "url": "https://www.zhihu.com/question/2090907666101041000",
         "source": "知乎"
       },
       {
         "title": "国际友谊赛，阿根廷 3-0 贝宁，如何评价本场比赛？阿根廷队长迎来国家队告别战，你有哪些感触？",
-        "hot": 1330000,
+        "hot": 1430000,
         "url": "https://www.zhihu.com/question/2091083217755268900",
         "source": "知乎"
       },
       {
-        "title": "为什么养女儿，不要经常吼她？",
-        "hot": 1300000,
-        "url": "https://www.zhihu.com/question/1992089217535350500",
+        "title": "有些景区靠一个 NPC 带火一座城，也有景区跟风做 NPC 却没什么水花，你觉得成功的关键因素是什么？",
+        "hot": 1420000,
+        "url": "https://www.zhihu.com/question/2058201329277691600",
         "source": "知乎"
       },
       {
         "title": "高铁静音车厢是不是馊主意？",
-        "hot": 1290000,
+        "hot": 1400000,
         "url": "https://www.zhihu.com/question/2041174232533652700",
         "source": "知乎"
       },
       {
-        "title": "古代皇帝吃不完的菜都是怎么处���的？",
-        "hot": 1280000,
-        "url": "https://www.zhihu.com/question/20566149",
+        "title": "儿子，儿媳回来过节，全家都很���兴，只是吃饭的时候，儿媳吃的很少，问她想吃啥，又不说，怎么办？",
+        "hot": 1380000,
+        "url": "https://www.zhihu.com/question/2088132737316267000",
         "source": "知乎"
-      }
-    ],
-    "baidu": [
-      {
-        "title": "向新图强 创新潮涌神州大地",
-        "hot": 7904307,
-        "url": "https://www.baidu.com/s?wd=%E5%90%91%E6%96%B0%E5%9B%BE%E5%BC%BA%20%E5%88%9B%E6%96%B0%E6%BD%AE%E6%B6%8C%E7%A5%9E%E5%B7%9E%E5%A4%A7%E5%9C%B0",
-        "source": "百度"
-      },
-      {
-        "title": "电诈人员换董事长头像骗财务转1700万",
-        "hot": 7809610,
-        "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E6%8D%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A4%B4%E5%83%8F%E9%AA%97%E8%B4%A2%E5%8A%A1%E8%BD%AC1700%E4%B8%87",
-        "source": "百度"
-      },
-      {
-        "title": "“买Labubu不如买香蕉”",
-        "hot": 7714562,
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%B0Labubu%E4%B8%8D%E5%A6%82%E4%B9%B0%E9%A6%99%E8%95%89%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "宝藏小城为何���藏”不住了",
-        "hot": 7616620,
-        "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%9F%8E%E4%B8%BA%E4%BD%95%E2%80%9C%E8%97%8F%E2%80%9D%E4%B8%8D%E4%BD%8F%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "杨利伟在土耳其发声",
-        "hot": 7520266,
-        "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E5%88%A9%E4%BC%9F%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E5%8F%91%E5%A3%B0",
-        "source": "百度"
-      },
-      {
-        "title": "一线城市楼市新变化",
-        "hot": 7428668,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%A5%BC%E5%B8%82%E6%96%B0%E5%8F%98%E5%8C%96",
-        "source": "百度"
-      },
-      {
-        "title": "年轻人爱上缝纫机课",
-        "hot": 7329612,
-        "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%88%B1%E4%B8%8A%E7%BC%9D%E7%BA%AB%E6%9C%BA%E8%AF%BE",
-        "source": "百度"
-      },
-      {
-        "title": "德印韩等七国有意申办2036年奥运会",
-        "hot": 7236628,
-        "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%8D%B0%E9%9F%A9%E7%AD%89%E4%B8%83%E5%9B%BD%E6%9C%89%E6%84%8F%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A",
-        "source": "百度"
-      },
-      {
-        "title": "死刑失败的美国女囚已恢复意识能说话",
-        "hot": 7138952,
-        "url": "https://www.baidu.com/s?wd=%E6%AD%BB%E5%88%91%E5%A4%B1%E8%B4%A5%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%9B%9A%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%84%8F%E8%AF%86%E8%83%BD%E8%AF%B4%E8%AF%9D",
-        "source": "百度"
-      },
-      {
-        "title": "一生要强的山东学生在景区随时大小跳",
-        "hot": 7048417,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%94%9F%E8%A6%81%E5%BC%BA%E7%9A%84%E5%B1%B1%E4%B8%9C%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%99%AF%E5%8C%BA%E9%9A%8F%E6%97%B6%E5%A4%A7%E5%B0%8F%E8%B7%B3",
-        "source": "百度"
-      },
-      {
-        "title": "小朋友看《生化危机：爆发夜》被吓哭",
-        "hot": 6948030,
-        "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9C%8B%E3%80%8A%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%EF%BC%9A%E7%88%86%E5%8F%91%E5%A4%9C%E3%80%8B%E8%A2%AB%E5%90%93%E5%93%AD",
-        "source": "百度"
-      },
-      {
-        "title": "“高铁座椅成HPV感染重灾区”不实",
-        "hot": 6858775,
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%93%81%E5%BA%A7%E6%A4%85%E6%88%90HPV%E6%84%9F%E6%9F%93%E9%87%8D%E7%81%BE%E5%8C%BA%E2%80%9D%E4%B8%8D%E5%AE%9E",
-        "source": "百度"
-      },
-      {
-        "title": "微胖可能是保命的本钱",
-        "hot": 6761330,
-        "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E8%83%96%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BF%9D%E5%91%BD%E7%9A%84%E6%9C%AC%E9%92%B1",
-        "source": "百度"
-      },
-      {
-        "title": "华为也扛不住了 余承东：不得不涨价",
-        "hot": 6657544,
-        "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%20%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%B6%A8%E4%BB%B7",
-        "source": "百度"
-      },
-      {
-        "title": "粤J2888T",
-        "hot": 6561574,
-        "url": "https://www.baidu.com/s?wd=%E7%B2%A4J2888T",
-        "source": "百度"
       }
     ],
     "weibo": [
@@ -303,21 +211,9 @@
         "source": "微博"
       },
       {
-        "title": "iPhoneDuo 强制适配",
+        "title": "张真源被陈哲远口气熏yue了",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=iPhoneDuo%20%E5%BC%BA%E5%88%B6%E9%80%82%E9%85%8D",
-        "source": "微博"
-      },
-      {
-        "title": "热苏斯回应C罗声明",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%83%AD%E8%8B%8F%E6%96%AF%E5%9B%9E%E5%BA%94C%E7%BD%97%E5%A3%B0%E6%98%8E",
-        "source": "微博"
-      },
-      {
-        "title": "大江大湖大满贯",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E6%B1%9F%E5%A4%A7%E6%B9%96%E5%A4%A7%E6%BB%A1%E8%B4%AF",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E7%9C%9F%E6%BA%90%E8%A2%AB%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%A3%E6%B0%94%E7%86%8Fyue%E4%BA%86",
         "source": "微博"
       },
       {
@@ -327,21 +223,27 @@
         "source": "微博"
       },
       {
-        "title": "梁靖崑1比3郭冠宏",
+        "title": "iPhoneDuo 强制适配",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E9%9D%96%E5%B4%911%E6%AF%943%E9%83%AD%E5%86%A0%E5%AE%8F",
+        "url": "https://s.weibo.com/weibo?q=iPhoneDuo%20%E5%BC%BA%E5%88%B6%E9%80%82%E9%85%8D",
         "source": "微博"
       },
       {
-        "title": "龙餐馆冲击奥斯卡",
+        "title": "我不是NPC预告音轨与逐玉高度相似",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%E5%86%B2%E5%87%BB%E5%A5%A5%E6%96%AF%E5%8D%A1",
+        "url": "https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E6%98%AFNPC%E9%A2%84%E5%91%8A%E9%9F%B3%E8%BD%A8%E4%B8%8E%E9%80%90%E7%8E%89%E9%AB%98%E5%BA%A6%E7%9B%B8%E4%BC%BC",
         "source": "微博"
       },
       {
-        "title": "缅甸电诈窝点经纬度曝光",
+        "title": "热苏斯回应C罗声明",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E7%AA%9D%E7%82%B9%E7%BB%8F%E7%BA%AC%E5%BA%A6%E6%9B%9D%E5%85%89",
+        "url": "https://s.weibo.com/weibo?q=%E7%83%AD%E8%8B%8F%E6%96%AF%E5%9B%9E%E5%BA%94C%E7%BD%97%E5%A3%B0%E6%98%8E",
+        "source": "微博"
+      },
+      {
+        "title": "朝鲜人民的真旗舰手机",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%9C%9D%E9%B2%9C%E4%BA%BA%E6%B0%91%E7%9A%84%E7%9C%9F%E6%97%97%E8%88%B0%E6%89%8B%E6%9C%BA",
         "source": "微博"
       },
       {
@@ -357,15 +259,21 @@
         "source": "微博"
       },
       {
-        "title": "炎亚纶评论汪东城车祸舞台视频",
+        "title": "冯禧和许嵩婚后首条动态",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%AF%84%E8%AE%BA%E6%B1%AA%E4%B8%9C%E5%9F%8E%E8%BD%A6%E7%A5%B8%E8%88%9E%E5%8F%B0%E8%A7%86%E9%A2%91",
+        "url": "https://s.weibo.com/weibo?q=%E5%86%AF%E7%A6%A7%E5%92%8C%E8%AE%B8%E5%B5%A9%E5%A9%9A%E5%90%8E%E9%A6%96%E6%9D%A1%E5%8A%A8%E6%80%81",
         "source": "微博"
       },
       {
-        "title": "俄罗斯鼠疫",
+        "title": "女子美容院灌肠肠子被捅破",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF%E9%BC%A0%E7%96%AB",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E7%BE%8E%E5%AE%B9%E9%99%A2%E7%81%8C%E8%82%A0%E8%82%A0%E5%AD%90%E8%A2%AB%E6%8D%85%E7%A0%B4",
+        "source": "微博"
+      },
+      {
+        "title": "炎亚纶评论汪东城车祸舞台视频",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%AF%84%E8%AE%BA%E6%B1%AA%E4%B8%9C%E5%9F%8E%E8%BD%A6%E7%A5%B8%E8%88%9E%E5%8F%B0%E8%A7%86%E9%A2%91",
         "source": "微博"
       }
     ],
@@ -402,19 +310,19 @@
       },
       {
         "title": "河南老板，让素人当主角，一天3980元",
-        "hot": 36,
+        "hot": 37,
         "url": "https://www.36kr.com/p/4015085008768897",
         "source": "36氪"
       },
       {
         "title": "AI几年内或超越所有人类，Claude核心研究员预测",
-        "hot": 12,
+        "hot": 14,
         "url": "https://www.36kr.com/p/4014585839210629",
         "source": "36氪"
       },
       {
         "title": "别人并没有过得比你幸福",
-        "hot": 22,
+        "hot": 24,
         "url": "https://www.36kr.com/p/3973004790919430",
         "source": "36氪"
       },
@@ -426,7 +334,7 @@
       },
       {
         "title": "新一批拿「首付」炒股的人，开始后悔了",
-        "hot": 12,
+        "hot": 14,
         "url": "https://www.36kr.com/p/4015114490941575",
         "source": "36氪"
       },
@@ -443,15 +351,15 @@
         "source": "36氪"
       },
       {
-        "title": "刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享",
-        "hot": 7,
-        "url": "https://www.36kr.com/p/4014265069883272",
-        "source": "36氪"
-      },
-      {
         "title": "对话影身智能创始人闵伟：AMD 82亿美元收购李飞飞World Labs背后，4D世界模型的拐点已现",
         "hot": "",
         "url": "https://www.36kr.com/p/4014488588717954",
+        "source": "36氪"
+      },
+      {
+        "title": "刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享",
+        "hot": 7,
+        "url": "https://www.36kr.com/p/4014265069883272",
         "source": "36氪"
       },
       {
@@ -461,10 +369,102 @@
         "source": "36氪"
       }
     ],
+    "baidu": [
+      {
+        "title": "向新图强 创新潮涌神州大地",
+        "hot": 7903925,
+        "url": "https://www.baidu.com/s?wd=%E5%90%91%E6%96%B0%E5%9B%BE%E5%BC%BA%20%E5%88%9B%E6%96%B0%E6%BD%AE%E6%B6%8C%E7%A5%9E%E5%B7%9E%E5%A4%A7%E5%9C%B0",
+        "source": "百度"
+      },
+      {
+        "title": "电诈人员换董事长头像骗财务转1700万",
+        "hot": 7808442,
+        "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E6%8D%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A4%B4%E5%83%8F%E9%AA%97%E8%B4%A2%E5%8A%A1%E8%BD%AC1700%E4%B8%87",
+        "source": "百度"
+      },
+      {
+        "title": "小朋友看《生化危机：爆发夜》被吓哭",
+        "hot": 7713504,
+        "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9C%8B%E3%80%8A%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%EF%BC%9A%E7%88%86%E5%8F%91%E5%A4%9C%E3%80%8B%E8%A2%AB%E5%90%93%E5%93%AD",
+        "source": "百度"
+      },
+      {
+        "title": "宝藏小城为何“藏”不住了",
+        "hot": 7618204,
+        "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%9F%8E%E4%B8%BA%E4%BD%95%E2%80%9C%E8%97%8F%E2%80%9D%E4%B8%8D%E4%BD%8F%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "杨利伟在土耳其发声",
+        "hot": 7523879,
+        "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E5%88%A9%E4%BC%9F%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E5%8F%91%E5%A3%B0",
+        "source": "百度"
+      },
+      {
+        "title": "死刑失败的美国女囚已恢复意识能说话",
+        "hot": 7428694,
+        "url": "https://www.baidu.com/s?wd=%E6%AD%BB%E5%88%91%E5%A4%B1%E8%B4%A5%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%9B%9A%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%84%8F%E8%AF%86%E8%83%BD%E8%AF%B4%E8%AF%9D",
+        "source": "百度"
+      },
+      {
+        "title": "微胖可能是保命的本钱",
+        "hot": 7329468,
+        "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E8%83%96%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BF%9D%E5%91%BD%E7%9A%84%E6%9C%AC%E9%92%B1",
+        "source": "百度"
+      },
+      {
+        "title": "“买Labubu不如买香蕉”",
+        "hot": 7238264,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%B0Labubu%E4%B8%8D%E5%A6%82%E4%B9%B0%E9%A6%99%E8%95%89%E2%80%9D",
+        "source": "百度"
+      },
+      {
+        "title": "杭州玩5天 游客膀胱堵了7厘米血块",
+        "hot": 7136661,
+        "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E7%8E%A95%E5%A4%A9%20%E6%B8%B8%E5%AE%A2%E8%86%80%E8%83%B1%E5%A0%B5%E4%BA%867%E5%8E%98%E7%B1%B3%E8%A1%80%E5%9D%97",
+        "source": "百度"
+      },
+      {
+        "title": "演员王星案牵出跨境人口贩卖集团",
+        "hot": 7044476,
+        "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E6%98%9F%E6%A1%88%E7%89%B5%E5%87%BA%E8%B7%A8%E5%A2%83%E4%BA%BA%E5%8F%A3%E8%B4%A9%E5%8D%96%E9%9B%86%E5%9B%A2",
+        "source": "百度"
+      },
+      {
+        "title": "缅北电诈团伙窝点距中国口岸仅200米",
+        "hot": 6952069,
+        "url": "https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%9B%A2%E4%BC%99%E7%AA%9D%E7%82%B9%E8%B7%9D%E4%B8%AD%E5%9B%BD%E5%8F%A3%E5%B2%B8%E4%BB%85200%E7%B1%B3",
+        "source": "百度"
+      },
+      {
+        "title": "“高铁座椅成HPV感染重灾区”不实",
+        "hot": 6857936,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%93%81%E5%BA%A7%E6%A4%85%E6%88%90HPV%E6%84%9F%E6%9F%93%E9%87%8D%E7%81%BE%E5%8C%BA%E2%80%9D%E4%B8%8D%E5%AE%9E",
+        "source": "百度"
+      },
+      {
+        "title": "吴奇隆 不赚钱也是这个立场",
+        "hot": 6758826,
+        "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%A5%87%E9%9A%86%20%E4%B8%8D%E8%B5%9A%E9%92%B1%E4%B9%9F%E6%98%AF%E8%BF%99%E4%B8%AA%E7%AB%8B%E5%9C%BA",
+        "source": "百度"
+      },
+      {
+        "title": "高铁坐过站怎么办？可以免费坐回去",
+        "hot": 6657384,
+        "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9D%90%E8%BF%87%E7%AB%99%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E5%9D%90%E5%9B%9E%E5%8E%BB",
+        "source": "百度"
+      },
+      {
+        "title": "千万别用这个姿势坐车",
+        "hot": 6566514,
+        "url": "https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E5%88%AB%E7%94%A8%E8%BF%99%E4%B8%AA%E5%A7%BF%E5%8A%BF%E5%9D%90%E8%BD%A6",
+        "source": "百度"
+      }
+    ],
     "juejin": [
       {
         "title": "副业搞起来，小说，漫画，漫剧的成本优化思路",
-        "hot": 459,
+        "hot": 468,
         "url": "https://juejin.cn/post/7692440533922971667",
         "source": "掘金"
       },
@@ -487,7 +487,7 @@
         "source": "掘金"
       },
       {
-        "title": "AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够��",
+        "title": "AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了",
         "hot": 126,
         "url": "https://juejin.cn/post/7693358476032049162",
         "source": "掘金"
@@ -511,15 +511,15 @@
         "source": "掘金"
       },
       {
-        "title": "diff 算法（虚拟 DOM Reconciliation）",
-        "hot": 99,
-        "url": "https://juejin.cn/post/7692296625806229544",
+        "title": "Loop Engineering 保姆级教程 + 项目实战",
+        "hot": 108,
+        "url": "https://juejin.cn/post/7692336657548279842",
         "source": "掘金"
       },
       {
-        "title": "Loop Engineering 保姆级教程 + 项目实战",
+        "title": "diff 算法（虚拟 DOM Reconciliation）",
         "hot": 99,
-        "url": "https://juejin.cn/post/7692336657548279842",
+        "url": "https://juejin.cn/post/7692296625806229544",
         "source": "掘金"
       },
       {
@@ -535,15 +535,9 @@
         "source": "掘金"
       },
       {
-        "title": "GitHub 今日推荐｜lipflow：无麦克风唇读文字输入工具",
+        "title": "从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析",
         "hot": 81,
-        "url": "https://juejin.cn/post/7692059206256738313",
-        "source": "掘金"
-      },
-      {
-        "title": "我用 Rust 重写了 Pi，启动快了 10 倍",
-        "hot": 81,
-        "url": "https://juejin.cn/post/7691917465479020607",
+        "url": "https://juejin.cn/post/7692742889198387200",
         "source": "掘金"
       },
       {
@@ -551,90 +545,96 @@
         "hot": 81,
         "url": "https://juejin.cn/post/7692500213994586153",
         "source": "掘金"
+      },
+      {
+        "title": "GitHub 今日推荐｜lipflow：���麦克风唇读文字输入工具",
+        "hot": 81,
+        "url": "https://juejin.cn/post/7692059206256738313",
+        "source": "掘金"
       }
     ]
   },
   "github": [
     {
       "title": "storytold/photocraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 8992",
+      "hot": "⭐ 9330",
       "url": "https://github.com/storytold/photocraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "rehan-remade/universal-modder —— Point Claude at any game. Skills, tools ",
-      "hot": "⭐ 4732",
+      "hot": "⭐ 4748",
       "url": "https://github.com/rehan-remade/universal-modder",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "openai/math",
-      "hot": "⭐ 4320",
+      "hot": "⭐ 4565",
       "url": "https://github.com/openai/math",
       "source": "GitHub",
       "tag": "Lean"
     },
     {
       "title": "storytold/filmcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 1931",
+      "hot": "⭐ 1961",
       "url": "https://github.com/storytold/filmcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "QingYunA/answer-me-with-html —— Answer me with HTML — an agent skill tha",
-      "hot": "⭐ 1838",
+      "hot": "⭐ 1840",
       "url": "https://github.com/QingYunA/answer-me-with-html",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "nanaism/yomiyasu —— AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent ",
-      "hot": "⭐ 1650",
+      "hot": "⭐ 1653",
       "url": "https://github.com/nanaism/yomiyasu",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "kargulstudio/sales-crm",
-      "hot": "⭐ 1593",
+      "hot": "⭐ 1595",
       "url": "https://github.com/kargulstudio/sales-crm",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "facebookincubator/muse-gadget-sdk —— Open source SDK to build Muse gadgets",
-      "hot": "⭐ 1578",
+      "hot": "⭐ 1582",
       "url": "https://github.com/facebookincubator/muse-gadget-sdk",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "storytold/lightcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 1496",
+      "hot": "⭐ 1529",
       "url": "https://github.com/storytold/lightcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "storytold/printcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 1341",
+      "hot": "⭐ 1367",
       "url": "https://github.com/storytold/printcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "deadinside28/bloodborne_pc",
-      "hot": "⭐ 1335",
+      "hot": "⭐ 1341",
       "url": "https://github.com/deadinside28/bloodborne_pc",
       "source": "GitHub",
       "tag": "C++"
     },
     {
       "title": "storytold/vectorcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 1229",
+      "hot": "⭐ 1254",
       "url": "https://github.com/storytold/vectorcraft",
       "source": "GitHub",
       "tag": "Rust"
@@ -655,7 +655,7 @@
     },
     {
       "title": "storytold/effectcraft",
-      "hot": "⭐ 953",
+      "hot": "⭐ 975",
       "url": "https://github.com/storytold/effectcraft",
       "source": "GitHub",
       "tag": "Rust"
