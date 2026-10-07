@@ -1,144 +1,52 @@
 {
-  "updatedAt": "2026-10-07T21:30:57.290Z",
+  "updatedAt": "2026-10-07T22:01:25.470Z",
   "dailyhot": {
-    "hackernews": [
-      {
-        "title": "Claude Haiku 5.5",
-        "hot": 483,
-        "url": "https://www.anthropic.com/claude-haiku-5-5",
-        "source": "HackerNews"
-      },
-      {
-        "title": "GPT‑6 and Intelligent UI for everyone",
-        "hot": 353,
-        "url": "https://openai.com/index/gpt-6-for-everyone/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Docker Agent",
-        "hot": 115,
-        "url": "https://github.com/docker/docker-agent",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first",
-        "hot": 30,
-        "url": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-        "hot": 47,
-        "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-        "hot": 238,
-        "url": "https://bigwords.page/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Shipping JPEG XL in Chrome",
-        "hot": 435,
-        "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-        "hot": 170,
-        "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Navier–Stokes Lost in Translation",
-        "hot": 182,
-        "url": "https://arxiv.org/abs/2610.08144",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Animated ASCII Art for Web Pages",
-        "hot": 225,
-        "url": "https://ascii.rest/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "The Mathocalypse",
-        "hot": 118,
-        "url": "https://scottaaronson.blog/?p=10169",
-        "source": "HackerNews"
-      },
-      {
-        "title": "How machines learned precision",
-        "hot": 52,
-        "url": "https://glinscott.github.io/how-machines-learned-precision/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Why Pendulum had to write the most cursed \"+\" operator in all of Python",
-        "hot": 29,
-        "url": "https://dev.arie.bovenberg.net/blog/pendulum-cursed-plus-operator/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Show HN: gtlds.fyi – All the proposed new gTLDs",
-        "hot": 29,
-        "url": "https://gtlds.fyi/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-        "hot": 358,
-        "url": "https://github.com/szabadkai/c64-keyboard-font/",
-        "source": "HackerNews"
-      }
-    ],
     "zhihu": [
       {
         "title": "孙颖莎 1-3 不敌泰国选手，止步 WTT 中国大满贯女单 32 强，怎样评价本场比赛？",
-        "hot": 12710000,
+        "hot": 12420000,
         "url": "https://www.zhihu.com/question/2091257221887649000",
         "source": "知乎"
       },
       {
-        "title": "C罗发表长文说明退出国家队训练营原因，称国家队主帅两次违背承诺，如何评价C罗的自诉？",
-        "hot": 5040000,
-        "url": "https://www.zhihu.com/question/2091062180405851400",
-        "source": "知乎"
-      },
-      {
-        "title": "中国乒协发布声明，将推动建立赛场��入名单制度，能有效治理粉丝乱象吗？",
-        "hot": 4740000,
+        "title": "中国乒协发布声明，将推动建立赛场禁入名单制度，能有效治理粉丝乱象吗？",
+        "hot": 4650000,
         "url": "https://www.zhihu.com/question/2091260950674240500",
         "source": "知乎"
       },
       {
-        "title": "柬埔寨太子集团头目陈志押解画面曝光，太子集团以及陈志曾犯下过哪些罪行？接下来他可能面对哪些刑罚？",
-        "hot": 2350000,
+        "title": "C罗发表长文说明退出国家队训练营原因，称国家队主帅两次违背承诺，如何评价C罗的自诉？",
+        "hot": 3520000,
+        "url": "https://www.zhihu.com/question/2091062180405851400",
+        "source": "知乎"
+      },
+      {
+        "title": "柬埔寨太子集团头目陈志押解画面曝光，太子��团以及陈志曾犯下过哪些罪行？接下来他可能面对哪些刑罚？",
+        "hot": 2310000,
         "url": "https://www.zhihu.com/question/2091163800770536200",
         "source": "知乎"
       },
       {
-        "title": "演员王星案牵出跨境人口贩卖集团，其4天被卖3次，打击跨境犯罪有哪些难点？我们要提高哪些防骗意识？",
-        "hot": 2210000,
-        "url": "https://www.zhihu.com/question/2091181702186022100",
-        "source": "知乎"
-      },
-      {
-        "title": "《每日邮报》报道俄罗斯鼠疫出现第二例死亡患者，美督促在俄公民立即离境接受14天隔离，如何看待此事？",
-        "hot": 2090000,
-        "url": "https://www.zhihu.com/question/2091220263526459000",
-        "source": "知乎"
-      },
-      {
         "title": "缅方从一直通报无中国人死亡到与中方联合成立调查组，缅方的态度转变是从什么时候开始的？受哪些因素驱动？",
-        "hot": 1960000,
+        "hot": 1980000,
         "url": "https://www.zhihu.com/question/2090769204127298800",
         "source": "知乎"
       },
       {
+        "title": "《每日邮报》报道俄罗斯鼠疫出现第二例死亡患者，美督促在俄公民立即离境接受14天隔离，如何看待此事？",
+        "hot": 1920000,
+        "url": "https://www.zhihu.com/question/2091220263526459000",
+        "source": "知乎"
+      },
+      {
+        "title": "演员王星案牵出跨境人口贩卖集团，其4天被卖3次，打击跨境犯罪有哪些难点？我们要提高哪些防骗���识？",
+        "hot": 1850000,
+        "url": "https://www.zhihu.com/question/2091181702186022100",
+        "source": "知乎"
+      },
+      {
         "title": "如何看待华为余承东官宣鸿蒙出海：正在考虑未来逐步将 HarmonyOS 推向全球市场，你怎么看？",
-        "hot": 1670000,
+        "hot": 1680000,
         "url": "https://www.zhihu.com/question/2090780484007732000",
         "source": "知乎"
       },
@@ -150,45 +58,321 @@
       },
       {
         "title": "在一个没有手性的世界里如何可以产生手性物质？",
-        "hot": 1530000,
+        "hot": 1450000,
         "url": "https://www.zhihu.com/question/46842636",
         "source": "知乎"
       },
       {
         "title": "西班牙因「住房危机」爆发「街头怒火」运动，桑切斯宣布提前举行2026年大选，其核心经济根源是何？",
-        "hot": 1520000,
+        "hot": 1420000,
         "url": "https://www.zhihu.com/question/2090750226579694000",
         "source": "知乎"
       },
       {
         "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
-        "hot": 1520000,
+        "hot": 1390000,
         "url": "https://www.zhihu.com/question/2091064625987170800",
         "source": "知乎"
       },
       {
-        "title": "余承东称华为将不得不涨价，存储元器件大涨使每部手机增超两百美元成本，会对消费者及手机市场有多大影响？",
-        "hot": 1500000,
-        "url": "https://www.zhihu.com/question/2091102378480985900",
-        "source": "知乎"
-      },
-      {
         "title": "缅北电诈犯杀陌生人祭天，明珍珍死刑前微笑接受采访，为什么这些电诈犯这么嚣张？背后可能存在哪些保护伞？",
-        "hot": 1360000,
+        "hot": 1340000,
         "url": "https://www.zhihu.com/question/2090789565132793600",
         "source": "知乎"
       },
       {
         "title": "如何评价《鸣潮》2026年10月7日角色立绘——莉莉？",
-        "hot": 1250000,
+        "hot": 1260000,
         "url": "https://www.zhihu.com/question/2091278720254342000",
         "source": "知乎"
+      },
+      {
+        "title": "余承东称华为将不得不涨价，存储元器件大涨使每部手机增超两百美元成本，会对消费者及手机市场有多大影响？",
+        "hot": 1250000,
+        "url": "https://www.zhihu.com/question/2091102378480985900",
+        "source": "知乎"
+      }
+    ],
+    "hackernews": [
+      {
+        "title": "Claude Haiku 5.5",
+        "hot": 516,
+        "url": "https://www.anthropic.com/claude-haiku-5-5",
+        "source": "HackerNews"
+      },
+      {
+        "title": "GPT‑6 and Intelligent UI for everyone",
+        "hot": 379,
+        "url": "https://openai.com/index/gpt-6-for-everyone/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Docker Agent",
+        "hot": 126,
+        "url": "https://github.com/docker/docker-agent",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+        "hot": 57,
+        "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first",
+        "hot": 53,
+        "url": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+        "hot": 259,
+        "url": "https://bigwords.page/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Shipping JPEG XL in Chrome",
+        "hot": 445,
+        "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Animated ASCII Art for Web Pages",
+        "hot": 237,
+        "url": "https://ascii.rest/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+        "hot": 184,
+        "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Navier–Stokes Lost in Translation",
+        "hot": 191,
+        "url": "https://arxiv.org/abs/2610.08144",
+        "source": "HackerNews"
+      },
+      {
+        "title": "How machines learned precision",
+        "hot": 62,
+        "url": "https://glinscott.github.io/how-machines-learned-precision/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
+        "hot": 27,
+        "url": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
+        "source": "HackerNews"
+      },
+      {
+        "title": "The Mathocalypse",
+        "hot": 147,
+        "url": "https://scottaaronson.blog/?p=10169",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Show HN: gtlds.fyi – All the proposed new gTLDs",
+        "hot": 33,
+        "url": "https://gtlds.fyi/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+        "hot": 362,
+        "url": "https://github.com/szabadkai/c64-keyboard-font/",
+        "source": "HackerNews"
+      }
+    ],
+    "weibo": [
+      {
+        "title": "门诊告示豆包诊断患者改问千问",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%97%A8%E8%AF%8A%E5%91%8A%E7%A4%BA%E8%B1%86%E5%8C%85%E8%AF%8A%E6%96%AD%E6%82%A3%E8%80%85%E6%94%B9%E9%97%AE%E5%8D%83%E9%97%AE",
+        "source": "微博"
+      },
+      {
+        "title": "建议女孩子多用原相机拍照",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A5%B3%E5%AD%A9%E5%AD%90%E5%A4%9A%E7%94%A8%E5%8E%9F%E7%9B%B8%E6%9C%BA%E6%8B%8D%E7%85%A7",
+        "source": "微博"
+      },
+      {
+        "title": "国庆假期北大仓秋收正酣",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%8C%97%E5%A4%A7%E4%BB%93%E7%A7%8B%E6%94%B6%E6%AD%A3%E9%85%A3",
+        "source": "微博"
+      },
+      {
+        "title": "对手谈孙颖莎比赛状态",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%AF%B9%E6%89%8B%E8%B0%88%E5%AD%99%E9%A2%96%E8%8E%8E%E6%AF%94%E8%B5%9B%E7%8A%B6%E6%80%81",
+        "source": "微博"
+      },
+      {
+        "title": "王星失联前向女友求救发猫喂了没",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%98%9F%E5%A4%B1%E8%81%94%E5%89%8D%E5%90%91%E5%A5%B3%E5%8F%8B%E6%B1%82%E6%95%91%E5%8F%91%E7%8C%AB%E5%96%82%E4%BA%86%E6%B2%A1",
+        "source": "微博"
+      },
+      {
+        "title": "曝王晓慧有孩子了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%8E%8B%E6%99%93%E6%85%A7%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "众多台湾艺人明确一个中国立场",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BC%97%E5%A4%9A%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E6%98%8E%E7%A1%AE%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E7%AB%8B%E5%9C%BA",
+        "source": "微博"
+      },
+      {
+        "title": "时代峰峻超likeTOP20",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%B6%85likeTOP20",
+        "source": "微博"
+      },
+      {
+        "title": "代露娃 谢谢所有骂醒我的人",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BB%A3%E9%9C%B2%E5%A8%83%20%E8%B0%A2%E8%B0%A2%E6%89%80%E6%9C%89%E9%AA%82%E9%86%92%E6%88%91%E7%9A%84%E4%BA%BA",
+        "source": "微博"
+      },
+      {
+        "title": "孙颖莎爆冷止步32强",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%88%86%E5%86%B7%E6%AD%A2%E6%AD%A532%E5%BC%BA",
+        "source": "微博"
+      },
+      {
+        "title": "网红小四爷 缅北",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%9B%9B%E7%88%B7%20%E7%BC%85%E5%8C%97",
+        "source": "微博"
+      },
+      {
+        "title": "俄罗斯现不明原因肺炎死亡病例",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B",
+        "source": "微博"
+      },
+      {
+        "title": "国乒首次无缘中国大满贯混双领奖台",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E9%A6%96%E6%AC%A1%E6%97%A0%E7%BC%98%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E6%B7%B7%E5%8F%8C%E9%A2%86%E5%A5%96%E5%8F%B0",
+        "source": "微博"
+      },
+      {
+        "title": "九个舅舅染不同发色参加侄女婚礼",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E4%B8%AA%E8%88%85%E8%88%85%E6%9F%93%E4%B8%8D%E5%90%8C%E5%8F%91%E8%89%B2%E5%8F%82%E5%8A%A0%E4%BE%84%E5%A5%B3%E5%A9%9A%E7%A4%BC",
+        "source": "微博"
+      },
+      {
+        "title": "肖战台湾腔",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%B0%E6%B9%BE%E8%85%94",
+        "source": "微博"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "幸福都是奋斗出来的",
+        "hot": 7904380,
+        "url": "https://www.baidu.com/s?wd=%E5%B9%B8%E7%A6%8F%E9%83%BD%E6%98%AF%E5%A5%8B%E6%96%97%E5%87%BA%E6%9D%A5%E7%9A%84",
+        "source": "百度"
+      },
+      {
+        "title": "孙颖莎爆冷1-3不敌泰国选手",
+        "hot": 7808242,
+        "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%88%86%E5%86%B71-3%E4%B8%8D%E6%95%8C%E6%B3%B0%E5%9B%BD%E9%80%89%E6%89%8B",
+        "source": "百度"
+      },
+      {
+        "title": "上3休1再上5休2",
+        "hot": 7712718,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%8A3%E4%BC%911%E5%86%8D%E4%B8%8A5%E4%BC%912",
+        "source": "百度"
+      },
+      {
+        "title": "中国新能源跑出四个“全球第一”",
+        "hot": 7618827,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%B7%91%E5%87%BA%E5%9B%9B%E4%B8%AA%E2%80%9C%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E2%80%9D",
+        "source": "百度"
+      },
+      {
+        "title": "郑钦文晋级中网八强",
+        "hot": 7520951,
+        "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E6%99%8B%E7%BA%A7%E4%B8%AD%E7%BD%91%E5%85%AB%E5%BC%BA",
+        "source": "百度"
+      },
+      {
+        "title": "时隔14年进口片再夺国庆档票房日冠",
+        "hot": 7428652,
+        "url": "https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%9414%E5%B9%B4%E8%BF%9B%E5%8F%A3%E7%89%87%E5%86%8D%E5%A4%BA%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E6%97%A5%E5%86%A0",
+        "source": "百度"
+      },
+      {
+        "title": "吴奇隆 不赚钱也是这个立场",
+        "hot": 7330510,
+        "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%A5%87%E9%9A%86%20%E4%B8%8D%E8%B5%9A%E9%92%B1%E4%B9%9F%E6%98%AF%E8%BF%99%E4%B8%AA%E7%AB%8B%E5%9C%BA",
+        "source": "百度"
+      },
+      {
+        "title": "国乒混双组合全部出局",
+        "hot": 7232824,
+        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E6%B7%B7%E5%8F%8C%E7%BB%84%E5%90%88%E5%85%A8%E9%83%A8%E5%87%BA%E5%B1%80",
+        "source": "百度"
+      },
+      {
+        "title": "离加油站20米燃油耗尽 车主求助被拒",
+        "hot": 7136967,
+        "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%8A%A0%E6%B2%B9%E7%AB%9920%E7%B1%B3%E7%87%83%E6%B2%B9%E8%80%97%E5%B0%BD%20%E8%BD%A6%E4%B8%BB%E6%B1%82%E5%8A%A9%E8%A2%AB%E6%8B%92",
+        "source": "百度"
+      },
+      {
+        "title": "孙颖莎：昨晚有点发烧 不用过度担心",
+        "hot": 7041140,
+        "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%EF%BC%9A%E6%98%A8%E6%99%9A%E6%9C%89%E7%82%B9%E5%8F%91%E7%83%A7%20%E4%B8%8D%E7%94%A8%E8%BF%87%E5%BA%A6%E6%8B%85%E5%BF%83",
+        "source": "百度"
+      },
+      {
+        "title": "手机价格在涨 掏钱的理由没涨",
+        "hot": 6946532,
+        "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E5%9C%A8%E6%B6%A8%20%E6%8E%8F%E9%92%B1%E7%9A%84%E7%90%86%E7%94%B1%E6%B2%A1%E6%B6%A8",
+        "source": "百度"
+      },
+      {
+        "title": "泰山辟谣网传躲雨80元1小时",
+        "hot": 6848881,
+        "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%B1%B1%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E8%BA%B2%E9%9B%A880%E5%85%831%E5%B0%8F%E6%97%B6",
+        "source": "百度"
+      },
+      {
+        "title": "C罗重磅声明",
+        "hot": 6760741,
+        "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%87%8D%E7%A3%85%E5%A3%B0%E6%98%8E",
+        "source": "百度"
+      },
+      {
+        "title": "58岁主妇假期在景区当兼职NPC",
+        "hot": 6667029,
+        "url": "https://www.baidu.com/s?wd=58%E5%B2%81%E4%B8%BB%E5%A6%87%E5%81%87%E6%9C%9F%E5%9C%A8%E6%99%AF%E5%8C%BA%E5%BD%93%E5%85%BC%E8%81%8CNPC",
+        "source": "百度"
+      },
+      {
+        "title": "国庆13名中国游客在埃及遇车祸受伤",
+        "hot": 6566922,
+        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%8613%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%9F%83%E5%8F%8A%E9%81%87%E8%BD%A6%E7%A5%B8%E5%8F%97%E4%BC%A4",
+        "source": "百度"
       }
     ],
     "36kr": [
       {
         "title": "数学大爆炸，OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
-        "hot": 115,
+        "hot": 117,
         "url": "https://www.36kr.com/p/4015128916676736",
         "source": "36氪"
       },
@@ -277,190 +461,6 @@
         "source": "36氪"
       }
     ],
-    "weibo": [
-      {
-        "title": "门诊告示豆包诊断患者改问千问",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%97%A8%E8%AF%8A%E5%91%8A%E7%A4%BA%E8%B1%86%E5%8C%85%E8%AF%8A%E6%96%AD%E6%82%A3%E8%80%85%E6%94%B9%E9%97%AE%E5%8D%83%E9%97%AE",
-        "source": "微博"
-      },
-      {
-        "title": "建议女孩子多用原相机拍照",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A5%B3%E5%AD%A9%E5%AD%90%E5%A4%9A%E7%94%A8%E5%8E%9F%E7%9B%B8%E6%9C%BA%E6%8B%8D%E7%85%A7",
-        "source": "微博"
-      },
-      {
-        "title": "国庆假期北大仓秋收正酣",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%8C%97%E5%A4%A7%E4%BB%93%E7%A7%8B%E6%94%B6%E6%AD%A3%E9%85%A3",
-        "source": "微博"
-      },
-      {
-        "title": "对手谈孙颖莎比赛状态",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%AF%B9%E6%89%8B%E8%B0%88%E5%AD%99%E9%A2%96%E8%8E%8E%E6%AF%94%E8%B5%9B%E7%8A%B6%E6%80%81",
-        "source": "微博"
-      },
-      {
-        "title": "王星失联前向女友求救发猫喂了没",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%98%9F%E5%A4%B1%E8%81%94%E5%89%8D%E5%90%91%E5%A5%B3%E5%8F%8B%E6%B1%82%E6%95%91%E5%8F%91%E7%8C%AB%E5%96%82%E4%BA%86%E6%B2%A1",
-        "source": "微博"
-      },
-      {
-        "title": "曝王晓慧有孩子了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%8E%8B%E6%99%93%E6%85%A7%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "众多台湾艺人明确一个中国立场",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BC%97%E5%A4%9A%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E6%98%8E%E7%A1%AE%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E7%AB%8B%E5%9C%BA",
-        "source": "微博"
-      },
-      {
-        "title": "代露娃 谢谢所有骂醒我的人",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BB%A3%E9%9C%B2%E5%A8%83%20%E8%B0%A2%E8%B0%A2%E6%89%80%E6%9C%89%E9%AA%82%E9%86%92%E6%88%91%E7%9A%84%E4%BA%BA",
-        "source": "微博"
-      },
-      {
-        "title": "时代峰峻超likeTOP20",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%B6%85likeTOP20",
-        "source": "微博"
-      },
-      {
-        "title": "孙颖莎爆冷止步32强",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%88%86%E5%86%B7%E6%AD%A2%E6%AD%A532%E5%BC%BA",
-        "source": "微博"
-      },
-      {
-        "title": "网红小四爷 缅北",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%9B%9B%E7%88%B7%20%E7%BC%85%E5%8C%97",
-        "source": "微博"
-      },
-      {
-        "title": "俄罗斯现不明原因肺炎死亡病例",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B",
-        "source": "微博"
-      },
-      {
-        "title": "九个舅舅染不同发色参加侄女婚礼",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E4%B8%AA%E8%88%85%E8%88%85%E6%9F%93%E4%B8%8D%E5%90%8C%E5%8F%91%E8%89%B2%E5%8F%82%E5%8A%A0%E4%BE%84%E5%A5%B3%E5%A9%9A%E7%A4%BC",
-        "source": "微博"
-      },
-      {
-        "title": "国乒首次无缘中国大满贯混双领奖台",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E9%A6%96%E6%AC%A1%E6%97%A0%E7%BC%98%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E6%B7%B7%E5%8F%8C%E9%A2%86%E5%A5%96%E5%8F%B0",
-        "source": "微博"
-      },
-      {
-        "title": "檀健次卢昱晓 身高差",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%8D%A2%E6%98%B1%E6%99%93%20%E8%BA%AB%E9%AB%98%E5%B7%AE",
-        "source": "微博"
-      }
-    ],
-    "baidu": [
-      {
-        "title": "幸福都是奋斗出来的",
-        "hot": 7904446,
-        "url": "https://www.baidu.com/s?wd=%E5%B9%B8%E7%A6%8F%E9%83%BD%E6%98%AF%E5%A5%8B%E6%96%97%E5%87%BA%E6%9D%A5%E7%9A%84",
-        "source": "百度"
-      },
-      {
-        "title": "孙颖莎爆冷1-3不敌泰国选手",
-        "hot": 7808389,
-        "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%88%86%E5%86%B71-3%E4%B8%8D%E6%95%8C%E6%B3%B0%E5%9B%BD%E9%80%89%E6%89%8B",
-        "source": "百度"
-      },
-      {
-        "title": "上3休1再上5休2",
-        "hot": 7711790,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%8A3%E4%BC%911%E5%86%8D%E4%B8%8A5%E4%BC%912",
-        "source": "百度"
-      },
-      {
-        "title": "中国新能源跑出四个“全球第一”",
-        "hot": 7618048,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%B7%91%E5%87%BA%E5%9B%9B%E4%B8%AA%E2%80%9C%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "郑钦文晋级中网八强",
-        "hot": 7524044,
-        "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E6%99%8B%E7%BA%A7%E4%B8%AD%E7%BD%91%E5%85%AB%E5%BC%BA",
-        "source": "百度"
-      },
-      {
-        "title": "时隔14年进口片再夺国庆档票房日冠",
-        "hot": 7424052,
-        "url": "https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%9414%E5%B9%B4%E8%BF%9B%E5%8F%A3%E7%89%87%E5%86%8D%E5%A4%BA%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E6%97%A5%E5%86%A0",
-        "source": "百度"
-      },
-      {
-        "title": "吴奇隆 不赚钱也是这个立场",
-        "hot": 7333561,
-        "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%A5%87%E9%9A%86%20%E4%B8%8D%E8%B5%9A%E9%92%B1%E4%B9%9F%E6%98%AF%E8%BF%99%E4%B8%AA%E7%AB%8B%E5%9C%BA",
-        "source": "百度"
-      },
-      {
-        "title": "国乒混双组合全部出局",
-        "hot": 7235308,
-        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E6%B7%B7%E5%8F%8C%E7%BB%84%E5%90%88%E5%85%A8%E9%83%A8%E5%87%BA%E5%B1%80",
-        "source": "百度"
-      },
-      {
-        "title": "离加油站20米燃油耗尽 车主求助被拒",
-        "hot": 7141596,
-        "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%8A%A0%E6%B2%B9%E7%AB%9920%E7%B1%B3%E7%87%83%E6%B2%B9%E8%80%97%E5%B0%BD%20%E8%BD%A6%E4%B8%BB%E6%B1%82%E5%8A%A9%E8%A2%AB%E6%8B%92",
-        "source": "百度"
-      },
-      {
-        "title": "孙颖莎：昨晚有点发烧 不用过度担心",
-        "hot": 7044678,
-        "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%EF%BC%9A%E6%98%A8%E6%99%9A%E6%9C%89%E7%82%B9%E5%8F%91%E7%83%A7%20%E4%B8%8D%E7%94%A8%E8%BF%87%E5%BA%A6%E6%8B%85%E5%BF%83",
-        "source": "百度"
-      },
-      {
-        "title": "WTT中国大满贯梁靖崑1比3郭冠宏",
-        "hot": 6946215,
-        "url": "https://www.baidu.com/s?wd=WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E6%A2%81%E9%9D%96%E5%B4%911%E6%AF%943%E9%83%AD%E5%86%A0%E5%AE%8F",
-        "source": "百度"
-      },
-      {
-        "title": "泰山辟谣网传躲雨80元1小时",
-        "hot": 6849057,
-        "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%B1%B1%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E8%BA%B2%E9%9B%A880%E5%85%831%E5%B0%8F%E6%97%B6",
-        "source": "百度"
-      },
-      {
-        "title": "孙颖莎止步中国大满贯32强",
-        "hot": 6757445,
-        "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%AD%A2%E6%AD%A5%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF32%E5%BC%BA",
-        "source": "百度"
-      },
-      {
-        "title": "手机价格在涨 掏钱的理由没涨",
-        "hot": 6665937,
-        "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E5%9C%A8%E6%B6%A8%20%E6%8E%8F%E9%92%B1%E7%9A%84%E7%90%86%E7%94%B1%E6%B2%A1%E6%B6%A8",
-        "source": "百度"
-      },
-      {
-        "title": "C罗重磅声明",
-        "hot": 6569200,
-        "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%87%8D%E7%A3%85%E5%A3%B0%E6%98%8E",
-        "source": "百度"
-      }
-    ],
     "juejin": [
       {
         "title": "副业搞起来，小说，漫画，漫剧的成本优化思路",
@@ -547,7 +547,7 @@
         "source": "掘金"
       },
       {
-        "title": "Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁",
+        "title": "Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework ���选谁",
         "hot": 81,
         "url": "https://juejin.cn/post/7692612898275967002",
         "source": "掘金"
@@ -557,49 +557,49 @@
   "github": [
     {
       "title": "storytold/photocraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 16130",
+      "hot": "⭐ 16284",
       "url": "https://github.com/storytold/photocraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "openai/math",
-      "hot": "⭐ 9134",
+      "hot": "⭐ 9201",
       "url": "https://github.com/openai/math",
       "source": "GitHub",
       "tag": "Lean"
     },
     {
       "title": "rehan-remade/universal-modder —— Point Claude at any game. Skills, tools ",
-      "hot": "⭐ 5152",
+      "hot": "⭐ 5165",
       "url": "https://github.com/rehan-remade/universal-modder",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "storytold/filmcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 3107",
+      "hot": "⭐ 3142",
       "url": "https://github.com/storytold/filmcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "storytold/lightcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 2825",
+      "hot": "⭐ 2857",
       "url": "https://github.com/storytold/lightcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "storytold/pdfcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 2180",
+      "hot": "⭐ 2207",
       "url": "https://github.com/storytold/pdfcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "storytold/vectorcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 2085",
+      "hot": "⭐ 2108",
       "url": "https://github.com/storytold/vectorcraft",
       "source": "GitHub",
       "tag": "Rust"
@@ -613,7 +613,7 @@
     },
     {
       "title": "nanaism/yomiyasu —— AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent ",
-      "hot": "⭐ 1700",
+      "hot": "⭐ 1701",
       "url": "https://github.com/nanaism/yomiyasu",
       "source": "GitHub",
       "tag": "Python"
@@ -627,28 +627,28 @@
     },
     {
       "title": "kargulstudio/sales-crm",
-      "hot": "⭐ 1633",
+      "hot": "⭐ 1634",
       "url": "https://github.com/kargulstudio/sales-crm",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "deadinside28/bloodborne_pc",
-      "hot": "⭐ 1595",
+      "hot": "⭐ 1605",
       "url": "https://github.com/deadinside28/bloodborne_pc",
       "source": "GitHub",
       "tag": "C++"
     },
     {
       "title": "storytold/effectcraft",
-      "hot": "⭐ 1569",
+      "hot": "⭐ 1585",
       "url": "https://github.com/storytold/effectcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "alchaincyf/huashu-art-motion —— 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "hot": "⭐ 1551",
+      "hot": "⭐ 1555",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
       "source": "GitHub",
       "tag": "JavaScript"
