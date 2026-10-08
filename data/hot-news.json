@@ -1,187 +1,101 @@
 {
-  "updatedAt": "2026-10-08T18:31:01.588Z",
+  "updatedAt": "2026-10-08T19:01:27.451Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "Whistle: Speech to Text in 16.9 MB",
-        "hot": 133,
+        "hot": 170,
         "url": "https://cactuscompute.com/blog/whistle",
         "source": "HackerNews"
       },
       {
         "title": "Trump administration is suspending Microsoft from a green card program",
-        "hot": 509,
+        "hot": 578,
         "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
         "source": "HackerNews"
       },
       {
+        "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
+        "hot": 23,
+        "url": "https://github.com/p10node/k10s",
+        "source": "HackerNews"
+      },
+      {
         "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-        "hot": 34,
+        "hot": 41,
         "url": "https://openrouter.ai/stepfun/step-5-preview",
         "source": "HackerNews"
       },
       {
-        "title": "Beauty in DVD Menus",
-        "hot": 187,
-        "url": "https://vale.rocks/posts/dvd-menus",
-        "source": "HackerNews"
-      },
-      {
         "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
-        "hot": 59,
+        "hot": 66,
         "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
         "source": "HackerNews"
       },
       {
         "title": "“Math 2.0” will need to value mathematical progress more holistically",
-        "hot": 561,
+        "hot": 568,
         "url": "https://mathstodon.xyz/@tao/117395269325940185",
         "source": "HackerNews"
       },
       {
+        "title": "Beauty in DVD Menus",
+        "hot": 190,
+        "url": "https://vale.rocks/posts/dvd-menus",
+        "source": "HackerNews"
+      },
+      {
         "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
-        "hot": 144,
+        "hot": 166,
         "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
         "source": "HackerNews"
       },
       {
         "title": "The Slow Formation of Durable Software",
-        "hot": 206,
+        "hot": 215,
         "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
         "source": "HackerNews"
       },
       {
         "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-        "hot": 538,
+        "hot": 560,
         "url": "https://news.ycombinator.com/item?id=50006366",
         "source": "HackerNews"
       },
       {
         "title": "OpenAI annualised revenues $20B less than previously signalled",
-        "hot": 104,
+        "hot": 142,
         "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
         "source": "HackerNews"
       },
       {
+        "title": "The Deeply Impersonal Personalized Recruiter Mail",
+        "hot": 17,
+        "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
+        "source": "HackerNews"
+      },
+      {
         "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-        "hot": 271,
+        "hot": 281,
         "url": "https://quesma.com/blog/invisible-cities-one-shot/",
         "source": "HackerNews"
       },
       {
         "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-        "hot": 61,
+        "hot": 65,
         "url": "https://github.com/SamsungLabs/LittleBit",
         "source": "HackerNews"
       },
       {
-        "title": "The Deeply Impersonal Personalized Recruiter Mail",
-        "hot": 15,
-        "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
-        "source": "HackerNews"
-      },
-      {
         "title": "Claude Haiku 5.5",
-        "hot": 1020,
+        "hot": 1026,
         "url": "https://www.anthropic.com/claude-haiku-5-5",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Telnet BBS Guide",
-        "hot": 87,
-        "url": "https://www.telnetbbsguide.com/",
         "source": "HackerNews"
       }
     ],
     "zhihu": [
       {
-        "title": "祁连县官方回应征用宿舍事件，称宿舍已复原消杀，给学生发放文创礼包，如何评价这次处置与善后措施？",
-        "hot": 5740000,
-        "url": "https://www.zhihu.com/question/2091499233140651300",
-        "source": "知乎"
-      },
-      {
-        "title": "车子熄火距加油站仅 20 米，加油员拒绝打散装汽油，车主花 350 元拖车到加油站，到底是谁的问题？",
-        "hot": 5130000,
-        "url": "https://www.zhihu.com/question/2091483293715846400",
-        "source": "知乎"
-      },
-      {
-        "title": "央行发布关于人民币汇率的政策立场，称中国没有必要，也无意通过汇率贬值获取贸易竞争优势，如何解读？",
-        "hot": 4300000,
-        "url": "https://www.zhihu.com/question/2091589191394185200",
-        "source": "知乎"
-      },
-      {
-        "title": "购房者买房多年才得知客厅正上方天台埋着一座土坟，房东和物业应承担责任吗？购房者应怎样维权？",
-        "hot": 3760000,
-        "url": "https://www.zhihu.com/question/2091475651387547600",
-        "source": "知乎"
-      },
-      {
-        "title": "如何评价字节Seed团队发现DeepSeek性能漂移？",
-        "hot": 3260000,
-        "url": "https://www.zhihu.com/question/2091513666864682200",
-        "source": "知乎"
-      },
-      {
-        "title": "国庆电影票房以 11.65 亿收官，创十三年来新低，如何看待国庆档电影票房持续走低？",
-        "hot": 2540000,
-        "url": "https://www.zhihu.com/question/2091479232845238800",
-        "source": "知乎"
-      },
-      {
-        "title": "跳水运动员张家齐和她母亲的关系揭示了中国式母女的哪些问题？",
-        "hot": 1870000,
-        "url": "https://www.zhihu.com/question/2088041826112618800",
-        "source": "知乎"
-      },
-      {
-        "title": "我国房地产进入存量时代，二手房交易占比超 50%，现房销售是大势所趋，普通人买房该如何调整思路？",
-        "hot": 1830000,
-        "url": "https://www.zhihu.com/question/2084228022954111700",
-        "source": "知乎"
-      },
-      {
-        "title": "国内有哪些「德不配位」的 5A 级景区？",
-        "hot": 1770000,
-        "url": "https://www.zhihu.com/question/641121892",
-        "source": "知乎"
-      },
-      {
-        "title": "德法提议设贸易「紧急切断开关」指向中国，将对中欧经贸产生何种影响？",
-        "hot": 1710000,
-        "url": "https://www.zhihu.com/question/2090751605838815500",
-        "source": "知乎"
-      },
-      {
-        "title": "俄罗斯官方将研究员死因定性为不明病因肺炎，为啥外界会联系到「鼠疫」？网传四种感染来源的说法哪种更合理？",
-        "hot": 1630000,
-        "url": "https://www.zhihu.com/question/2091484309827712000",
-        "source": "知乎"
-      },
-      {
-        "title": "为了实现Token自由，自己买GPU值得吗？",
-        "hot": 1550000,
-        "url": "https://www.zhihu.com/question/2080572349796168700",
-        "source": "知乎"
-      },
-      {
-        "title": "女子在美容院做「排毒水光肌」套餐，灌肠时肠子被捅破致肠穿孔，这有多危险？美容院要承担哪些责任？",
-        "hot": 1410000,
-        "url": "https://www.zhihu.com/question/2091169766090043400",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待现在大部分零零后学生几乎不会使用网址进行搜索？",
-        "hot": 1340000,
-        "url": "https://www.zhihu.com/question/2081375256166637600",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待 DeepSeek 估值已接近 5000 亿元？",
-        "hot": 1300000,
-        "url": "https://www.zhihu.com/question/2091466415639196400",
+        "title": "暂无数据",
         "source": "知乎"
       }
     ],
@@ -205,39 +119,9 @@
         "source": "微博"
       },
       {
-        "title": "王楚然请回答",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%AF%B7%E5%9B%9E%E7%AD%94",
-        "source": "微博"
-      },
-      {
-        "title": "��鼠疫会人传人",
+        "title": "肺鼠疫会人传人",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E8%82%BA%E9%BC%A0%E7%96%AB%E4%BC%9A%E4%BA%BA%E4%BC%A0%E4%BA%BA",
-        "source": "微博"
-      },
-      {
-        "title": "肖战 南京演唱会",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
-        "source": "微博"
-      },
-      {
-        "title": "崔晋李勒优聊天记录",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%B4%94%E6%99%8B%E6%9D%8E%E5%8B%92%E4%BC%98%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
-        "source": "微博"
-      },
-      {
-        "title": "国庆返程警惕航班理赔电信诈骗",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%BA%86%E8%BF%94%E7%A8%8B%E8%AD%A6%E6%83%95%E8%88%AA%E7%8F%AD%E7%90%86%E8%B5%94%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%97",
-        "source": "微博"
-      },
-      {
-        "title": "林依晨老公",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E8%80%81%E5%85%AC",
         "source": "微博"
       },
       {
@@ -247,15 +131,39 @@
         "source": "微博"
       },
       {
-        "title": "警方通报小区楼顶发现可疑骨头",
+        "title": "崔晋李勒优聊天记录",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%8C%BA%E6%A5%BC%E9%A1%B6%E5%8F%91%E7%8E%B0%E5%8F%AF%E7%96%91%E9%AA%A8%E5%A4%B4",
+        "url": "https://s.weibo.com/weibo?q=%E5%B4%94%E6%99%8B%E6%9D%8E%E5%8B%92%E4%BC%98%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
+        "source": "微博"
+      },
+      {
+        "title": "林依晨老公",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E8%80%81%E5%85%AC",
+        "source": "微博"
+      },
+      {
+        "title": "李一桐le成断层第一",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90le%E6%88%90%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80",
         "source": "微博"
       },
       {
         "title": "原来花千骨当时那么惨啊",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%8A%B1%E5%8D%83%E9%AA%A8%E5%BD%93%E6%97%B6%E9%82%A3%E4%B9%88%E6%83%A8%E5%95%8A",
+        "source": "微博"
+      },
+      {
+        "title": "警方通报小区楼顶发现可疑骨头",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%8C%BA%E6%A5%BC%E9%A1%B6%E5%8F%91%E7%8E%B0%E5%8F%AF%E7%96%91%E9%AA%A8%E5%A4%B4",
+        "source": "微博"
+      },
+      {
+        "title": "肖战 南京演唱会",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
         "source": "微博"
       },
       {
@@ -271,9 +179,15 @@
         "source": "微博"
       },
       {
-        "title": "李一桐le成断层第一",
+        "title": "新冠刚开始也是不明原因肺炎",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90le%E6%88%90%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80",
+        "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%86%A0%E5%88%9A%E5%BC%80%E5%A7%8B%E4%B9%9F%E6%98%AF%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E",
+        "source": "微博"
+      },
+      {
+        "title": "张馨予和老公何捷在讨论给鱼坐月子",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%92%8C%E8%80%81%E5%85%AC%E4%BD%95%E6%8D%B7%E5%9C%A8%E8%AE%A8%E8%AE%BA%E7%BB%99%E9%B1%BC%E5%9D%90%E6%9C%88%E5%AD%90",
         "source": "微博"
       }
     ],
@@ -322,20 +236,20 @@
       },
       {
         "title": "成年人快速恢复状态的最好方式：2个字",
-        "hot": 19,
+        "hot": 20,
         "url": "https://www.36kr.com/p/4016425126793088",
-        "source": "36氪"
-      },
-      {
-        "title": "黄仁勋发布史上最强 Surface，专为「无限智能」设计",
-        "hot": 19,
-        "url": "https://www.36kr.com/p/4016617817837441",
         "source": "36氪"
       },
       {
         "title": "游戏公司最想要的社区，被小红书做成了“一座岛”",
         "hot": 19,
         "url": "https://www.36kr.com/p/4016849977364614",
+        "source": "36氪"
+      },
+      {
+        "title": "黄仁勋发布史上最强 Surface，专为「无限智能」设计",
+        "hot": 19,
+        "url": "https://www.36kr.com/p/4016617817837441",
         "source": "36氪"
       },
       {
@@ -372,92 +286,92 @@
     "baidu": [
       {
         "title": "循着总书记足迹探寻中华文脉",
-        "hot": 7904471,
+        "hot": 7903951,
         "url": "https://www.baidu.com/s?wd=%E5%BE%AA%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B6%B3%E8%BF%B9%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%8D%8E%E6%96%87%E8%84%89",
         "source": "百度"
       },
       {
         "title": "“为了看短剧 我妈两年花22万”",
-        "hot": 7809789,
+        "hot": 7808126,
         "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%BA%E4%BA%86%E7%9C%8B%E7%9F%AD%E5%89%A7%20%E6%88%91%E5%A6%88%E4%B8%A4%E5%B9%B4%E8%8A%B122%E4%B8%87%E2%80%9D",
         "source": "百度"
       },
       {
         "title": "三甲医生回应“喝大水”",
-        "hot": 7713959,
+        "hot": 7712146,
         "url": "https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E2%80%9C%E5%96%9D%E5%A4%A7%E6%B0%B4%E2%80%9D",
         "source": "百度"
       },
       {
-        "title": "一批重��工程刷新“进度条”",
-        "hot": 7619592,
+        "title": "一批重大工程刷新“进度条”",
+        "hot": 7618318,
         "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%89%B9%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E5%88%B7%E6%96%B0%E2%80%9C%E8%BF%9B%E5%BA%A6%E6%9D%A1%E2%80%9D",
         "source": "百度"
       },
       {
         "title": "“考不上清北就去清北工作”",
-        "hot": 7524439,
+        "hot": 7522439,
         "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%80%83%E4%B8%8D%E4%B8%8A%E6%B8%85%E5%8C%97%E5%B0%B1%E5%8E%BB%E6%B8%85%E5%8C%97%E5%B7%A5%E4%BD%9C%E2%80%9D",
         "source": "百度"
       },
       {
         "title": "139万元的药一年半才等到第一个患者",
-        "hot": 7424408,
+        "hot": 7427920,
         "url": "https://www.baidu.com/s?wd=139%E4%B8%87%E5%85%83%E7%9A%84%E8%8D%AF%E4%B8%80%E5%B9%B4%E5%8D%8A%E6%89%8D%E7%AD%89%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%82%A3%E8%80%85",
         "source": "百度"
       },
       {
         "title": "新郎婚礼当天去医院看病后离世",
-        "hot": 7329477,
+        "hot": 7329662,
         "url": "https://www.baidu.com/s?wd=%E6%96%B0%E9%83%8E%E5%A9%9A%E7%A4%BC%E5%BD%93%E5%A4%A9%E5%8E%BB%E5%8C%BB%E9%99%A2%E7%9C%8B%E7%97%85%E5%90%8E%E7%A6%BB%E4%B8%96",
         "source": "百度"
       },
       {
-        "title": "彭玉从29岁开始演了一辈子老太太",
-        "hot": 7231933,
-        "url": "https://www.baidu.com/s?wd=%E5%BD%AD%E7%8E%89%E4%BB%8E29%E5%B2%81%E5%BC%80%E5%A7%8B%E6%BC%94%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E8%80%81%E5%A4%AA%E5%A4%AA",
-        "source": "百度"
-      },
-      {
-        "title": "女子开超小养老院只收六人",
-        "hot": 7135769,
-        "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E8%B6%85%E5%B0%8F%E5%85%BB%E8%80%81%E9%99%A2%E5%8F%AA%E6%94%B6%E5%85%AD%E4%BA%BA",
-        "source": "百度"
-      },
-      {
-        "title": "诺奖得主获奖��上班欢呼一片",
-        "hot": 7041458,
+        "title": "诺奖得主获奖后上班欢呼一片",
+        "hot": 7235967,
         "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E8%8E%B7%E5%A5%96%E5%90%8E%E4%B8%8A%E7%8F%AD%E6%AC%A2%E5%91%BC%E4%B8%80%E7%89%87",
         "source": "百度"
       },
       {
+        "title": "彭玉从29岁开始演了一辈子老太太",
+        "hot": 7136392,
+        "url": "https://www.baidu.com/s?wd=%E5%BD%AD%E7%8E%89%E4%BB%8E29%E5%B2%81%E5%BC%80%E5%A7%8B%E6%BC%94%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E8%80%81%E5%A4%AA%E5%A4%AA",
+        "source": "百度"
+      },
+      {
         "title": "兰州牛肉面馆 “最强大脑”师傅",
-        "hot": 6949604,
+        "hot": 7042615,
         "url": "https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2%E9%A6%86%20%E2%80%9C%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E2%80%9D%E5%B8%88%E5%82%85",
         "source": "百度"
       },
       {
+        "title": "向佐喝蛋白粉把肾喝成70岁",
+        "hot": 6949316,
+        "url": "https://www.baidu.com/s?wd=%E5%90%91%E4%BD%90%E5%96%9D%E8%9B%8B%E7%99%BD%E7%B2%89%E6%8A%8A%E8%82%BE%E5%96%9D%E6%88%9070%E5%B2%81",
+        "source": "百度"
+      },
+      {
         "title": "“新疆棕熊索食险酿大祸”系编造",
-        "hot": 6848696,
+        "hot": 6850775,
         "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%96%B0%E7%96%86%E6%A3%95%E7%86%8A%E7%B4%A2%E9%A3%9F%E9%99%A9%E9%85%BF%E5%A4%A7%E7%A5%B8%E2%80%9D%E7%B3%BB%E7%BC%96%E9%80%A0",
         "source": "百度"
       },
       {
         "title": "湖南一女局长被举报婚内出轨多人",
-        "hot": 6762451,
+        "hot": 6752476,
         "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%A5%B3%E5%B1%80%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA",
         "source": "百度"
       },
       {
         "title": "俄罗斯“不明原因肺炎”事件发酵",
-        "hot": 6659004,
+        "hot": 6663004,
         "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E2%80%9C%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%8F%91%E9%85%B5",
         "source": "百度"
       },
       {
-        "title": "向佐喝蛋白粉把肾喝成70岁",
-        "hot": 6571470,
-        "url": "https://www.baidu.com/s?wd=%E5%90%91%E4%BD%90%E5%96%9D%E8%9B%8B%E7%99%BD%E7%B2%89%E6%8A%8A%E8%82%BE%E5%96%9D%E6%88%9070%E5%B2%81",
+        "title": "女子捡到一袋5元纸币不知如何处理",
+        "hot": 6571901,
+        "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E4%B8%80%E8%A2%8B5%E5%85%83%E7%BA%B8%E5%B8%81%E4%B8%8D%E7%9F%A5%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86",
         "source": "百度"
       }
     ],
@@ -470,7 +384,7 @@
       },
       {
         "title": "AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了",
-        "hot": 459,
+        "hot": 468,
         "url": "https://juejin.cn/post/7693358476032049162",
         "source": "掘金"
       },
@@ -482,12 +396,12 @@
       },
       {
         "title": "9、古代没有程序员，但蒲松龄们早就被\"裁员\"过了",
-        "hot": 405,
+        "hot": 414,
         "url": "https://juejin.cn/post/7693144953569493043",
         "source": "掘金"
       },
       {
-        "title": "Android 以后可能���会再有横竖屏适配了",
+        "title": "Android 以后可能不��再有横竖屏适配了",
         "hot": 333,
         "url": "https://juejin.cn/post/7694064588329320490",
         "source": "掘金"
@@ -511,20 +425,20 @@
         "source": "掘金"
       },
       {
+        "title": "做全栈是前端骗局还是出路？",
+        "hot": 243,
+        "url": "https://juejin.cn/post/7694107051320311827",
+        "source": "掘金"
+      },
+      {
         "title": "C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB",
         "hot": 234,
         "url": "https://juejin.cn/post/7693225151681560586",
         "source": "掘金"
       },
       {
-        "title": "做全栈是前端骗局还是出路？",
-        "hot": 234,
-        "url": "https://juejin.cn/post/7694107051320311827",
-        "source": "掘金"
-      },
-      {
         "title": "Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了",
-        "hot": 180,
+        "hot": 189,
         "url": "https://juejin.cn/post/7693909029785042959",
         "source": "掘金"
       },
@@ -557,42 +471,42 @@
   "github": [
     {
       "title": "openai/math",
-      "hot": "⭐ 11838",
+      "hot": "⭐ 11875",
       "url": "https://github.com/openai/math",
       "source": "GitHub",
       "tag": "Lean"
     },
     {
       "title": "storytold/effectcraft",
-      "hot": "⭐ 2477",
+      "hot": "⭐ 2504",
       "url": "https://github.com/storytold/effectcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "alchaincyf/huashu-art-motion —— 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "hot": "⭐ 2377",
+      "hot": "⭐ 2384",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "QingYunA/answer-me-with-html —— Answer me with HTML — an agent skill tha",
-      "hot": "⭐ 2318",
+      "hot": "⭐ 2319",
       "url": "https://github.com/QingYunA/answer-me-with-html",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "deadinside28/bloodborne_pc",
-      "hot": "⭐ 1876",
+      "hot": "⭐ 1883",
       "url": "https://github.com/deadinside28/bloodborne_pc",
       "source": "GitHub",
       "tag": "C++"
     },
     {
       "title": "facebookincubator/muse-gadget-sdk —— Open source SDK to build Muse gadgets",
-      "hot": "⭐ 1779",
+      "hot": "⭐ 1782",
       "url": "https://github.com/facebookincubator/muse-gadget-sdk",
       "source": "GitHub",
       "tag": "C"
@@ -606,56 +520,56 @@
     },
     {
       "title": "storytold/designcraft",
-      "hot": "⭐ 1486",
+      "hot": "⭐ 1508",
       "url": "https://github.com/storytold/designcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "lucasmarkes/hairline —— Six isometric line figures that answer t",
-      "hot": "⭐ 1297",
+      "hot": "⭐ 1302",
       "url": "https://github.com/lucasmarkes/hairline",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "mizorewww/x_gift_bot —— X Premium gift CLI and redemption site",
-      "hot": "⭐ 1071",
+      "hot": "⭐ 1073",
       "url": "https://github.com/mizorewww/x_gift_bot",
       "source": "GitHub",
       "tag": "Go"
     },
     {
       "title": "Jakeschincariol/replica-skill —— Eleven free Claude skills that clone any",
-      "hot": "⭐ 1031",
+      "hot": "⭐ 1033",
       "url": "https://github.com/Jakeschincariol/replica-skill",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "sganggs/Stronghold-Protocol —— 明日方舟「卫戍协议：盟约��非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人",
-      "hot": "⭐ 996",
+      "hot": "⭐ 997",
       "url": "https://github.com/sganggs/Stronghold-Protocol",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "alejandrobujan/tendedero —— Screenshots, hung out to dry. A tiny nat",
-      "hot": "⭐ 943",
+      "hot": "⭐ 944",
       "url": "https://github.com/alejandrobujan/tendedero",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "StayLameBro/backburner —— Your iPhone helps your Mac run a 27B mod",
-      "hot": "⭐ 886",
+      "hot": "⭐ 888",
       "url": "https://github.com/StayLameBro/backburner",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "LoreanXavier/pt-pc —— Native PC port of P.T. (runs from your o",
-      "hot": "⭐ 879",
+      "hot": "⭐ 887",
       "url": "https://github.com/LoreanXavier/pt-pc",
       "source": "GitHub",
       "tag": "C++"
