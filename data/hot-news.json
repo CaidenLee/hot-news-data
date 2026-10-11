@@ -1,102 +1,102 @@
 {
-  "updatedAt": "2026-10-11T21:31:01.120Z",
+  "updatedAt": "2026-10-11T22:01:00.705Z",
   "dailyhot": {
+    "zhihu": [
+      {
+        "title": "暂无数据",
+        "source": "知乎"
+      }
+    ],
     "hackernews": [
       {
         "title": "Total Annihilation, rebuilt for modern computers",
-        "hot": 231,
+        "hot": 258,
         "url": "https://nanolathe.gg",
         "source": "HackerNews"
       },
       {
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "hot": 53,
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "source": "HackerNews"
+      },
+      {
         "title": "Cartographers of North Korea",
-        "hot": 70,
+        "hot": 91,
         "url": "https://cartographers-nk.wonyoung.so/",
         "source": "HackerNews"
       },
       {
         "title": "Do You Have Pre-2012 Onion Issues?",
-        "hot": 141,
-        "url": "https://mailchi.mp/email.theonion.com/archivehunt",
+        "hot": 167,
+        "url": "https://theonion.com/archivehunt/",
         "source": "HackerNews"
       },
       {
         "title": "Chapter 1 of Ways of Seeing by John Berger",
-        "hot": 51,
+        "hot": 54,
         "url": "https://www.ways-of-seeing.com/ch1",
         "source": "HackerNews"
       },
       {
-        "title": "Artificial Insanity",
-        "hot": 39,
-        "url": "https://richwhitehouse.com/index.php?postid=78",
-        "source": "HackerNews"
-      },
-      {
-        "title": "NYC's \"Click to Cancel\" rule is now in effect",
-        "hot": 238,
-        "url": "https://www.nyc.gov/main/click-to-cancel",
-        "source": "HackerNews"
-      },
-      {
         "title": "Terence Tao: Math 2.0 [pdf]",
-        "hot": 259,
+        "hot": 271,
         "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
         "source": "HackerNews"
       },
       {
-        "title": "I guess I'm using WebP now?",
-        "hot": 43,
-        "url": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
+        "title": "NYC's \"Click to Cancel\" rule is now in effect",
+        "hot": 258,
+        "url": "https://www.nyc.gov/main/click-to-cancel",
         "source": "HackerNews"
       },
       {
         "title": "How to Build Wealth as a Career Person",
-        "hot": 89,
+        "hot": 104,
         "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
         "source": "HackerNews"
       },
       {
+        "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+        "hot": 41,
+        "url": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+        "source": "HackerNews"
+      },
+      {
         "title": "IRCv3",
-        "hot": 301,
+        "hot": 311,
         "url": "https://ircv3.net/",
         "source": "HackerNews"
       },
       {
         "title": "The Unreasonable Effectiveness of Vex in NixOS",
-        "hot": 22,
+        "hot": 33,
         "url": "https://blog.kammel.dev/post/nixos_vex/",
         "source": "HackerNews"
       },
       {
         "title": "apsw: Another Python SQLite Wrapper",
-        "hot": 44,
+        "hot": 46,
         "url": "https://github.com/rogerbinns/apsw",
         "source": "HackerNews"
       },
       {
         "title": "The tilde in your PATH may not be your HOME",
-        "hot": 190,
+        "hot": 191,
         "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
         "source": "HackerNews"
       },
       {
         "title": "LineageOS 24.0",
-        "hot": 382,
+        "hot": 387,
         "url": "https://lineageos.org/Changelog-32/",
         "source": "HackerNews"
       },
       {
         "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
-        "hot": 44,
+        "hot": 48,
         "url": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
         "source": "HackerNews"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "暂无数据",
-        "source": "知乎"
       }
     ],
     "weibo": [
@@ -107,9 +107,9 @@
         "source": "微博"
       },
       {
-        "title": "记者暗访有偿陪伴服务",
+        "title": "李娜 郑钦文",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E6%9C%89%E5%81%BF%E9%99%AA%E4%BC%B4%E6%9C%8D%E5%8A%A1",
+        "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%A8%9C%20%E9%83%91%E9%92%A6%E6%96%87",
         "source": "微博"
       },
       {
@@ -119,21 +119,15 @@
         "source": "微博"
       },
       {
-        "title": "今晚8点 双11京东开启",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%99%9A8%E7%82%B9%20%E5%8F%8C11%E4%BA%AC%E4%B8%9C%E5%BC%80%E5%90%AF",
-        "source": "微博"
-      },
-      {
         "title": "郑钦文晒图庆祝夺冠",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%99%92%E5%9B%BE%E5%BA%86%E7%A5%9D%E5%A4%BA%E5%86%A0",
         "source": "微博"
       },
       {
-        "title": "李娜 郑钦文",
+        "title": "关晓彤回应去宋雨琦演唱会",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%A8%9C%20%E9%83%91%E9%92%A6%E6%96%87",
+        "url": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%9B%9E%E5%BA%94%E5%8E%BB%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%BC%94%E5%94%B1%E4%BC%9A",
         "source": "微博"
       },
       {
@@ -149,27 +143,27 @@
         "source": "微博"
       },
       {
-        "title": "郑钦文就差一个大满贯冠军了",
+        "title": "记者暗访有偿陪伴服务",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%B0%B1%E5%B7%AE%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%A0%E5%86%9B%E4%BA%86",
+        "url": "https://s.weibo.com/weibo?q=%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E6%9C%89%E5%81%BF%E9%99%AA%E4%BC%B4%E6%9C%8D%E5%8A%A1",
         "source": "微博"
       },
       {
-        "title": "关晓彤回应去宋雨琦演唱会",
+        "title": "央视曝投资1.2亿项目仅建5个棚",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%9B%9E%E5%BA%94%E5%8E%BB%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%BC%94%E5%94%B1%E4%BC%9A",
-        "source": "微博"
-      },
-      {
-        "title": "中国女性传统坐姿松弛张扬",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E4%BC%A0%E7%BB%9F%E5%9D%90%E5%A7%BF%E6%9D%BE%E5%BC%9B%E5%BC%A0%E6%89%AC",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%8A%95%E8%B5%841.2%E4%BA%BF%E9%A1%B9%E7%9B%AE%E4%BB%85%E5%BB%BA5%E4%B8%AA%E6%A3%9A",
         "source": "微博"
       },
       {
         "title": "老护士辞职后儿科投诉翻倍",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E8%80%81%E6%8A%A4%E5%A3%AB%E8%BE%9E%E8%81%8C%E5%90%8E%E5%84%BF%E7%A7%91%E6%8A%95%E8%AF%89%E7%BF%BB%E5%80%8D",
+        "source": "微博"
+      },
+      {
+        "title": "郑钦文就差一个大满贯冠军了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%B0%B1%E5%B7%AE%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%A0%E5%86%9B%E4%BA%86",
         "source": "微博"
       },
       {
@@ -189,6 +183,196 @@
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%E7%9B%AF%E4%B8%8A%E6%B3%B0%E7%99%BE%E7%B2%89%E4%B8%9D",
         "source": "微博"
+      },
+      {
+        "title": "中国女性传统坐姿松弛张扬",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E4%BC%A0%E7%BB%9F%E5%9D%90%E5%A7%BF%E6%9D%BE%E5%BC%9B%E5%BC%A0%E6%89%AC",
+        "source": "微博"
+      }
+    ],
+    "36kr": [
+      {
+        "title": "免费洗衣、洗车、还报销车费，现在的网吧到底有多狠？",
+        "hot": 75,
+        "url": "https://www.36kr.com/p/4020833109807236",
+        "source": "36氪"
+      },
+      {
+        "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
+        "hot": 82,
+        "url": "https://www.36kr.com/p/4020888466542726",
+        "source": "36氪"
+      },
+      {
+        "title": "陶哲轩博客爆上热搜！25万数学博士临绝境，必须放缓AI",
+        "hot": 14,
+        "url": "https://www.36kr.com/p/4020827950403712",
+        "source": "36氪"
+      },
+      {
+        "title": "比Jev更爆火！逆向灭霸 REA 一天登顶GitHub",
+        "hot": 20,
+        "url": "https://www.36kr.com/p/4020977643671686",
+        "source": "36氪"
+      },
+      {
+        "title": "吴彦祖“中年突围”，52岁开始卖沙发",
+        "hot": 16,
+        "url": "https://www.36kr.com/p/4021010929946761",
+        "source": "36氪"
+      },
+      {
+        "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
+        "hot": 31,
+        "url": "https://www.36kr.com/p/3990015565708035",
+        "source": "36氪"
+      },
+      {
+        "title": "19.9元复刻餐厅招牌菜，“打工人预制菜”精准收割我",
+        "hot": 51,
+        "url": "https://www.36kr.com/p/4020781359747204",
+        "source": "36氪"
+      },
+      {
+        "title": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
+        "hot": 14,
+        "url": "https://www.36kr.com/p/4020977744449666",
+        "source": "36氪"
+      },
+      {
+        "title": "MacBook触控屏落地？「违反祖训」的苹果在想什么？",
+        "hot": 5,
+        "url": "https://www.36kr.com/p/4020034509739913",
+        "source": "36氪"
+      },
+      {
+        "title": "靠短剧暴富的“过气网红”，终于为自己挣回体面",
+        "hot": 17,
+        "url": "https://www.36kr.com/p/4021019671892096",
+        "source": "36氪"
+      },
+      {
+        "title": "陶哲轩在“害怕”什么？",
+        "hot": 32,
+        "url": "https://www.36kr.com/p/4020823823290499",
+        "source": "36氪"
+      },
+      {
+        "title": "“逃离”字节的实习生，融了两个亿",
+        "hot": 26,
+        "url": "https://www.36kr.com/p/4020932497150088",
+        "source": "36氪"
+      },
+      {
+        "title": "李诞代言汉堡王“丑”翻车，笑点为什么没能变成食欲？",
+        "hot": 7,
+        "url": "https://www.36kr.com/p/4020841884276353",
+        "source": "36氪"
+      },
+      {
+        "title": "Claude自己组队查Bug！11.6万行代码揪出66个，单Agent最高只找到27个",
+        "hot": 2,
+        "url": "https://www.36kr.com/p/4020977816539010",
+        "source": "36氪"
+      },
+      {
+        "title": "英美澳欧也禁小孩玩手机？一场全球科技反围剿",
+        "hot": 27,
+        "url": "https://www.36kr.com/p/4020843076767878",
+        "source": "36氪"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "每一代人都要走好自己的长征路",
+        "hot": 7904202,
+        "url": "https://www.baidu.com/s?wd=%E6%AF%8F%E4%B8%80%E4%BB%A3%E4%BA%BA%E9%83%BD%E8%A6%81%E8%B5%B0%E5%A5%BD%E8%87%AA%E5%B7%B1%E7%9A%84%E9%95%BF%E5%BE%81%E8%B7%AF",
+        "source": "百度"
+      },
+      {
+        "title": "创造历史！郑钦文中网夺冠",
+        "hot": 7809089,
+        "url": "https://www.baidu.com/s?wd=%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%EF%BC%81%E9%83%91%E9%92%A6%E6%96%87%E4%B8%AD%E7%BD%91%E5%A4%BA%E5%86%A0",
+        "source": "百度"
+      },
+      {
+        "title": "郑钦文 排名",
+        "hot": 7712013,
+        "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%20%E6%8E%92%E5%90%8D",
+        "source": "百度"
+      },
+      {
+        "title": "这些文物见证伟大远征",
+        "hot": 7619295,
+        "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%96%87%E7%89%A9%E8%A7%81%E8%AF%81%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81",
+        "source": "百度"
+      },
+      {
+        "title": "郑钦文：自己太想赢 赛前不停呕吐",
+        "hot": 7521808,
+        "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%EF%BC%9A%E8%87%AA%E5%B7%B1%E5%A4%AA%E6%83%B3%E8%B5%A2%20%E8%B5%9B%E5%89%8D%E4%B8%8D%E5%81%9C%E5%91%95%E5%90%90",
+        "source": "百度"
+      },
+      {
+        "title": "李娜之后苦等14年",
+        "hot": 7425532,
+        "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%A8%9C%E4%B9%8B%E5%90%8E%E8%8B%A6%E7%AD%8914%E5%B9%B4",
+        "source": "百度"
+      },
+      {
+        "title": "周鸿祎攀岩摔伤致左膝粉碎性骨折",
+        "hot": 7327757,
+        "url": "https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%94%80%E5%B2%A9%E6%91%94%E4%BC%A4%E8%87%B4%E5%B7%A6%E8%86%9D%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98",
+        "source": "百度"
+      },
+      {
+        "title": "郑钦文夺冠后拥抱教练里巴",
+        "hot": 7238908,
+        "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E5%90%8E%E6%8B%A5%E6%8A%B1%E6%95%99%E7%BB%83%E9%87%8C%E5%B7%B4",
+        "source": "百度"
+      },
+      {
+        "title": "胖东来施工现场 干净得像AI",
+        "hot": 7140068,
+        "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA%20%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI",
+        "source": "百度"
+      },
+      {
+        "title": "余依婷三日连夺三金",
+        "hot": 7043949,
+        "url": "https://www.baidu.com/s?wd=%E4%BD%99%E4%BE%9D%E5%A9%B7%E4%B8%89%E6%97%A5%E8%BF%9E%E5%A4%BA%E4%B8%89%E9%87%91",
+        "source": "百度"
+      },
+      {
+        "title": "郑钦文父母现场见证夺冠",
+        "hot": 6952335,
+        "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E7%88%B6%E6%AF%8D%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E5%A4%BA%E5%86%A0",
+        "source": "百度"
+      },
+      {
+        "title": "亲子鉴定32份报告21个非亲生？假的",
+        "hot": 6847520,
+        "url": "https://www.baidu.com/s?wd=%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A32%E4%BB%BD%E6%8A%A5%E5%91%8A21%E4%B8%AA%E9%9D%9E%E4%BA%B2%E7%94%9F%EF%BC%9F%E5%81%87%E7%9A%84",
+        "source": "百度"
+      },
+      {
+        "title": "二十年夫妻因1万元打斗致丈夫死亡",
+        "hot": 6761137,
+        "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%A4%AB%E5%A6%BB%E5%9B%A01%E4%B8%87%E5%85%83%E6%89%93%E6%96%97%E8%87%B4%E4%B8%88%E5%A4%AB%E6%AD%BB%E4%BA%A1",
+        "source": "百度"
+      },
+      {
+        "title": "被字节开除实习生创业获2亿美元估值",
+        "hot": 6656432,
+        "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%AD%97%E8%8A%82%E5%BC%80%E9%99%A4%E5%AE%9E%E4%B9%A0%E7%94%9F%E5%88%9B%E4%B8%9A%E8%8E%B72%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC",
+        "source": "百度"
+      },
+      {
+        "title": "解说哽咽：我们迎来了自己的女单冠军",
+        "hot": 6568153,
+        "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E8%AF%B4%E5%93%BD%E5%92%BD%EF%BC%9A%E6%88%91%E4%BB%AC%E8%BF%8E%E6%9D%A5%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
+        "source": "百度"
       }
     ],
     "juejin": [
@@ -282,294 +466,110 @@
         "url": "https://juejin.cn/post/7694632392432009242",
         "source": "掘金"
       }
-    ],
-    "36kr": [
-      {
-        "title": "免费洗衣、洗车、还报销车费，现在的网吧到底有多狠？",
-        "hot": 75,
-        "url": "https://www.36kr.com/p/4020833109807236",
-        "source": "36氪"
-      },
-      {
-        "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
-        "hot": 82,
-        "url": "https://www.36kr.com/p/4020888466542726",
-        "source": "36氪"
-      },
-      {
-        "title": "陶哲轩博客爆上热搜！25万数学博士临绝境，必须放缓AI",
-        "hot": 14,
-        "url": "https://www.36kr.com/p/4020827950403712",
-        "source": "36氪"
-      },
-      {
-        "title": "比Jev更爆火！逆向灭霸 REA 一天登顶GitHub",
-        "hot": 20,
-        "url": "https://www.36kr.com/p/4020977643671686",
-        "source": "36氪"
-      },
-      {
-        "title": "吴彦祖“中年突围”，52岁开始卖沙发",
-        "hot": 16,
-        "url": "https://www.36kr.com/p/4021010929946761",
-        "source": "36氪"
-      },
-      {
-        "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
-        "hot": 31,
-        "url": "https://www.36kr.com/p/3990015565708035",
-        "source": "36氪"
-      },
-      {
-        "title": "19.9元复刻餐厅招牌菜，“打工人预制菜”精准收割我",
-        "hot": 51,
-        "url": "https://www.36kr.com/p/4020781359747204",
-        "source": "36氪"
-      },
-      {
-        "title": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
-        "hot": 14,
-        "url": "https://www.36kr.com/p/4020977744449666",
-        "source": "36氪"
-      },
-      {
-        "title": "MacBook触控屏落地？「违反祖训」的苹果在想什么？",
-        "hot": 5,
-        "url": "https://www.36kr.com/p/4020034509739913",
-        "source": "36氪"
-      },
-      {
-        "title": "靠短剧暴富的“过气网红”，终于为自己挣回体面",
-        "hot": 17,
-        "url": "https://www.36kr.com/p/4021019671892096",
-        "source": "36氪"
-      },
-      {
-        "title": "陶哲轩在“害怕”什么？",
-        "hot": 31,
-        "url": "https://www.36kr.com/p/4020823823290499",
-        "source": "36氪"
-      },
-      {
-        "title": "“逃离”字节的实习生，融了两个亿",
-        "hot": 26,
-        "url": "https://www.36kr.com/p/4020932497150088",
-        "source": "36氪"
-      },
-      {
-        "title": "李诞代言汉堡王“丑”翻车，笑点为什么没能变成食欲？",
-        "hot": 7,
-        "url": "https://www.36kr.com/p/4020841884276353",
-        "source": "36氪"
-      },
-      {
-        "title": "英美澳欧也禁小孩玩手机？一场全球科技反围剿",
-        "hot": 27,
-        "url": "https://www.36kr.com/p/4020843076767878",
-        "source": "36氪"
-      },
-      {
-        "title": "Claude自己组队查Bug！11.6万行代码揪出66个，单Agent最高只找到27个",
-        "hot": 2,
-        "url": "https://www.36kr.com/p/4020977816539010",
-        "source": "36氪"
-      }
-    ],
-    "baidu": [
-      {
-        "title": "每一代人都要走好自己的长征路",
-        "hot": 7904094,
-        "url": "https://www.baidu.com/s?wd=%E6%AF%8F%E4%B8%80%E4%BB%A3%E4%BA%BA%E9%83%BD%E8%A6%81%E8%B5%B0%E5%A5%BD%E8%87%AA%E5%B7%B1%E7%9A%84%E9%95%BF%E5%BE%81%E8%B7%AF",
-        "source": "百度"
-      },
-      {
-        "title": "创造历史！郑钦文中网夺冠",
-        "hot": 7808516,
-        "url": "https://www.baidu.com/s?wd=%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%EF%BC%81%E9%83%91%E9%92%A6%E6%96%87%E4%B8%AD%E7%BD%91%E5%A4%BA%E5%86%A0",
-        "source": "百度"
-      },
-      {
-        "title": "郑钦文 排名",
-        "hot": 7712745,
-        "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%20%E6%8E%92%E5%90%8D",
-        "source": "百度"
-      },
-      {
-        "title": "这些文物见证伟大远征",
-        "hot": 7618946,
-        "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%96%87%E7%89%A9%E8%A7%81%E8%AF%81%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81",
-        "source": "百度"
-      },
-      {
-        "title": "郑钦文：自己太想赢 赛前不停呕吐",
-        "hot": 7522189,
-        "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%EF%BC%9A%E8%87%AA%E5%B7%B1%E5%A4%AA%E6%83%B3%E8%B5%A2%20%E8%B5%9B%E5%89%8D%E4%B8%8D%E5%81%9C%E5%91%95%E5%90%90",
-        "source": "百度"
-      },
-      {
-        "title": "李娜之后苦等14年",
-        "hot": 7427368,
-        "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%A8%9C%E4%B9%8B%E5%90%8E%E8%8B%A6%E7%AD%8914%E5%B9%B4",
-        "source": "百度"
-      },
-      {
-        "title": "周鸿祎攀岩摔伤致左膝粉碎性骨折",
-        "hot": 7333225,
-        "url": "https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%94%80%E5%B2%A9%E6%91%94%E4%BC%A4%E8%87%B4%E5%B7%A6%E8%86%9D%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98",
-        "source": "百度"
-      },
-      {
-        "title": "郑钦文夺冠后拥抱教练里巴",
-        "hot": 7236573,
-        "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E5%90%8E%E6%8B%A5%E6%8A%B1%E6%95%99%E7%BB%83%E9%87%8C%E5%B7%B4",
-        "source": "百度"
-      },
-      {
-        "title": "余依婷三日连夺三金",
-        "hot": 7143405,
-        "url": "https://www.baidu.com/s?wd=%E4%BD%99%E4%BE%9D%E5%A9%B7%E4%B8%89%E6%97%A5%E8%BF%9E%E5%A4%BA%E4%B8%89%E9%87%91",
-        "source": "百度"
-      },
-      {
-        "title": "胖东来施工现场 干净得像AI",
-        "hot": 7041332,
-        "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA%20%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI",
-        "source": "百度"
-      },
-      {
-        "title": "搜“中国石油”被导航到“中国加油”",
-        "hot": 6945707,
-        "url": "https://www.baidu.com/s?wd=%E6%90%9C%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E2%80%9D%E8%A2%AB%E5%AF%BC%E8%88%AA%E5%88%B0%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8A%A0%E6%B2%B9%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "亲子鉴定32份报告21个非亲生？假的",
-        "hot": 6853395,
-        "url": "https://www.baidu.com/s?wd=%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A32%E4%BB%BD%E6%8A%A5%E5%91%8A21%E4%B8%AA%E9%9D%9E%E4%BA%B2%E7%94%9F%EF%BC%9F%E5%81%87%E7%9A%84",
-        "source": "百度"
-      },
-      {
-        "title": "二十年夫妻因1万元打斗致丈夫死亡",
-        "hot": 6760548,
-        "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%A4%AB%E5%A6%BB%E5%9B%A01%E4%B8%87%E5%85%83%E6%89%93%E6%96%97%E8%87%B4%E4%B8%88%E5%A4%AB%E6%AD%BB%E4%BA%A1",
-        "source": "百度"
-      },
-      {
-        "title": "中央考核巡查专家：你们这么挂灯没用",
-        "hot": 6659792,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E8%80%83%E6%A0%B8%E5%B7%A1%E6%9F%A5%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E6%8C%82%E7%81%AF%E6%B2%A1%E7%94%A8",
-        "source": "百度"
-      },
-      {
-        "title": "山东大爷一开口网友听出“伦敦腔”",
-        "hot": 6570912,
-        "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E7%88%B7%E4%B8%80%E5%BC%80%E5%8F%A3%E7%BD%91%E5%8F%8B%E5%90%AC%E5%87%BA%E2%80%9C%E4%BC%A6%E6%95%A6%E8%85%94%E2%80%9D",
-        "source": "百度"
-      }
     ]
   },
   "github": [
     {
       "title": "openai/math",
-      "hot": "⭐ 14034",
+      "hot": "⭐ 14042",
       "url": "https://github.com/openai/math",
       "source": "GitHub",
       "tag": "Lean"
     },
     {
       "title": "storytold/wordcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 5570",
+      "hot": "⭐ 5645",
       "url": "https://github.com/storytold/wordcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "alchaincyf/huashu-art-motion —— 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "hot": "⭐ 3378",
+      "hot": "⭐ 3379",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "mhtsec/ARTEX —— AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "hot": "⭐ 3132",
+      "hot": "⭐ 3134",
       "url": "https://github.com/mhtsec/ARTEX",
       "source": "GitHub",
       "tag": "Go"
     },
     {
       "title": "wheresryan22/anatomy —— A Claude Code skill that turns a technic",
-      "hot": "⭐ 3028",
+      "hot": "⭐ 3076",
       "url": "https://github.com/wheresryan22/anatomy",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "zhongerxin/iPhone-use —— 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、",
-      "hot": "⭐ 3006",
+      "hot": "⭐ 3008",
       "url": "https://github.com/zhongerxin/iPhone-use",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "storytold/gridcraft —— GridCraft: an open-source, clean-room sp",
-      "hot": "⭐ 2781",
+      "hot": "⭐ 2809",
       "url": "https://github.com/storytold/gridcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "storytold/cadcraft —— CADCraft: computer-aided design and draf",
-      "hot": "⭐ 2566",
+      "hot": "⭐ 2585",
       "url": "https://github.com/storytold/cadcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "nullmoth/nvidia-macos-driver —— Metal driver for NVIDIA GeForce RTX card",
-      "hot": "⭐ 2520",
+      "hot": "⭐ 2521",
       "url": "https://github.com/nullmoth/nvidia-macos-driver",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "LosaLosSantos/aurelio-finance —— Open-source personal finance app with an",
-      "hot": "⭐ 2177",
+      "hot": "⭐ 2183",
       "url": "https://github.com/LosaLosSantos/aurelio-finance",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "t4t5/omdrop-owl —— airdrop for non-apple devices",
-      "hot": "⭐ 2053",
+      "hot": "⭐ 2061",
       "url": "https://github.com/t4t5/omdrop-owl",
       "source": "GitHub",
       "tag": "Shell"
     },
     {
       "title": "storytold/deckcraft —— Presentations and slide shows: an open-s",
-      "hot": "⭐ 1953",
+      "hot": "⭐ 1967",
       "url": "https://github.com/storytold/deckcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "noahdunnagan/fsearch —— Whole-disk file search for macOS: fuzzy ",
-      "hot": "⭐ 1847",
+      "hot": "⭐ 1848",
       "url": "https://github.com/noahdunnagan/fsearch",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "alejandrobujan/tendedero —— Screenshots, hung out to dry. A tiny nat",
-      "hot": "⭐ 1804",
+      "hot": "⭐ 1805",
       "url": "https://github.com/alejandrobujan/tendedero",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "storytold/soundcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 1742",
+      "hot": "⭐ 1757",
       "url": "https://github.com/storytold/soundcraft",
       "source": "GitHub",
       "tag": "Rust"
