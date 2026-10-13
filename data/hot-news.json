@@ -1,9 +1,187 @@
 {
-  "updatedAt": "2026-10-13T06:00:41.201Z",
+  "updatedAt": "2026-10-13T06:30:43.238Z",
   "dailyhot": {
+    "hackernews": [
+      {
+        "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+        "hot": 117,
+        "url": "https://arxiv.org/abs/2610.13928",
+        "source": "HackerNews"
+      },
+      {
+        "title": "The baffling intelligence of a single cell (2024)",
+        "hot": 189,
+        "url": "https://jsomers.net/e-coli-chemotaxis/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "GLM-Legal",
+        "hot": 512,
+        "url": "https://z.ai/blog/glm-legal",
+        "source": "HackerNews"
+      },
+      {
+        "title": "A Modern Web App in C",
+        "hot": 497,
+        "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+        "hot": 156,
+        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+        "hot": 585,
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Who is vfmaddrnd231pd?",
+        "hot": 169,
+        "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+        "hot": 96,
+        "url": "https://github.com/prabanta-dev/janas",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Making big downloads resumable in Firefox",
+        "hot": 158,
+        "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+        "source": "HackerNews"
+      },
+      {
+        "title": "The Dock on Mac, from OS 10 to macOS 27",
+        "hot": 50,
+        "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+        "hot": 15,
+        "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Auto Research: Integer multiplication below n log n",
+        "hot": 42,
+        "url": "https://app.getsupers.com/auto-research",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+        "hot": 315,
+        "url": "https://github.com/h0m3us3r/w1700k-sdr",
+        "source": "HackerNews"
+      },
+      {
+        "title": "AI is a tool and using it well takes skill",
+        "hot": 333,
+        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+        "hot": 126,
+        "url": "https://news.ycombinator.com/item?id=50059096",
+        "source": "HackerNews"
+      }
+    ],
     "zhihu": [
       {
-        "title": "暂无数据",
+        "title": "媒体曝付费可进「中国天眼」核心区，中科院已成立调查组，这会对科研观测造成哪些危害？暴露出哪些管理问题？",
+        "hot": 7370000,
+        "url": "https://www.zhihu.com/question/2092676319515620400",
+        "source": "知乎"
+      },
+      {
+        "title": "王兴兴称过去犯的最大的错是不够相信AI，如何看待此番言论？全力拥抱 AI 会给机器人行业带来哪些改变？",
+        "hot": 3170000,
+        "url": "https://www.zhihu.com/question/2092973079471379000",
+        "source": "知乎"
+      },
+      {
+        "title": "网友称奶茶店做活动爆单后，员工却不涨薪，这是普遍现象吗？这样设置是不是不太合理？",
+        "hot": 3020000,
+        "url": "https://www.zhihu.com/question/2092945260187841300",
+        "source": "知乎"
+      },
+      {
+        "title": "网友称村上春树每天凌晨4点起、晚9点睡，一天工作5小时，剩余时间休息，真的吗？这样的生活方式健康吗？",
+        "hot": 2590000,
+        "url": "https://www.zhihu.com/question/2091885563032727600",
+        "source": "知乎"
+      },
+      {
+        "title": "为什么李一桐演技一般，但每部电视都是女一？",
+        "hot": 2490000,
+        "url": "https://www.zhihu.com/question/405929670",
+        "source": "知乎"
+      },
+      {
+        "title": "媒体曝光内蒙古一投资1.2亿元项目，仅建成5个大棚，承建商为空壳公司，具体是怎么回事？钱还能追回来吗？",
+        "hot": 2370000,
+        "url": "https://www.zhihu.com/question/2092778218403132400",
+        "source": "知乎"
+      },
+      {
+        "title": "问界汽车拟于2027年进入欧洲市场，赛力斯曾表示正推进问界车型全系出海，在海外还能复制国内热度吗？",
+        "hot": 2310000,
+        "url": "https://www.zhihu.com/question/2092949973788784000",
+        "source": "知乎"
+      },
+      {
+        "title": "35岁前策划用5万元的token做出纯AI游戏，他说“单人能搓《原神》”，你认为这是暴论还是预言？",
+        "hot": 2280000,
+        "url": "https://www.zhihu.com/question/2088282544672458000",
+        "source": "知乎"
+      },
+      {
+        "title": "王老菊曾说做游戏是因为「觉得自己也行」，游戏阅历极高，「亏600万」做了7年的游戏将上线，你看好吗？",
+        "hot": 2250000,
+        "url": "https://www.zhihu.com/question/2092242570181075700",
+        "source": "知乎"
+      },
+      {
+        "title": "《潜伏》里的廖三民为什么总笑？",
+        "hot": 1990000,
+        "url": "https://www.zhihu.com/question/332334372",
+        "source": "知乎"
+      },
+      {
+        "title": "第一学历非985/211，找工作经常被卡，要不要去复读、重学高中知识，重新参加高考？",
+        "hot": 1910000,
+        "url": "https://www.zhihu.com/question/2091424208110864100",
+        "source": "知乎"
+      },
+      {
+        "title": "评价马思纯严重浮肿的许鞍华，当年是怎么说的，互联网还有记忆吗？",
+        "hot": 1770000,
+        "url": "https://www.zhihu.com/question/2088914593536008700",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待海贼王漫画1187话，山治觉醒霸王色霸气？",
+        "hot": 1660000,
+        "url": "https://www.zhihu.com/question/2057422653670084900",
+        "source": "知乎"
+      },
+      {
+        "title": "刘国梁16岁女儿刘宇婕登顶高尔夫中国女子公开赛，成赛事创办以来首位业余冠军，哪些信息值得关注？",
+        "hot": 1660000,
+        "url": "https://www.zhihu.com/question/2093019602653536800",
+        "source": "知乎"
+      },
+      {
+        "title": "多家车企高管晒自家刹车部件，这种公关方式有用吗？能打消大众对制动部件的顾虑吗？",
+        "hot": 1650000,
+        "url": "https://www.zhihu.com/question/2092236226006988000",
         "source": "知乎"
       }
     ],
@@ -15,9 +193,9 @@
         "source": "微博"
       },
       {
-        "title": "AI视频已经以假乱真了",
+        "title": "楼上百日宴楼下婚宴最无辜的是孩子",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=AI%E8%A7%86%E9%A2%91%E5%B7%B2%E7%BB%8F%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86",
+        "url": "https://s.weibo.com/weibo?q=%E6%A5%BC%E4%B8%8A%E7%99%BE%E6%97%A5%E5%AE%B4%E6%A5%BC%E4%B8%8B%E5%A9%9A%E5%AE%B4%E6%9C%80%E6%97%A0%E8%BE%9C%E7%9A%84%E6%98%AF%E5%AD%A9%E5%AD%90",
         "source": "微博"
       },
       {
@@ -27,33 +205,21 @@
         "source": "微博"
       },
       {
-        "title": "天猫双11第一波消费券来了",
+        "title": "孙颖莎海尔全球品牌代言人",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E7%8C%AB%E5%8F%8C11%E7%AC%AC%E4%B8%80%E6%B3%A2%E6%B6%88%E8%B4%B9%E5%88%B8%E6%9D%A5%E4%BA%86",
+        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%B5%B7%E5%B0%94%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA",
         "source": "微博"
       },
       {
-        "title": "肖战演唱会���个人只能抢一场的票",
+        "title": "肖战演唱会一个人只能抢一场的票",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8F%AA%E8%83%BD%E6%8A%A2%E4%B8%80%E5%9C%BA%E7%9A%84%E7%A5%A8",
         "source": "微博"
       },
       {
-        "title": "楼上百日宴楼下婚宴最无辜的是孩子",
+        "title": "霸王茶姬赠送奶茶成本加盟商承担",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%A5%BC%E4%B8%8A%E7%99%BE%E6%97%A5%E5%AE%B4%E6%A5%BC%E4%B8%8B%E5%A9%9A%E5%AE%B4%E6%9C%80%E6%97%A0%E8%BE%9C%E7%9A%84%E6%98%AF%E5%AD%A9%E5%AD%90",
-        "source": "微博"
-      },
-      {
-        "title": "理记被禁止关注了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%90%86%E8%AE%B0%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "编造玉米地里有死人被处罚",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%BC%96%E9%80%A0%E7%8E%89%E7%B1%B3%E5%9C%B0%E9%87%8C%E6%9C%89%E6%AD%BB%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%BD%9A",
+        "url": "https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E8%B5%A0%E9%80%81%E5%A5%B6%E8%8C%B6%E6%88%90%E6%9C%AC%E5%8A%A0%E7%9B%9F%E5%95%86%E6%89%BF%E6%8B%85",
         "source": "微博"
       },
       {
@@ -63,9 +229,21 @@
         "source": "微博"
       },
       {
-        "title": "霸王茶姬赠送奶茶成本加盟商承担",
+        "title": "编造玉米地里有死人被处罚",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E8%B5%A0%E9%80%81%E5%A5%B6%E8%8C%B6%E6%88%90%E6%9C%AC%E5%8A%A0%E7%9B%9F%E5%95%86%E6%89%BF%E6%8B%85",
+        "url": "https://s.weibo.com/weibo?q=%E7%BC%96%E9%80%A0%E7%8E%89%E7%B1%B3%E5%9C%B0%E9%87%8C%E6%9C%89%E6%AD%BB%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%BD%9A",
+        "source": "微博"
+      },
+      {
+        "title": "AI视频已经以假乱真了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=AI%E8%A7%86%E9%A2%91%E5%B7%B2%E7%BB%8F%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "理记被禁止关注了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%90%86%E8%AE%B0%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8%E4%BA%86",
         "source": "微博"
       },
       {
@@ -87,9 +265,9 @@
         "source": "微博"
       },
       {
-        "title": "尊界V800公布制动踏板第三方检测结果",
+        "title": "肖战你要培养死士啊",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%B0%8A%E7%95%8CV800%E5%85%AC%E5%B8%83%E5%88%B6%E5%8A%A8%E8%B8%8F%E6%9D%BF%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C",
+        "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E4%BD%A0%E8%A6%81%E5%9F%B9%E5%85%BB%E6%AD%BB%E5%A3%AB%E5%95%8A",
         "source": "微博"
       },
       {
@@ -99,289 +277,99 @@
         "source": "微博"
       }
     ],
-    "hackernews": [
-      {
-        "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-        "hot": 103,
-        "url": "https://arxiv.org/abs/2610.13928",
-        "source": "HackerNews"
-      },
-      {
-        "title": "The baffling intelligence of a single cell (2024)",
-        "hot": 183,
-        "url": "https://jsomers.net/e-coli-chemotaxis/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "GLM-Legal",
-        "hot": 505,
-        "url": "https://z.ai/blog/glm-legal",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-        "hot": 148,
-        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-        "source": "HackerNews"
-      },
-      {
-        "title": "A Modern Web App in C",
-        "hot": 482,
-        "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-        "hot": 568,
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Who is vfmaddrnd231pd?",
-        "hot": 163,
-        "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "The Dock on Mac, from OS 10 to macOS 27",
-        "hot": 44,
-        "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-        "hot": 91,
-        "url": "https://github.com/prabanta-dev/janas",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Making big downloads resumable in Firefox",
-        "hot": 147,
-        "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Auto Research: Integer multiplication below n log n",
-        "hot": 40,
-        "url": "https://app.getsupers.com/auto-research",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-        "hot": 313,
-        "url": "https://github.com/h0m3us3r/w1700k-sdr",
-        "source": "HackerNews"
-      },
-      {
-        "title": "AI is a tool and using it well takes skill",
-        "hot": 318,
-        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-        "hot": 126,
-        "url": "https://news.ycombinator.com/item?id=50059096",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Phreak.ing – Internet Phone Switch",
-        "hot": 111,
-        "url": "https://phreak.ing/",
-        "source": "HackerNews"
-      }
-    ],
     "baidu": [
       {
         "title": "深耕“土特产” 挑稳“金扁担”",
-        "hot": 7904452,
+        "hot": 7904139,
         "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E8%80%95%E2%80%9C%E5%9C%9F%E7%89%B9%E4%BA%A7%E2%80%9D%20%E6%8C%91%E7%A8%B3%E2%80%9C%E9%87%91%E6%89%81%E6%8B%85%E2%80%9D",
         "source": "百度"
       },
       {
         "title": "某部队进出营区路上竟有30余个探头",
-        "hot": 7809208,
+        "hot": 7809628,
         "url": "https://www.baidu.com/s?wd=%E6%9F%90%E9%83%A8%E9%98%9F%E8%BF%9B%E5%87%BA%E8%90%A5%E5%8C%BA%E8%B7%AF%E4%B8%8A%E7%AB%9F%E6%9C%8930%E4%BD%99%E4%B8%AA%E6%8E%A2%E5%A4%B4",
         "source": "百度"
       },
       {
-        "title": "第二经济大省“开抢”年轻人",
-        "hot": 7714681,
-        "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E7%BB%8F%E6%B5%8E%E5%A4%A7%E7%9C%81%E2%80%9C%E5%BC%80%E6%8A%A2%E2%80%9D%E5%B9%B4%E8%BD%BB%E4%BA%BA",
+        "title": "“各位都什么原因没买一艘呢”",
+        "hot": 7713639,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%90%84%E4%BD%8D%E9%83%BD%E4%BB%80%E4%B9%88%E5%8E%9F%E5%9B%A0%E6%B2%A1%E4%B9%B0%E4%B8%80%E8%89%98%E5%91%A2%E2%80%9D",
         "source": "百度"
       },
       {
         "title": "文旅市场消费活力十足",
-        "hot": 7616227,
+        "hot": 7617587,
         "url": "https://www.baidu.com/s?wd=%E6%96%87%E6%97%85%E5%B8%82%E5%9C%BA%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E5%8D%81%E8%B6%B3",
         "source": "百度"
       },
       {
-        "title": "“我是震雄 18年前你救下的孩子”",
-        "hot": 7521744,
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%98%AF%E9%9C%87%E9%9B%84%2018%E5%B9%B4%E5%89%8D%E4%BD%A0%E6%95%91%E4%B8%8B%E7%9A%84%E5%AD%A9%E5%AD%90%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "年轻人的孤独被当成了“摇钱树”",
-        "hot": 7423872,
-        "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E5%AD%A4%E7%8B%AC%E8%A2%AB%E5%BD%93%E6%88%90%E4%BA%86%E2%80%9C%E6%91%87%E9%92%B1%E6%A0%91%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "缅北魏家案宣判 魏怀仁等3人被判死刑",
-        "hot": 7334167,
-        "url": "https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E9%AD%8F%E5%AE%B6%E6%A1%88%E5%AE%A3%E5%88%A4%20%E9%AD%8F%E6%80%80%E4%BB%81%E7%AD%893%E4%BA%BA%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91",
-        "source": "百度"
-      },
-      {
-        "title": "79岁陶华碧用AI一年赚了54亿",
-        "hot": 7233595,
-        "url": "https://www.baidu.com/s?wd=79%E5%B2%81%E9%99%B6%E5%8D%8E%E7%A2%A7%E7%94%A8AI%E4%B8%80%E5%B9%B4%E8%B5%9A%E4%BA%8654%E4%BA%BF",
-        "source": "百度"
-      },
-      {
-        "title": "张继科：乒乓球热度是我带起来的",
-        "hot": 7142466,
-        "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E7%BB%A7%E7%A7%91%EF%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E7%83%AD%E5%BA%A6%E6%98%AF%E6%88%91%E5%B8%A6%E8%B5%B7%E6%9D%A5%E7%9A%84",
-        "source": "百度"
-      },
-      {
-        "title": "“理记”账号被禁止关注",
-        "hot": 7047064,
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%90%86%E8%AE%B0%E2%80%9D%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8",
+        "title": "日本翻盖手机终于过气了",
+        "hot": 7519622,
+        "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BF%BB%E7%9B%96%E6%89%8B%E6%9C%BA%E7%BB%88%E4%BA%8E%E8%BF%87%E6%B0%94%E4%BA%86",
         "source": "百度"
       },
       {
         "title": "女孩刚出生妈妈去世 舅妈抚养22年",
-        "hot": 6946516,
+        "hot": 7428334,
         "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%88%9A%E5%87%BA%E7%94%9F%E5%A6%88%E5%A6%88%E5%8E%BB%E4%B8%96%20%E8%88%85%E5%A6%88%E6%8A%9A%E5%85%BB22%E5%B9%B4",
         "source": "百度"
       },
       {
-        "title": "男子标注贩毒人员车辆为某品牌被抓",
-        "hot": 6855799,
-        "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%A0%87%E6%B3%A8%E8%B4%A9%E6%AF%92%E4%BA%BA%E5%91%98%E8%BD%A6%E8%BE%86%E4%B8%BA%E6%9F%90%E5%93%81%E7%89%8C%E8%A2%AB%E6%8A%93",
+        "title": "上海一女子买房8年才知被登记赠与",
+        "hot": 7328591,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%88%BF8%E5%B9%B4%E6%89%8D%E7%9F%A5%E8%A2%AB%E7%99%BB%E8%AE%B0%E8%B5%A0%E4%B8%8E",
         "source": "百度"
       },
       {
-        "title": "英雄联盟S16主题交响乐发布",
-        "hot": 6760233,
-        "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E4%B8%BB%E9%A2%98%E4%BA%A4%E5%93%8D%E4%B9%90%E5%8F%91%E5%B8%83",
+        "title": "缅北魏家案宣判 魏怀仁等3人被判死刑",
+        "hot": 7231903,
+        "url": "https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E9%AD%8F%E5%AE%B6%E6%A1%88%E5%AE%A3%E5%88%A4%20%E9%AD%8F%E6%80%80%E4%BB%81%E7%AD%893%E4%BA%BA%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91",
         "source": "百度"
       },
       {
-        "title": "韩国一大型超市发生持刀伤人事件",
-        "hot": 6665350,
-        "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%B8%80%E5%A4%A7%E5%9E%8B%E8%B6%85%E5%B8%82%E5%8F%91%E7%94%9F%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6",
+        "title": "1米85山东男友到南方成全家GPS",
+        "hot": 7140110,
+        "url": "https://www.baidu.com/s?wd=1%E7%B1%B385%E5%B1%B1%E4%B8%9C%E7%94%B7%E5%8F%8B%E5%88%B0%E5%8D%97%E6%96%B9%E6%88%90%E5%85%A8%E5%AE%B6GPS",
+        "source": "百度"
+      },
+      {
+        "title": "比冬天先来的是姑姑的爱",
+        "hot": 7047804,
+        "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%86%AC%E5%A4%A9%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E5%A7%91%E5%A7%91%E7%9A%84%E7%88%B1",
         "source": "百度"
       },
       {
         "title": "A股午后翻红",
-        "hot": 6564082,
+        "hot": 6943594,
         "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%88%E5%90%8E%E7%BF%BB%E7%BA%A2",
+        "source": "百度"
+      },
+      {
+        "title": "男子标注贩毒人员车辆为某品牌被抓",
+        "hot": 6852913,
+        "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%A0%87%E6%B3%A8%E8%B4%A9%E6%AF%92%E4%BA%BA%E5%91%98%E8%BD%A6%E8%BE%86%E4%B8%BA%E6%9F%90%E5%93%81%E7%89%8C%E8%A2%AB%E6%8A%93",
+        "source": "百度"
+      },
+      {
+        "title": "卫生院现丁义珍式窗口 老人半跪挂号",
+        "hot": 6754528,
+        "url": "https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E9%99%A2%E7%8E%B0%E4%B8%81%E4%B9%89%E7%8F%8D%E5%BC%8F%E7%AA%97%E5%8F%A3%20%E8%80%81%E4%BA%BA%E5%8D%8A%E8%B7%AA%E6%8C%82%E5%8F%B7",
+        "source": "百度"
+      },
+      {
+        "title": "韩国一大型超市发生持刀伤人事件",
+        "hot": 6660193,
+        "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%B8%80%E5%A4%A7%E5%9E%8B%E8%B6%85%E5%B8%82%E5%8F%91%E7%94%9F%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6",
+        "source": "百度"
+      },
+      {
+        "title": "海底捞向董事长张勇提供1亿元借款",
+        "hot": 6559833,
+        "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%90%91%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%A0%E5%8B%87%E6%8F%90%E4%BE%9B1%E4%BA%BF%E5%85%83%E5%80%9F%E6%AC%BE",
         "source": "百度"
       }
     ],
-    "juejin": [
-      {
-        "title": "公司从 400 多人缩减到 100 多人，我开始重新思考程序员的未来",
-        "hot": 2394,
-        "url": "https://juejin.cn/post/7694835192107860009",
-        "source": "掘金"
-      },
-      {
-        "title": "腾讯又来一王炸，开源版 WorkBuddy 太夯了！",
-        "hot": 1062,
-        "url": "https://juejin.cn/post/7694844501786050596",
-        "source": "掘金"
-      },
-      {
-        "title": "2026，程序员的时代拐点到了",
-        "hot": 828,
-        "url": "https://juejin.cn/post/7694882064269967375",
-        "source": "掘金"
-      },
-      {
-        "title": "前端如何生成10000页PDF文件？",
-        "hot": 684,
-        "url": "https://juejin.cn/post/7695591914960748586",
-        "source": "掘金"
-      },
-      {
-        "title": "程序员 1v1 访谈系列第一期：转行也不会等到失业以后",
-        "hot": 585,
-        "url": "https://juejin.cn/post/7694967013274370067",
-        "source": "掘金"
-      },
-      {
-        "title": "为什么我劝应届生不要去创业公司写前端？",
-        "hot": 486,
-        "url": "https://juejin.cn/post/7694972872189050934",
-        "source": "掘金"
-      },
-      {
-        "title": "不用反复 nvm use 了：nvm-windows 2.x 按项目自动切换 Node.js",
-        "hot": 288,
-        "url": "https://juejin.cn/post/7694595399244349483",
-        "source": "掘金"
-      },
-      {
-        "title": "我在浏览器里“盖”了一个村：Vue + Three.js 大屏开发踩坑记",
-        "hot": 243,
-        "url": "https://juejin.cn/post/7695604643287531535",
-        "source": "掘金"
-      },
-      {
-        "title": "三天11万星的逆天开源REA，逆向分析一切，软件开发的门槛被打到了零，最该慌的为什么不是大厂？",
-        "hot": 225,
-        "url": "https://juejin.cn/post/7695604296682930186",
-        "source": "掘金"
-      },
-      {
-        "title": "国庆7天AI圈3次大翻车：你还没被割韭菜，代码已先崩盘",
-        "hot": 225,
-        "url": "https://juejin.cn/post/7694614473173352467",
-        "source": "掘金"
-      },
-      {
-        "title": "🚀 Node.js 之父离开 Deno，带着整个团队加入了 Cloudflare",
-        "hot": 216,
-        "url": "https://juejin.cn/post/7695030462259789874",
-        "source": "掘金"
-      },
-      {
-        "title": "一个前端工程师除了写代码，还能靠什么赚钱？",
-        "hot": 207,
-        "url": "https://juejin.cn/post/7695656674829238308",
-        "source": "掘金"
-      },
-      {
-        "title": "Kuikly股票查看软件开发体验——SaiRen",
-        "hot": 198,
-        "url": "https://juejin.cn/post/7694850619532689448",
-        "source": "掘金"
-      },
-      {
-        "title": "✍️ TRAE 双端融合，全面升级｜征文活动开启，赢京东卡、TRAE 精美周边好礼！",
-        "hot": 189,
-        "url": "https://juejin.cn/post/7695604296683274250",
-        "source": "掘金"
-      },
-      {
-        "title": "五道题，测测你有没有真的入门 AI",
-        "hot": 189,
-        "url": "https://juejin.cn/post/7694967013273829395",
-        "source": "掘金"
-      }
-    ],
     "36kr": [
-      {
-        "title": "马斯克亲口承认：全球只有3家拥有足够数据，自己不在其中",
-        "hot": 28,
-        "url": "https://www.36kr.com/p/4022353646555013",
-        "source": "36氪"
-      },
       {
         "title": "8点1氪丨尊界SUV将给赛力斯生产？江淮汽车回应；字节跳动再现亿级爆款应用；Meta推出具备“前沿级能力”的Muse Wonder AI模型",
         "hot": 26,
@@ -390,7 +378,7 @@
       },
       {
         "title": "刚刚，Meta最强旗舰碾压GPT-6和Opus！一夜杀回世界前三",
-        "hot": 36,
+        "hot": 40,
         "url": "https://www.36kr.com/p/4023585253871494",
         "source": "36氪"
       },
@@ -402,7 +390,7 @@
       },
       {
         "title": "被封杀的“捞女教主”，靠AI月入百万",
-        "hot": 20,
+        "hot": 22,
         "url": "https://www.36kr.com/p/4022493934604166",
         "source": "36氪"
       },
@@ -432,8 +420,14 @@
       },
       {
         "title": "痴迷“薄肌”的年轻人，捧火9.9元健身房",
-        "hot": 48,
+        "hot": 49,
         "url": "https://www.36kr.com/p/4022577202777986",
+        "source": "36氪"
+      },
+      {
+        "title": "为什么全国商场都长一样？",
+        "hot": 31,
+        "url": "https://www.36kr.com/p/4022872741974146",
         "source": "36氪"
       },
       {
@@ -443,15 +437,9 @@
         "source": "36氪"
       },
       {
-        "title": "为什么全国商场都长一样？",
-        "hot": 27,
-        "url": "https://www.36kr.com/p/4022872741974146",
-        "source": "36氪"
-      },
-      {
-        "title": "6个月引爆重大AI灾难，OpenAI与Anthropic秘密推演「末日第二天」",
-        "hot": "",
-        "url": "https://www.36kr.com/p/4022237879750785",
+        "title": "Anthropic惊人预警：小模型已有生命迹象，AI蠕虫恐引爆全球物联网灾难",
+        "hot": 10,
+        "url": "https://www.36kr.com/p/4023779264991107",
         "source": "36氪"
       },
       {
@@ -465,114 +453,212 @@
         "hot": 29,
         "url": "https://www.36kr.com/p/4022760772145289",
         "source": "36氪"
+      },
+      {
+        "title": "买咖啡送一堆“塑料珠子”，年轻人抢疯了，瑞幸这招太绝了",
+        "hot": 2,
+        "url": "https://www.36kr.com/p/4023573352042373",
+        "source": "36氪"
+      }
+    ],
+    "juejin": [
+      {
+        "title": "公司从 400 多人缩减到 100 多人，我开始重新思考程序员的未来",
+        "hot": 2430,
+        "url": "https://juejin.cn/post/7694835192107860009",
+        "source": "掘金"
+      },
+      {
+        "title": "腾讯又来一王炸，开源版 WorkBuddy 太夯了！",
+        "hot": 1071,
+        "url": "https://juejin.cn/post/7694844501786050596",
+        "source": "掘金"
+      },
+      {
+        "title": "2026，程序员的时代拐点到了",
+        "hot": 837,
+        "url": "https://juejin.cn/post/7694882064269967375",
+        "source": "掘金"
+      },
+      {
+        "title": "前端如何生成10000页PDF文件？",
+        "hot": 783,
+        "url": "https://juejin.cn/post/7695591914960748586",
+        "source": "掘金"
+      },
+      {
+        "title": "程序员 1v1 访谈系列第一期：转行也不会等到失业以后",
+        "hot": 594,
+        "url": "https://juejin.cn/post/7694967013274370067",
+        "source": "掘金"
+      },
+      {
+        "title": "为什么我劝应届生不要去创业公司写前端？",
+        "hot": 495,
+        "url": "https://juejin.cn/post/7694972872189050934",
+        "source": "掘金"
+      },
+      {
+        "title": "不用反复 nvm use 了：nvm-windows 2.x 按项目自动切换 Node.js",
+        "hot": 288,
+        "url": "https://juejin.cn/post/7694595399244349483",
+        "source": "掘金"
+      },
+      {
+        "title": "我在浏览器里“盖”了一个村：Vue + Three.js 大屏开发踩坑记",
+        "hot": 243,
+        "url": "https://juejin.cn/post/7695604643287531535",
+        "source": "掘金"
+      },
+      {
+        "title": "三天11万星的逆天开源REA，逆向分析一切，软件开发的门槛被打到了零，最该慌的为什么不是大厂？",
+        "hot": 243,
+        "url": "https://juejin.cn/post/7695604296682930186",
+        "source": "掘金"
+      },
+      {
+        "title": "一个前端工程师除了写代码，还能靠什么赚钱？",
+        "hot": 243,
+        "url": "https://juejin.cn/post/7695656674829238308",
+        "source": "掘金"
+      },
+      {
+        "title": "国庆7天AI圈3次大翻车：你还没被割韭菜，代码已先崩盘",
+        "hot": 234,
+        "url": "https://juejin.cn/post/7694614473173352467",
+        "source": "掘金"
+      },
+      {
+        "title": "🚀 Node.js 之父离开 Deno，带着整个团队加入了 Cloudflare",
+        "hot": 216,
+        "url": "https://juejin.cn/post/7695030462259789874",
+        "source": "掘金"
+      },
+      {
+        "title": "Kuikly股票查看软件开发体验——SaiRen",
+        "hot": 198,
+        "url": "https://juejin.cn/post/7694850619532689448",
+        "source": "掘金"
+      },
+      {
+        "title": "✍️ TRAE 双端融合，全面升级｜征文活动开启，赢京东卡、TRAE 精美周边好礼！",
+        "hot": 198,
+        "url": "https://juejin.cn/post/7695604296683274250",
+        "source": "掘金"
+      },
+      {
+        "title": "五道题，测测你有没有真的入门 AI",
+        "hot": 189,
+        "url": "https://juejin.cn/post/7694967013273829395",
+        "source": "掘金"
       }
     ]
   },
   "github": [
     {
       "title": "openai/math",
-      "hot": "⭐ 14499",
+      "hot": "⭐ 14508",
       "url": "https://github.com/openai/math",
       "source": "GitHub",
       "tag": "Lean"
     },
     {
       "title": "storytold/wordcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 9585",
+      "hot": "⭐ 9624",
       "url": "https://github.com/storytold/wordcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "wheresryan22/anatomy —— An agent skill for creating detailed, in",
-      "hot": "⭐ 6719",
+      "hot": "⭐ 6763",
       "url": "https://github.com/wheresryan22/anatomy",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "storytold/gridcraft —— GridCraft: an open-source, clean-room sp",
-      "hot": "⭐ 3973",
+      "hot": "⭐ 3987",
       "url": "https://github.com/storytold/gridcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
-      "title": "alchaincyf/huashu-art-motion —— 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "hot": "⭐ 3682",
-      "url": "https://github.com/alchaincyf/huashu-art-motion",
-      "source": "GitHub",
-      "tag": "JavaScript"
-    },
-    {
       "title": "mhtsec/ARTEX —— AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "hot": "⭐ 3681",
+      "hot": "⭐ 3691",
       "url": "https://github.com/mhtsec/ARTEX",
       "source": "GitHub",
       "tag": "Go"
     },
     {
+      "title": "alchaincyf/huashu-art-motion —— 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "hot": "⭐ 3687",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "source": "GitHub",
+      "tag": "JavaScript"
+    },
+    {
       "title": "storytold/cadcraft —— CADCraft: computer-aided design and draf",
-      "hot": "⭐ 3632",
+      "hot": "⭐ 3640",
       "url": "https://github.com/storytold/cadcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "zhongerxin/iPhone-use —— 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、",
-      "hot": "⭐ 3399",
+      "hot": "⭐ 3414",
       "url": "https://github.com/zhongerxin/iPhone-use",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "LosaLosSantos/aurelio-finance —— Open-source personal finance app with an",
-      "hot": "⭐ 3018",
+      "hot": "⭐ 3044",
       "url": "https://github.com/LosaLosSantos/aurelio-finance",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "nullmoth/nvidia-macos-driver —— Metal driver for NVIDIA GeForce RTX card",
-      "hot": "⭐ 2793",
+      "hot": "⭐ 2800",
       "url": "https://github.com/nullmoth/nvidia-macos-driver",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "storytold/deckcraft —— Presentations and slide shows: an open-s",
-      "hot": "⭐ 2673",
+      "hot": "⭐ 2680",
       "url": "https://github.com/storytold/deckcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "t4t5/omdrop-owl —— airdrop for non-apple devices",
-      "hot": "⭐ 2475",
+      "hot": "⭐ 2476",
       "url": "https://github.com/t4t5/omdrop-owl",
       "source": "GitHub",
       "tag": "Shell"
     },
     {
       "title": "storytold/soundcraft —— An open-source, clean-room reimplementat",
-      "hot": "⭐ 2316",
+      "hot": "⭐ 2321",
       "url": "https://github.com/storytold/soundcraft",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "alejandrobujan/tendedero —— Screenshots, hung out to dry. A tiny nat",
-      "hot": "⭐ 2031",
+      "hot": "⭐ 2033",
       "url": "https://github.com/alejandrobujan/tendedero",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
-      "title": "noahdunnagan/fsearch —— Whole-disk file search for macOS: fuzzy ",
-      "hot": "⭐ 1989",
-      "url": "https://github.com/noahdunnagan/fsearch",
+      "title": "ARahim3/DigUp —— Search your Mac by what's in your files:",
+      "hot": "⭐ 2001",
+      "url": "https://github.com/ARahim3/DigUp",
       "source": "GitHub",
-      "tag": "Rust"
+      "tag": "Swift"
     }
   ]
 }
