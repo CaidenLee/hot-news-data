@@ -1,53 +1,151 @@
 {
-  "updatedAt": "2026-10-17T18:30:41.530Z",
+  "updatedAt": "2026-10-17T19:00:54.998Z",
   "dailyhot": {
+    "zhihu": [
+      {
+        "title": "如何评价DeepSeek V4.1 Flash 1017?",
+        "hot": 37800000,
+        "url": "https://www.zhihu.com/question/2094773240036061700",
+        "source": "知乎"
+      },
+      {
+        "title": "英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？",
+        "hot": 4800000,
+        "url": "https://www.zhihu.com/question/2094715615177085400",
+        "source": "知乎"
+      },
+      {
+        "title": "班主任休产假遭家长投诉质问「一定要生孩子吗」，教师称举报信数量激增，如何看待近几年兴起的校园投诉潮？",
+        "hot": 3850000,
+        "url": "https://www.zhihu.com/question/2094730049790465000",
+        "source": "知乎"
+      },
+      {
+        "title": "社保新规11月1日起施行，明确自愿放弃社保无效，怎样解读？企业未足额缴纳社保，员工权益会受到哪些损害？",
+        "hot": 2930000,
+        "url": "https://www.zhihu.com/question/2094785686142558500",
+        "source": "知乎"
+      },
+      {
+        "title": "科学家吴军辞去美终身教职回国加盟西湖大学，这一选择背后有哪些考量？",
+        "hot": 2020000,
+        "url": "https://www.zhihu.com/question/2094379625816256800",
+        "source": "知乎"
+      },
+      {
+        "title": "智界将获独立造车资质，内部人士确��公司计划上市，获独立造车资质意味着什么？对华为和奇瑞有怎样的影响？",
+        "hot": 1950000,
+        "url": "https://www.zhihu.com/question/2094856257873995000",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待《流浪地球3》首次票房预测为48亿？",
+        "hot": 1850000,
+        "url": "https://www.zhihu.com/question/2094459784686847700",
+        "source": "知乎"
+      },
+      {
+        "title": "为什么感觉一代教父对任何事情云淡风轻，总可以拿捏很好，但二代教父感觉过的很艰难？",
+        "hot": 1810000,
+        "url": "https://www.zhihu.com/question/468869175",
+        "source": "知乎"
+      },
+      {
+        "title": "网传世界杯一战封神的佛得角40岁门将沃齐尼亚被俱乐部弃用，疑似要提前退役，原因是什么？",
+        "hot": 1760000,
+        "url": "https://www.zhihu.com/question/2094399559841726700",
+        "source": "知乎"
+      },
+      {
+        "title": "舅舅立遗嘱换我养老该怎么办？",
+        "hot": 1590000,
+        "url": "https://www.zhihu.com/question/6961318549",
+        "source": "知乎"
+      },
+      {
+        "title": "做了鸡翅，孩子想多吃一个发现没有了，看到表弟碗里堆积几个，二宝看了一眼之后默默吃饭，你会怎么处理？",
+        "hot": 1430000,
+        "url": "https://www.zhihu.com/question/2080368472178030300",
+        "source": "知乎"
+      },
+      {
+        "title": "多家银行上调存款利率，五年期定存高至 2.1%，怎样看待这一变化？还会持续上调吗？",
+        "hot": 1240000,
+        "url": "https://www.zhihu.com/question/2094509189456295400",
+        "source": "知乎"
+      },
+      {
+        "title": "为什么现在的医院，办理住院就不让回家了？",
+        "hot": 1090000,
+        "url": "https://www.zhihu.com/question/2091040583896848100",
+        "source": "知乎"
+      },
+      {
+        "title": "如何评价外媒评 S16 参赛选手 Chovy 第一，Knight 第七，Faker 第十四？",
+        "hot": 890000,
+        "url": "https://www.zhihu.com/question/2094479040576843800",
+        "source": "知乎"
+      },
+      {
+        "title": "为什么毛不易要比汪苏泷顺利很多？",
+        "hot": 860000,
+        "url": "https://www.zhihu.com/question/655089117",
+        "source": "知乎"
+      }
+    ],
     "hackernews": [
       {
         "title": "Development statistics for the 7.2 kernel",
-        "hot": 54,
+        "hot": 79,
         "url": "https://lwn.net/Articles/1088776/",
         "source": "HackerNews"
       },
       {
-        "title": "Making chicken transparent using Dorito dust",
-        "hot": 167,
-        "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+        "title": "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
+        "hot": 22,
+        "url": "https://twitter.com/anemll/status/2111517143087067309",
         "source": "HackerNews"
       },
       {
         "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-        "hot": 27,
+        "hot": 38,
         "url": "https://github.com/antirez/c64-hw-simulator",
         "source": "HackerNews"
       },
       {
+        "title": "Making chicken transparent using Dorito dust",
+        "hot": 180,
+        "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+        "source": "HackerNews"
+      },
+      {
         "title": "Furifont, a Japanese font that shows furigana",
-        "hot": 77,
+        "hot": 97,
         "url": "https://furifont.antfu.me/",
         "source": "HackerNews"
       },
       {
         "title": "DeepSeek-v4.1-Flash-1017",
-        "hot": 480,
+        "hot": 500,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "source": "HackerNews"
       },
       {
         "title": "Solar surpasses nuclear power globally for first time",
-        "hot": 299,
+        "hot": 329,
         "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
         "source": "HackerNews"
       },
       {
-        "title": "Rendering pretty sky in Around The World game",
-        "hot": 91,
-        "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
+        "title": "tsc-ts: TypeScript written in TypeScript",
+        "hot": 14,
+        "url": "https://github.com/vercel-labs/tsc-ts",
         "source": "HackerNews"
       },
       {
-        "title": "OpenAI discloses four more rogue incidents",
-        "hot": 74,
-        "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+        "title": "Dam removals are bringing fish back across the northeastern United States",
+        "hot": 12,
+        "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
         "source": "HackerNews"
       },
       {
@@ -57,46 +155,132 @@
         "source": "HackerNews"
       },
       {
-        "title": "tsc-ts: TypeScript written in TypeScript",
+        "title": "Rendering pretty sky in Around The World game",
+        "hot": 97,
+        "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Vintage Cassettes: 1963-2010",
+        "hot": 15,
+        "url": "http://vintagecassettes.com/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Pele – Mermaid diagrams as themeable SVG",
+        "hot": 23,
+        "url": "https://pele.run/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Bleached corals thrive within days when touching healthy neighbour",
         "hot": 6,
-        "url": "https://github.com/vercel-labs/tsc-ts",
+        "url": "https://www.nature.com/articles/d41586-026-03266-x",
         "source": "HackerNews"
       },
       {
-        "title": "Show HN: High-quality duck audio synthesizer",
-        "hot": 14,
-        "url": "https://celphase.github.io/duck-pond/",
+        "title": "OpenCode Hacked: User credentials leaked",
+        "hot": 95,
+        "url": "https://twitter.com/opencode/status/2111516673953935833",
         "source": "HackerNews"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "总书记心系万里绿色长城",
+        "hot": 7904305,
+        "url": "https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E4%B8%87%E9%87%8C%E7%BB%BF%E8%89%B2%E9%95%BF%E5%9F%8E",
+        "source": "百度"
       },
       {
-        "title": "You could have invented transformers from memory",
-        "hot": 430,
-        "url": "https://alexwang.ai/posts/associative-memory/",
-        "source": "HackerNews"
+        "title": "多地试点直升高中",
+        "hot": 7808688,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%AF%95%E7%82%B9%E7%9B%B4%E5%8D%87%E9%AB%98%E4%B8%AD",
+        "source": "百度"
       },
       {
-        "title": "Ultramarine 1 Flash",
-        "hot": 357,
-        "url": "https://www.paperinstruments.com/ultramarine",
-        "source": "HackerNews"
+        "title": "“全民喝大水”火了 医生提醒",
+        "hot": 7714256,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%A8%E6%B0%91%E5%96%9D%E5%A4%A7%E6%B0%B4%E2%80%9D%E7%81%AB%E4%BA%86%20%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92",
+        "source": "百度"
       },
       {
-        "title": "A Tudor life in the time of plague (2020)",
-        "hot": 29,
-        "url": "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague",
-        "source": "HackerNews"
+        "title": "电影院玩法持续“上新”",
+        "hot": 7617007,
+        "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E7%8E%A9%E6%B3%95%E6%8C%81%E7%BB%AD%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D",
+        "source": "百度"
       },
       {
-        "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-        "hot": 56,
-        "url": "https://github.com/mikroverk/esp32sim",
-        "source": "HackerNews"
+        "title": "101岁奶奶每天找100岁闺蜜唠家常",
+        "hot": 7524367,
+        "url": "https://www.baidu.com/s?wd=101%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%AF%8F%E5%A4%A9%E6%89%BE100%E5%B2%81%E9%97%BA%E8%9C%9C%E5%94%A0%E5%AE%B6%E5%B8%B8",
+        "source": "百度"
+      },
+      {
+        "title": "陈奕迅将开26场演唱会：禁止带手机",
+        "hot": 7425604,
+        "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E5%B0%86%E5%BC%8026%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9A%E7%A6%81%E6%AD%A2%E5%B8%A6%E6%89%8B%E6%9C%BA",
+        "source": "百度"
+      },
+      {
+        "title": "模特女孩勇闯钓鱼圈 年营收千万",
+        "hot": 7331674,
+        "url": "https://www.baidu.com/s?wd=%E6%A8%A1%E7%89%B9%E5%A5%B3%E5%AD%A9%E5%8B%87%E9%97%AF%E9%92%93%E9%B1%BC%E5%9C%88%20%E5%B9%B4%E8%90%A5%E6%94%B6%E5%8D%83%E4%B8%87",
+        "source": "百度"
+      },
+      {
+        "title": "《在梅边》夯爆了",
+        "hot": 7236607,
+        "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%9C%A8%E6%A2%85%E8%BE%B9%E3%80%8B%E5%A4%AF%E7%88%86%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "安徽40岁喜婆婆因颜值爆火",
+        "hot": 7139720,
+        "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD40%E5%B2%81%E5%96%9C%E5%A9%86%E5%A9%86%E5%9B%A0%E9%A2%9C%E5%80%BC%E7%88%86%E7%81%AB",
+        "source": "百度"
+      },
+      {
+        "title": "普京下令接管四家欧洲企业在俄资产",
+        "hot": 7040453,
+        "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8B%E4%BB%A4%E6%8E%A5%E7%AE%A1%E5%9B%9B%E5%AE%B6%E6%AC%A7%E6%B4%B2%E4%BC%81%E4%B8%9A%E5%9C%A8%E4%BF%84%E8%B5%84%E4%BA%A7",
+        "source": "百度"
+      },
+      {
+        "title": "大马丁重伤被担架抬下场",
+        "hot": 6944659,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%A9%AC%E4%B8%81%E9%87%8D%E4%BC%A4%E8%A2%AB%E6%8B%85%E6%9E%B6%E6%8A%AC%E4%B8%8B%E5%9C%BA",
+        "source": "百度"
+      },
+      {
+        "title": "“村干部”助农直播带货？小心骗局",
+        "hot": 6848949,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9D%91%E5%B9%B2%E9%83%A8%E2%80%9D%E5%8A%A9%E5%86%9C%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%EF%BC%9F%E5%B0%8F%E5%BF%83%E9%AA%97%E5%B1%80",
+        "source": "百度"
+      },
+      {
+        "title": "向太：李连杰女儿患抑郁症遭高校拒收",
+        "hot": 6754892,
+        "url": "https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%EF%BC%9A%E6%9D%8E%E8%BF%9E%E6%9D%B0%E5%A5%B3%E5%84%BF%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%E9%81%AD%E9%AB%98%E6%A0%A1%E6%8B%92%E6%94%B6",
+        "source": "百度"
+      },
+      {
+        "title": "特斯拉飞行跑车遭遇“踢馆”",
+        "hot": 6657866,
+        "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E9%A3%9E%E8%A1%8C%E8%B7%91%E8%BD%A6%E9%81%AD%E9%81%87%E2%80%9C%E8%B8%A2%E9%A6%86%E2%80%9D",
+        "source": "百度"
+      },
+      {
+        "title": "曹骏《狂爱》滑铲空翻",
+        "hot": 6562135,
+        "url": "https://www.baidu.com/s?wd=%E6%9B%B9%E9%AA%8F%E3%80%8A%E7%8B%82%E7%88%B1%E3%80%8B%E6%BB%91%E9%93%B2%E7%A9%BA%E7%BF%BB",
+        "source": "百度"
       }
     ],
     "juejin": [
       {
         "title": "本来只想给内网开个口子，Natapp 却多给了一道防护",
-        "hot": 1539,
+        "hot": 1548,
         "url": "https://juejin.cn/post/7697075629647003698",
         "source": "掘金"
       },
@@ -108,7 +292,7 @@
       },
       {
         "title": "一个周末就想把短链服务推到 10 万 QPS，真能靠加 Redis 做到吗？",
-        "hot": 1098,
+        "hot": 1107,
         "url": "https://juejin.cn/post/7696889902293614642",
         "source": "掘金"
       },
@@ -126,7 +310,7 @@
       },
       {
         "title": "学会 SQLAlchemy 搭建 Python 与 MySQL 之间的数据访问桥梁 🚀",
-        "hot": 639,
+        "hot": 648,
         "url": "https://juejin.cn/post/7697168479082889243",
         "source": "掘金"
       },
@@ -150,7 +334,7 @@
       },
       {
         "title": "前端转全栈最低成本的技术栈选择",
-        "hot": 270,
+        "hot": 279,
         "url": "https://juejin.cn/post/7696713457149362230",
         "source": "掘金"
       },
@@ -211,9 +395,9 @@
         "source": "微博"
       },
       {
-        "title": "王力宏力赞披哥在梅边舞台",
+        "title": "小沈阳气得咬牙切齿",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8A%9B%E8%B5%9E%E6%8A%AB%E5%93%A5%E5%9C%A8%E6%A2%85%E8%BE%B9%E8%88%9E%E5%8F%B0",
+        "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%B0%94%E5%BE%97%E5%92%AC%E7%89%99%E5%88%87%E9%BD%BF",
         "source": "微博"
       },
       {
@@ -229,27 +413,27 @@
         "source": "微博"
       },
       {
+        "title": "现役男女演员TOP",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%BD%B9%E7%94%B7%E5%A5%B3%E6%BC%94%E5%91%98TOP",
+        "source": "微博"
+      },
+      {
         "title": "马斯克飞行汽车遭踢馆",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B8%A2%E9%A6%86",
         "source": "微博"
       },
       {
-        "title": "演员招不到黄胖子了",
+        "title": "王力宏力赞披哥在梅边舞台",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E6%8B%9B%E4%B8%8D%E5%88%B0%E9%BB%84%E8%83%96%E5%AD%90%E4%BA%86",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8A%9B%E8%B5%9E%E6%8A%AB%E5%93%A5%E5%9C%A8%E6%A2%85%E8%BE%B9%E8%88%9E%E5%8F%B0",
         "source": "微博"
       },
       {
         "title": "特斯拉市值蒸发超6200亿",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%856200%E4%BA%BF",
-        "source": "微博"
-      },
-      {
-        "title": "现役男女演员TOP",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%BD%B9%E7%94%B7%E5%A5%B3%E6%BC%94%E5%91%98TOP",
         "source": "微博"
       },
       {
@@ -265,218 +449,34 @@
         "source": "微博"
       },
       {
-        "title": "小沈阳气得咬牙切齿",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%B0%94%E5%BE%97%E5%92%AC%E7%89%99%E5%88%87%E9%BD%BF",
-        "source": "微博"
-      },
-      {
         "title": "欠薪345万却砸钱送孩子韩国出道",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E6%AC%A0%E8%96%AA345%E4%B8%87%E5%8D%B4%E7%A0%B8%E9%92%B1%E9%80%81%E5%AD%A9%E5%AD%90%E9%9F%A9%E5%9B%BD%E5%87%BA%E9%81%93",
         "source": "微博"
-      }
-    ],
-    "baidu": [
-      {
-        "title": "总书记心系万里绿色长城",
-        "hot": 7904408,
-        "url": "https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E4%B8%87%E9%87%8C%E7%BB%BF%E8%89%B2%E9%95%BF%E5%9F%8E",
-        "source": "百度"
       },
       {
-        "title": "多地试点直升高中",
-        "hot": 7809330,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%AF%95%E7%82%B9%E7%9B%B4%E5%8D%87%E9%AB%98%E4%B8%AD",
-        "source": "百度"
-      },
-      {
-        "title": "“全民喝大水”火了 医生提醒",
-        "hot": 7712410,
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%A8%E6%B0%91%E5%96%9D%E5%A4%A7%E6%B0%B4%E2%80%9D%E7%81%AB%E4%BA%86%20%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92",
-        "source": "百度"
-      },
-      {
-        "title": "电影院玩法持续“上新”",
-        "hot": 7617530,
-        "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E7%8E%A9%E6%B3%95%E6%8C%81%E7%BB%AD%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "101岁奶奶每天找100岁闺蜜唠家常",
-        "hot": 7524089,
-        "url": "https://www.baidu.com/s?wd=101%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%AF%8F%E5%A4%A9%E6%89%BE100%E5%B2%81%E9%97%BA%E8%9C%9C%E5%94%A0%E5%AE%B6%E5%B8%B8",
-        "source": "百度"
-      },
-      {
-        "title": "陈奕迅将开26场演唱会：禁止带手机",
-        "hot": 7427455,
-        "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E5%B0%86%E5%BC%8026%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9A%E7%A6%81%E6%AD%A2%E5%B8%A6%E6%89%8B%E6%9C%BA",
-        "source": "百度"
-      },
-      {
-        "title": "安徽40岁喜婆婆因颜值爆火",
-        "hot": 7328620,
-        "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD40%E5%B2%81%E5%96%9C%E5%A9%86%E5%A9%86%E5%9B%A0%E9%A2%9C%E5%80%BC%E7%88%86%E7%81%AB",
-        "source": "百度"
-      },
-      {
-        "title": "《在梅边》夯爆了",
-        "hot": 7233771,
-        "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%9C%A8%E6%A2%85%E8%BE%B9%E3%80%8B%E5%A4%AF%E7%88%86%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "模特女孩勇闯钓鱼圈 年营收千万",
-        "hot": 7139781,
-        "url": "https://www.baidu.com/s?wd=%E6%A8%A1%E7%89%B9%E5%A5%B3%E5%AD%A9%E5%8B%87%E9%97%AF%E9%92%93%E9%B1%BC%E5%9C%88%20%E5%B9%B4%E8%90%A5%E6%94%B6%E5%8D%83%E4%B8%87",
-        "source": "百度"
-      },
-      {
-        "title": "普京下令接管四家欧洲企业在俄资产",
-        "hot": 7040344,
-        "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8B%E4%BB%A4%E6%8E%A5%E7%AE%A1%E5%9B%9B%E5%AE%B6%E6%AC%A7%E6%B4%B2%E4%BC%81%E4%B8%9A%E5%9C%A8%E4%BF%84%E8%B5%84%E4%BA%A7",
-        "source": "百度"
-      },
-      {
-        "title": "大马丁重伤被担架抬下场",
-        "hot": 6947311,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%A9%AC%E4%B8%81%E9%87%8D%E4%BC%A4%E8%A2%AB%E6%8B%85%E6%9E%B6%E6%8A%AC%E4%B8%8B%E5%9C%BA",
-        "source": "百度"
-      },
-      {
-        "title": "“村干部”助农直播带货？小心骗局",
-        "hot": 6849032,
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9D%91%E5%B9%B2%E9%83%A8%E2%80%9D%E5%8A%A9%E5%86%9C%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%EF%BC%9F%E5%B0%8F%E5%BF%83%E9%AA%97%E5%B1%80",
-        "source": "百度"
-      },
-      {
-        "title": "向太：李连杰女儿患抑郁症遭高校拒收",
-        "hot": 6761184,
-        "url": "https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%EF%BC%9A%E6%9D%8E%E8%BF%9E%E6%9D%B0%E5%A5%B3%E5%84%BF%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%E9%81%AD%E9%AB%98%E6%A0%A1%E6%8B%92%E6%94%B6",
-        "source": "百度"
-      },
-      {
-        "title": "这些素菜是“升糖陷阱”",
-        "hot": 6668433,
-        "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%B4%A0%E8%8F%9C%E6%98%AF%E2%80%9C%E5%8D%87%E7%B3%96%E9%99%B7%E9%98%B1%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "曹骏《狂爱》滑铲空翻",
-        "hot": 6567235,
-        "url": "https://www.baidu.com/s?wd=%E6%9B%B9%E9%AA%8F%E3%80%8A%E7%8B%82%E7%88%B1%E3%80%8B%E6%BB%91%E9%93%B2%E7%A9%BA%E7%BF%BB",
-        "source": "百度"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "如何评价DeepSeek V4.1 Flash 1017?",
-        "hot": 38620000,
-        "url": "https://www.zhihu.com/question/2094773240036061700",
-        "source": "知乎"
-      },
-      {
-        "title": "英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？",
-        "hot": 4700000,
-        "url": "https://www.zhihu.com/question/2094715615177085400",
-        "source": "知乎"
-      },
-      {
-        "title": "班主任休产假遭家长投诉质问「一定要生孩子吗」，教师称举报信数量激增，如何看待近几年兴起的校园投诉潮？",
-        "hot": 4200000,
-        "url": "https://www.zhihu.com/question/2094730049790465000",
-        "source": "知乎"
-      },
-      {
-        "title": "社保新规11月1日起施行，明确自愿放弃社保无效，怎样解读？企业未足额缴纳社保，员工权益会受到哪些损害？",
-        "hot": 3540000,
-        "url": "https://www.zhihu.com/question/2094785686142558500",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待《流浪地球3》首次票房预测为48亿？",
-        "hot": 2880000,
-        "url": "https://www.zhihu.com/question/2094459784686847700",
-        "source": "知乎"
-      },
-      {
-        "title": "科学家吴军辞去美终身教职回国加盟西湖大学，这一选择背后有哪些考量？",
-        "hot": 2480000,
-        "url": "https://www.zhihu.com/question/2094379625816256800",
-        "source": "知乎"
-      },
-      {
-        "title": "网传世界杯一战封神的佛得角40岁门将沃齐尼亚被俱乐部弃用，疑似要提前退役，原因是什么？",
-        "hot": 2340000,
-        "url": "https://www.zhihu.com/question/2094399559841726700",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么感觉一代教父对任何事情云淡风轻，总可以拿捏很好，但二代教父感觉过的很艰难？",
-        "hot": 2130000,
-        "url": "https://www.zhihu.com/question/468869175",
-        "source": "知乎"
-      },
-      {
-        "title": "智界将获独立造车资质，内部人士确认公司计划上市，���独立造车资质意味着什么？对华为和奇瑞有怎样的影响？",
-        "hot": 1920000,
-        "url": "https://www.zhihu.com/question/2094856257873995000",
-        "source": "知乎"
-      },
-      {
-        "title": "舅舅立遗嘱换我养老该怎么办？",
-        "hot": 1820000,
-        "url": "https://www.zhihu.com/question/6961318549",
-        "source": "知乎"
-      },
-      {
-        "title": "做了鸡翅，孩子想多吃一个发现没有了，看到表弟碗里堆积几个，二宝看了一眼之后默默吃饭，你会怎么处理？",
-        "hot": 1710000,
-        "url": "https://www.zhihu.com/question/2080368472178030300",
-        "source": "知乎"
-      },
-      {
-        "title": "多家银行上调存款利率，五年期定存高至 2.1%，怎样看待这一变化？还会持续上调吗？",
-        "hot": 1310000,
-        "url": "https://www.zhihu.com/question/2094509189456295400",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么现在的医院，办理住院就不让回家了？",
-        "hot": 1260000,
-        "url": "https://www.zhihu.com/question/2091040583896848100",
-        "source": "知乎"
-      },
-      {
-        "title": "如何评价外媒评 S16 参赛选手 Chovy 第一，Knight 第七，Faker 第十四？",
-        "hot": 890000,
-        "url": "https://www.zhihu.com/question/2094479040576843800",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么毛不易要比汪苏泷顺利很多？",
-        "hot": 870000,
-        "url": "https://www.zhihu.com/question/655089117",
-        "source": "知乎"
+        "title": "演员招不到黄胖子了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E6%8B%9B%E4%B8%8D%E5%88%B0%E9%BB%84%E8%83%96%E5%AD%90%E4%BA%86",
+        "source": "微博"
       }
     ],
     "36kr": [
       {
         "title": "大多数高薪技能10年内将失去价值，学这4项吧",
-        "hot": 275,
+        "hot": 277,
         "url": "https://www.36kr.com/p/3985855472270082",
         "source": "36氪"
       },
       {
         "title": "9点1氪丨特斯拉发布“会飞”的跑车，预订金33.2万元；中国限制或禁止出口AI等领域40项技术；长鑫科技预计前三季度净利超1300亿",
-        "hot": 26,
+        "hot": 28,
         "url": "https://www.36kr.com/p/4029260041245314",
         "source": "36氪"
       },
       {
         "title": "第一批来中国“代购”的老外，赚翻了",
-        "hot": 40,
+        "hot": 43,
         "url": "https://www.36kr.com/p/4029271381283459",
         "source": "36氪"
       },
@@ -557,7 +557,7 @@
   "github": [
     {
       "title": "jhaizhou-ops/d2r-mobile —— Open-source iOS / macOS compatibility la",
-      "hot": "⭐ 3691",
+      "hot": "⭐ 3694",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
       "source": "GitHub",
       "tag": "C"
@@ -571,28 +571,28 @@
     },
     {
       "title": "Arekejoker/qwen21-nsfw-pose-skill —— Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 ",
-      "hot": "⭐ 2617",
+      "hot": "⭐ 2621",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "liseami/CCBaga",
-      "hot": "⭐ 2558",
+      "hot": "⭐ 2561",
       "url": "https://github.com/liseami/CCBaga",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "HeyPuter/everything —— We're rebuilding and open-sourcing the w",
-      "hot": "⭐ 1995",
+      "hot": "⭐ 2002",
       "url": "https://github.com/HeyPuter/everything",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "ahwootech/BRUTAL —— A free, open source C# framework for mak",
-      "hot": "⭐ 1751",
+      "hot": "⭐ 1758",
       "url": "https://github.com/ahwootech/BRUTAL",
       "source": "GitHub",
       "tag": "C#"
@@ -606,56 +606,56 @@
     },
     {
       "title": "chenglou/handwired —— Turn your regular JavaScript code into a",
-      "hot": "⭐ 1663",
+      "hot": "⭐ 1664",
       "url": "https://github.com/chenglou/handwired",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "shaongitbd/doory —— Open source canva alternative",
-      "hot": "⭐ 1505",
+      "hot": "⭐ 1511",
       "url": "https://github.com/shaongitbd/doory",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "opengeos/RustGIS —— A fast, free and open-source GIS in pure",
-      "hot": "⭐ 1460",
+      "hot": "⭐ 1463",
       "url": "https://github.com/opengeos/RustGIS",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "rociiu/talorys —— Your personal AI agent in your own Cloud",
-      "hot": "⭐ 1295",
+      "hot": "⭐ 1296",
       "url": "https://github.com/rociiu/talorys",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "Supermedo/uncharted_pc —— Uncharted: The Nathan Drake Collection r",
-      "hot": "⭐ 1208",
+      "hot": "⭐ 1212",
       "url": "https://github.com/Supermedo/uncharted_pc",
       "source": "GitHub",
       "tag": "C++"
     },
     {
       "title": "marclou/mailcheap —— Newsletters where you pay for the emails",
-      "hot": "⭐ 1203",
+      "hot": "⭐ 1204",
       "url": "https://github.com/marclou/mailcheap",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "Caho1/open-claude-ui —— 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 ",
-      "hot": "⭐ 1125",
+      "hot": "⭐ 1127",
       "url": "https://github.com/Caho1/open-claude-ui",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "feder-cr/git-ai —— Git designed for AI agents.",
-      "hot": "⭐ 1117",
+      "hot": "⭐ 1119",
       "url": "https://github.com/feder-cr/git-ai",
       "source": "GitHub",
       "tag": "Go"
