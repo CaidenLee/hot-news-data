@@ -1,71 +1,83 @@
 {
-  "updatedAt": "2026-10-17T05:00:45.504Z",
+  "updatedAt": "2026-10-17T05:30:41.442Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "Ultramarine 1 Flash",
-        "hot": 92,
+        "hot": 115,
         "url": "https://www.paperinstruments.com/ultramarine",
         "source": "HackerNews"
       },
       {
         "title": "Tesla Roadster",
-        "hot": 1305,
+        "hot": 1311,
         "url": "https://www.tesla.com/roadster",
         "source": "HackerNews"
       },
       {
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-        "hot": 231,
+        "hot": 241,
         "url": "https://github.com/cobanov/PS5LM",
         "source": "HackerNews"
       },
       {
         "title": "Claude reveals ECDSA curve origins",
-        "hot": 773,
+        "hot": 785,
         "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
         "source": "HackerNews"
       },
       {
         "title": "You could have invented transformers from memory",
-        "hot": 197,
+        "hot": 209,
         "url": "https://alexwang.ai/posts/associative-memory/",
         "source": "HackerNews"
       },
       {
         "title": "FLUX 3 Image Klein",
-        "hot": 137,
+        "hot": 142,
         "url": "https://bfl.ai/blog/flux-3-image-klein",
         "source": "HackerNews"
       },
       {
         "title": "California is building a $400M shield for Yosemite's most dangerous highway",
-        "hot": 21,
+        "hot": 24,
         "url": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
         "source": "HackerNews"
       },
       {
-        "title": "Butlerian Jihad",
-        "hot": 131,
-        "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
-        "hot": 15,
-        "url": "https://fakeipedia.org",
-        "source": "HackerNews"
-      },
-      {
         "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-        "hot": 195,
+        "hot": 199,
         "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
         "source": "HackerNews"
       },
       {
+        "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+        "hot": 18,
+        "url": "https://fakeipedia.org",
+        "source": "HackerNews"
+      },
+      {
         "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-        "hot": 287,
+        "hot": 293,
         "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Butlerian Jihad",
+        "hot": 137,
+        "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Designing more efficient quantum circuits with Claude",
+        "hot": 120,
+        "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "source": "HackerNews"
+      },
+      {
+        "title": "JPEG XL vs. AVIF for web use-cases",
+        "hot": 225,
+        "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
         "source": "HackerNews"
       },
       {
@@ -75,21 +87,9 @@
         "source": "HackerNews"
       },
       {
-        "title": "Designing more efficient quantum circuits with Claude",
-        "hot": 119,
-        "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-        "source": "HackerNews"
-      },
-      {
         "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
         "hot": 1,
         "url": "https://www.flexport.com/company/careers/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "JPEG XL vs. AVIF for web use-cases",
-        "hot": 221,
-        "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
         "source": "HackerNews"
       }
     ],
@@ -97,98 +97,6 @@
       {
         "title": "暂无数据",
         "source": "知乎"
-      }
-    ],
-    "weibo": [
-      {
-        "title": "拿打工人血汗钱给女儿铺星路",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%8B%BF%E6%89%93%E5%B7%A5%E4%BA%BA%E8%A1%80%E6%B1%97%E9%92%B1%E7%BB%99%E5%A5%B3%E5%84%BF%E9%93%BA%E6%98%9F%E8%B7%AF",
-        "source": "微博"
-      },
-      {
-        "title": "班主任休产假家长称一定要生孩子吗",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%BC%91%E4%BA%A7%E5%81%87%E5%AE%B6%E9%95%BF%E7%A7%B0%E4%B8%80%E5%AE%9A%E8%A6%81%E7%94%9F%E5%AD%A9%E5%AD%90%E5%90%97",
-        "source": "微博"
-      },
-      {
-        "title": "这届广交会含新量拉满了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E5%B1%8A%E5%B9%BF%E4%BA%A4%E4%BC%9A%E5%90%AB%E6%96%B0%E9%87%8F%E6%8B%89%E6%BB%A1%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "邓亚萍说刘丁��是谁",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%82%93%E4%BA%9A%E8%90%8D%E8%AF%B4%E5%88%98%E4%B8%81%E7%A1%95%E6%98%AF%E8%B0%81",
-        "source": "微博"
-      },
-      {
-        "title": "考上211后辞职做咖啡店店员",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%80%83%E4%B8%8A211%E5%90%8E%E8%BE%9E%E8%81%8C%E5%81%9A%E5%92%96%E5%95%A1%E5%BA%97%E5%BA%97%E5%91%98",
-        "source": "微博"
-      },
-      {
-        "title": "河北卫视回应孙颖莎站错位",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86%E5%9B%9E%E5%BA%94%E5%AD%99%E9%A2%96%E8%8E%8E%E7%AB%99%E9%94%99%E4%BD%8D",
-        "source": "微博"
-      },
-      {
-        "title": "现发4迎来了新笑展",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%8F%914%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%96%B0%E7%AC%91%E5%B1%95",
-        "source": "微博"
-      },
-      {
-        "title": "徐志胜预言家",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%E9%A2%84%E8%A8%80%E5%AE%B6",
-        "source": "微博"
-      },
-      {
-        "title": "奔跑吧",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7",
-        "source": "微博"
-      },
-      {
-        "title": "网友演示特斯拉roadster吸在路上",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E6%BC%94%E7%A4%BA%E7%89%B9%E6%96%AF%E6%8B%89roadster%E5%90%B8%E5%9C%A8%E8%B7%AF%E4%B8%8A",
-        "source": "微博"
-      },
-      {
-        "title": "上海徐浦大桥多车事故致1死2伤",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%BE%90%E6%B5%A6%E5%A4%A7%E6%A1%A5%E5%A4%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E8%87%B41%E6%AD%BB2%E4%BC%A4",
-        "source": "微博"
-      },
-      {
-        "title": "徐艺洋喝酒视频有奶瓶清洁剂",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%BA%E6%B4%8B%E5%96%9D%E9%85%92%E8%A7%86%E9%A2%91%E6%9C%89%E5%A5%B6%E7%93%B6%E6%B8%85%E6%B4%81%E5%89%82",
-        "source": "微博"
-      },
-      {
-        "title": "沈月好友翁小雯离婚",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E6%9C%88%E5%A5%BD%E5%8F%8B%E7%BF%81%E5%B0%8F%E9%9B%AF%E7%A6%BB%E5%A9%9A",
-        "source": "微博"
-      },
-      {
-        "title": "刘丁硕指责张继科长期倚老卖老",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E4%B8%81%E7%A1%95%E6%8C%87%E8%B4%A3%E5%BC%A0%E7%BB%A7%E7%A7%91%E9%95%BF%E6%9C%9F%E5%80%9A%E8%80%81%E5%8D%96%E8%80%81",
-        "source": "微博"
-      },
-      {
-        "title": "刘丁硕说国乒大家庭总有个别人不团结",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E4%B8%81%E7%A1%95%E8%AF%B4%E5%9B%BD%E4%B9%92%E5%A4%A7%E5%AE%B6%E5%BA%AD%E6%80%BB%E6%9C%89%E4%B8%AA%E5%88%AB%E4%BA%BA%E4%B8%8D%E5%9B%A2%E7%BB%93",
-        "source": "微博"
       }
     ],
     "juejin": [
@@ -206,7 +114,7 @@
       },
       {
         "title": "本来只想给内网开个口子，Natapp 却多给了一道防护",
-        "hot": 891,
+        "hot": 882,
         "url": "https://juejin.cn/post/7697075629647003698",
         "source": "掘金"
       },
@@ -283,16 +191,200 @@
         "source": "掘金"
       }
     ],
+    "weibo": [
+      {
+        "title": "班主任休产假家长称一定要生孩子吗",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%BC%91%E4%BA%A7%E5%81%87%E5%AE%B6%E9%95%BF%E7%A7%B0%E4%B8%80%E5%AE%9A%E8%A6%81%E7%94%9F%E5%AD%A9%E5%AD%90%E5%90%97",
+        "source": "微博"
+      },
+      {
+        "title": "拿打工人血汗钱给女儿铺星路",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%8B%BF%E6%89%93%E5%B7%A5%E4%BA%BA%E8%A1%80%E6%B1%97%E9%92%B1%E7%BB%99%E5%A5%B3%E5%84%BF%E9%93%BA%E6%98%9F%E8%B7%AF",
+        "source": "微博"
+      },
+      {
+        "title": "这届广交会含新量拉满了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E5%B1%8A%E5%B9%BF%E4%BA%A4%E4%BC%9A%E5%90%AB%E6%96%B0%E9%87%8F%E6%8B%89%E6%BB%A1%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "邓亚萍说刘���硕是谁",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%82%93%E4%BA%9A%E8%90%8D%E8%AF%B4%E5%88%98%E4%B8%81%E7%A1%95%E6%98%AF%E8%B0%81",
+        "source": "微博"
+      },
+      {
+        "title": "考上211后辞职做咖啡店店员",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%80%83%E4%B8%8A211%E5%90%8E%E8%BE%9E%E8%81%8C%E5%81%9A%E5%92%96%E5%95%A1%E5%BA%97%E5%BA%97%E5%91%98",
+        "source": "微博"
+      },
+      {
+        "title": "上海徐浦大桥多车事故致1死2伤",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%BE%90%E6%B5%A6%E5%A4%A7%E6%A1%A5%E5%A4%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E8%87%B41%E6%AD%BB2%E4%BC%A4",
+        "source": "微博"
+      },
+      {
+        "title": "事业编",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BA%8B%E4%B8%9A%E7%BC%96",
+        "source": "微博"
+      },
+      {
+        "title": "奔跑吧路透",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7%E8%B7%AF%E9%80%8F",
+        "source": "微博"
+      },
+      {
+        "title": "河北卫视回应孙颖莎站错位",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86%E5%9B%9E%E5%BA%94%E5%AD%99%E9%A2%96%E8%8E%8E%E7%AB%99%E9%94%99%E4%BD%8D",
+        "source": "微博"
+      },
+      {
+        "title": "徐志胜预言家",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%E9%A2%84%E8%A8%80%E5%AE%B6",
+        "source": "微博"
+      },
+      {
+        "title": "徐艺洋怀孕下楼梯那英扶了她一把",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%BA%E6%B4%8B%E6%80%80%E5%AD%95%E4%B8%8B%E6%A5%BC%E6%A2%AF%E9%82%A3%E8%8B%B1%E6%89%B6%E4%BA%86%E5%A5%B9%E4%B8%80%E6%8A%8A",
+        "source": "微博"
+      },
+      {
+        "title": "沈月好友翁小雯离婚",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E6%9C%88%E5%A5%BD%E5%8F%8B%E7%BF%81%E5%B0%8F%E9%9B%AF%E7%A6%BB%E5%A9%9A",
+        "source": "微博"
+      },
+      {
+        "title": "中国留学生就身披旭日旗道歉",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E8%BA%AB%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E9%81%93%E6%AD%89",
+        "source": "微博"
+      },
+      {
+        "title": "曝尚公主剧宣内幕",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%89%A7%E5%AE%A3%E5%86%85%E5%B9%95",
+        "source": "微博"
+      },
+      {
+        "title": "网友演示特斯拉roadster吸在路上",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E6%BC%94%E7%A4%BA%E7%89%B9%E6%96%AF%E6%8B%89roadster%E5%90%B8%E5%9C%A8%E8%B7%AF%E4%B8%8A",
+        "source": "微博"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "沙退湖清 好日子跟着好生态一起来了",
+        "hot": 7904698,
+        "url": "https://www.baidu.com/s?wd=%E6%B2%99%E9%80%80%E6%B9%96%E6%B8%85%20%E5%A5%BD%E6%97%A5%E5%AD%90%E8%B7%9F%E7%9D%80%E5%A5%BD%E7%94%9F%E6%80%81%E4%B8%80%E8%B5%B7%E6%9D%A5%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "拿员工血汗钱给女儿铺星路",
+        "hot": 7809727,
+        "url": "https://www.baidu.com/s?wd=%E6%8B%BF%E5%91%98%E5%B7%A5%E8%A1%80%E6%B1%97%E9%92%B1%E7%BB%99%E5%A5%B3%E5%84%BF%E9%93%BA%E6%98%9F%E8%B7%AF",
+        "source": "百度"
+      },
+      {
+        "title": "黄奇帆被查 中纪委网站发文",
+        "hot": 7712900,
+        "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%A5%87%E5%B8%86%E8%A2%AB%E6%9F%A5%20%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%91%E7%AB%99%E5%8F%91%E6%96%87",
+        "source": "百度"
+      },
+      {
+        "title": "广交会70年“热门单品”大变迁",
+        "hot": 7618867,
+        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%BA%A4%E4%BC%9A70%E5%B9%B4%E2%80%9C%E7%83%AD%E9%97%A8%E5%8D%95%E5%93%81%E2%80%9D%E5%A4%A7%E5%8F%98%E8%BF%81",
+        "source": "百度"
+      },
+      {
+        "title": "抖音和京东公开互呛",
+        "hot": 7523323,
+        "url": "https://www.baidu.com/s?wd=%E6%8A%96%E9%9F%B3%E5%92%8C%E4%BA%AC%E4%B8%9C%E5%85%AC%E5%BC%80%E4%BA%92%E5%91%9B",
+        "source": "百度"
+      },
+      {
+        "title": "董宇辉的“榜一大哥”要补税7.9亿",
+        "hot": 7429299,
+        "url": "https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%9A%84%E2%80%9C%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E2%80%9D%E8%A6%81%E8%A1%A5%E7%A8%8E7.9%E4%BA%BF",
+        "source": "百度"
+      },
+      {
+        "title": "夫妻买2块劳力士不选不试戴 店员报警",
+        "hot": 7329527,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E4%B9%B02%E5%9D%97%E5%8A%B3%E5%8A%9B%E5%A3%AB%E4%B8%8D%E9%80%89%E4%B8%8D%E8%AF%95%E6%88%B4%20%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6",
+        "source": "百度"
+      },
+      {
+        "title": "80万个假冰箱贴卖了1660万 主犯获刑",
+        "hot": 7233354,
+        "url": "https://www.baidu.com/s?wd=80%E4%B8%87%E4%B8%AA%E5%81%87%E5%86%B0%E7%AE%B1%E8%B4%B4%E5%8D%96%E4%BA%861660%E4%B8%87%20%E4%B8%BB%E7%8A%AF%E8%8E%B7%E5%88%91",
+        "source": "百度"
+      },
+      {
+        "title": "中国第一机场又变了",
+        "hot": 7143368,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9C%BA%E5%9C%BA%E5%8F%88%E5%8F%98%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "男子深信最危险地方最安全住受害人家",
+        "hot": 7042196,
+        "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B7%B1%E4%BF%A1%E6%9C%80%E5%8D%B1%E9%99%A9%E5%9C%B0%E6%96%B9%E6%9C%80%E5%AE%89%E5%85%A8%E4%BD%8F%E5%8F%97%E5%AE%B3%E4%BA%BA%E5%AE%B6",
+        "source": "百度"
+      },
+      {
+        "title": "印财长倒打一耙：中国拒绝我们牛肉",
+        "hot": 6944055,
+        "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E8%B4%A2%E9%95%BF%E5%80%92%E6%89%93%E4%B8%80%E8%80%99%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%8B%92%E7%BB%9D%E6%88%91%E4%BB%AC%E7%89%9B%E8%82%89",
+        "source": "百度"
+      },
+      {
+        "title": "洛阳辟谣挖出“传国玉玺”",
+        "hot": 6854068,
+        "url": "https://www.baidu.com/s?wd=%E6%B4%9B%E9%98%B3%E8%BE%9F%E8%B0%A3%E6%8C%96%E5%87%BA%E2%80%9C%E4%BC%A0%E5%9B%BD%E7%8E%89%E7%8E%BA%E2%80%9D",
+        "source": "百度"
+      },
+      {
+        "title": "酒厂在药酒里掺伟哥 被罚252万",
+        "hot": 6758121,
+        "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%8E%82%E5%9C%A8%E8%8D%AF%E9%85%92%E9%87%8C%E6%8E%BA%E4%BC%9F%E5%93%A5%20%E8%A2%AB%E7%BD%9A252%E4%B8%87",
+        "source": "百度"
+      },
+      {
+        "title": "教师不愿当班主任 困局怎么破",
+        "hot": 6661461,
+        "url": "https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E4%B8%8D%E6%84%BF%E5%BD%93%E7%8F%AD%E4%B8%BB%E4%BB%BB%20%E5%9B%B0%E5%B1%80%E6%80%8E%E4%B9%88%E7%A0%B4",
+        "source": "百度"
+      },
+      {
+        "title": "病危老人被中介哄骗220万房只卖70万",
+        "hot": 6573172,
+        "url": "https://www.baidu.com/s?wd=%E7%97%85%E5%8D%B1%E8%80%81%E4%BA%BA%E8%A2%AB%E4%B8%AD%E4%BB%8B%E5%93%84%E9%AA%97220%E4%B8%87%E6%88%BF%E5%8F%AA%E5%8D%9670%E4%B8%87",
+        "source": "百度"
+      }
+    ],
     "36kr": [
       {
         "title": "大多数高薪技能10年内将失去价值，学这4项吧",
-        "hot": 111,
+        "hot": 115,
         "url": "https://www.36kr.com/p/3985855472270082",
         "source": "36氪"
       },
       {
         "title": "入门款卖到1350元，昂跑凭什么？｜专访",
-        "hot": 20,
+        "hot": 22,
         "url": "https://www.36kr.com/p/4025220294004611",
         "source": "36氪"
       },
@@ -322,7 +414,7 @@
       },
       {
         "title": "老板向AI许愿，员工让AI滚蛋｜深氪",
-        "hot": 25,
+        "hot": 26,
         "url": "https://www.36kr.com/p/4028378674205313",
         "source": "36氪"
       },
@@ -346,7 +438,7 @@
       },
       {
         "title": "第一批来中国“代购”的老外，赚翻了",
-        "hot": 14,
+        "hot": 15,
         "url": "https://www.36kr.com/p/4029271381283459",
         "source": "36氪"
       },
@@ -363,178 +455,86 @@
         "source": "36氪"
       },
       {
+        "title": "OpenAI前大牛认错，误判AI近十年，90%神经元只干一件事",
+        "hot": 8,
+        "url": "https://www.36kr.com/p/4028402496098952",
+        "source": "36氪"
+      },
+      {
         "title": "开在路上后轮掉了？卷冰箱彩电的汽车别忘了卷质量",
         "hot": 3,
         "url": "https://www.36kr.com/p/4028195623506309",
         "source": "36氪"
-      },
-      {
-        "title": "OpenAI前大牛认错，误判AI近十年，90%神经元只干一件事",
-        "hot": 6,
-        "url": "https://www.36kr.com/p/4028402496098952",
-        "source": "36氪"
-      }
-    ],
-    "baidu": [
-      {
-        "title": "沙退湖清 好日子跟着好生态一起来了",
-        "hot": 7904638,
-        "url": "https://www.baidu.com/s?wd=%E6%B2%99%E9%80%80%E6%B9%96%E6%B8%85%20%E5%A5%BD%E6%97%A5%E5%AD%90%E8%B7%9F%E7%9D%80%E5%A5%BD%E7%94%9F%E6%80%81%E4%B8%80%E8%B5%B7%E6%9D%A5%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "拿员工血汗钱给女儿铺星路",
-        "hot": 7808120,
-        "url": "https://www.baidu.com/s?wd=%E6%8B%BF%E5%91%98%E5%B7%A5%E8%A1%80%E6%B1%97%E9%92%B1%E7%BB%99%E5%A5%B3%E5%84%BF%E9%93%BA%E6%98%9F%E8%B7%AF",
-        "source": "百度"
-      },
-      {
-        "title": "黄奇帆被查 中纪委网站发文",
-        "hot": 7713699,
-        "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%A5%87%E5%B8%86%E8%A2%AB%E6%9F%A5%20%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%91%E7%AB%99%E5%8F%91%E6%96%87",
-        "source": "百度"
-      },
-      {
-        "title": "广交会70年“热门单品”大变迁",
-        "hot": 7616304,
-        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%BA%A4%E4%BC%9A70%E5%B9%B4%E2%80%9C%E7%83%AD%E9%97%A8%E5%8D%95%E5%93%81%E2%80%9D%E5%A4%A7%E5%8F%98%E8%BF%81",
-        "source": "百度"
-      },
-      {
-        "title": "抖音和京东公开互呛",
-        "hot": 7523112,
-        "url": "https://www.baidu.com/s?wd=%E6%8A%96%E9%9F%B3%E5%92%8C%E4%BA%AC%E4%B8%9C%E5%85%AC%E5%BC%80%E4%BA%92%E5%91%9B",
-        "source": "百度"
-      },
-      {
-        "title": "董宇辉的“榜一大哥”要补税7.9亿",
-        "hot": 7425428,
-        "url": "https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%9A%84%E2%80%9C%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E2%80%9D%E8%A6%81%E8%A1%A5%E7%A8%8E7.9%E4%BA%BF",
-        "source": "百度"
-      },
-      {
-        "title": "自愿放弃社保无效",
-        "hot": 7328077,
-        "url": "https://www.baidu.com/s?wd=%E8%87%AA%E6%84%BF%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E6%97%A0%E6%95%88",
-        "source": "百度"
-      },
-      {
-        "title": "加拿大鹅 翻车",
-        "hot": 7237880,
-        "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%20%E7%BF%BB%E8%BD%A6",
-        "source": "百度"
-      },
-      {
-        "title": "酒厂在药酒里掺伟哥 被罚252万",
-        "hot": 7140930,
-        "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%8E%82%E5%9C%A8%E8%8D%AF%E9%85%92%E9%87%8C%E6%8E%BA%E4%BC%9F%E5%93%A5%20%E8%A2%AB%E7%BD%9A252%E4%B8%87",
-        "source": "百度"
-      },
-      {
-        "title": "夫妻买2块劳力士不选不试戴 店员报警",
-        "hot": 7040619,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E4%B9%B02%E5%9D%97%E5%8A%B3%E5%8A%9B%E5%A3%AB%E4%B8%8D%E9%80%89%E4%B8%8D%E8%AF%95%E6%88%B4%20%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6",
-        "source": "百度"
-      },
-      {
-        "title": "猴子持鞭打饲养员 分不清谁是大小王",
-        "hot": 6947128,
-        "url": "https://www.baidu.com/s?wd=%E7%8C%B4%E5%AD%90%E6%8C%81%E9%9E%AD%E6%89%93%E9%A5%B2%E5%85%BB%E5%91%98%20%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E6%98%AF%E5%A4%A7%E5%B0%8F%E7%8E%8B",
-        "source": "百度"
-      },
-      {
-        "title": "洛阳辟谣挖出“传国玉玺”",
-        "hot": 6854594,
-        "url": "https://www.baidu.com/s?wd=%E6%B4%9B%E9%98%B3%E8%BE%9F%E8%B0%A3%E6%8C%96%E5%87%BA%E2%80%9C%E4%BC%A0%E5%9B%BD%E7%8E%89%E7%8E%BA%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "教师不愿当班主任 困局怎么破",
-        "hot": 6759204,
-        "url": "https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E4%B8%8D%E6%84%BF%E5%BD%93%E7%8F%AD%E4%B8%BB%E4%BB%BB%20%E5%9B%B0%E5%B1%80%E6%80%8E%E4%B9%88%E7%A0%B4",
-        "source": "百度"
-      },
-      {
-        "title": "女子自制酵素大桶堆满屋 邻居慌了",
-        "hot": 6666095,
-        "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E5%88%B6%E9%85%B5%E7%B4%A0%E5%A4%A7%E6%A1%B6%E5%A0%86%E6%BB%A1%E5%B1%8B%20%E9%82%BB%E5%B1%85%E6%85%8C%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "长白山天池水怪真容揭秘",
-        "hot": 6563157,
-        "url": "https://www.baidu.com/s?wd=%E9%95%BF%E7%99%BD%E5%B1%B1%E5%A4%A9%E6%B1%A0%E6%B0%B4%E6%80%AA%E7%9C%9F%E5%AE%B9%E6%8F%AD%E7%A7%98",
-        "source": "百度"
       }
     ]
   },
   "github": [
     {
       "title": "jhaizhou-ops/d2r-mobile —— Open-source iOS / macOS compatibility la",
-      "hot": "⭐ 3564",
+      "hot": "⭐ 3566",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "onehumanbeing/esp32-iphone-agent —— Let an AI model use a real iPhone with a",
-      "hot": "⭐ 2893",
+      "hot": "⭐ 2899",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "Arekejoker/qwen21-nsfw-pose-skill —— Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 ",
-      "hot": "⭐ 2550",
+      "hot": "⭐ 2553",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "liseami/CCBaga",
-      "hot": "⭐ 2420",
+      "hot": "⭐ 2426",
       "url": "https://github.com/liseami/CCBaga",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "HeyPuter/everything —— We're rebuilding and open-sourcing the w",
-      "hot": "⭐ 1787",
+      "hot": "⭐ 1790",
       "url": "https://github.com/HeyPuter/everything",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "ahwootech/BRUTAL —— A free, open source C# framework for mak",
-      "hot": "⭐ 1605",
+      "hot": "⭐ 1608",
       "url": "https://github.com/ahwootech/BRUTAL",
       "source": "GitHub",
       "tag": "C#"
     },
     {
       "title": "chenglou/handwired —— Turn your regular JavaScript code into a",
-      "hot": "⭐ 1590",
+      "hot": "⭐ 1594",
       "url": "https://github.com/chenglou/handwired",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "deeplethe/solid-glass —— A design system for AI applications. Mat",
-      "hot": "⭐ 1490",
+      "hot": "⭐ 1507",
       "url": "https://github.com/deeplethe/solid-glass",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "shaongitbd/doory —— Open source canva alternative",
-      "hot": "⭐ 1436",
+      "hot": "⭐ 1438",
       "url": "https://github.com/shaongitbd/doory",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "opengeos/RustGIS —— A fast, free and open-source GIS in pure",
-      "hot": "⭐ 1378",
+      "hot": "⭐ 1383",
       "url": "https://github.com/opengeos/RustGIS",
       "source": "GitHub",
       "tag": "Rust"
@@ -548,14 +548,14 @@
     },
     {
       "title": "marclou/mailcheap —— Newsletters where you pay for the emails",
-      "hot": "⭐ 1179",
+      "hot": "⭐ 1180",
       "url": "https://github.com/marclou/mailcheap",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "feder-cr/git-ai —— Git designed for AI agents.",
-      "hot": "⭐ 1070",
+      "hot": "⭐ 1071",
       "url": "https://github.com/feder-cr/git-ai",
       "source": "GitHub",
       "tag": "Go"
@@ -569,7 +569,7 @@
     },
     {
       "title": "Supermedo/uncharted_pc —— Uncharted: The Nathan Drake Collection r",
-      "hot": "⭐ 1052",
+      "hot": "⭐ 1056",
       "url": "https://github.com/Supermedo/uncharted_pc",
       "source": "GitHub",
       "tag": "C++"
