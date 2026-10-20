@@ -1,287 +1,103 @@
 {
-  "updatedAt": "2026-10-20T11:00:39.426Z",
+  "updatedAt": "2026-10-20T11:30:38.219Z",
   "dailyhot": {
-    "juejin": [
+    "hackernews": [
       {
-        "title": "一个周末就想把短链服务推到 10 万 QPS，真能靠加 Redis 做到吗？",
-        "hot": 2412,
-        "url": "https://juejin.cn/post/7696889902293614642",
-        "source": "掘金"
+        "title": "DeepSeek just open-sourced its inference engine",
+        "hot": 445,
+        "url": "https://github.com/deepseek-ai/DeepInfer",
+        "source": "HackerNews"
       },
       {
-        "title": "为什么我在团队里禁止使用 axios？",
-        "hot": 738,
-        "url": "https://juejin.cn/post/7698268211587022874",
-        "source": "掘金"
+        "title": "Nordwand Mono – A monospace font for coders and adventurers",
+        "hot": 313,
+        "url": "https://github.com/tywr/Nordwand-Mono",
+        "source": "HackerNews"
       },
       {
-        "title": "两个 WorkBuddy 客户端总被“合并”解决方法",
-        "hot": 621,
-        "url": "https://juejin.cn/post/7697162867455688719",
-        "source": "掘金"
+        "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+        "hot": 90,
+        "url": "https://github.com/microg/GmsCore/wiki",
+        "source": "HackerNews"
       },
       {
-        "title": " AI 流式输出都用 SSE，什么时候必须换 WebSocket？",
-        "hot": 495,
-        "url": "https://juejin.cn/post/7697591781001691163",
-        "source": "掘金"
+        "title": "OpenBSD 8.0",
+        "hot": 325,
+        "url": "https://www.openbsd.org/80.html",
+        "source": "HackerNews"
       },
       {
-        "title": "别再花钱调 OCR 接口了！这个国产开源工具，免费还能离线跑",
-        "hot": 432,
-        "url": "https://juejin.cn/post/7697873433354485770",
-        "source": "掘金"
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "hot": 484,
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "source": "HackerNews"
       },
       {
-        "title": "AI 流式传输工程指南：模型吐出半截 JSON，前端如何边收边渲染？",
-        "hot": 333,
-        "url": "https://juejin.cn/post/7697622920013021219",
-        "source": "掘金"
+        "title": "Restoration of Retinal Regenerative Potential (2025)",
+        "hot": 68,
+        "url": "https://www.nature.com/articles/s41467-025-58290-8",
+        "source": "HackerNews"
       },
       {
-        "title": "从 0 到 1：我用 300 行代码给 AI 记忆加上了“不可篡改的收据”（附开源实现）",
-        "hot": 252,
-        "url": "https://juejin.cn/post/7697418750073929762",
-        "source": "掘金"
+        "title": "There is no official XScreenSaver GitHub repository",
+        "hot": 38,
+        "url": "https://github.com/xscreensaver-official/xscreensaver",
+        "source": "HackerNews"
       },
       {
-        "title": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
-        "hot": 252,
-        "url": "https://juejin.cn/post/7697474838380134410",
-        "source": "掘金"
+        "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+        "hot": 295,
+        "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+        "source": "HackerNews"
       },
       {
-        "title": "面向 Schema 配置编程，Vue3 动态表单支持弹框组件",
-        "hot": 243,
-        "url": "https://juejin.cn/post/7697474838380265482",
-        "source": "掘金"
+        "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+        "hot": 8,
+        "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+        "source": "HackerNews"
       },
       {
-        "title": "如何低成本部署网站？Vercel 和 Cloudflare 怎么选？",
-        "hot": 225,
-        "url": "https://juejin.cn/post/7697615256115363882",
-        "source": "掘金"
+        "title": "MiniMax M3.1 Flash",
+        "hot": 479,
+        "url": "https://www.minimax.io/blog/minimax-m31f",
+        "source": "HackerNews"
       },
       {
-        "title": " Android 协程实践：为什么不应将 `supervisorScope` 作为常规方案",
-        "hot": 216,
-        "url": "https://juejin.cn/post/7697452953989480474",
-        "source": "掘金"
+        "title": "Making a 88x31 button book using ImageMagick",
+        "hot": 43,
+        "url": "https://k.sosnierz.me/08-11-24/",
+        "source": "HackerNews"
       },
       {
-        "title": "刷短剧上头后，我用5090和ComfyUI部署MiniMax H3",
-        "hot": 207,
-        "url": "https://juejin.cn/post/7697865664233947190",
-        "source": "掘金"
+        "title": "Revolut down as users report app not working",
+        "hot": 53,
+        "url": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+        "source": "HackerNews"
       },
       {
-        "title": "程序员 1v1 访谈系列第四期：全栈比 Agent 重要",
-        "hot": 180,
-        "url": "https://juejin.cn/post/7697622920013987875",
-        "source": "掘金"
+        "title": "Why Is Speculative Decoding Fast?",
+        "hot": 17,
+        "url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/",
+        "source": "HackerNews"
       },
       {
-        "title": "Claude的60个子Agent冲击黎曼猜想：AI自主科研的里程碑与边界",
-        "hot": 171,
-        "url": "https://juejin.cn/post/7672849477074616383",
-        "source": "掘金"
+        "title": "An ad-free Android TV",
+        "hot": 240,
+        "url": "https://cretezy.com/2026/ad-free-android-tv",
+        "source": "HackerNews"
       },
       {
-        "title": "【求助】纯命令行开发安卓相机App的一些问题，求大佬指点",
-        "hot": 171,
-        "url": "https://juejin.cn/post/7697558807295229994",
-        "source": "掘金"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "法国爆发严重暴力骚乱，超50万人上街抗议，马克龙公开谴责，冲突的深层根源是什么？折射出法国怎样的危机？",
-        "hot": 10270000,
-        "url": "https://www.zhihu.com/question/2095436236819096000",
-        "source": "知乎"
-      },
-      {
-        "title": "中国留学生俄罗斯课堂披旭日旗后道歉且已被遣返，如何评价？他在俄罗斯当地及回国后可能面临哪些实质追责？",
-        "hot": 9610000,
-        "url": "https://www.zhihu.com/question/2095439399555285800",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待 00 后小伙自学机械手搓载人飞行滑板，成功飞越长江？这个飞行滑板的技术原理是什么？",
-        "hot": 6050000,
-        "url": "https://www.zhihu.com/question/2095632163530077700",
-        "source": "知乎"
-      },
-      {
-        "title": "长鑫科技股价跳水，市值跌破3万亿元，前三季度预赚 1300 多亿还推出回购，为什么股价反而大跌？",
-        "hot": 3670000,
-        "url": "https://www.zhihu.com/question/2095452033461511200",
-        "source": "知乎"
-      },
-      {
-        "title": "如何评价DeepSeek V4.1 Flash 1017登顶「史上最差AI模型名称排行榜」?",
-        "hot": 3210000,
-        "url": "https://www.zhihu.com/question/2095476625228019500",
-        "source": "知乎"
-      },
-      {
-        "title": "现在 AI 短剧满天飞，怎么没见影视行业人员发声？",
-        "hot": 2750000,
-        "url": "https://www.zhihu.com/question/2090228809819862000",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待华为引望加入宁德时代巧克力换电？",
-        "hot": 2610000,
-        "url": "https://www.zhihu.com/question/2095629465703523600",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待 9 月 BBA 旗下无一车型零售破万？这是否意味着消费者不再单纯认豪华车标？",
-        "hot": 2490000,
-        "url": "https://www.zhihu.com/question/2095630667409254100",
-        "source": "知乎"
-      },
-      {
-        "title": "小天才手表回应「有意封闭平台利用孩子社交需求」，称能正常添加到联系人，能平息质疑吗？这对孩子影响多大？",
-        "hot": 2470000,
-        "url": "https://www.zhihu.com/question/2095810210455445800",
-        "source": "知乎"
-      },
-      {
-        "title": "羊为什么是牛科的?",
-        "hot": 2380000,
-        "url": "https://www.zhihu.com/question/28247428",
-        "source": "知乎"
-      },
-      {
-        "title": "2026《全球前 2％ 顶尖科学家榜单》出炉，你或者你熟识的人入选了么？",
-        "hot": 2280000,
-        "url": "https://www.zhihu.com/question/2091926847034318800",
-        "source": "知乎"
-      },
-      {
-        "title": "董明珠称格力技工学校禁止谈恋爱、头发不能太长，你觉得合理吗？这对学生而言是束缚还是保护？",
-        "hot": 1950000,
-        "url": "https://www.zhihu.com/question/2095788538184692000",
-        "source": "知乎"
-      },
-      {
-        "title": "香港盒饭比大陆贵那么多，那如果从大陆运很多盒饭到香港岂不是赚翻了？",
-        "hot": 1880000,
-        "url": "https://www.zhihu.com/question/2092668605007769900",
-        "source": "知乎"
-      },
-      {
-        "title": "���什么越来越多人宁愿玩老游戏也不碰新3A？",
-        "hot": 1870000,
-        "url": "https://www.zhihu.com/question/2063382427507111200",
-        "source": "知乎"
-      },
-      {
-        "title": "工信部提出「坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场」，这会给行业带来哪些转向？",
-        "hot": 1810000,
-        "url": "https://www.zhihu.com/question/2095916704706705000",
-        "source": "知乎"
-      }
-    ],
-    "baidu": [
-      {
-        "title": "一湖之变 连着总书记的牵挂",
-        "hot": 7904089,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%B9%96%E4%B9%8B%E5%8F%98%20%E8%BF%9E%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E7%89%B5%E6%8C%82",
-        "source": "百度"
-      },
-      {
-        "title": "大众摸清比亚迪成本后只剩震惊",
-        "hot": 7807931,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E4%BC%97%E6%91%B8%E6%B8%85%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%88%90%E6%9C%AC%E5%90%8E%E5%8F%AA%E5%89%A9%E9%9C%87%E6%83%8A",
-        "source": "百度"
-      },
-      {
-        "title": "年轻人开始流行“喝大水”",
-        "hot": 7714510,
-        "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E2%80%9C%E5%96%9D%E5%A4%A7%E6%B0%B4%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "12件长���文物背后的烽火往事",
-        "hot": 7615841,
-        "url": "https://www.baidu.com/s?wd=12%E4%BB%B6%E9%95%BF%E5%BE%81%E6%96%87%E7%89%A9%E8%83%8C%E5%90%8E%E7%9A%84%E7%83%BD%E7%81%AB%E5%BE%80%E4%BA%8B",
-        "source": "百度"
-      },
-      {
-        "title": "国家数据集团成立",
-        "hot": 7523026,
-        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E6%95%B0%E6%8D%AE%E9%9B%86%E5%9B%A2%E6%88%90%E7%AB%8B",
-        "source": "百度"
-      },
-      {
-        "title": "米粉店老板靠一句“泥嚎”意外走红",
-        "hot": 7423620,
-        "url": "https://www.baidu.com/s?wd=%E7%B1%B3%E7%B2%89%E5%BA%97%E8%80%81%E6%9D%BF%E9%9D%A0%E4%B8%80%E5%8F%A5%E2%80%9C%E6%B3%A5%E5%9A%8E%E2%80%9D%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2",
-        "source": "百度"
-      },
-      {
-        "title": "瓶装饮料集体涨价",
-        "hot": 7331086,
-        "url": "https://www.baidu.com/s?wd=%E7%93%B6%E8%A3%85%E9%A5%AE%E6%96%99%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7",
-        "source": "百度"
-      },
-      {
-        "title": "钟南山心梗后仍每周运动3次",
-        "hot": 7235707,
-        "url": "https://www.baidu.com/s?wd=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%BF%83%E6%A2%97%E5%90%8E%E4%BB%8D%E6%AF%8F%E5%91%A8%E8%BF%90%E5%8A%A83%E6%AC%A1",
-        "source": "百度"
-      },
-      {
-        "title": "4个小朋友5条小酥肉 怎么分",
-        "hot": 7142002,
-        "url": "https://www.baidu.com/s?wd=4%E4%B8%AA%E5%B0%8F%E6%9C%8B%E5%8F%8B5%E6%9D%A1%E5%B0%8F%E9%85%A5%E8%82%89%20%E6%80%8E%E4%B9%88%E5%88%86",
-        "source": "百度"
-      },
-      {
-        "title": "钟南山才是真正的薄肌“90后”",
-        "hot": 7045252,
-        "url": "https://www.baidu.com/s?wd=%E9%92%9F%E5%8D%97%E5%B1%B1%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%96%84%E8%82%8C%E2%80%9C90%E5%90%8E%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "百亿果汁帝国正式一分为二",
-        "hot": 6953898,
-        "url": "https://www.baidu.com/s?wd=%E7%99%BE%E4%BA%BF%E6%9E%9C%E6%B1%81%E5%B8%9D%E5%9B%BD%E6%AD%A3%E5%BC%8F%E4%B8%80%E5%88%86%E4%B8%BA%E4%BA%8C",
-        "source": "百度"
-      },
-      {
-        "title": "官方辟谣艾滋病患者到济南恶意传播",
-        "hot": 6852371,
-        "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%89%BE%E6%BB%8B%E7%97%85%E6%82%A3%E8%80%85%E5%88%B0%E6%B5%8E%E5%8D%97%E6%81%B6%E6%84%8F%E4%BC%A0%E6%92%AD",
-        "source": "百度"
-      },
-      {
-        "title": "董明珠称橘子1块5太贵不准卖",
-        "hot": 6752432,
-        "url": "https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A9%98%E5%AD%901%E5%9D%975%E5%A4%AA%E8%B4%B5%E4%B8%8D%E5%87%86%E5%8D%96",
-        "source": "百度"
-      },
-      {
-        "title": "丈夫1个拥抱 妻子断了5根肋骨",
-        "hot": 6666310,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB1%E4%B8%AA%E6%8B%A5%E6%8A%B1%20%E5%A6%BB%E5%AD%90%E6%96%AD%E4%BA%865%E6%A0%B9%E8%82%8B%E9%AA%A8",
-        "source": "百度"
-      },
-      {
-        "title": "宠物博主感染罕见真菌病逝 年仅27岁",
-        "hot": 6560289,
-        "url": "https://www.baidu.com/s?wd=%E5%AE%A0%E7%89%A9%E5%8D%9A%E4%B8%BB%E6%84%9F%E6%9F%93%E7%BD%95%E8%A7%81%E7%9C%9F%E8%8F%8C%E7%97%85%E9%80%9D%20%E5%B9%B4%E4%BB%8527%E5%B2%81",
-        "source": "百度"
+        "title": "Weball: Play Katamari on Websites",
+        "hot": 228,
+        "url": "https://www.funwithcomputervision.com/weball/",
+        "source": "HackerNews"
       }
     ],
     "weibo": [
       {
-        "title": "钟南山院士才是真正的薄肌90后",
+        "title": "被狗咬伤后狗死亡女子已打疫苗",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E9%99%A2%E5%A3%AB%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%96%84%E8%82%8C90%E5%90%8E",
+        "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%90%8E%E7%8B%97%E6%AD%BB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%89%93%E7%96%AB%E8%8B%97",
         "source": "微博"
       },
       {
@@ -291,15 +107,27 @@
         "source": "微博"
       },
       {
-        "title": "前三季度国民经济四大亮点",
+        "title": "90年了我们一直在找你们的名字",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%9B%9B%E5%A4%A7%E4%BA%AE%E7%82%B9",
+        "url": "https://s.weibo.com/weibo?q=90%E5%B9%B4%E4%BA%86%E6%88%91%E4%BB%AC%E4%B8%80%E7%9B%B4%E5%9C%A8%E6%89%BE%E4%BD%A0%E4%BB%AC%E7%9A%84%E5%90%8D%E5%AD%97",
         "source": "微博"
       },
       {
-        "title": "京东11.11多买多返最高返2000元",
+        "title": "上京东���新手机多重补贴更省钱",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BA%AC%E4%B8%9C11.11%E5%A4%9A%E4%B9%B0%E5%A4%9A%E8%BF%94%E6%9C%80%E9%AB%98%E8%BF%942000%E5%85%83",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E4%BA%AC%E4%B8%9C%E4%B9%B0%E6%96%B0%E6%89%8B%E6%9C%BA%E5%A4%9A%E9%87%8D%E8%A1%A5%E8%B4%B4%E6%9B%B4%E7%9C%81%E9%92%B1",
+        "source": "微博"
+      },
+      {
+        "title": "钟南山院士才是真正的薄肌90后",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E9%99%A2%E5%A3%AB%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%96%84%E8%82%8C90%E5%90%8E",
+        "source": "微博"
+      },
+      {
+        "title": "工信部称确有部分车企产品验证不充分",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%A7%B0%E7%A1%AE%E6%9C%89%E9%83%A8%E5%88%86%E8%BD%A6%E4%BC%81%E4%BA%A7%E5%93%81%E9%AA%8C%E8%AF%81%E4%B8%8D%E5%85%85%E5%88%86",
         "source": "微博"
       },
       {
@@ -309,21 +137,9 @@
         "source": "微博"
       },
       {
-        "title": "被狗咬伤后狗死亡女子已打疫苗",
+        "title": "奇瑞全球创新大会解锁未来生活",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%90%8E%E7%8B%97%E6%AD%BB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%89%93%E7%96%AB%E8%8B%97",
-        "source": "微博"
-      },
-      {
-        "title": "钟南山心梗后仍每周运动3次",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%BF%83%E6%A2%97%E5%90%8E%E4%BB%8D%E6%AF%8F%E5%91%A8%E8%BF%90%E5%8A%A83%E6%AC%A1",
-        "source": "微博"
-      },
-      {
-        "title": "康师傅V田曦薇番茄面",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%BA%B7%E5%B8%88%E5%82%85V%E7%94%B0%E6%9B%A6%E8%96%87%E7%95%AA%E8%8C%84%E9%9D%A2",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%87%E7%91%9E%E5%85%A8%E7%90%83%E5%88%9B%E6%96%B0%E5%A4%A7%E4%BC%9A%E8%A7%A3%E9%94%81%E6%9C%AA%E6%9D%A5%E7%94%9F%E6%B4%BB",
         "source": "微博"
       },
       {
@@ -333,27 +149,21 @@
         "source": "微博"
       },
       {
-        "title": "小米全新车型曝光",
+        "title": "双十一付尾款",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%85%A8%E6%96%B0%E8%BD%A6%E5%9E%8B%E6%9B%9D%E5%85%89",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E4%BB%98%E5%B0%BE%E6%AC%BE",
         "source": "微博"
       },
       {
-        "title": "小天才封闭社交倒逼家长购买",
+        "title": "钟南山心梗后仍每���运动3次",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A4%A9%E6%89%8D%E5%B0%81%E9%97%AD%E7%A4%BE%E4%BA%A4%E5%80%92%E9%80%BC%E5%AE%B6%E9%95%BF%E8%B4%AD%E4%B9%B0",
+        "url": "https://s.weibo.com/weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%BF%83%E6%A2%97%E5%90%8E%E4%BB%8D%E6%AF%8F%E5%91%A8%E8%BF%90%E5%8A%A83%E6%AC%A1",
         "source": "微博"
       },
       {
-        "title": "智驾小蓝灯 L3车型",
+        "title": "27岁宠物爱心博主感染罕见真菌离世",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%20L3%E8%BD%A6%E5%9E%8B",
-        "source": "微博"
-      },
-      {
-        "title": "肖战演唱会二开时间",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%8C%E5%BC%80%E6%97%B6%E9%97%B4",
+        "url": "https://s.weibo.com/weibo?q=27%E5%B2%81%E5%AE%A0%E7%89%A9%E7%88%B1%E5%BF%83%E5%8D%9A%E4%B8%BB%E6%84%9F%E6%9F%93%E7%BD%95%E8%A7%81%E7%9C%9F%E8%8F%8C%E7%A6%BB%E4%B8%96",
         "source": "微博"
       },
       {
@@ -363,120 +173,34 @@
         "source": "微博"
       },
       {
+        "title": "法国此轮抗议爆发的导火索",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E6%AD%A4%E8%BD%AE%E6%8A%97%E8%AE%AE%E7%88%86%E5%8F%91%E7%9A%84%E5%AF%BC%E7%81%AB%E7%B4%A2",
+        "source": "微博"
+      },
+      {
         "title": "刘恺威黎纪君承认恋情",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E9%BB%8E%E7%BA%AA%E5%90%9B%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85",
         "source": "微博"
       }
     ],
-    "hackernews": [
-      {
-        "title": "DeepSeek just open-sourced its inference engine",
-        "hot": 309,
-        "url": "https://github.com/deepseek-ai/DeepInfer",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Nordwand Mono – A monospace font for coders and adventurers",
-        "hot": 288,
-        "url": "https://github.com/tywr/Nordwand-Mono",
-        "source": "HackerNews"
-      },
-      {
-        "title": "OpenBSD 8.0",
-        "hot": 317,
-        "url": "https://www.openbsd.org/80.html",
-        "source": "HackerNews"
-      },
-      {
-        "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-        "hot": 67,
-        "url": "https://github.com/microg/GmsCore/wiki",
-        "source": "HackerNews"
-      },
-      {
-        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-        "hot": 465,
-        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-        "source": "HackerNews"
-      },
-      {
-        "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
-        "hot": 224,
-        "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Restoration of Retinal Regenerative Potential",
-        "hot": 63,
-        "url": "https://www.nature.com/articles/s41467-025-58290-8",
-        "source": "HackerNews"
-      },
-      {
-        "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
-        "hot": 60,
-        "url": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules",
-        "source": "HackerNews"
-      },
-      {
-        "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-        "hot": 281,
-        "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "There is no official XScreenSaver GitHub repository",
-        "hot": 22,
-        "url": "https://github.com/xscreensaver-official/xscreensaver",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Making a 88x31 button book using ImageMagick",
-        "hot": 38,
-        "url": "https://k.sosnierz.me/08-11-24/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "MiniMax M3.1 Flash",
-        "hot": 470,
-        "url": "https://www.minimax.io/blog/minimax-m31f",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Revolut down as users report app not working",
-        "hot": 35,
-        "url": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
-        "source": "HackerNews"
-      },
-      {
-        "title": "An ad-free Android TV",
-        "hot": 233,
-        "url": "https://cretezy.com/2026/ad-free-android-tv",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Weball: Play Katamari on Websites",
-        "hot": 221,
-        "url": "https://www.funwithcomputervision.com/weball/",
-        "source": "HackerNews"
-      }
-    ],
     "36kr": [
       {
         "title": "8点1氪丨被指品质暴跌，山姆回应；宇树科技市值重回2000亿，人形机器人股批量涨停；马斯克承诺给“美国每个孩子”1股SpaceX股份",
-        "hot": 22,
+        "hot": 24,
         "url": "https://www.36kr.com/p/4033470689268610",
         "source": "36氪"
       },
       {
         "title": "夯爆，DeepSeek又拿下全球第一",
-        "hot": 3,
+        "hot": 5,
         "url": "https://www.36kr.com/p/4032719542260866",
         "source": "36氪"
       },
       {
         "title": "苹果新发布会官宣：iPad mini 终于配「高刷」，MacBook 要能「上手」了",
-        "hot": 24,
+        "hot": 25,
         "url": "https://www.36kr.com/p/4033514719810437",
         "source": "36氪"
       },
@@ -552,82 +276,358 @@
         "url": "https://www.36kr.com/p/4032592552285833",
         "source": "36氪"
       }
+    ],
+    "baidu": [
+      {
+        "title": "一湖之变 连着总书记的牵挂",
+        "hot": 7904202,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%B9%96%E4%B9%8B%E5%8F%98%20%E8%BF%9E%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E7%89%B5%E6%8C%82",
+        "source": "百度"
+      },
+      {
+        "title": "新央企！国家数据集团成立",
+        "hot": 7809106,
+        "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%A4%AE%E4%BC%81%EF%BC%81%E5%9B%BD%E5%AE%B6%E6%95%B0%E6%8D%AE%E9%9B%86%E5%9B%A2%E6%88%90%E7%AB%8B",
+        "source": "百度"
+      },
+      {
+        "title": "年轻人开始流行“喝大水”",
+        "hot": 7714256,
+        "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E2%80%9C%E5%96%9D%E5%A4%A7%E6%B0%B4%E2%80%9D",
+        "source": "百度"
+      },
+      {
+        "title": "12件长征文物背���的烽火往事",
+        "hot": 7617212,
+        "url": "https://www.baidu.com/s?wd=12%E4%BB%B6%E9%95%BF%E5%BE%81%E6%96%87%E7%89%A9%E8%83%8C%E5%90%8E%E7%9A%84%E7%83%BD%E7%81%AB%E5%BE%80%E4%BA%8B",
+        "source": "百度"
+      },
+      {
+        "title": "大众摸清比亚迪成本后只剩震惊",
+        "hot": 7522668,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E4%BC%97%E6%91%B8%E6%B8%85%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%88%90%E6%9C%AC%E5%90%8E%E5%8F%AA%E5%89%A9%E9%9C%87%E6%83%8A",
+        "source": "百度"
+      },
+      {
+        "title": "瓶装饮料集体涨价",
+        "hot": 7424614,
+        "url": "https://www.baidu.com/s?wd=%E7%93%B6%E8%A3%85%E9%A5%AE%E6%96%99%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7",
+        "source": "百度"
+      },
+      {
+        "title": "“医护无过错不致歉”",
+        "hot": 7331889,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%BB%E6%8A%A4%E6%97%A0%E8%BF%87%E9%94%99%E4%B8%8D%E8%87%B4%E6%AD%89%E2%80%9D",
+        "source": "百度"
+      },
+      {
+        "title": "4个小朋友5条小酥肉 怎么分",
+        "hot": 7231726,
+        "url": "https://www.baidu.com/s?wd=4%E4%B8%AA%E5%B0%8F%E6%9C%8B%E5%8F%8B5%E6%9D%A1%E5%B0%8F%E9%85%A5%E8%82%89%20%E6%80%8E%E4%B9%88%E5%88%86",
+        "source": "百度"
+      },
+      {
+        "title": "披旭日旗留学生被曝更多“精日”行为",
+        "hot": 7142008,
+        "url": "https://www.baidu.com/s?wd=%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E7%95%99%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%9B%9D%E6%9B%B4%E5%A4%9A%E2%80%9C%E7%B2%BE%E6%97%A5%E2%80%9D%E8%A1%8C%E4%B8%BA",
+        "source": "百度"
+      },
+      {
+        "title": "100岁老人长寿秘诀从不碰加工食品",
+        "hot": 7047279,
+        "url": "https://www.baidu.com/s?wd=100%E5%B2%81%E8%80%81%E4%BA%BA%E9%95%BF%E5%AF%BF%E7%A7%98%E8%AF%80%E4%BB%8E%E4%B8%8D%E7%A2%B0%E5%8A%A0%E5%B7%A5%E9%A3%9F%E5%93%81",
+        "source": "百度"
+      },
+      {
+        "title": "百亿果汁帝国正式一分为二",
+        "hot": 6949305,
+        "url": "https://www.baidu.com/s?wd=%E7%99%BE%E4%BA%BF%E6%9E%9C%E6%B1%81%E5%B8%9D%E5%9B%BD%E6%AD%A3%E5%BC%8F%E4%B8%80%E5%88%86%E4%B8%BA%E4%BA%8C",
+        "source": "百度"
+      },
+      {
+        "title": "官方辟谣艾滋病患者到济南恶意传播",
+        "hot": 6857197,
+        "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%89%BE%E6%BB%8B%E7%97%85%E6%82%A3%E8%80%85%E5%88%B0%E6%B5%8E%E5%8D%97%E6%81%B6%E6%84%8F%E4%BC%A0%E6%92%AD",
+        "source": "百度"
+      },
+      {
+        "title": "董明珠称橘子1块5太贵不准卖",
+        "hot": 6753541,
+        "url": "https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A9%98%E5%AD%901%E5%9D%975%E5%A4%AA%E8%B4%B5%E4%B8%8D%E5%87%86%E5%8D%96",
+        "source": "百度"
+      },
+      {
+        "title": "丈夫1个拥抱 妻子断了5根肋骨",
+        "hot": 6656140,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB1%E4%B8%AA%E6%8B%A5%E6%8A%B1%20%E5%A6%BB%E5%AD%90%E6%96%AD%E4%BA%865%E6%A0%B9%E8%82%8B%E9%AA%A8",
+        "source": "百度"
+      },
+      {
+        "title": "宠物博主感染罕见真菌病逝 年仅27岁",
+        "hot": 6562322,
+        "url": "https://www.baidu.com/s?wd=%E5%AE%A0%E7%89%A9%E5%8D%9A%E4%B8%BB%E6%84%9F%E6%9F%93%E7%BD%95%E8%A7%81%E7%9C%9F%E8%8F%8C%E7%97%85%E9%80%9D%20%E5%B9%B4%E4%BB%8527%E5%B2%81",
+        "source": "百度"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "如何看待 00 后小伙自学机械手搓载人飞行滑板，成功飞越长江？这个飞行滑板的技术原理是什么？",
+        "hot": 6620000,
+        "url": "https://www.zhihu.com/question/2095632163530077700",
+        "source": "知乎"
+      },
+      {
+        "title": "中国留学生俄罗斯课堂披旭日旗后道歉且已被遣返，如何评价？他在俄罗斯当地及回国后可能面临哪些实质追责？",
+        "hot": 5770000,
+        "url": "https://www.zhihu.com/question/2095439399555285800",
+        "source": "知乎"
+      },
+      {
+        "title": "法国爆发严重暴力骚乱，超50万人上街抗议，马克龙公开谴责，冲突的深层根源是什么？折射出法国怎样的危机？",
+        "hot": 4000000,
+        "url": "https://www.zhihu.com/question/2095436236819096000",
+        "source": "知乎"
+      },
+      {
+        "title": "现在 AI 短剧满天飞，怎么没见影视行业人员发声？",
+        "hot": 2990000,
+        "url": "https://www.zhihu.com/question/2090228809819862000",
+        "source": "知乎"
+      },
+      {
+        "title": "如何评价DeepSeek V4.1 Flash 1017登顶「史上最差AI模型名称排行榜」?",
+        "hot": 2830000,
+        "url": "https://www.zhihu.com/question/2095476625228019500",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待华为引望加入宁德时代巧克力换电？",
+        "hot": 2670000,
+        "url": "https://www.zhihu.com/question/2095629465703523600",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待 9 月 BBA 旗下无一车型零售破万？这是否意味着消费者不再单纯认豪华车标？",
+        "hot": 2620000,
+        "url": "https://www.zhihu.com/question/2095630667409254100",
+        "source": "知乎"
+      },
+      {
+        "title": "小天才手表回应「有意封闭平台利用孩子社交需求」，称能正常添加到联系人，能平息质疑吗？这对孩子影响多大？",
+        "hot": 2620000,
+        "url": "https://www.zhihu.com/question/2095810210455445800",
+        "source": "知乎"
+      },
+      {
+        "title": "香港盒饭比大陆贵那么多，那如果从大陆运很多盒饭到香港岂不是赚翻了？",
+        "hot": 2390000,
+        "url": "https://www.zhihu.com/question/2092668605007769900",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待DeepSeek开源的大规模云服务推理框架 DeepInfer ？",
+        "hot": 2370000,
+        "url": "https://www.zhihu.com/question/2095922064804636400",
+        "source": "知乎"
+      },
+      {
+        "title": "2026《全球前 2％ 顶尖科学家榜单》出炉，你或者你熟识的人入选了么？",
+        "hot": 2310000,
+        "url": "https://www.zhihu.com/question/2091926847034318800",
+        "source": "知乎"
+      },
+      {
+        "title": "长鑫科技股价跳水，市值跌破3万亿元，前三季度预赚 1300 多亿还推出回购，为什么股价反而大跌？",
+        "hot": 2300000,
+        "url": "https://www.zhihu.com/question/2095452033461511200",
+        "source": "知乎"
+      },
+      {
+        "title": "女子打喷嚏震断肋骨，这和每天喝2杯以上咖啡的关系有多大？为什么现在骨质疏松年轻化了？可以如何预防？",
+        "hot": 2110000,
+        "url": "https://www.zhihu.com/question/2095832295131145700",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待2026年10月20日下午国内所有mc相关下载疑似被封禁？",
+        "hot": 2100000,
+        "url": "https://www.zhihu.com/question/2095905104423662800",
+        "source": "知乎"
+      },
+      {
+        "title": "工信部提出「坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场」，这会给行业带来哪些转向？",
+        "hot": 2050000,
+        "url": "https://www.zhihu.com/question/2095916704706705000",
+        "source": "知乎"
+      }
+    ],
+    "juejin": [
+      {
+        "title": "为什么我在团队里禁止使用 axios？",
+        "hot": 783,
+        "url": "https://juejin.cn/post/7698268211587022874",
+        "source": "掘金"
+      },
+      {
+        "title": " AI 流式输出都用 SSE，什么时候必须换 WebSocket？",
+        "hot": 504,
+        "url": "https://juejin.cn/post/7697591781001691163",
+        "source": "掘金"
+      },
+      {
+        "title": "别再花钱调 OCR 接口了！这个国产开源工具，免费还能离线跑",
+        "hot": 441,
+        "url": "https://juejin.cn/post/7697873433354485770",
+        "source": "掘金"
+      },
+      {
+        "title": "AI 流式传输工程指南：模型吐出半截 JSON，前端如何边收边渲染？",
+        "hot": 333,
+        "url": "https://juejin.cn/post/7697622920013021219",
+        "source": "掘金"
+      },
+      {
+        "title": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生��可玩游戏，但有个坑会吃掉你 90% 的预算",
+        "hot": 270,
+        "url": "https://juejin.cn/post/7697474838380134410",
+        "source": "掘金"
+      },
+      {
+        "title": "从 0 到 1：我用 300 行代码给 AI 记忆加上了“不可篡改的收据”（附开源实现）",
+        "hot": 261,
+        "url": "https://juejin.cn/post/7697418750073929762",
+        "source": "掘金"
+      },
+      {
+        "title": "面向 Schema 配置编程，Vue3 动态表单支持弹框组件",
+        "hot": 243,
+        "url": "https://juejin.cn/post/7697474838380265482",
+        "source": "掘金"
+      },
+      {
+        "title": "刷短剧上头后，我用5090和ComfyUI部署MiniMax H3",
+        "hot": 225,
+        "url": "https://juejin.cn/post/7697865664233947190",
+        "source": "掘金"
+      },
+      {
+        "title": "如何低成本部署网站？Vercel 和 Cloudflare 怎么选？",
+        "hot": 225,
+        "url": "https://juejin.cn/post/7697615256115363882",
+        "source": "掘金"
+      },
+      {
+        "title": "程序员 1v1 访谈系列第四期：全栈比 Agent 重要",
+        "hot": 216,
+        "url": "https://juejin.cn/post/7697622920013987875",
+        "source": "掘金"
+      },
+      {
+        "title": " Android 协程实践：为什么不应将 `supervisorScope` 作为常规方案",
+        "hot": 216,
+        "url": "https://juejin.cn/post/7697452953989480474",
+        "source": "掘金"
+      },
+      {
+        "title": " 探索副业五个月，最终以放弃告终",
+        "hot": 180,
+        "url": "https://juejin.cn/post/7698569506813394959",
+        "source": "掘金"
+      },
+      {
+        "title": "纯前端预览 275 种文件格式是怎么做到的",
+        "hot": 171,
+        "url": "https://juejin.cn/post/7697865664232702006",
+        "source": "掘金"
+      },
+      {
+        "title": "【求助】纯命令行开发安卓相机App的一些问题，求大佬指点",
+        "hot": 171,
+        "url": "https://juejin.cn/post/7697558807295229994",
+        "source": "掘金"
+      },
+      {
+        "title": "Claude的60个子Agent冲击黎曼猜想：AI自主科研的里程碑与边界",
+        "hot": 171,
+        "url": "https://juejin.cn/post/7672849477074616383",
+        "source": "掘金"
+      }
     ]
   },
   "github": [
     {
       "title": "Gathin23/cleanyourtv —— Debloat any Android or Google TV over Wi",
-      "hot": "⭐ 8524",
+      "hot": "⭐ 8692",
       "url": "https://github.com/Gathin23/cleanyourtv",
       "source": "GitHub",
       "tag": "Java"
     },
     {
       "title": "deepseek-ai/DeepInfer —— DeepInfer: High-performance, large-scale",
-      "hot": "⭐ 4765",
+      "hot": "⭐ 5466",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "Arekejoker/qwen21-nsfw-pose-skill —— Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 ",
-      "hot": "⭐ 3458",
+      "hot": "⭐ 3460",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "HeyPuter/everything —— We're rebuilding and open-sourcing the w",
-      "hot": "⭐ 2884",
+      "hot": "⭐ 2889",
       "url": "https://github.com/HeyPuter/everything",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "feder-cr/git-ai —— Git designed for AI agents.",
-      "hot": "⭐ 2490",
+      "hot": "⭐ 2491",
       "url": "https://github.com/feder-cr/git-ai",
       "source": "GitHub",
       "tag": "Go"
     },
     {
       "title": "ly05010419/MacNativeGames",
-      "hot": "⭐ 2298",
+      "hot": "⭐ 2326",
       "url": "https://github.com/ly05010419/MacNativeGames",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "ahwootech/BRUTAL —— A free, open source C# framework for mak",
-      "hot": "⭐ 2019",
+      "hot": "⭐ 2020",
       "url": "https://github.com/ahwootech/BRUTAL",
       "source": "GitHub",
       "tag": "C#"
     },
     {
       "title": "chenglou/handwired —— Turn your regular JavaScript code into a",
-      "hot": "⭐ 1833",
+      "hot": "⭐ 1834",
       "url": "https://github.com/chenglou/handwired",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "Leonxlnx/earshot —— Ears for coding agents: let AI hear, rev",
-      "hot": "⭐ 1736",
+      "hot": "⭐ 1752",
       "url": "https://github.com/Leonxlnx/earshot",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "Supermedo/uncharted_pc —— Uncharted: The Nathan Drake Collection r",
-      "hot": "⭐ 1645",
+      "hot": "⭐ 1649",
       "url": "https://github.com/Supermedo/uncharted_pc",
       "source": "GitHub",
       "tag": "C++"
     },
     {
       "title": "xiaoyang111222/cn-math-taxonomy —— 中小学+高中数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级与高中必修、6",
-      "hot": "⭐ 1331",
+      "hot": "⭐ 1343",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "source": "GitHub",
       "tag": "Python"
@@ -641,21 +641,21 @@
     },
     {
       "title": "OpenMOSS/MOSS-Image —— Official repository for MOSS-Image, a 5B",
-      "hot": "⭐ 1082",
+      "hot": "⭐ 1087",
       "url": "https://github.com/OpenMOSS/MOSS-Image",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "aicodeking/leanrea —— One 8 KB skill that replaces REA (Revers",
-      "hot": "⭐ 1075",
+      "hot": "⭐ 1080",
       "url": "https://github.com/aicodeking/leanrea",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "alchaincyf/huashu-motion —— 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commerci",
-      "hot": "⭐ 1073",
+      "hot": "⭐ 1079",
       "url": "https://github.com/alchaincyf/huashu-motion",
       "source": "GitHub",
       "tag": "JavaScript"
