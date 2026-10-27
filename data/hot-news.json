@@ -1,98 +1,6 @@
 {
-  "updatedAt": "2026-10-27T21:00:58.802Z",
+  "updatedAt": "2026-10-27T21:30:57.090Z",
   "dailyhot": {
-    "hackernews": [
-      {
-        "title": "Genie 4",
-        "hot": 529,
-        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Ghostty 1.4.0",
-        "hot": 454,
-        "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Tailscale SSH: Investigation and remediation update",
-        "hot": 67,
-        "url": "https://tailscale.com/ssh-investigation-update",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-        "hot": 45,
-        "url": "https://www.brangus.io/survival-llm",
-        "source": "HackerNews"
-      },
-      {
-        "title": "New 14‑inch MacBook Pro with M6",
-        "hot": 182,
-        "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "An examination of lost firefly species of the US and Canada",
-        "hot": 23,
-        "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Classification of Finite Simple Groups Formalized in Lean",
-        "hot": 121,
-        "url": "https://cfsg.axiommath.ai/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "New iMac with M6",
-        "hot": 255,
-        "url": "https://www.apple.com/imac/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Python's experimental JIT to be removed",
-        "hot": 384,
-        "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Wikipedia's Cleanup of AI-Generated Content",
-        "hot": 388,
-        "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Three TLS Bugs in GoAhead",
-        "hot": 34,
-        "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-        "hot": 75,
-        "url": "https://www.liquid.ai/blog/lfm3",
-        "source": "HackerNews"
-      },
-      {
-        "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-        "hot": 623,
-        "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
-        "hot": 110,
-        "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Four Months of Zig",
-        "hot": 6,
-        "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
-        "source": "HackerNews"
-      }
-    ],
     "juejin": [
       {
         "title": "天涯神贴《2027年以后，你要活成这个样子》有感，希望 2027 年可以活成自己想要的样子",
@@ -185,6 +93,282 @@
         "source": "掘金"
       }
     ],
+    "hackernews": [
+      {
+        "title": "Genie 4",
+        "hot": 562,
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Ghostty 1.4.0",
+        "hot": 505,
+        "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Tailscale SSH: Investigation and remediation update",
+        "hot": 96,
+        "url": "https://tailscale.com/ssh-investigation-update",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Early progress on accelerating drug development with Claude",
+        "hot": 26,
+        "url": "https://www.anthropic.com/research/early-progress-drug-development",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "hot": 65,
+        "url": "https://www.brangus.io/survival-llm",
+        "source": "HackerNews"
+      },
+      {
+        "title": "New 14‑inch MacBook Pro with M6",
+        "hot": 201,
+        "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Classification of Finite Simple Groups Formalized in Lean",
+        "hot": 133,
+        "url": "https://cfsg.axiommath.ai/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "New iMac with M6",
+        "hot": 267,
+        "url": "https://www.apple.com/imac/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "An examination of lost firefly species of the US and Canada",
+        "hot": 34,
+        "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Python's experimental JIT to be removed",
+        "hot": 392,
+        "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Wikipedia's Cleanup of AI-Generated Content",
+        "hot": 401,
+        "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Three TLS Bugs in GoAhead",
+        "hot": 36,
+        "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Four Months of Zig",
+        "hot": 13,
+        "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+        "hot": 81,
+        "url": "https://www.liquid.ai/blog/lfm3",
+        "source": "HackerNews"
+      },
+      {
+        "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+        "hot": 652,
+        "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+        "source": "HackerNews"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "央视已全面叫停涉及姆巴佩的赛事和广告播出，姆巴佩社交账号被禁言，此次风波带来的连锁反应有多大？",
+        "hot": 40700000,
+        "url": "https://www.zhihu.com/question/2098431727324619800",
+        "source": "知乎"
+      },
+      {
+        "title": "外交部回应姆巴佩代言解约事件，「伤害中国人民感情的言行自然会遭到中国社会各界的共同抵制」，这有何警示？",
+        "hot": 19860000,
+        "url": "https://www.zhihu.com/question/2098468913931608600",
+        "source": "知乎"
+      },
+      {
+        "title": "微软向约60000名员工开放自愿离职方案，背后有哪些商业考量？为何没有选择强制裁员？",
+        "hot": 2150000,
+        "url": "https://www.zhihu.com/question/2098214224841462000",
+        "source": "知乎"
+      },
+      {
+        "title": "银行将存 2500 元错输成 25000 元，储户拒退称「离柜概不负责」，被法院判属退还，你怎么看？",
+        "hot": 2130000,
+        "url": "https://www.zhihu.com/question/2098369407378629000",
+        "source": "知乎"
+      },
+      {
+        "title": "红果短剧引发年轻人「戒断潮」，如何看待这一现象？短剧为何让人欲罢不能？",
+        "hot": 2030000,
+        "url": "https://www.zhihu.com/question/2097994971261543000",
+        "source": "知乎"
+      },
+      {
+        "title": "为什么OpenAi和Anthropic不用自己的顶级AI去炒股？就像幻方量化一样？",
+        "hot": 1620000,
+        "url": "https://www.zhihu.com/question/2096860633161545200",
+        "source": "知乎"
+      },
+      {
+        "title": "西甲主席及官方发布声明，为姆巴佩言论深表遗憾，向中国球迷致以诚挚的歉意，此事对西甲联赛影响有多大？",
+        "hot": 1490000,
+        "url": "https://www.zhihu.com/question/2098491499767750700",
+        "source": "知乎"
+      },
+      {
+        "title": "富士康员工回应iPhoneDuo裂屏，称产能吃紧苹果曾降低良率质检标准，是真的吗？消费者能要求赔偿吗？",
+        "hot": 1350000,
+        "url": "https://www.zhihu.com/question/2098450605354087400",
+        "source": "知乎"
+      },
+      {
+        "title": "AL 的 S16 赛事全部结束，如何评价他们在本届赛事上的表现？",
+        "hot": 1200000,
+        "url": "https://www.zhihu.com/question/2098306923565209000",
+        "source": "知乎"
+      },
+      {
+        "title": "基金经理重仓AI巨亏公开致歉，称没必要低位离场，等流动性恢复，当基金经理也靠信仰持股，算不算风险信号？",
+        "hot": 1070000,
+        "url": "https://www.zhihu.com/question/2096884168970061300",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待网友发布的30系及40系显卡的GPU算力解锁工具gpu-unlock？",
+        "hot": 990000,
+        "url": "https://www.zhihu.com/question/2097550220158571300",
+        "source": "知乎"
+      },
+      {
+        "title": "是《兰香如故》里面冻死一个兵部尚书严重，还是《琅琊榜》里面噶掉自家七万精锐严重？",
+        "hot": 820000,
+        "url": "https://www.zhihu.com/question/2096914874018305500",
+        "source": "知乎"
+      },
+      {
+        "title": "东鹏饮料等品牌紧急切割姆巴佩，这种情况品牌用不用赔违约金？已付代言费、物料成本还能追回吗？",
+        "hot": 820000,
+        "url": "https://www.zhihu.com/question/2098358966568882200",
+        "source": "知乎"
+      },
+      {
+        "title": "樱井政博怒斥AI游戏只是“无法游玩的抄袭品”，为什么AI能生成完美代码和美术，却很难做得“好玩”？",
+        "hot": 810000,
+        "url": "https://www.zhihu.com/question/2096639617629939700",
+        "source": "知乎"
+      },
+      {
+        "title": "OpenAI 10月26日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
+        "hot": 780000,
+        "url": "https://www.zhihu.com/question/2098331248469062100",
+        "source": "知乎"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "习近平致电祝贺卢拉当选连任巴西总统",
+        "hot": 7904827,
+        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E7%94%B5%E7%A5%9D%E8%B4%BA%E5%8D%A2%E6%8B%89%E5%BD%93%E9%80%89%E8%BF%9E%E4%BB%BB%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F",
+        "source": "百度"
+      },
+      {
+        "title": "外交部回应“姆巴佩遭中国公司解约”",
+        "hot": 7807912,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E8%A7%A3%E7%BA%A6%E2%80%9D",
+        "source": "百度"
+      },
+      {
+        "title": "中国足协第一时间与皇马严正交涉",
+        "hot": 7712883,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E4%B8%8E%E7%9A%87%E9%A9%AC%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
+        "source": "百度"
+      },
+      {
+        "title": "不断开创新时代管党治党新局面",
+        "hot": 7617134,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2",
+        "source": "百度"
+      },
+      {
+        "title": "台风烟花：是的 我又重生回来了",
+        "hot": 7520623,
+        "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%EF%BC%9A%E6%98%AF%E7%9A%84%20%E6%88%91%E5%8F%88%E9%87%8D%E7%94%9F%E5%9B%9E%E6%9D%A5%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "大体老师不是取乐玩物",
+        "hot": 7425239,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E4%B8%8D%E6%98%AF%E5%8F%96%E4%B9%90%E7%8E%A9%E7%89%A9",
+        "source": "百度"
+      },
+      {
+        "title": "妻子用米饭炒菜给丈夫做生日蛋糕",
+        "hot": 7328538,
+        "url": "https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E7%94%A8%E7%B1%B3%E9%A5%AD%E7%82%92%E8%8F%9C%E7%BB%99%E4%B8%88%E5%A4%AB%E5%81%9A%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95",
+        "source": "百度"
+      },
+      {
+        "title": "为悬挂婚庆气球 水库大坝公路被钻孔",
+        "hot": 7239182,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E6%82%AC%E6%8C%82%E5%A9%9A%E5%BA%86%E6%B0%94%E7%90%83%20%E6%B0%B4%E5%BA%93%E5%A4%A7%E5%9D%9D%E5%85%AC%E8%B7%AF%E8%A2%AB%E9%92%BB%E5%AD%94",
+        "source": "百度"
+      },
+      {
+        "title": "你吃的烤肠可能是鸡脖子做的",
+        "hot": 7142057,
+        "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%90%83%E7%9A%84%E7%83%A4%E8%82%A0%E5%8F%AF%E8%83%BD%E6%98%AF%E9%B8%A1%E8%84%96%E5%AD%90%E5%81%9A%E7%9A%84",
+        "source": "百度"
+      },
+      {
+        "title": "丰收时节 看稻香里的新品种",
+        "hot": 7046550,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E6%97%B6%E8%8A%82%20%E7%9C%8B%E7%A8%BB%E9%A6%99%E9%87%8C%E7%9A%84%E6%96%B0%E5%93%81%E7%A7%8D",
+        "source": "百度"
+      },
+      {
+        "title": "德国总统抵达安徽开启访华行程",
+        "hot": 6943315,
+        "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E5%AE%89%E5%BE%BD%E5%BC%80%E5%90%AF%E8%AE%BF%E5%8D%8E%E8%A1%8C%E7%A8%8B",
+        "source": "百度"
+      },
+      {
+        "title": "深山救助流浪女 实为造假博流量",
+        "hot": 6854188,
+        "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%B1%B1%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E5%A5%B3%20%E5%AE%9E%E4%B8%BA%E9%80%A0%E5%81%87%E5%8D%9A%E6%B5%81%E9%87%8F",
+        "source": "百度"
+      },
+      {
+        "title": "中国新闻网呸姆巴佩",
+        "hot": 6754968,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%E5%91%B8%E5%A7%86%E5%B7%B4%E4%BD%A9",
+        "source": "百度"
+      },
+      {
+        "title": "彩民花10元中682万大奖",
+        "hot": 6656402,
+        "url": "https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E8%8A%B110%E5%85%83%E4%B8%AD682%E4%B8%87%E5%A4%A7%E5%A5%96",
+        "source": "百度"
+      },
+      {
+        "title": "杂牌电动自行车要凉",
+        "hot": 6559145,
+        "url": "https://www.baidu.com/s?wd=%E6%9D%82%E7%89%8C%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A6%81%E5%87%89",
+        "source": "百度"
+      }
+    ],
     "weibo": [
       {
         "title": "事后道歉救不了姆巴佩",
@@ -223,9 +407,9 @@
         "source": "微博"
       },
       {
-        "title": "姆巴佩们别想从中国市场挣走一分钱",
+        "title": "北京动物园通报萌兰身体状态",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BB%AC%E5%88%AB%E6%83%B3%E4%BB%8E%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%8C%A3%E8%B5%B0%E4%B8%80%E5%88%86%E9%92%B1",
+        "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%80%9A%E6%8A%A5%E8%90%8C%E5%85%B0%E8%BA%AB%E4%BD%93%E7%8A%B6%E6%80%81",
         "source": "微博"
       },
       {
@@ -235,15 +419,15 @@
         "source": "微博"
       },
       {
-        "title": "饲养员多次呼唤萌兰无响应",
+        "title": "姆巴佩们别想从中国市场挣走一分钱",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%A5%B2%E5%85%BB%E5%91%98%E5%A4%9A%E6%AC%A1%E5%91%BC%E5%94%A4%E8%90%8C%E5%85%B0%E6%97%A0%E5%93%8D%E5%BA%94",
+        "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BB%AC%E5%88%AB%E6%83%B3%E4%BB%8E%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%8C%A3%E8%B5%B0%E4%B8%80%E5%88%86%E9%92%B1",
         "source": "微博"
       },
       {
-        "title": "WTT蒙彼利埃女单32强赛",
+        "title": "饲养员多次呼唤萌兰无响应",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=WTT%E8%92%99%E5%BD%BC%E5%88%A9%E5%9F%83%E5%A5%B3%E5%8D%9532%E5%BC%BA%E8%B5%9B",
+        "url": "https://s.weibo.com/weibo?q=%E9%A5%B2%E5%85%BB%E5%91%98%E5%A4%9A%E6%AC%A1%E5%91%BC%E5%94%A4%E8%90%8C%E5%85%B0%E6%97%A0%E5%93%8D%E5%BA%94",
         "source": "微博"
       },
       {
@@ -253,9 +437,9 @@
         "source": "微博"
       },
       {
-        "title": "K100双11真香机",
+        "title": "WTT蒙彼利埃女单32强赛",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=K100%E5%8F%8C11%E7%9C%9F%E9%A6%99%E6%9C%BA",
+        "url": "https://s.weibo.com/weibo?q=WTT%E8%92%99%E5%BD%BC%E5%88%A9%E5%9F%83%E5%A5%B3%E5%8D%9532%E5%BC%BA%E8%B5%9B",
         "source": "微博"
       },
       {
@@ -271,194 +455,10 @@
         "source": "微博"
       },
       {
-        "title": "北京动物园通报萌兰身体状态",
+        "title": "K100双11真香机",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%80%9A%E6%8A%A5%E8%90%8C%E5%85%B0%E8%BA%AB%E4%BD%93%E7%8A%B6%E6%80%81",
+        "url": "https://s.weibo.com/weibo?q=K100%E5%8F%8C11%E7%9C%9F%E9%A6%99%E6%9C%BA",
         "source": "微博"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "央视已全面叫停涉及姆巴佩的赛事和广告播出，姆巴佩社交账号被禁言，此次风波带来的连锁反应有多大？",
-        "hot": 47720000,
-        "url": "https://www.zhihu.com/question/2098431727324619800",
-        "source": "知乎"
-      },
-      {
-        "title": "外交部回应姆巴佩代言解约事件，「伤害中国人民感情的言行自然会遭到中国社会各界的共同抵制」，这有何警示？",
-        "hot": 23340000,
-        "url": "https://www.zhihu.com/question/2098468913931608600",
-        "source": "知乎"
-      },
-      {
-        "title": "银行将存 2500 元错输成 25000 元，储户拒退称「离柜概不负责」，被法院判属退还，你怎么看？",
-        "hot": 2530000,
-        "url": "https://www.zhihu.com/question/2098369407378629000",
-        "source": "知乎"
-      },
-      {
-        "title": "红果短剧引发���轻人「戒断潮」，如何看待这一现象？短剧为何让人欲罢不能？",
-        "hot": 2410000,
-        "url": "https://www.zhihu.com/question/2097994971261543000",
-        "source": "知乎"
-      },
-      {
-        "title": "微软向约60000名员工开放自愿离职方案，背后有哪些商业考量？为何没有选择强制裁员？",
-        "hot": 2220000,
-        "url": "https://www.zhihu.com/question/2098214224841462000",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么OpenAi和Anthropic不用自己的顶级AI去炒股？就像幻方量化一样？",
-        "hot": 1620000,
-        "url": "https://www.zhihu.com/question/2096860633161545200",
-        "source": "知乎"
-      },
-      {
-        "title": "西甲主席及官方发布声明，为姆巴佩言论深表遗憾，向中国球迷致以诚挚的歉意，此事对西甲联赛影响有多大？",
-        "hot": 1490000,
-        "url": "https://www.zhihu.com/question/2098491499767750700",
-        "source": "知乎"
-      },
-      {
-        "title": "富士康员工回应iPhoneDuo裂屏，称产能吃紧苹果曾降低良率质检标准，是真的吗？消费者能要求赔偿吗？",
-        "hot": 1370000,
-        "url": "https://www.zhihu.com/question/2098450605354087400",
-        "source": "知乎"
-      },
-      {
-        "title": "基金经理重仓AI巨亏公开致歉，称没必要低位离场，等流动性恢复，当基金经理也靠信仰持股，算不算风险信号？",
-        "hot": 1080000,
-        "url": "https://www.zhihu.com/question/2096884168970061300",
-        "source": "知乎"
-      },
-      {
-        "title": "AL 的 S16 赛事全部结束，如何评价他们在本届赛事上的表现？",
-        "hot": 1000000,
-        "url": "https://www.zhihu.com/question/2098306923565209000",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待网友发布的30系及40系显卡的GPU算力解锁工具gpu-unlock？",
-        "hot": 990000,
-        "url": "https://www.zhihu.com/question/2097550220158571300",
-        "source": "知乎"
-      },
-      {
-        "title": "是《兰香如故》里面冻死一个兵部尚书严重，还是《琅琊榜》里面噶掉自家七万精锐严重？",
-        "hot": 930000,
-        "url": "https://www.zhihu.com/question/2096914874018305500",
-        "source": "知乎"
-      },
-      {
-        "title": "东鹏饮料等品牌紧急切割姆巴佩，这种情况品牌用不用赔违约金？已付代言费、物料成本还能追回吗？",
-        "hot": 870000,
-        "url": "https://www.zhihu.com/question/2098358966568882200",
-        "source": "知乎"
-      },
-      {
-        "title": "樱井政博怒斥AI游戏只是“无法游玩的抄袭品”，为什么AI能生成完美代码和美术，却很难做得“好玩”？",
-        "hot": 810000,
-        "url": "https://www.zhihu.com/question/2096639617629939700",
-        "source": "知乎"
-      },
-      {
-        "title": "OpenAI 10月26日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
-        "hot": 780000,
-        "url": "https://www.zhihu.com/question/2098331248469062100",
-        "source": "知乎"
-      }
-    ],
-    "baidu": [
-      {
-        "title": "习近平致电祝贺卢拉当选连任巴西总统",
-        "hot": 7904339,
-        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E7%94%B5%E7%A5%9D%E8%B4%BA%E5%8D%A2%E6%8B%89%E5%BD%93%E9%80%89%E8%BF%9E%E4%BB%BB%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F",
-        "source": "百度"
-      },
-      {
-        "title": "外交部回应“姆巴佩遭中国公司解约”",
-        "hot": 7808493,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E8%A7%A3%E7%BA%A6%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "中国足协第一时间与皇马严正交涉",
-        "hot": 7714164,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E4%B8%8E%E7%9A%87%E9%A9%AC%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
-        "source": "百度"
-      },
-      {
-        "title": "不断开创新时代管党治党新局面",
-        "hot": 7618048,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2",
-        "source": "百度"
-      },
-      {
-        "title": "台风烟花：是的 我又重生回来了",
-        "hot": 7519679,
-        "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%EF%BC%9A%E6%98%AF%E7%9A%84%20%E6%88%91%E5%8F%88%E9%87%8D%E7%94%9F%E5%9B%9E%E6%9D%A5%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "大体老师不是取乐玩物",
-        "hot": 7429079,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E4%B8%8D%E6%98%AF%E5%8F%96%E4%B9%90%E7%8E%A9%E7%89%A9",
-        "source": "百度"
-      },
-      {
-        "title": "妻子用米饭炒菜给丈夫做生日蛋糕",
-        "hot": 7328866,
-        "url": "https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E7%94%A8%E7%B1%B3%E9%A5%AD%E7%82%92%E8%8F%9C%E7%BB%99%E4%B8%88%E5%A4%AB%E5%81%9A%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95",
-        "source": "百度"
-      },
-      {
-        "title": "你吃的烤肠可能是鸡脖子做的",
-        "hot": 7232938,
-        "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%90%83%E7%9A%84%E7%83%A4%E8%82%A0%E5%8F%AF%E8%83%BD%E6%98%AF%E9%B8%A1%E8%84%96%E5%AD%90%E5%81%9A%E7%9A%84",
-        "source": "百度"
-      },
-      {
-        "title": "德国总统抵达安徽开启访华行程",
-        "hot": 7136173,
-        "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E5%AE%89%E5%BE%BD%E5%BC%80%E5%90%AF%E8%AE%BF%E5%8D%8E%E8%A1%8C%E7%A8%8B",
-        "source": "百度"
-      },
-      {
-        "title": "丰收时节 看稻香里的新品种",
-        "hot": 7041564,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E6%97%B6%E8%8A%82%20%E7%9C%8B%E7%A8%BB%E9%A6%99%E9%87%8C%E7%9A%84%E6%96%B0%E5%93%81%E7%A7%8D",
-        "source": "百度"
-      },
-      {
-        "title": "大窑又换CEO了",
-        "hot": 6945475,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%AA%91%E5%8F%88%E6%8D%A2CEO%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "深山救助流浪女 实为造假博流量",
-        "hot": 6848711,
-        "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%B1%B1%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E5%A5%B3%20%E5%AE%9E%E4%B8%BA%E9%80%A0%E5%81%87%E5%8D%9A%E6%B5%81%E9%87%8F",
-        "source": "百度"
-      },
-      {
-        "title": "中国新闻网呸姆巴佩",
-        "hot": 6755634,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%E5%91%B8%E5%A7%86%E5%B7%B4%E4%BD%A9",
-        "source": "百度"
-      },
-      {
-        "title": "彩民花10元中682万大奖",
-        "hot": 6659092,
-        "url": "https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E8%8A%B110%E5%85%83%E4%B8%AD682%E4%B8%87%E5%A4%A7%E5%A5%96",
-        "source": "百度"
-      },
-      {
-        "title": "杂牌电动自行车要凉",
-        "hot": 6566321,
-        "url": "https://www.baidu.com/s?wd=%E6%9D%82%E7%89%8C%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A6%81%E5%87%89",
-        "source": "百度"
       }
     ],
     "36kr": [
@@ -487,7 +487,7 @@
         "source": "36氪"
       },
       {
-        "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+        "title": "刚刚，Anthropic���开335页招股书：史上最大IPO，史上最亏AI公司",
         "hot": 44,
         "url": "https://www.36kr.com/p/4043377845310592",
         "source": "36氪"
@@ -536,7 +536,7 @@
       },
       {
         "title": "百元一盒“维生素小贴纸”火了：年入6000万，估值超50亿",
-        "hot": 19,
+        "hot": 20,
         "url": "https://www.36kr.com/p/4042716361167749",
         "source": "36氪"
       },
@@ -547,7 +547,7 @@
         "source": "36氪"
       },
       {
-        "title": "第三个4万亿城市，要来了",
+        "title": "第三个4万亿城市，要来��",
         "hot": 5,
         "url": "https://www.36kr.com/p/4043493340943490",
         "source": "36氪"
@@ -557,63 +557,63 @@
   "github": [
     {
       "title": "pengchujin/aerial-tv —— 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV ��",
-      "hot": "⭐ 6693",
+      "hot": "⭐ 6697",
       "url": "https://github.com/pengchujin/aerial-tv",
       "source": "GitHub",
       "tag": "Kotlin"
     },
     {
       "title": "JustAResearcher/gpu-unlock-ada —— GPU tensor unlock source for RTX 4090 an",
-      "hot": "⭐ 4236",
+      "hot": "⭐ 4243",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "rddmwmddr/android-ad-cleaner —— 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支",
-      "hot": "⭐ 3160",
+      "hot": "⭐ 3167",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "designfuchen/word-atlas —— 词光 · Word Atlas — Illustrated IELTS voca",
-      "hot": "⭐ 2433",
+      "hot": "⭐ 2436",
       "url": "https://github.com/designfuchen/word-atlas",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "Jakeschincariol/day-trader-skill —— 11 Claude skills for day trading: scan t",
-      "hot": "⭐ 2285",
+      "hot": "⭐ 2292",
       "url": "https://github.com/Jakeschincariol/day-trader-skill",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "wesbos/3d-model-anything —— Capture iPhone LiDAR and photos, reconst",
-      "hot": "⭐ 2200",
+      "hot": "⭐ 2201",
       "url": "https://github.com/wesbos/3d-model-anything",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "xevrion/hatchzip —— HatchZip is a free, open-source archive ",
-      "hot": "⭐ 2156",
+      "hot": "⭐ 2158",
       "url": "https://github.com/xevrion/hatchzip",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "unclebob/ub-mode",
-      "hot": "⭐ 2054",
+      "hot": "⭐ 2085",
       "url": "https://github.com/unclebob/ub-mode",
       "source": "GitHub",
       "tag": ""
     },
     {
       "title": "t3dotgg/tstack —— The agent skills I use every day. Works ",
-      "hot": "⭐ 1962",
+      "hot": "⭐ 1968",
       "url": "https://github.com/t3dotgg/tstack",
       "source": "GitHub",
       "tag": "Python"
@@ -627,7 +627,7 @@
     },
     {
       "title": "oosexgang/hackios-xnu-kernel",
-      "hot": "⭐ 1807",
+      "hot": "⭐ 1808",
       "url": "https://github.com/oosexgang/hackios-xnu-kernel",
       "source": "GitHub",
       "tag": "C"
@@ -641,14 +641,14 @@
     },
     {
       "title": "lyramakesmusic/neuron-explorer —— Steering-first neuron explorer for Qwen3",
-      "hot": "⭐ 1451",
+      "hot": "⭐ 1458",
       "url": "https://github.com/lyramakesmusic/neuron-explorer",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "openai/php2shell-checker",
-      "hot": "⭐ 1438",
+      "hot": "⭐ 1439",
       "url": "https://github.com/openai/php2shell-checker",
       "source": "GitHub",
       "tag": "JavaScript"
