@@ -1,40 +1,224 @@
 {
-  "updatedAt": "2026-10-27T15:01:07.154Z",
+  "updatedAt": "2026-10-27T15:31:01.195Z",
   "dailyhot": {
+    "hackernews": [
+      {
+        "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+        "hot": 92,
+        "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Python's experimental JIT to be removed",
+        "hot": 213,
+        "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Wikipedia's Cleanup of AI-Generated Content",
+        "hot": 205,
+        "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+        "source": "HackerNews"
+      },
+      {
+        "title": "AI promised less work. I've never worked more",
+        "hot": 417,
+        "url": "https://oioannou.com/blog/ai-promised-less-work/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+        "hot": 61,
+        "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Viral Polls Are Not Representative Polls",
+        "hot": 14,
+        "url": "https://kevinreuning.com/blog/polling_virality.html",
+        "source": "HackerNews"
+      },
+      {
+        "title": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans",
+        "hot": 155,
+        "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+        "hot": 32,
+        "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Software may be getting worse, but it used to be horrible",
+        "hot": 202,
+        "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Three new discoveries in mathematics, computer science, and physics",
+        "hot": 1053,
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Giving chat feedback gives Anthropic your data",
+        "hot": 82,
+        "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+        "source": "HackerNews"
+      },
+      {
+        "title": "The Mythical Man-Month in the Age of AI",
+        "hot": 325,
+        "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Gforth 1.0",
+        "hot": 93,
+        "url": "https://gforth.org/manual/1.0/NEWS.html",
+        "source": "HackerNews"
+      },
+      {
+        "title": "New iMac with M6",
+        "hot": 98,
+        "url": "https://www.apple.com/imac/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "The Exponential Time Hypothesis Is False [pdf]",
+        "hot": 730,
+        "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+        "source": "HackerNews"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "习近平致电祝贺卢拉当选连任巴西总统",
+        "hot": 7903951,
+        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E7%94%B5%E7%A5%9D%E8%B4%BA%E5%8D%A2%E6%8B%89%E5%BD%93%E9%80%89%E8%BF%9E%E4%BB%BB%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F",
+        "source": "百度"
+      },
+      {
+        "title": "外交部回应“姆巴佩遭中国公司解约”",
+        "hot": 7808919,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E8%A7%A3%E7%BA%A6%E2%80%9D",
+        "source": "百度"
+      },
+      {
+        "title": "中国足协第一时间与皇马严正交涉",
+        "hot": 7713483,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E4%B8%8E%E7%9A%87%E9%A9%AC%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
+        "source": "百度"
+      },
+      {
+        "title": "不断开创新时代管党治党新局面",
+        "hot": 7616458,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2",
+        "source": "百度"
+      },
+      {
+        "title": "台风烟花：是的 我又重生回来了",
+        "hot": 7521518,
+        "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%EF%BC%9A%E6%98%AF%E7%9A%84%20%E6%88%91%E5%8F%88%E9%87%8D%E7%94%9F%E5%9B%9E%E6%9D%A5%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "大体老师不是取乐玩物",
+        "hot": 7428200,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E4%B8%8D%E6%98%AF%E5%8F%96%E4%B9%90%E7%8E%A9%E7%89%A9",
+        "source": "百度"
+      },
+      {
+        "title": "央视就姆巴佩事件发声",
+        "hot": 7328905,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E5%B0%B1%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0",
+        "source": "百度"
+      },
+      {
+        "title": "比亚迪版“劳斯莱斯”来了",
+        "hot": 7237669,
+        "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%89%88%E2%80%9C%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E2%80%9D%E6%9D%A5%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "妻子用米饭炒菜给丈夫做生日蛋糕",
+        "hot": 7138705,
+        "url": "https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E7%94%A8%E7%B1%B3%E9%A5%AD%E7%82%92%E8%8F%9C%E7%BB%99%E4%B8%88%E5%A4%AB%E5%81%9A%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95",
+        "source": "百度"
+      },
+      {
+        "title": "丰收时节 看稻香里的新品种",
+        "hot": 7044729,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E6%97%B6%E8%8A%82%20%E7%9C%8B%E7%A8%BB%E9%A6%99%E9%87%8C%E7%9A%84%E6%96%B0%E5%93%81%E7%A7%8D",
+        "source": "百度"
+      },
+      {
+        "title": "你吃的烤肠可能是鸡脖子做的",
+        "hot": 6950696,
+        "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%90%83%E7%9A%84%E7%83%A4%E8%82%A0%E5%8F%AF%E8%83%BD%E6%98%AF%E9%B8%A1%E8%84%96%E5%AD%90%E5%81%9A%E7%9A%84",
+        "source": "百度"
+      },
+      {
+        "title": "深山救助流浪女 实为造假博流量",
+        "hot": 6849095,
+        "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%B1%B1%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E5%A5%B3%20%E5%AE%9E%E4%B8%BA%E9%80%A0%E5%81%87%E5%8D%9A%E6%B5%81%E9%87%8F",
+        "source": "百度"
+      },
+      {
+        "title": "中国新闻网呸姆巴佩",
+        "hot": 6758111,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%E5%91%B8%E5%A7%86%E5%B7%B4%E4%BD%A9",
+        "source": "百度"
+      },
+      {
+        "title": "一家四口在上海地铁扶梯滚落",
+        "hot": 6654980,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E6%89%B6%E6%A2%AF%E6%BB%9A%E8%90%BD",
+        "source": "百度"
+      },
+      {
+        "title": "没有农村的深圳开始种地",
+        "hot": 6559514,
+        "url": "https://www.baidu.com/s?wd=%E6%B2%A1%E6%9C%89%E5%86%9C%E6%9D%91%E7%9A%84%E6%B7%B1%E5%9C%B3%E5%BC%80%E5%A7%8B%E7%A7%8D%E5%9C%B0",
+        "source": "百度"
+      }
+    ],
     "zhihu": [
       {
         "title": "央视已全面叫停涉及姆巴佩的赛事和广告播出，姆巴佩社交账号被禁言，此次风波带来的连锁反应有多大？",
-        "hot": 172970000,
+        "hot": 177330000,
         "url": "https://www.zhihu.com/question/2098431727324619800",
         "source": "知乎"
       },
       {
         "title": "外交部回应姆巴佩代言解约事件，「伤害中国人民感情的言行自然会遭到中国社会各界的共同抵制」，这有何警示？",
-        "hot": 46170000,
+        "hot": 48520000,
         "url": "https://www.zhihu.com/question/2098468913931608600",
         "source": "知乎"
       },
       {
         "title": "红果短剧引发年轻人「戒断潮」，如何看待这一现象？短剧为何让人欲罢不能？",
-        "hot": 3420000,
+        "hot": 3550000,
         "url": "https://www.zhihu.com/question/2097994971261543000",
         "source": "知乎"
       },
       {
-        "title": "银行将存 2500 元错输成 25000 元，储户拒退称「离柜概不负责���，被法院判属退还，你怎么看？",
-        "hot": 2150000,
+        "title": "银行将存 2500 元错输成 25000 元，储户拒退称「离柜概不负责」，���法院判属退还，你怎么看？",
+        "hot": 2440000,
         "url": "https://www.zhihu.com/question/2098369407378629000",
         "source": "知乎"
       },
       {
         "title": "打了马赛克的二维码被 AI 完整复原，原理是什么？什么样的遮挡才真的防 AI 破解？",
-        "hot": 1230000,
+        "hot": 1320000,
         "url": "https://www.zhihu.com/question/2097626035961455000",
         "source": "知乎"
       },
       {
         "title": "为什么以前老师用钢笔批改作业时，不会只用红墨水，而是要在里面滴一两滴黑墨水呢?",
-        "hot": 1180000,
+        "hot": 1140000,
         "url": "https://www.zhihu.com/question/2096545633071003400",
         "source": "知乎"
       },
@@ -46,49 +230,49 @@
       },
       {
         "title": "巴西总统卢拉赢得连任，巴西主题 ETF 大跌，巴西 ETF 华夏、巴西 ETF 易方达跌停，如何解读？",
-        "hot": 1110000,
+        "hot": 1120000,
         "url": "https://www.zhihu.com/question/2097997813539943200",
         "source": "知乎"
       },
       {
-        "title": "offer8嘉宾称在澳洲已是实习医生，却不会握手术刀、缝合打结，为啥会这样？中外医学教育差异这么大吗？",
-        "hot": 1080000,
-        "url": "https://www.zhihu.com/question/2096928657268635100",
+        "title": "AL 的 S16 赛事全部结束，如何评价他们在本届赛事上的表现？",
+        "hot": 1120000,
+        "url": "https://www.zhihu.com/question/2098306923565209000",
         "source": "知乎"
       },
       {
-        "title": "为什么韩国吃不起肉，却有韩式炸鸡、韩式烤肉等美食呢？",
-        "hot": 1070000,
-        "url": "https://www.zhihu.com/question/1978156984063780600",
-        "source": "知乎"
-      },
-      {
-        "title": "是《兰香如故》里面冻死一个兵部尚书严重，还是《琅琊榜》里面噶掉自家七���精锐严重？",
-        "hot": 1040000,
+        "title": "是《兰香如故》里面冻死一个兵��尚书严重，还是《琅琊榜》里面噶掉自家七万精锐严重？",
+        "hot": 1120000,
         "url": "https://www.zhihu.com/question/2096914874018305500",
         "source": "知乎"
       },
       {
+        "title": "为什么韩国吃不起肉，却有韩式炸鸡、韩式烤肉等美食呢？",
+        "hot": 1100000,
+        "url": "https://www.zhihu.com/question/1978156984063780600",
+        "source": "知乎"
+      },
+      {
         "title": "基金经理重仓AI巨亏公开致歉，称没必要低位离场，等流动性恢复，当基金经理也靠信仰持股，算不算风险信号？",
-        "hot": 920000,
+        "hot": 940000,
         "url": "https://www.zhihu.com/question/2096884168970061300",
         "source": "知乎"
       },
       {
         "title": "东鹏饮料等品牌紧急切割姆巴佩，这种情况品牌用不用赔违约金？已付代言费、物料成本还能追回吗？",
-        "hot": 890000,
+        "hot": 930000,
         "url": "https://www.zhihu.com/question/2098358966568882200",
         "source": "知乎"
       },
       {
         "title": "为什么OpenAi和Anthropic不用自己的顶级AI去炒股？就像幻方量化一样？",
-        "hot": 870000,
+        "hot": 920000,
         "url": "https://www.zhihu.com/question/2096860633161545200",
         "source": "知乎"
       },
       {
         "title": "OpenAI 10月26日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
-        "hot": 800000,
+        "hot": 850000,
         "url": "https://www.zhihu.com/question/2098331248469062100",
         "source": "知乎"
       }
@@ -131,9 +315,9 @@
         "source": "微博"
       },
       {
-        "title": "王俊凯空降不莱玫直播间",
+        "title": "我的美食日记",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%A9%BA%E9%99%8D%E4%B8%8D%E8%8E%B1%E7%8E%AB%E7%9B%B4%E6%92%AD%E9%97%B4",
+        "url": "https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E7%BE%8E%E9%A3%9F%E6%97%A5%E8%AE%B0",
         "source": "微博"
       },
       {
@@ -143,9 +327,9 @@
         "source": "微博"
       },
       {
-        "title": "孙颖莎把卢茨全算住了",
+        "title": "Hope爆料AL井盖工作内容",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8A%8A%E5%8D%A2%E8%8C%A8%E5%85%A8%E7%AE%97%E4%BD%8F%E4%BA%86",
+        "url": "https://s.weibo.com/weibo?q=Hope%E7%88%86%E6%96%99AL%E4%BA%95%E7%9B%96%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9",
         "source": "微博"
       },
       {
@@ -155,21 +339,15 @@
         "source": "微博"
       },
       {
-        "title": "红米K100提前发布",
+        "title": "孙颖莎把卢茨全算住了",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E7%B1%B3K100%E6%8F%90%E5%89%8D%E5%8F%91%E5%B8%83",
+        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8A%8A%E5%8D%A2%E8%8C%A8%E5%85%A8%E7%AE%97%E4%BD%8F%E4%BA%86",
         "source": "微博"
       },
       {
-        "title": "小城良方被指医学漏洞百出",
+        "title": "姆巴佩遭媒体痛批",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E8%A2%AB%E6%8C%87%E5%8C%BB%E5%AD%A6%E6%BC%8F%E6%B4%9E%E7%99%BE%E5%87%BA",
-        "source": "微博"
-      },
-      {
-        "title": "网友不接受姆巴佩道歉",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%93%E6%AD%89",
+        "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E5%AA%92%E4%BD%93%E7%97%9B%E6%89%B9",
         "source": "微博"
       },
       {
@@ -183,190 +361,12 @@
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E9%83%AD%E6%99%93%E5%A9%B7%E7%8E%8B%E5%A4%A9%E8%BE%B0%E4%B8%89%E6%90%AD",
         "source": "微博"
-      }
-    ],
-    "36kr": [
-      {
-        "title": "Anthropic科学家宣布：全球博士生职业生涯一夜清零",
-        "hot": 59,
-        "url": "https://www.36kr.com/p/4042952793805952",
-        "source": "36氪"
       },
       {
-        "title": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
-        "hot": 12,
-        "url": "https://www.36kr.com/p/4043376902165382",
-        "source": "36氪"
-      },
-      {
-        "title": "8点1氪丨Anthropic正式提交IPO申请；寿司郎传送带被曝窜出活老鼠；苹果客服称很多客户取消iPhone Duo订单",
-        "hot": 20,
-        "url": "https://www.36kr.com/p/4043364384707456",
-        "source": "36氪"
-      },
-      {
-        "title": "刚刚，Anthropic公开招股书：史上最大IPO，半年狂揽163亿美元",
-        "hot": 3,
-        "url": "https://www.36kr.com/p/4042929382872200",
-        "source": "36氪"
-      },
-      {
-        "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
-        "hot": 44,
-        "url": "https://www.36kr.com/p/4043377845310592",
-        "source": "36氪"
-      },
-      {
-        "title": "工资不发银行卡，改成数字人民币钱包，网友炸了...",
-        "hot": 5,
-        "url": "https://www.36kr.com/p/4042806792492160",
-        "source": "36氪"
-      },
-      {
-        "title": "新 iPad mini 发布：5499 元起，应有尽有，除了高刷",
-        "hot": 5,
-        "url": "https://www.36kr.com/p/4042804039275400",
-        "source": "36氪"
-      },
-      {
-        "title": "算力最多，进展最慢：字节大模型困于赛马制",
-        "hot": 17,
-        "url": "https://www.36kr.com/p/4042805862045574",
-        "source": "36氪"
-      },
-      {
-        "title": "杨振宁当年的遗憾，被OpenAI补上了?",
-        "hot": 19,
-        "url": "https://www.36kr.com/p/4043775631381385",
-        "source": "36氪"
-      },
-      {
-        "title": "一杯10元无限续，日营收2万+，全国都在复制这种茶馆",
-        "hot": 27,
-        "url": "https://www.36kr.com/p/4043390865822850",
-        "source": "36氪"
-      },
-      {
-        "title": "王的猜想，被AI一夜通关",
-        "hot": 5,
-        "url": "https://www.36kr.com/p/4043601956033414",
-        "source": "36氪"
-      },
-      {
-        "title": "iPhone Duo适配大翻车？实测对比小米、华为，结果有点意外",
-        "hot": 3,
-        "url": "https://www.36kr.com/p/4042687208232833",
-        "source": "36氪"
-      },
-      {
-        "title": "百元一盒“维生素小贴纸”火了：年入6000万，估值超50亿",
-        "hot": 19,
-        "url": "https://www.36kr.com/p/4042716361167749",
-        "source": "36氪"
-      },
-      {
-        "title": "第三个4万亿城市，要来了",
-        "hot": 5,
-        "url": "https://www.36kr.com/p/4043493340943490",
-        "source": "36氪"
-      },
-      {
-        "title": "羽绒服的第三次进化：从卷参数到系统性保暖，千亿赛道换了考题",
-        "hot": 10,
-        "url": "https://www.36kr.com/p/4042466610254729",
-        "source": "36氪"
-      }
-    ],
-    "hackernews": [
-      {
-        "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
-        "hot": 72,
-        "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Python's experimental JIT to be removed",
-        "hot": 189,
-        "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Wikipedia's Cleanup of AI-Generated Content",
-        "hot": 174,
-        "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-        "source": "HackerNews"
-      },
-      {
-        "title": "AI promised less work. I've never worked more",
-        "hot": 355,
-        "url": "https://oioannou.com/blog/ai-promised-less-work/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
-        "hot": 41,
-        "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-        "source": "HackerNews"
-      },
-      {
-        "title": "New iMac with M6",
-        "hot": 78,
-        "url": "https://www.apple.com/imac/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Software may be getting worse, but it used to be horrible",
-        "hot": 175,
-        "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Three new discoveries in mathematics, computer science, and physics",
-        "hot": 1040,
-        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans",
-        "hot": 67,
-        "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "The Mythical Man-Month in the Age of AI",
-        "hot": 310,
-        "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Gforth 1.0",
-        "hot": 82,
-        "url": "https://gforth.org/manual/1.0/NEWS.html",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
-        "hot": 12,
-        "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Giving chat feedback gives Anthropic your data",
-        "hot": 55,
-        "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-        "source": "HackerNews"
-      },
-      {
-        "title": "The Exponential Time Hypothesis Is False [pdf]",
-        "hot": 718,
-        "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-        "hot": 363,
-        "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-        "source": "HackerNews"
+        "title": "西甲",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%94%B2",
+        "source": "微博"
       }
     ],
     "juejin": [
@@ -378,7 +378,7 @@
       },
       {
         "title": "天涯神贴《2027年以后，你要活成这个样子》有感，希望 2027 年可以活成自己想要的样子",
-        "hot": 1485,
+        "hot": 1494,
         "url": "https://juejin.cn/post/7700522130220023862",
         "source": "掘金"
       },
@@ -390,13 +390,13 @@
       },
       {
         "title": "尤雨溪 : Vue 4 已经在规划中了！",
-        "hot": 1026,
+        "hot": 1035,
         "url": "https://juejin.cn/post/7700803425820049434",
         "source": "掘金"
       },
       {
         "title": "一个人 + AI 做的小程序，今天，正式回本了",
-        "hot": 990,
+        "hot": 999,
         "url": "https://juejin.cn/post/7700157486075035683",
         "source": "掘金"
       },
@@ -461,94 +461,180 @@
         "source": "掘金"
       }
     ],
-    "baidu": [
+    "36kr": [
       {
-        "title": "暂无数据",
-        "source": "百度"
+        "title": "Anthropic科学家宣布：全球博士生职业生涯一夜清零",
+        "hot": 64,
+        "url": "https://www.36kr.com/p/4042952793805952",
+        "source": "36氪"
+      },
+      {
+        "title": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
+        "hot": 14,
+        "url": "https://www.36kr.com/p/4043376902165382",
+        "source": "36氪"
+      },
+      {
+        "title": "8点1氪丨Anthropic正式提交IPO申请；寿司郎传送带被曝窜出活老鼠；苹果客服称很多客户取消iPhone Duo订单",
+        "hot": 20,
+        "url": "https://www.36kr.com/p/4043364384707456",
+        "source": "36氪"
+      },
+      {
+        "title": "刚刚，Anthropic公开招股书：史上最大IPO，半年狂揽163亿美元",
+        "hot": 3,
+        "url": "https://www.36kr.com/p/4042929382872200",
+        "source": "36氪"
+      },
+      {
+        "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+        "hot": 44,
+        "url": "https://www.36kr.com/p/4043377845310592",
+        "source": "36氪"
+      },
+      {
+        "title": "工资不发银行卡，改成数字人民币钱包，网友炸了...",
+        "hot": 7,
+        "url": "https://www.36kr.com/p/4042806792492160",
+        "source": "36氪"
+      },
+      {
+        "title": "新 iPad mini 发布：5499 元起，应有尽有，除了高刷",
+        "hot": 5,
+        "url": "https://www.36kr.com/p/4042804039275400",
+        "source": "36氪"
+      },
+      {
+        "title": "算力最多，进展最慢：字节大模型困于赛马制",
+        "hot": 17,
+        "url": "https://www.36kr.com/p/4042805862045574",
+        "source": "36氪"
+      },
+      {
+        "title": "杨振宁当年的遗憾，被OpenAI补上了?",
+        "hot": 19,
+        "url": "https://www.36kr.com/p/4043775631381385",
+        "source": "36氪"
+      },
+      {
+        "title": "一杯10元无限续，日营收2万+，全国都在复制这种茶馆",
+        "hot": 27,
+        "url": "https://www.36kr.com/p/4043390865822850",
+        "source": "36氪"
+      },
+      {
+        "title": "王的猜想，被AI一夜通关",
+        "hot": 5,
+        "url": "https://www.36kr.com/p/4043601956033414",
+        "source": "36氪"
+      },
+      {
+        "title": "iPhone Duo适配大翻车？实测对比小米、华为，结果有点意外",
+        "hot": 3,
+        "url": "https://www.36kr.com/p/4042687208232833",
+        "source": "36氪"
+      },
+      {
+        "title": "百元一盒“维生素小贴纸”火了：年入6000万，估值超50亿",
+        "hot": 19,
+        "url": "https://www.36kr.com/p/4042716361167749",
+        "source": "36氪"
+      },
+      {
+        "title": "第三个4万亿城市，要来了",
+        "hot": 5,
+        "url": "https://www.36kr.com/p/4043493340943490",
+        "source": "36氪"
+      },
+      {
+        "title": "羽绒服的第三次进化：从卷参数到系统性保暖，千亿赛道换了考���",
+        "hot": 12,
+        "url": "https://www.36kr.com/p/4042466610254729",
+        "source": "36氪"
       }
     ]
   },
   "github": [
     {
-      "title": "pengchujin/aerial-tv —— 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌�",
-      "hot": "⭐ 6624",
+      "title": "pengchujin/aerial-tv —— 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV ��",
+      "hot": "⭐ 6635",
       "url": "https://github.com/pengchujin/aerial-tv",
       "source": "GitHub",
       "tag": "Kotlin"
     },
     {
       "title": "JustAResearcher/gpu-unlock-ada —— GPU tensor unlock source for RTX 4090 an",
-      "hot": "⭐ 4154",
+      "hot": "⭐ 4162",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "rddmwmddr/android-ad-cleaner —— 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支",
-      "hot": "⭐ 3007",
+      "hot": "⭐ 3035",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "designfuchen/word-atlas —— 词光 · Word Atlas — Illustrated IELTS voca",
-      "hot": "⭐ 2334",
+      "hot": "⭐ 2353",
       "url": "https://github.com/designfuchen/word-atlas",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "Jakeschincariol/day-trader-skill —— 11 Claude skills for day trading: scan t",
-      "hot": "⭐ 2217",
+      "hot": "⭐ 2221",
       "url": "https://github.com/Jakeschincariol/day-trader-skill",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "wesbos/3d-model-anything —— Capture iPhone LiDAR and photos, reconst",
-      "hot": "⭐ 2166",
+      "hot": "⭐ 2169",
       "url": "https://github.com/wesbos/3d-model-anything",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "xevrion/hatchzip —— HatchZip is a free, open-source archive ",
-      "hot": "⭐ 2117",
+      "hot": "⭐ 2120",
       "url": "https://github.com/xevrion/hatchzip",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "ikow/php2shell-poc —— CVE-2026-109618/109619 — 5 RCE chains + ",
-      "hot": "⭐ 1860",
+      "hot": "⭐ 1861",
       "url": "https://github.com/ikow/php2shell-poc",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "t3dotgg/tstack —— The agent skills I use every day. Works ",
-      "hot": "⭐ 1844",
+      "hot": "⭐ 1851",
       "url": "https://github.com/t3dotgg/tstack",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "oosexgang/hackios-xnu-kernel",
-      "hot": "⭐ 1779",
+      "hot": "⭐ 1783",
       "url": "https://github.com/oosexgang/hackios-xnu-kernel",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "unclebob/ub-mode",
-      "hot": "⭐ 1740",
+      "hot": "⭐ 1773",
       "url": "https://github.com/unclebob/ub-mode",
       "source": "GitHub",
       "tag": ""
     },
     {
       "title": "9bie/php2shell-bypass-aslr-exp —— A php2shell exploit that requires no mod",
-      "hot": "⭐ 1493",
+      "hot": "⭐ 1495",
       "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
       "source": "GitHub",
       "tag": "Python"
@@ -562,7 +648,7 @@
     },
     {
       "title": "lyramakesmusic/neuron-explorer —— Steering-first neuron explorer for Qwen3",
-      "hot": "⭐ 1413",
+      "hot": "⭐ 1419",
       "url": "https://github.com/lyramakesmusic/neuron-explorer",
       "source": "GitHub",
       "tag": "Python"
