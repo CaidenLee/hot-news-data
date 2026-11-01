@@ -1,126 +1,34 @@
 {
-  "updatedAt": "2026-11-01T03:00:29.314Z",
+  "updatedAt": "2026-11-01T03:30:28.067Z",
   "dailyhot": {
-    "zhihu": [
-      {
-        "title": "S16 瑞士轮 BLG 2:0 淘汰 HLE 拿下最后一张淘汰赛门票，如何评价这场比赛？",
-        "hot": 21020000,
-        "url": "https://www.zhihu.com/question/2100108531160687600",
-        "source": "知乎"
-      },
-      {
-        "title": "如何评价Deepseek Harness发布的super-agent构想？",
-        "hot": 10010000,
-        "url": "https://www.zhihu.com/question/2099984457524573000",
-        "source": "知乎"
-      },
-      {
-        "title": "卖650万捐赠房产要缴450万的税，夫妻遗赠毕生积蓄救人，接收遗产的基金会却被吓退，问题出在哪？",
-        "hot": 3760000,
-        "url": "https://www.zhihu.com/question/2099855613391893000",
-        "source": "知乎"
-      },
-      {
-        "title": "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红？为什么这件私人创作能引发这么大共鸣？",
-        "hot": 3030000,
-        "url": "https://www.zhihu.com/question/2098799350503699500",
-        "source": "知乎"
-      },
-      {
-        "title": "和初二女儿约定好，晚上10点半把手机放客厅，不留卧室，第一天到点女儿没放，我该怎么沟通呢？",
-        "hot": 2000000,
-        "url": "https://www.zhihu.com/question/2035506887307813400",
-        "source": "知乎"
-      },
-      {
-        "title": "S16 八强赛抽签结果：BLG 将战 DK，iG 内战 TES，如何评价今年的八强赛对阵？",
-        "hot": 1870000,
-        "url": "https://www.zhihu.com/question/2100134078523466200",
-        "source": "知乎"
-      },
-      {
-        "title": "2627 赛季 NBA 常规赛开拓者 112-90 爵士，如何评价这场比赛？",
-        "hot": 1730000,
-        "url": "https://www.zhihu.com/question/2100062847761899500",
-        "source": "知乎"
-      },
-      {
-        "title": "小米为什么热衷于把高管和工程师推到台前？",
-        "hot": 1580000,
-        "url": "https://www.zhihu.com/question/2016241093059040300",
-        "source": "知乎"
-      },
-      {
-        "title": "南京一男子在星巴克不消费占座，被店员提醒后反报警，经调解后离开门店，怎样看待这一行为？",
-        "hot": 1540000,
-        "url": "https://www.zhihu.com/question/2099542758293877200",
-        "source": "知乎"
-      },
-      {
-        "title": "超八成充电运营商面临亏损，每度电净利仅 4 分钱，为何车企仍要狂砸百亿自建万座快充站？",
-        "hot": 1500000,
-        "url": "https://www.zhihu.com/question/2099788811895158800",
-        "source": "知乎"
-      },
-      {
-        "title": "WTT蒙彼利埃冠军赛，周启豪3-4弗朗西斯卡，无缘晋级男单四强，国乒男单全部出局，如何评价这场比赛？",
-        "hot": 1410000,
-        "url": "https://www.zhihu.com/question/2100125765601687000",
-        "source": "知乎"
-      },
-      {
-        "title": "中期选举对特朗普真的重要么？",
-        "hot": 1330000,
-        "url": "https://www.zhihu.com/question/2022261330560697000",
-        "source": "知乎"
-      },
-      {
-        "title": "健身练背真的能让脸更紧致吗？",
-        "hot": 1150000,
-        "url": "https://www.zhihu.com/question/603828453",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待钓友钓58斤青鱼被拖入3米水中，仍紧握鱼竿被连人带鱼救起？你钓鱼时印象最深刻的经历是怎样的？",
-        "hot": 1110000,
-        "url": "https://www.zhihu.com/question/2099138301290443000",
-        "source": "知乎"
-      },
-      {
-        "title": "「豆包们」正在成为医患之间的「第三人」，大量 AI 问诊对门诊医生造成了什么影响？会有哪些困扰？",
-        "hot": 1110000,
-        "url": "https://www.zhihu.com/question/2096595801644299500",
-        "source": "知乎"
-      }
-    ],
     "hackernews": [
       {
         "title": "HackerTube: YouTube built from videos recommended by HN",
-        "hot": 804,
+        "hot": 846,
         "url": "https://karpathy.bearblog.dev/hacker-tube/",
         "source": "HackerNews"
       },
       {
         "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-        "hot": 188,
+        "hot": 205,
         "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
         "source": "HackerNews"
       },
       {
         "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-        "hot": 369,
+        "hot": 380,
         "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
         "source": "HackerNews"
       },
       {
         "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-        "hot": 99,
+        "hot": 113,
         "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
         "source": "HackerNews"
       },
       {
         "title": "Altoids Project",
-        "hot": 53,
+        "hot": 62,
         "url": "https://uvdn7.github.io/altoids-project/",
         "source": "HackerNews"
       },
@@ -132,8 +40,26 @@
       },
       {
         "title": "It's the memory latency, stupid",
-        "hot": 140,
+        "hot": 144,
         "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+        "hot": 47,
+        "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Jepsen: ParticleDB 1.1.4",
+        "hot": 215,
+        "url": "https://jepsen.io/analyses/particledb-1.1.4",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+        "hot": 63,
+        "url": "https://epoyraz.github.io/nes-contra-us/",
         "source": "HackerNews"
       },
       {
@@ -143,33 +69,21 @@
         "source": "HackerNews"
       },
       {
-        "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-        "hot": 39,
-        "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Jepsen: ParticleDB 1.1.4",
-        "hot": 210,
-        "url": "https://jepsen.io/analyses/particledb-1.1.4",
+        "title": "Surviving \"The Graduate\"",
+        "hot": 71,
+        "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
         "source": "HackerNews"
       },
       {
         "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
-        "hot": 9,
+        "hot": 11,
         "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
         "source": "HackerNews"
       },
       {
-        "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-        "hot": 58,
-        "url": "https://epoyraz.github.io/nes-contra-us/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Surviving \"The Graduate\"",
-        "hot": 68,
-        "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+        "title": "The Duty of a Scholar",
+        "hot": 96,
+        "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
         "source": "HackerNews"
       },
       {
@@ -177,12 +91,190 @@
         "hot": 10,
         "url": "https://emarzion.github.io/KSRT/",
         "source": "HackerNews"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "S16 瑞士轮 BLG 2:0 淘汰 HLE 拿下最后一张淘汰赛门票，如何评价这场比赛？",
+        "hot": 22880000,
+        "url": "https://www.zhihu.com/question/2100108531160687600",
+        "source": "知乎"
       },
       {
-        "title": "The Duty of a Scholar",
-        "hot": 92,
-        "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-        "source": "HackerNews"
+        "title": "如何评价Deepseek Harness发布的super-agent构想？",
+        "hot": 11290000,
+        "url": "https://www.zhihu.com/question/2099984457524573000",
+        "source": "知乎"
+      },
+      {
+        "title": "卖650万捐赠房产要缴450万的税，夫妻遗赠毕生积蓄救人，接收遗产的基金会却被吓退，问题出在哪？",
+        "hot": 4110000,
+        "url": "https://www.zhihu.com/question/2099855613391893000",
+        "source": "知乎"
+      },
+      {
+        "title": "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红？为什么这件私人创作能引发这么大共鸣？",
+        "hot": 3390000,
+        "url": "https://www.zhihu.com/question/2098799350503699500",
+        "source": "知乎"
+      },
+      {
+        "title": "和初二女儿约定好，晚上10点半把手机放客厅，不留卧室，第一天到点女儿没放，我该怎么沟通呢？",
+        "hot": 2100000,
+        "url": "https://www.zhihu.com/question/2035506887307813400",
+        "source": "知乎"
+      },
+      {
+        "title": "S16 八强赛抽签结果：BLG 将战 DK，iG 内战 TES，如何评价今年的八强赛对阵？",
+        "hot": 1990000,
+        "url": "https://www.zhihu.com/question/2100134078523466200",
+        "source": "知乎"
+      },
+      {
+        "title": "超八成充电运营商面临亏损，每度电净利仅 4 分钱，为何车企仍要狂砸百亿自建万座快充站？",
+        "hot": 1880000,
+        "url": "https://www.zhihu.com/question/2099788811895158800",
+        "source": "知乎"
+      },
+      {
+        "title": "南京一男子在星巴克不消费占座，被店员提醒后反报警，经调解后离开门店，怎样看待这一行为？",
+        "hot": 1850000,
+        "url": "https://www.zhihu.com/question/2099542758293877200",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待钓友钓58斤青鱼被拖入3米水中，仍紧握鱼竿被连人带鱼救起？你钓鱼时印象最深刻的经历是怎样的？",
+        "hot": 1730000,
+        "url": "https://www.zhihu.com/question/2099138301290443000",
+        "source": "知乎"
+      },
+      {
+        "title": "小米为什么热衷于把高管和工程师推到台前？",
+        "hot": 1670000,
+        "url": "https://www.zhihu.com/question/2016241093059040300",
+        "source": "知乎"
+      },
+      {
+        "title": "WTT蒙彼利埃冠军赛，周启豪3-4弗朗西斯卡，无缘晋级男单四强，国乒男单全部出局，如何评价这场比赛？",
+        "hot": 1590000,
+        "url": "https://www.zhihu.com/question/2100125765601687000",
+        "source": "知乎"
+      },
+      {
+        "title": "中期选举对特朗普真的重要么？",
+        "hot": 1500000,
+        "url": "https://www.zhihu.com/question/2022261330560697000",
+        "source": "知乎"
+      },
+      {
+        "title": "2627 赛季 NBA 常规赛开拓者 112-90 爵士，如何评价这场比赛？",
+        "hot": 1340000,
+        "url": "https://www.zhihu.com/question/2100062847761899500",
+        "source": "知乎"
+      },
+      {
+        "title": "MSI 冠军 HLE 爆冷于 S16 瑞士轮出局止步十六强，如何评价他们在本届赛事的表现？他们输在哪？",
+        "hot": 1320000,
+        "url": "https://www.zhihu.com/question/2100131185162543000",
+        "source": "知乎"
+      },
+      {
+        "title": "健身练背真的能让脸更紧致吗？",
+        "hot": 1240000,
+        "url": "https://www.zhihu.com/question/603828453",
+        "source": "知乎"
+      }
+    ],
+    "weibo": [
+      {
+        "title": "不要加杠杆太吓人了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E5%8A%A0%E6%9D%A0%E6%9D%86%E5%A4%AA%E5%90%93%E4%BA%BA%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "法定放假总数已增至13天",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%AE%9A%E6%94%BE%E5%81%87%E6%80%BB%E6%95%B0%E5%B7%B2%E5%A2%9E%E8%87%B313%E5%A4%A9",
+        "source": "微博"
+      },
+      {
+        "title": "中国机遇清单不断扩展",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%87%E6%B8%85%E5%8D%95%E4%B8%8D%E6%96%AD%E6%89%A9%E5%B1%95",
+        "source": "微博"
+      },
+      {
+        "title": "车企10月份销量数据",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%BD%A6%E4%BC%8110%E6%9C%88%E4%BB%BD%E9%94%80%E9%87%8F%E6%95%B0%E6%8D%AE",
+        "source": "微博"
+      },
+      {
+        "title": "韩网热议HLE遭BLG淘汰",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AEHLE%E9%81%ADBLG%E6%B7%98%E6%B1%B0",
+        "source": "微博"
+      },
+      {
+        "title": "Kanavi回应不敌BLG止步十六强",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=Kanavi%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%95%8CBLG%E6%AD%A2%E6%AD%A5%E5%8D%81%E5%85%AD%E5%BC%BA",
+        "source": "微博"
+      },
+      {
+        "title": "Viper母亲患癌",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=Viper%E6%AF%8D%E4%BA%B2%E6%82%A3%E7%99%8C",
+        "source": "微博"
+      },
+      {
+        "title": "上海人把永久自行车穿身上了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E4%BA%BA%E6%8A%8A%E6%B0%B8%E4%B9%85%E8%87%AA%E8%A1%8C%E8%BD%A6%E7%A9%BF%E8%BA%AB%E4%B8%8A%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "许飞 厉娜",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%20%E5%8E%89%E5%A8%9C",
+        "source": "微博"
+      },
+      {
+        "title": "刘铮亮艾辰定情热吻",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E9%93%AE%E4%BA%AE%E8%89%BE%E8%BE%B0%E5%AE%9A%E6%83%85%E7%83%AD%E5%90%BB",
+        "source": "微博"
+      },
+      {
+        "title": "侯卓成杨汝晴官宣分手",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%E6%9D%A8%E6%B1%9D%E6%99%B4%E5%AE%98%E5%AE%A3%E5%88%86%E6%89%8B",
+        "source": "微博"
+      },
+      {
+        "title": "刘嘉玲称盆栽邀王菲未成",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%98%89%E7%8E%B2%E7%A7%B0%E7%9B%86%E6%A0%BD%E9%82%80%E7%8E%8B%E8%8F%B2%E6%9C%AA%E6%88%90",
+        "source": "微博"
+      },
+      {
+        "title": "阿姨被插队后买光烧饼",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%A7%A8%E8%A2%AB%E6%8F%92%E9%98%9F%E5%90%8E%E4%B9%B0%E5%85%89%E7%83%A7%E9%A5%BC",
+        "source": "微博"
+      },
+      {
+        "title": "雷军回应小米汽车10月交付量",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A610%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F",
+        "source": "微博"
+      },
+      {
+        "title": "许飞是不是看见有人蛐蛐她155了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E6%98%AF%E4%B8%8D%E6%98%AF%E7%9C%8B%E8%A7%81%E6%9C%89%E4%BA%BA%E8%9B%90%E8%9B%90%E5%A5%B9155%E4%BA%86",
+        "source": "微博"
       }
     ],
     "36kr": [
@@ -229,20 +321,20 @@
         "source": "36氪"
       },
       {
+        "title": "跟AI谈恋爱，年轻人图什么？",
+        "hot": 17,
+        "url": "https://www.36kr.com/p/4049629803665287",
+        "source": "36氪"
+      },
+      {
         "title": "电科金仓发布KES AI数据库",
         "hot": 3,
         "url": "https://www.36kr.com/p/4049722853545097",
         "source": "36氪"
       },
       {
-        "title": "跟AI谈恋爱，年轻人图什么？",
-        "hot": 14,
-        "url": "https://www.36kr.com/p/4049629803665287",
-        "source": "36氪"
-      },
-      {
         "title": "总陷入过度思考？5 个方法帮你迈出行动的一步",
-        "hot": 61,
+        "hot": 70,
         "url": "https://www.36kr.com/p/4037095408800902",
         "source": "36氪"
       },
@@ -263,188 +355,102 @@
         "hot": "",
         "url": "https://www.36kr.com/p/4050494220571782",
         "source": "36氪"
-      }
-    ],
-    "weibo": [
-      {
-        "title": "不要加杠杆太吓人了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E5%8A%A0%E6%9D%A0%E6%9D%86%E5%A4%AA%E5%90%93%E4%BA%BA%E4%BA%86",
-        "source": "微博"
       },
       {
-        "title": "韩网热议HLE遭BLG淘汰",
+        "title": "史上首次！谷歌TPU在轨运行Gemma 4",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AEHLE%E9%81%ADBLG%E6%B7%98%E6%B1%B0",
-        "source": "微博"
-      },
-      {
-        "title": "中国机遇清单不断扩展",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%87%E6%B8%85%E5%8D%95%E4%B8%8D%E6%96%AD%E6%89%A9%E5%B1%95",
-        "source": "微博"
-      },
-      {
-        "title": "Kanavi回应不敌BLG止步十六强",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=Kanavi%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%95%8CBLG%E6%AD%A2%E6%AD%A5%E5%8D%81%E5%85%AD%E5%BC%BA",
-        "source": "微博"
-      },
-      {
-        "title": "Viper母亲患癌",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=Viper%E6%AF%8D%E4%BA%B2%E6%82%A3%E7%99%8C",
-        "source": "微博"
-      },
-      {
-        "title": "许飞 厉娜",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%20%E5%8E%89%E5%A8%9C",
-        "source": "微博"
-      },
-      {
-        "title": "主教练向杨瀚森道歉",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%BB%E6%95%99%E7%BB%83%E5%90%91%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%81%93%E6%AD%89",
-        "source": "微博"
-      },
-      {
-        "title": "iG抽到TES",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=iG%E6%8A%BD%E5%88%B0TES",
-        "source": "微博"
-      },
-      {
-        "title": "文吉儿 王子璇",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF%20%E7%8E%8B%E5%AD%90%E7%92%87",
-        "source": "微博"
-      },
-      {
-        "title": "孙颖莎回应发球擦网",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E5%8F%91%E7%90%83%E6%93%A6%E7%BD%91",
-        "source": "微博"
-      },
-      {
-        "title": "侯卓成杨汝晴官宣分手",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%E6%9D%A8%E6%B1%9D%E6%99%B4%E5%AE%98%E5%AE%A3%E5%88%86%E6%89%8B",
-        "source": "微博"
-      },
-      {
-        "title": "肖战姜妍小城良方脱衣吻",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%A7%9C%E5%A6%8D%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E8%84%B1%E8%A1%A3%E5%90%BB",
-        "source": "微博"
-      },
-      {
-        "title": "阿姨被插队后买光烧饼",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%A7%A8%E8%A2%AB%E6%8F%92%E9%98%9F%E5%90%8E%E4%B9%B0%E5%85%89%E7%83%A7%E9%A5%BC",
-        "source": "微博"
-      },
-      {
-        "title": "许飞是不是看见有人蛐蛐她155了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E6%98%AF%E4%B8%8D%E6%98%AF%E7%9C%8B%E8%A7%81%E6%9C%89%E4%BA%BA%E8%9B%90%E8%9B%90%E5%A5%B9155%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "刘嘉玲称盆栽邀王菲未成",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%98%89%E7%8E%B2%E7%A7%B0%E7%9B%86%E6%A0%BD%E9%82%80%E7%8E%8B%E8%8F%B2%E6%9C%AA%E6%88%90",
-        "source": "微博"
+        "url": "https://www.36kr.com/p/4049789434156166",
+        "source": "36氪"
       }
     ],
     "baidu": [
       {
         "title": "近5000字公报 “严”字贯穿始终",
-        "hot": 7904353,
+        "hot": 7904886,
         "url": "https://www.baidu.com/s?wd=%E8%BF%915000%E5%AD%97%E5%85%AC%E6%8A%A5%20%E2%80%9C%E4%B8%A5%E2%80%9D%E5%AD%97%E8%B4%AF%E7%A9%BF%E5%A7%8B%E7%BB%88",
         "source": "百度"
       },
       {
         "title": "“黄金平替”全球爆单",
-        "hot": 7808716,
+        "hot": 7808128,
         "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%84%E9%87%91%E5%B9%B3%E6%9B%BF%E2%80%9D%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95",
         "source": "百度"
       },
       {
-        "title": "高市屡次引导外国领导人向日旗鞠躬",
-        "hot": 7712206,
-        "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%B1%A1%E6%AC%A1%E5%BC%95%E5%AF%BC%E5%A4%96%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%90%91%E6%97%A5%E6%97%97%E9%9E%A0%E8%BA%AC",
+        "title": "英国首相：愿为奴隶贸易正式道歉",
+        "hot": 7711938,
+        "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%EF%BC%9A%E6%84%BF%E4%B8%BA%E5%A5%B4%E9%9A%B6%E8%B4%B8%E6%98%93%E6%AD%A3%E5%BC%8F%E9%81%93%E6%AD%89",
         "source": "百度"
       },
       {
         "title": "深海���鱼如何“游”上百姓餐桌",
-        "hot": 7618763,
+        "hot": 7616392,
         "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E6%B5%B7%E5%A5%BD%E9%B1%BC%E5%A6%82%E4%BD%95%E2%80%9C%E6%B8%B8%E2%80%9D%E4%B8%8A%E7%99%BE%E5%A7%93%E9%A4%90%E6%A1%8C",
         "source": "百度"
       },
       {
         "title": "关掉6600家店 绝味到底输给了谁",
-        "hot": 7521401,
+        "hot": 7519989,
         "url": "https://www.baidu.com/s?wd=%E5%85%B3%E6%8E%896600%E5%AE%B6%E5%BA%97%20%E7%BB%9D%E5%91%B3%E5%88%B0%E5%BA%95%E8%BE%93%E7%BB%99%E4%BA%86%E8%B0%81",
         "source": "百度"
       },
       {
         "title": "48元一只的“捏捏”月销百万",
-        "hot": 7426827,
+        "hot": 7425407,
         "url": "https://www.baidu.com/s?wd=48%E5%85%83%E4%B8%80%E5%8F%AA%E7%9A%84%E2%80%9C%E6%8D%8F%E6%8D%8F%E2%80%9D%E6%9C%88%E9%94%80%E7%99%BE%E4%B8%87",
         "source": "百度"
       },
       {
-        "title": "德总统在华发声：世界历史上前所未有",
-        "hot": 7333300,
-        "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E6%80%BB%E7%BB%9F%E5%9C%A8%E5%8D%8E%E5%8F%91%E5%A3%B0%EF%BC%9A%E4%B8%96%E7%95%8C%E5%8E%86%E5%8F%B2%E4%B8%8A%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89",
+        "title": "沈阳商场帅气保洁大叔现身辽超赛场",
+        "hot": 7327738,
+        "url": "https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E5%95%86%E5%9C%BA%E5%B8%85%E6%B0%94%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E7%8E%B0%E8%BA%AB%E8%BE%BD%E8%B6%85%E8%B5%9B%E5%9C%BA",
         "source": "百度"
       },
       {
-        "title": "夫妻因一餐5个菜闹到要离婚",
-        "hot": 7237822,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A",
+        "title": "早田希娜否认孙颖莎发球擦网",
+        "hot": 7235823,
+        "url": "https://www.baidu.com/s?wd=%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E5%90%A6%E8%AE%A4%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8F%91%E7%90%83%E6%93%A6%E7%BD%91",
         "source": "百度"
       },
       {
-        "title": "英国首相：愿为奴隶贸易正式道歉",
-        "hot": 7135604,
-        "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%EF%BC%9A%E6%84%BF%E4%B8%BA%E5%A5%B4%E9%9A%B6%E8%B4%B8%E6%98%93%E6%AD%A3%E5%BC%8F%E9%81%93%E6%AD%89",
+        "title": "官方证实：4人是私自进山 2人已遇难",
+        "hot": 7143061,
+        "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%AF%81%E5%AE%9E%EF%BC%9A4%E4%BA%BA%E6%98%AF%E7%A7%81%E8%87%AA%E8%BF%9B%E5%B1%B1%202%E4%BA%BA%E5%B7%B2%E9%81%87%E9%9A%BE",
         "source": "百度"
       },
       {
         "title": "谢霆锋演唱会摔了一跤站起来继续唱",
-        "hot": 7039473,
+        "hot": 7047811,
         "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%91%94%E4%BA%86%E4%B8%80%E8%B7%A4%E7%AB%99%E8%B5%B7%E6%9D%A5%E7%BB%A7%E7%BB%AD%E5%94%B1",
         "source": "百度"
       },
       {
         "title": "Viper母亲患癌",
-        "hot": 6947946,
+        "hot": 6946888,
         "url": "https://www.baidu.com/s?wd=Viper%E6%AF%8D%E4%BA%B2%E6%82%A3%E7%99%8C",
         "source": "百度"
       },
       {
         "title": "禾木野生猴群下山抢手机系谣言",
-        "hot": 6857858,
+        "hot": 6854526,
         "url": "https://www.baidu.com/s?wd=%E7%A6%BE%E6%9C%A8%E9%87%8E%E7%94%9F%E7%8C%B4%E7%BE%A4%E4%B8%8B%E5%B1%B1%E6%8A%A2%E6%89%8B%E6%9C%BA%E7%B3%BB%E8%B0%A3%E8%A8%80",
         "source": "百度"
       },
       {
+        "title": "夫妻因一餐5个菜闹到要离婚",
+        "hot": 6753735,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A",
+        "source": "百度"
+      },
+      {
         "title": "夫妻接连被陌生人骗出门致儿子被拐卖",
-        "hot": 6752379,
+        "hot": 6666557,
         "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%8E%A5%E8%BF%9E%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E9%AA%97%E5%87%BA%E9%97%A8%E8%87%B4%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%90%E5%8D%96",
         "source": "百度"
       },
       {
-        "title": "宋慧乔宋仲基离婚原因再被热议",
-        "hot": 6662486,
-        "url": "https://www.baidu.com/s?wd=%E5%AE%8B%E6%85%A7%E4%B9%94%E5%AE%8B%E4%BB%B2%E5%9F%BA%E7%A6%BB%E5%A9%9A%E5%8E%9F%E5%9B%A0%E5%86%8D%E8%A2%AB%E7%83%AD%E8%AE%AE",
-        "source": "百度"
-      },
-      {
         "title": "郑丽文给蒋万安首场辩论打满分",
-        "hot": 6563787,
+        "hot": 6571750,
         "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%E7%BB%99%E8%92%8B%E4%B8%87%E5%AE%89%E9%A6%96%E5%9C%BA%E8%BE%A9%E8%AE%BA%E6%89%93%E6%BB%A1%E5%88%86",
         "source": "百度"
       }
@@ -458,7 +464,7 @@
       },
       {
         "title": "史诗级封号收入",
-        "hot": 846,
+        "hot": 855,
         "url": "https://juejin.cn/post/7701870817483259958",
         "source": "掘金"
       },
@@ -476,7 +482,7 @@
       },
       {
         "title": "腾讯 Buddy One 来了，办公全家桶一键打通WorkBuddy（附教程）",
-        "hot": 414,
+        "hot": 423,
         "url": "https://juejin.cn/post/7701870817484210230",
         "source": "掘金"
       },
@@ -488,7 +494,7 @@
       },
       {
         "title": "Rspack 2.3 发布：联手 SWC 团队带来全新编译器",
-        "hot": 297,
+        "hot": 306,
         "url": "https://juejin.cn/post/7701932169296003082",
         "source": "掘金"
       },
@@ -500,7 +506,7 @@
       },
       {
         "title": "Epic 摊牌了：Claude 和 Codex 在写 UE6 的代码，十年没修掉的 bug 被 AI 扫光",
-        "hot": 252,
+        "hot": 261,
         "url": "https://juejin.cn/post/7701637989949751315",
         "source": "掘金"
       },
@@ -512,20 +518,20 @@
       },
       {
         "title": "AI 时代一群人在卷笔记软件，我想先把 Markdown 编辑器的底层做好",
-        "hot": 234,
+        "hot": 243,
         "url": "https://juejin.cn/post/7701625236325154826",
-        "source": "掘金"
-      },
-      {
-        "title": "一个人+AI做情侣食谱小程序，0 费用的服务器",
-        "hot": 207,
-        "url": "https://juejin.cn/post/7701929263046000703",
         "source": "掘金"
       },
       {
         "title": "我有个朋友，工作八年，公司从 300 人减到 80 人",
         "hot": 207,
         "url": "https://juejin.cn/post/7702434781235101738",
+        "source": "掘金"
+      },
+      {
+        "title": "一个人+AI做情侣食谱小程序，0 费用的服务器",
+        "hot": 207,
+        "url": "https://juejin.cn/post/7701929263046000703",
         "source": "掘金"
       },
       {
@@ -545,84 +551,84 @@
   "github": [
     {
       "title": "unclebob/ub-mode",
-      "hot": "⭐ 5854",
+      "hot": "⭐ 5864",
       "url": "https://github.com/unclebob/ub-mode",
       "source": "GitHub",
       "tag": ""
     },
     {
       "title": "anhao/ai-pose-gallery-zh —— 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化",
-      "hot": "⭐ 4737",
+      "hot": "⭐ 4752",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "interplains/Zero-Breach-Toolkit —— Free, open-source, offline checks for tr",
-      "hot": "⭐ 4009",
+      "hot": "⭐ 4011",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "ccch1mneyyy/dsh-Go —— dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能",
-      "hot": "⭐ 3692",
+      "hot": "⭐ 3717",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
       "source": "GitHub",
       "tag": "Dart"
     },
     {
       "title": "heydamir/unslop —— A Claude skill that turns vibecoded, AI-",
-      "hot": "⭐ 3625",
+      "hot": "⭐ 3646",
       "url": "https://github.com/heydamir/unslop",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "designfuchen/word-atlas —— 词光 · Word Atlas — Illustrated IELTS voca",
-      "hot": "⭐ 3572",
+      "hot": "⭐ 3575",
       "url": "https://github.com/designfuchen/word-atlas",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype —— Towards a More Autonomous Agent System",
-      "hot": "⭐ 3051",
+      "hot": "⭐ 3216",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "wangzan101/Mika —— Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An",
-      "hot": "⭐ 2836",
+      "hot": "⭐ 2864",
       "url": "https://github.com/wangzan101/Mika",
       "source": "GitHub",
       "tag": "Kotlin"
     },
     {
       "title": "valentderah/totk-pc-recomp —— Static recompilation of The Legend of Ze",
-      "hot": "⭐ 2669",
+      "hot": "⭐ 2680",
       "url": "https://github.com/valentderah/totk-pc-recomp",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "paipiange/nvzhuang —— 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Im",
-      "hot": "⭐ 1742",
+      "hot": "⭐ 1745",
       "url": "https://github.com/paipiange/nvzhuang",
       "source": "GitHub",
       "tag": "Go"
     },
     {
       "title": "qybaihe/bla —— 🛡️ BLA (Blind LLM Agents) — Adversarial",
-      "hot": "⭐ 1722",
+      "hot": "⭐ 1723",
       "url": "https://github.com/qybaihe/bla",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "aschmelyun/print-my-profile-pic —— Say cheese! Star this repo and your prof",
-      "hot": "⭐ 1649",
+      "hot": "⭐ 1651",
       "url": "https://github.com/aschmelyun/print-my-profile-pic",
       "source": "GitHub",
       "tag": ""
@@ -636,14 +642,14 @@
     },
     {
       "title": "patch-gg/pixelfx —— 244 pixel art effects, every one a small",
-      "hot": "⭐ 1504",
+      "hot": "⭐ 1534",
       "url": "https://github.com/patch-gg/pixelfx",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "lexifina/global-law —— Git for Global Law: the law of every cou",
-      "hot": "⭐ 1426",
+      "hot": "⭐ 1430",
       "url": "https://github.com/lexifina/global-law",
       "source": "GitHub",
       "tag": "HTML"
