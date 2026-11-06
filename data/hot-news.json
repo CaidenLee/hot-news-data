@@ -1,52 +1,58 @@
 {
-  "updatedAt": "2026-11-06T13:30:55.874Z",
+  "updatedAt": "2026-11-06T14:00:56.524Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-        "hot": 277,
+        "hot": 327,
         "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
         "source": "HackerNews"
       },
       {
         "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-        "hot": 352,
+        "hot": 383,
         "url": "https://github.com/ppmpreetham/BUI",
         "source": "HackerNews"
       },
       {
         "title": "Claude Code sends your email address to websites",
-        "hot": 1290,
+        "hot": 1312,
         "url": "https://github.com/anthropics/claude-code/issues/107757",
         "source": "HackerNews"
       },
       {
+        "title": "Gemini Omni 1.2 Flash",
+        "hot": 13,
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "source": "HackerNews"
+      },
+      {
         "title": "We've built an open-source feature flag server for 11 years",
-        "hot": 31,
+        "hot": 36,
         "url": "https://github.com/Unleash/unleash",
         "source": "HackerNews"
       },
       {
         "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-        "hot": 67,
+        "hot": 75,
         "url": "https://jhr.pensoft.net/articles.php?id=9096",
         "source": "HackerNews"
       },
       {
         "title": "sshole",
-        "hot": 2787,
+        "hot": 2797,
         "url": "https://sshhole.com",
         "source": "HackerNews"
       },
       {
         "title": "Kugelblitz – Mac-Native Google Earth Alternative",
-        "hot": 133,
+        "hot": 141,
         "url": "https://apps.metaebene.me/en/kugelblitz",
         "source": "HackerNews"
       },
       {
         "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
-        "hot": 59,
+        "hot": 110,
         "url": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
         "source": "HackerNews"
       },
@@ -58,118 +64,112 @@
       },
       {
         "title": "MS Paint Remote Code Execution Vulnerability",
-        "hot": 595,
+        "hot": 604,
         "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
         "source": "HackerNews"
       },
       {
         "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-        "hot": 155,
+        "hot": 167,
         "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
         "source": "HackerNews"
       },
       {
         "title": "Pwn.college",
-        "hot": 206,
+        "hot": 210,
         "url": "https://pwn.college/",
         "source": "HackerNews"
       },
       {
-        "title": "Hardcoded credentials and other issues in Tata Motors App",
-        "hot": 50,
-        "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
-        "hot": 90,
-        "url": "https://worldstrike.fun/",
-        "source": "HackerNews"
-      },
-      {
         "title": "The Hackintosh Reborn",
-        "hot": 346,
+        "hot": 350,
         "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Nvidia Kubernetes Engine (NVKE)",
+        "hot": 102,
+        "url": "https://github.com/dsx-ai-factory/nvke",
         "source": "HackerNews"
       }
     ],
     "zhihu": [
       {
         "title": "如何看待仰望U9 Xtreme在阿布扎比开放公路跑出503.17km/h这件事？",
-        "hot": 11210000,
+        "hot": 12620000,
         "url": "https://www.zhihu.com/question/2102058162580935700",
         "source": "知乎"
       },
       {
-        "title": "美股创 19 个月来最大单日跌幅、纳指暴跌5.52%，科技股遭遇抛售潮，引发市场恐慌的核心原因是什么？",
-        "hot": 6640000,
-        "url": "https://www.zhihu.com/question/2101831171671904300",
-        "source": "知乎"
-      },
-      {
-        "title": "中国为什么一直没有优良的马种？",
-        "hot": 3810000,
-        "url": "https://www.zhihu.com/question/20741495",
-        "source": "知乎"
-      },
-      {
         "title": "爱奇艺回应「年度最恶心的广告」，此次出现的内容属于「弹幕广告」，不包含在会员权益内，怎样看待这一回应？",
-        "hot": 3450000,
+        "hot": 3480000,
         "url": "https://www.zhihu.com/question/2102014481567938000",
         "source": "知乎"
       },
       {
-        "title": "广电新规要求电视「开机即看全屏直播」不得播开机广告，能否吸引年轻人重回客��？",
-        "hot": 2400000,
-        "url": "https://www.zhihu.com/question/2099191789387360300",
+        "title": "中国为什么一直没有优良的马种？",
+        "hot": 3420000,
+        "url": "https://www.zhihu.com/question/20741495",
+        "source": "知乎"
+      },
+      {
+        "title": "儿子偷卖母亲 13 克金项链，母亲得知真相后报警，儿子被采取刑事强制措施，拿自己家的东西算偷吗？",
+        "hot": 2270000,
+        "url": "https://www.zhihu.com/question/2101972581469500400",
+        "source": "知乎"
+      },
+      {
+        "title": "张雪称若学生同意，将公开面试过程，会参加 36 名重庆大学学生二面，有利于缓解之前的争议吗？",
+        "hot": 2180000,
+        "url": "https://www.zhihu.com/question/2102006607915894500",
         "source": "知乎"
       },
       {
         "title": "民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？",
-        "hot": 2390000,
+        "hot": 2120000,
         "url": "https://www.zhihu.com/question/2101977105504236000",
         "source": "知乎"
       },
       {
-        "title": "女子分段买票升一等座因车厢重联不通只能站着，12306 称不退差价无补偿合理吗？",
-        "hot": 2380000,
-        "url": "https://www.zhihu.com/question/2101237959244699400",
+        "title": "广电新规要求电视「开机即看全屏直播」不得播开机广告，能否吸引年轻人重回客厅？",
+        "hot": 2070000,
+        "url": "https://www.zhihu.com/question/2099191789387360300",
         "source": "知乎"
       },
       {
         "title": "看完 AI 仿真人剧《持械入宋》，感觉技术上并没有很高壁垒，实拍难度也不大，为什么真人影视里没人来拍？",
-        "hot": 2220000,
+        "hot": 2020000,
         "url": "https://www.zhihu.com/question/2101987202196400000",
         "source": "知乎"
       },
       {
         "title": "中国有没有那种中国人不怎么去，但是外国人却很喜欢去的古迹?",
-        "hot": 2150000,
+        "hot": 2010000,
         "url": "https://www.zhihu.com/question/2098824135749194500",
         "source": "知乎"
       },
       {
         "title": "为什么说住宅楼的空调机位是“反人类”设计？",
-        "hot": 2110000,
+        "hot": 2010000,
         "url": "https://www.zhihu.com/question/1997273379535861200",
         "source": "知乎"
       },
       {
         "title": "全国 3.35 万座寺院、 9000 座道观同步启动财务大检查，到底意味着什么？",
-        "hot": 2090000,
+        "hot": 2010000,
         "url": "https://www.zhihu.com/question/2101611329513693400",
         "source": "知乎"
       },
       {
-        "title": "张雪称若学生同意，将公开面试过程，会参加 36 名重庆大学学生二面，有利于缓解之前的争议吗？",
-        "hot": 2070000,
-        "url": "https://www.zhihu.com/question/2102006607915894500",
+        "title": "女子分段买票升一等座因车厢重联不通只能站着，12306 称不退差价无补偿合理吗？",
+        "hot": 2010000,
+        "url": "https://www.zhihu.com/question/2101237959244699400",
         "source": "知乎"
       },
       {
-        "title": "儿子偷卖母亲 13 克金项链，母亲得知真相后报警，儿子被采取刑事强制措施，拿自己家的东西算偷吗？",
-        "hot": 1910000,
-        "url": "https://www.zhihu.com/question/2101972581469500400",
+        "title": "美股创 19 个月来最大单日跌幅、纳指暴跌5.52%，科技股遭遇抛售潮，引发市场恐慌的核心原因是什么？",
+        "hot": 1950000,
+        "url": "https://www.zhihu.com/question/2101831171671904300",
         "source": "知乎"
       },
       {
@@ -180,191 +180,99 @@
       },
       {
         "title": "如何看待大部分RPG主角都是“点头哑巴”，《影之刃零》的魂却逢人便说“我必当尽力”？",
-        "hot": 1340000,
+        "hot": 1370000,
         "url": "https://www.zhihu.com/question/2099651974094444000",
         "source": "知乎"
-      }
-    ],
-    "weibo": [
-      {
-        "title": "JDG战胜WB",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=JDG%E6%88%98%E8%83%9CWB",
-        "source": "微博"
-      },
-      {
-        "title": "武大回应网传学生诱骗同学去缅甸",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E8%AF%B1%E9%AA%97%E5%90%8C%E5%AD%A6%E5%8E%BB%E7%BC%85%E7%94%B8",
-        "source": "微博"
-      },
-      {
-        "title": "6图看我国服务业发展成绩单",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=6%E5%9B%BE%E7%9C%8B%E6%88%91%E5%9B%BD%E6%9C%8D%E5%8A%A1%E4%B8%9A%E5%8F%91%E5%B1%95%E6%88%90%E7%BB%A9%E5%8D%95",
-        "source": "微博"
-      },
-      {
-        "title": "披哥集体去京东MALL团建",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E5%93%A5%E9%9B%86%E4%BD%93%E5%8E%BB%E4%BA%AC%E4%B8%9CMALL%E5%9B%A2%E5%BB%BA",
-        "source": "微博"
-      },
-      {
-        "title": "曝我们来了阵容",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86%E9%98%B5%E5%AE%B9",
-        "source": "微博"
-      },
-      {
-        "title": "实验猴涨至26万一只",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%AE%9E%E9%AA%8C%E7%8C%B4%E6%B6%A8%E8%87%B326%E4%B8%87%E4%B8%80%E5%8F%AA",
-        "source": "微博"
-      },
-      {
-        "title": "皮肤一碰就破女孩父母称不生二胎",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%9A%AE%E8%82%A4%E4%B8%80%E7%A2%B0%E5%B0%B1%E7%A0%B4%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E7%A7%B0%E4%B8%8D%E7%94%9F%E4%BA%8C%E8%83%8E",
-        "source": "微博"
-      },
-      {
-        "title": "邵兵被方太哨兵科技救场了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%82%B5%E5%85%B5%E8%A2%AB%E6%96%B9%E5%A4%AA%E5%93%A8%E5%85%B5%E7%A7%91%E6%8A%80%E6%95%91%E5%9C%BA%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "白小纯梭哈的原因找到了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%A2%AD%E5%93%88%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "金鸡奖开幕式",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F",
-        "source": "微博"
-      },
-      {
-        "title": "新娘入场摔倒主持人神级救场",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%A8%98%E5%85%A5%E5%9C%BA%E6%91%94%E5%80%92%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%A5%9E%E7%BA%A7%E6%95%91%E5%9C%BA",
-        "source": "微博"
-      },
-      {
-        "title": "张本智和说乒坛梅罗是樊振东马龙",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E4%B9%92%E5%9D%9B%E6%A2%85%E7%BD%97%E6%98%AF%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%A9%AC%E9%BE%99",
-        "source": "微博"
-      },
-      {
-        "title": "国家中医药管理局两任局长接连被查",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E4%B8%AD%E5%8C%BB%E8%8D%AF%E7%AE%A1%E7%90%86%E5%B1%80%E4%B8%A4%E4%BB%BB%E5%B1%80%E9%95%BF%E6%8E%A5%E8%BF%9E%E8%A2%AB%E6%9F%A5",
-        "source": "微博"
-      },
-      {
-        "title": "马天宇没去的剧疑似是陈情令",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%B2%A1%E5%8E%BB%E7%9A%84%E5%89%A7%E7%96%91%E4%BC%BC%E6%98%AF%E9%99%88%E6%83%85%E4%BB%A4",
-        "source": "微博"
-      },
-      {
-        "title": "厉娜因为有工作激动到睡不着",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%9B%A0%E4%B8%BA%E6%9C%89%E5%B7%A5%E4%BD%9C%E6%BF%80%E5%8A%A8%E5%88%B0%E7%9D%A1%E4%B8%8D%E7%9D%80",
-        "source": "微博"
       }
     ],
     "baidu": [
       {
         "title": "习近平同加蓬总统恩圭马会谈",
-        "hot": 7904786,
+        "hot": 7904494,
         "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%8A%A0%E8%93%AC%E6%80%BB%E7%BB%9F%E6%81%A9%E5%9C%AD%E9%A9%AC%E4%BC%9A%E8%B0%88",
         "source": "百度"
       },
       {
         "title": "暴雪大暴雪 周六强度达巅峰",
-        "hot": 7808032,
+        "hot": 7809167,
         "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%E5%A4%A7%E6%9A%B4%E9%9B%AA%20%E5%91%A8%E5%85%AD%E5%BC%BA%E5%BA%A6%E8%BE%BE%E5%B7%85%E5%B3%B0",
         "source": "百度"
       },
       {
         "title": "“缅北最严厉的父亲”来了",
-        "hot": 7713521,
+        "hot": 7711931,
         "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BC%85%E5%8C%97%E6%9C%80%E4%B8%A5%E5%8E%89%E7%9A%84%E7%88%B6%E4%BA%B2%E2%80%9D%E6%9D%A5%E4%BA%86",
         "source": "百度"
       },
       {
-        "title": "进博会��何连接世界",
-        "hot": 7616927,
+        "title": "进博会如何��接世界",
+        "hot": 7616406,
         "url": "https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%A6%82%E4%BD%95%E8%BF%9E%E6%8E%A5%E4%B8%96%E7%95%8C",
         "source": "百度"
       },
       {
-        "title": "“易中天”同日大跌 集体发声",
-        "hot": 7520517,
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%98%93%E4%B8%AD%E5%A4%A9%E2%80%9D%E5%90%8C%E6%97%A5%E5%A4%A7%E8%B7%8C%20%E9%9B%86%E4%BD%93%E5%8F%91%E5%A3%B0",
+        "title": "这到底是机器人还是真人",
+        "hot": 7522233,
+        "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%88%B0%E5%BA%95%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E7%9C%9F%E4%BA%BA",
+        "source": "百度"
+      },
+      {
+        "title": "90后姑娘收集上万枚鸡蛋壳做白鹤裙",
+        "hot": 7424636,
+        "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E5%A7%91%E5%A8%98%E6%94%B6%E9%9B%86%E4%B8%8A%E4%B8%87%E6%9E%9A%E9%B8%A1%E8%9B%8B%E5%A3%B3%E5%81%9A%E7%99%BD%E9%B9%A4%E8%A3%99",
         "source": "百度"
       },
       {
         "title": "103岁老奶奶不肯吃五角星饼干",
-        "hot": 7427811,
+        "hot": 7333976,
         "url": "https://www.baidu.com/s?wd=103%E5%B2%81%E8%80%81%E5%A5%B6%E5%A5%B6%E4%B8%8D%E8%82%AF%E5%90%83%E4%BA%94%E8%A7%92%E6%98%9F%E9%A5%BC%E5%B9%B2",
         "source": "百度"
       },
       {
         "title": "女子带娃仅点6元豆芽连吃7碗米饭",
-        "hot": 7330436,
+        "hot": 7233008,
         "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E4%BB%85%E7%82%B96%E5%85%83%E8%B1%86%E8%8A%BD%E8%BF%9E%E5%90%837%E7%A2%97%E7%B1%B3%E9%A5%AD",
         "source": "百度"
       },
       {
         "title": "若失守1.5℃升温红线将酿成巨灾",
-        "hot": 7237479,
+        "hot": 7136635,
         "url": "https://www.baidu.com/s?wd=%E8%8B%A5%E5%A4%B1%E5%AE%881.5%E2%84%83%E5%8D%87%E6%B8%A9%E7%BA%A2%E7%BA%BF%E5%B0%86%E9%85%BF%E6%88%90%E5%B7%A8%E7%81%BE",
         "source": "百度"
       },
       {
         "title": "黄河可能比公认的大100万岁",
-        "hot": 7135605,
+        "hot": 7048475,
         "url": "https://www.baidu.com/s?wd=%E9%BB%84%E6%B2%B3%E5%8F%AF%E8%83%BD%E6%AF%94%E5%85%AC%E8%AE%A4%E7%9A%84%E5%A4%A7100%E4%B8%87%E5%B2%81",
         "source": "百度"
       },
       {
-        "title": "王菲《季候风》刷屏背后",
-        "hot": 7047796,
-        "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%8F%B2%E3%80%8A%E5%AD%A3%E5%80%99%E9%A3%8E%E3%80%8B%E5%88%B7%E5%B1%8F%E8%83%8C%E5%90%8E",
-        "source": "百度"
-      },
-      {
         "title": "金鸡奖开幕式",
-        "hot": 6952741,
+        "hot": 6949613,
         "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%B8%A1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F",
         "source": "百度"
       },
       {
         "title": "智慧教室会侵犯学生隐私系误读",
-        "hot": 6853175,
+        "hot": 6856273,
         "url": "https://www.baidu.com/s?wd=%E6%99%BA%E6%85%A7%E6%95%99%E5%AE%A4%E4%BC%9A%E4%BE%B5%E7%8A%AF%E5%AD%A6%E7%94%9F%E9%9A%90%E7%A7%81%E7%B3%BB%E8%AF%AF%E8%AF%BB",
         "source": "百度"
       },
       {
-        "title": "李标被遣返回国",
-        "hot": 6762785,
-        "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%A0%87%E8%A2%AB%E9%81%A3%E8%BF%94%E5%9B%9E%E5%9B%BD",
+        "title": "A股“东方”狂掀涨停潮",
+        "hot": 6762308,
+        "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E4%B8%9C%E6%96%B9%E2%80%9D%E7%8B%82%E6%8E%80%E6%B6%A8%E5%81%9C%E6%BD%AE",
         "source": "百度"
       },
       {
-        "title": "陈都灵清冷白月光",
-        "hot": 6660388,
-        "url": "https://www.baidu.com/s?wd=%E9%99%88%E9%83%BD%E7%81%B5%E6%B8%85%E5%86%B7%E7%99%BD%E6%9C%88%E5%85%89",
+        "title": "陈都灵发言 大气",
+        "hot": 6656847,
+        "url": "https://www.baidu.com/s?wd=%E9%99%88%E9%83%BD%E7%81%B5%E5%8F%91%E8%A8%80%20%E5%A4%A7%E6%B0%94",
         "source": "百度"
       },
       {
         "title": "武大回应网传学生诱骗同学至缅甸",
-        "hot": 6567805,
+        "hot": 6570688,
         "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E8%AF%B1%E9%AA%97%E5%90%8C%E5%AD%A6%E8%87%B3%E7%BC%85%E7%94%B8",
         "source": "百度"
       }
@@ -396,7 +304,7 @@
       },
       {
         "title": "美股一夜崩盘，Anthropic估值暴跌至5000亿，搞ASI或被判20年",
-        "hot": 12,
+        "hot": 14,
         "url": "https://www.36kr.com/p/4057765541794951",
         "source": "36氪"
       },
@@ -414,7 +322,7 @@
       },
       {
         "title": "美股一夜蒸发万亿美元，AI泡沫破了？",
-        "hot": 2,
+        "hot": 1,
         "url": "https://www.36kr.com/p/4057568656446592",
         "source": "36氪"
       },
@@ -432,7 +340,7 @@
       },
       {
         "title": "董宇辉“反黑”",
-        "hot": 7,
+        "hot": 9,
         "url": "https://www.36kr.com/p/4057938892133248",
         "source": "36氪"
       },
@@ -444,7 +352,7 @@
       },
       {
         "title": "买山下有松的是什么人？",
-        "hot": 22,
+        "hot": 24,
         "url": "https://www.36kr.com/p/4056883801461638",
         "source": "36氪"
       },
@@ -459,6 +367,98 @@
         "hot": 5,
         "url": "https://www.36kr.com/p/4057654794982537",
         "source": "36氪"
+      }
+    ],
+    "weibo": [
+      {
+        "title": "武大回应网传学生诱骗同学去缅甸",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E8%AF%B1%E9%AA%97%E5%90%8C%E5%AD%A6%E5%8E%BB%E7%BC%85%E7%94%B8",
+        "source": "微博"
+      },
+      {
+        "title": "实验猴涨至26万一只",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%AE%9E%E9%AA%8C%E7%8C%B4%E6%B6%A8%E8%87%B326%E4%B8%87%E4%B8%80%E5%8F%AA",
+        "source": "微博"
+      },
+      {
+        "title": "6图看我国服务业发展成绩单",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=6%E5%9B%BE%E7%9C%8B%E6%88%91%E5%9B%BD%E6%9C%8D%E5%8A%A1%E4%B8%9A%E5%8F%91%E5%B1%95%E6%88%90%E7%BB%A9%E5%8D%95",
+        "source": "微博"
+      },
+      {
+        "title": "披哥集体去京东MALL团建",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E5%93%A5%E9%9B%86%E4%BD%93%E5%8E%BB%E4%BA%AC%E4%B8%9CMALL%E5%9B%A2%E5%BB%BA",
+        "source": "微博"
+      },
+      {
+        "title": "曝我们来了阵容",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86%E9%98%B5%E5%AE%B9",
+        "source": "微博"
+      },
+      {
+        "title": "皮肤一碰就破女孩父母称不生二胎",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%9A%AE%E8%82%A4%E4%B8%80%E7%A2%B0%E5%B0%B1%E7%A0%B4%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E7%A7%B0%E4%B8%8D%E7%94%9F%E4%BA%8C%E8%83%8E",
+        "source": "微博"
+      },
+      {
+        "title": "许飞是全网唯一文吉儿王子璇CP粉",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E6%98%AF%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E6%96%87%E5%90%89%E5%84%BF%E7%8E%8B%E5%AD%90%E7%92%87CP%E7%B2%89",
+        "source": "微博"
+      },
+      {
+        "title": "金鸡奖开幕",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E5%BC%80%E5%B9%95",
+        "source": "微博"
+      },
+      {
+        "title": "新娘入场摔倒主持人神级救场",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%A8%98%E5%85%A5%E5%9C%BA%E6%91%94%E5%80%92%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%A5%9E%E7%BA%A7%E6%95%91%E5%9C%BA",
+        "source": "微博"
+      },
+      {
+        "title": "张本智和说乒坛梅罗是樊振东马龙",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E4%B9%92%E5%9D%9B%E6%A2%85%E7%BD%97%E6%98%AF%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%A9%AC%E9%BE%99",
+        "source": "微博"
+      },
+      {
+        "title": "北京发布暴雪黄色预警",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%AA%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6",
+        "source": "微博"
+      },
+      {
+        "title": "人民日报评女厕偷拍黑产",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%A5%B3%E5%8E%95%E5%81%B7%E6%8B%8D%E9%BB%91%E4%BA%A7",
+        "source": "微博"
+      },
+      {
+        "title": "张萌辟谣大IP剧是陈情令",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%90%8C%E8%BE%9F%E8%B0%A3%E5%A4%A7IP%E5%89%A7%E6%98%AF%E9%99%88%E6%83%85%E4%BB%A4",
+        "source": "微博"
+      },
+      {
+        "title": "厉娜因为有工作激动到睡不着",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%9B%A0%E4%B8%BA%E6%9C%89%E5%B7%A5%E4%BD%9C%E6%BF%80%E5%8A%A8%E5%88%B0%E7%9D%A1%E4%B8%8D%E7%9D%80",
+        "source": "微博"
+      },
+      {
+        "title": "马天宇没去的剧疑似是陈情令",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%B2%A1%E5%8E%BB%E7%9A%84%E5%89%A7%E7%96%91%E4%BC%BC%E6%98%AF%E9%99%88%E6%83%85%E4%BB%A4",
+        "source": "微博"
       }
     ],
     "juejin": [
@@ -482,13 +482,13 @@
       },
       {
         "title": "Python 类型注解与 mypy：提升代码可维护性",
-        "hot": 3249,
+        "hot": 3276,
         "url": "https://juejin.cn/post/7704241004282609698",
         "source": "掘金"
       },
       {
         "title": "2027 年最赚钱的 AI 创业方向",
-        "hot": 1008,
+        "hot": 1017,
         "url": "https://juejin.cn/post/7704140653420888091",
         "source": "掘金"
       },
@@ -557,77 +557,77 @@
   "github": [
     {
       "title": "deepseek-ai/dsh-superagent-prototype —— Towards a More Autonomous Agent System",
-      "hot": "⭐ 20050",
+      "hot": "⭐ 20068",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "storytold/craft-anything —— Craft Anything: understand how any softw",
-      "hot": "⭐ 16801",
+      "hot": "⭐ 16873",
       "url": "https://github.com/storytold/craft-anything",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "patch-gg/pixelfx —— 244 pixel art effects, every one a small",
-      "hot": "⭐ 5493",
+      "hot": "⭐ 5498",
       "url": "https://github.com/patch-gg/pixelfx",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "KKKKhazix/agent-autoloop —— 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的",
-      "hot": "⭐ 3515",
+      "hot": "⭐ 3530",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "zortos293/Lichii —— VERY experimental Nintendo Switch 2 emul",
-      "hot": "⭐ 3127",
+      "hot": "⭐ 3181",
       "url": "https://github.com/zortos293/Lichii",
       "source": "GitHub",
       "tag": "C++"
     },
     {
       "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto —— Google_AI_Pro_2Year_ZeroCost_Auto",
-      "hot": "⭐ 2760",
+      "hot": "⭐ 2767",
       "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "Verlintas/NOIR —— 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，",
-      "hot": "⭐ 2688",
+      "hot": "⭐ 2698",
       "url": "https://github.com/Verlintas/NOIR",
       "source": "GitHub",
       "tag": "Kotlin"
     },
     {
       "title": "elvarofficial/teardown —— A Claude Code skill that turns any machi",
-      "hot": "⭐ 2342",
+      "hot": "⭐ 2345",
       "url": "https://github.com/elvarofficial/teardown",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "govijr/terminal-mac —— Entire MacOS running in your terminal.",
-      "hot": "⭐ 2055",
+      "hot": "⭐ 2063",
       "url": "https://github.com/govijr/terminal-mac",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "mromidev/claude-animated-shorts —— Free Claude skill: viral animated story ",
-      "hot": "⭐ 1952",
+      "hot": "⭐ 1955",
       "url": "https://github.com/mromidev/claude-animated-shorts",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "caru-ini/stack-diagram —— Agent skill: describe your stack in a se",
-      "hot": "⭐ 1908",
+      "hot": "⭐ 1912",
       "url": "https://github.com/caru-ini/stack-diagram",
       "source": "GitHub",
       "tag": "TypeScript"
@@ -648,7 +648,7 @@
     },
     {
       "title": "kevinraymond/florilegium —— Procedurally generated Delft-blue floral",
-      "hot": "⭐ 1532",
+      "hot": "⭐ 1533",
       "url": "https://github.com/kevinraymond/florilegium",
       "source": "GitHub",
       "tag": "TeX"
