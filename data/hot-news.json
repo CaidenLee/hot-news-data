@@ -1,200 +1,108 @@
 {
-  "updatedAt": "2026-11-12T16:00:19.366Z",
+  "updatedAt": "2026-11-12T16:30:20.422Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "NVIDIA Announces CEO Transition",
-        "hot": 1053,
+        "hot": 1213,
         "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
         "source": "HackerNews"
       },
       {
         "title": "Anthropic IPO",
-        "hot": 343,
+        "hot": 426,
         "url": "https://ipo.anthropic.com/us/",
         "source": "HackerNews"
       },
       {
         "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-        "hot": 67,
+        "hot": 84,
         "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
         "source": "HackerNews"
       },
       {
         "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-        "hot": 67,
+        "hot": 75,
         "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
         "source": "HackerNews"
       },
       {
         "title": "Why Writing Correct Software Is Hard",
-        "hot": 231,
+        "hot": 249,
         "url": "https://pron.github.io/posts/correctness-and-complexity",
         "source": "HackerNews"
       },
       {
-        "title": "Our software engineering interviews are changing (a little)",
-        "hot": 56,
-        "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+        "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+        "hot": 18,
+        "url": "https://fable52.games",
         "source": "HackerNews"
       },
       {
         "title": "Libreagi – Save OSS Models",
-        "hot": 31,
+        "hot": 47,
         "url": "https://libreagi.com/",
         "source": "HackerNews"
       },
       {
+        "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+        "hot": 18,
+        "url": "https://github.com/chocoford/ExcalidrawZ",
+        "source": "HackerNews"
+      },
+      {
+        "title": "I'm making LLMs work on small and old devices",
+        "hot": 12,
+        "url": "https://github.com/hyperionaidev/smolmaxxing/",
+        "source": "HackerNews"
+      },
+      {
         "title": "Socratic Tutor",
-        "hot": 507,
+        "hot": 521,
         "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
         "source": "HackerNews"
       },
       {
+        "title": "Electric Ship Batteries Promise Compact, Cooler Power",
+        "hot": 26,
+        "url": "https://spectrum.ieee.org/electric-ship-batteries",
+        "source": "HackerNews"
+      },
+      {
         "title": "A live tree of systemd jobs on the boot console",
-        "hot": 242,
+        "hot": 250,
         "url": "https://codeberg.org/wvhulle/bootvine",
         "source": "HackerNews"
       },
       {
         "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
-        "hot": 65,
+        "hot": 73,
         "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
         "source": "HackerNews"
       },
       {
-        "title": "Electric Ship Batteries Promise Compact, Cooler Power",
-        "hot": 20,
-        "url": "https://spectrum.ieee.org/electric-ship-batteries",
-        "source": "HackerNews"
-      },
-      {
         "title": "Tim Peters has died",
-        "hot": 1341,
+        "hot": 1356,
         "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
         "source": "HackerNews"
       },
       {
         "title": "93% of paint splatters are valid Perl programs (2019)",
-        "hot": 532,
+        "hot": 535,
         "url": "https://www.mcmillen.dev/sigbovik/",
         "source": "HackerNews"
-      },
-      {
-        "title": "Critical RCE Vulnerability in Apache HTTP Server",
-        "hot": 313,
-        "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
-        "hot": 3,
-        "url": "https://fable52.games",
-        "source": "HackerNews"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "网传腾讯裁员 15-20%，腾讯辟谣「裁员50%」的说法，实际什么情况？可能涉及哪些业务？",
-        "hot": 50680000,
-        "url": "https://www.zhihu.com/question/2104132164308530700",
-        "source": "知乎"
-      },
-      {
-        "title": "RTX5080 售价暴跌 4000 元，这波降价核心原因是什么，现在适合入手吗？",
-        "hot": 4300000,
-        "url": "https://www.zhihu.com/question/2103812903170318600",
-        "source": "知乎"
-      },
-      {
-        "title": "奔驰 CEO 称「在中国，车要大，非常大，大得惊人」，实际情况是这样吗？为什么国内外会存在这样的区别？",
-        "hot": 4130000,
-        "url": "https://www.zhihu.com/question/2104115931420914700",
-        "source": "知乎"
-      },
-      {
-        "title": "英伟达宣布 CEO 黄仁勋辞职，CFO 科莱特·克雷斯出任临时 CEO，会对英伟达带来哪些影响？",
-        "hot": 4120000,
-        "url": "https://www.zhihu.com/question/2104331657389896400",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么腾讯28 周年内部线上直播马化腾「全程没啥笑脸」？",
-        "hot": 4110000,
-        "url": "https://www.zhihu.com/question/2104221779442889700",
-        "source": "知乎"
-      },
-      {
-        "title": "德芙因七夕广告宣扬错误婚恋观，代运营方被罚 80 万，怎样看待这一结果？",
-        "hot": 4110000,
-        "url": "https://www.zhihu.com/question/2104239650290098700",
-        "source": "知乎"
-      },
-      {
-        "title": "韩国有可能再恢复使用汉字吗？",
-        "hot": 3800000,
-        "url": "https://www.zhihu.com/question/666784251",
-        "source": "知乎"
-      },
-      {
-        "title": "黄仁勋辞职，英伟达大跌13%，市值蒸发超 5000 亿美元，还会持续下跌吗？对市场影响有多大？",
-        "hot": 3650000,
-        "url": "https://www.zhihu.com/question/2104340228462700500",
-        "source": "知乎"
-      },
-      {
-        "title": "荷兰法院已驳回捷豹路虎突击调取比亚迪研发资料的申请，还有哪些信息值得关注？这一裁定意味着什么？",
-        "hot": 3500000,
-        "url": "https://www.zhihu.com/question/2104195756106019600",
-        "source": "知乎"
-      },
-      {
-        "title": "女子在西西弗书店买了200元的书，想坐咖啡区却被拒，店方称需另行消费才能入座，这一规定合理吗？",
-        "hot": 3410000,
-        "url": "https://www.zhihu.com/question/2104110182112482000",
-        "source": "知乎"
-      },
-      {
-        "title": "蒂姆·库克被提名为英伟达一把手潜在继任者，特朗普也建议其担任CEO，库克成为英伟达新掌门的概率大吗？",
-        "hot": 3230000,
-        "url": "https://www.zhihu.com/question/2104153189284931600",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待马化腾在腾讯 28 周年庆全员会上的讲话？",
-        "hot": 3050000,
-        "url": "https://www.zhihu.com/question/2104232899662669800",
-        "source": "知乎"
-      },
-      {
-        "title": "刘欢死因首次曝光，系感染性休克，生前与膀胱癌斗争十几年，膀胱癌有多危险？该怎样预防？",
-        "hot": 2700000,
-        "url": "https://www.zhihu.com/question/2104319975074657000",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待院士称剑桥大学50张病床配600位科学家，国内配5个大夫就超编了，是否应该大力扩编医生?",
-        "hot": 1880000,
-        "url": "https://www.zhihu.com/question/2103431538201384400",
-        "source": "知乎"
-      },
-      {
-        "title": "如何评价特朗普离任时给拜登的信？「与他在现实中的言论截然不同」指的是什么？",
-        "hot": 1800000,
-        "url": "https://www.zhihu.com/question/2103845113960952000",
-        "source": "知乎"
       }
     ],
     "juejin": [
       {
         "title": "你们公司有 35 岁以上的前端吗？",
-        "hot": 2709,
+        "hot": 2727,
         "url": "https://juejin.cn/post/7706534471420461098",
         "source": "掘金"
       },
       {
         "title": "再见了 Typora",
-        "hot": 864,
+        "hot": 873,
         "url": "https://juejin.cn/post/7706418656682803200",
         "source": "掘金"
       },
@@ -212,7 +120,7 @@
       },
       {
         "title": "代码都能让 Agent 写了，我们为什么还要学前端？",
-        "hot": 369,
+        "hot": 378,
         "url": "https://juejin.cn/post/7706354193472995391",
         "source": "掘金"
       },
@@ -223,15 +131,15 @@
         "source": "掘金"
       },
       {
-        "title": "程序员转型抉择：转 Agent 开发还是转全栈？一份基于招聘市场的冷静分析",
+        "title": "技术面试已死？AI 时代，真正拉开程序员差距的是什么？",
         "hot": 342,
-        "url": "https://juejin.cn/post/7706090261218558015",
+        "url": "https://juejin.cn/post/7706583027481018408",
         "source": "掘金"
       },
       {
-        "title": "技术面试已死？AI 时代，真正拉开程序员差距的是什么？",
-        "hot": 333,
-        "url": "https://juejin.cn/post/7706583027481018408",
+        "title": "程序员转型抉择：转 Agent 开发还是转全栈？一份基于招聘市场的冷静分析",
+        "hot": 342,
+        "url": "https://juejin.cn/post/7706090261218558015",
         "source": "掘金"
       },
       {
@@ -277,6 +185,98 @@
         "source": "掘金"
       }
     ],
+    "zhihu": [
+      {
+        "title": "网传腾讯裁员 15-20%，腾讯辟谣「裁员50%」的说法，实际什么情况？可能涉及哪些业务？",
+        "hot": 38770000,
+        "url": "https://www.zhihu.com/question/2104132164308530700",
+        "source": "知乎"
+      },
+      {
+        "title": "德芙因七夕广告宣扬错误婚恋观，代运营方被罚 80 万，怎样看待这一结果？",
+        "hot": 4180000,
+        "url": "https://www.zhihu.com/question/2104239650290098700",
+        "source": "知乎"
+      },
+      {
+        "title": "RTX5080 售价暴跌 4000 元，这波降价核心原因是什么，现在适合入手吗？",
+        "hot": 4010000,
+        "url": "https://www.zhihu.com/question/2103812903170318600",
+        "source": "知乎"
+      },
+      {
+        "title": "荷兰法院已驳回捷豹路虎突击调取比亚迪研发资料的申请，还有哪些信息值得关注？这一裁定意味着什么？",
+        "hot": 3860000,
+        "url": "https://www.zhihu.com/question/2104195756106019600",
+        "source": "知乎"
+      },
+      {
+        "title": "女子在西西弗书店买了200元的书，想坐咖啡区却被拒，店方称需另行消费才能入座，这一规定合理吗？",
+        "hot": 3460000,
+        "url": "https://www.zhihu.com/question/2104110182112482000",
+        "source": "知乎"
+      },
+      {
+        "title": "奔驰 CEO 称「在中国，车要大，非常大，大得惊人」，实际情况是这样吗？为什么国内外会存在这样的区别？",
+        "hot": 2920000,
+        "url": "https://www.zhihu.com/question/2104115931420914700",
+        "source": "知乎"
+      },
+      {
+        "title": "刘欢死因首次曝光，系感染性休克，生前与膀胱癌斗争十几年，膀胱癌有多危险？该怎样预防？",
+        "hot": 2790000,
+        "url": "https://www.zhihu.com/question/2104319975074657000",
+        "source": "知乎"
+      },
+      {
+        "title": "英伟达宣布 CEO 黄仁勋辞职，CFO 科莱特·克雷斯出任临时 CEO，会对英伟达带来哪些影响？",
+        "hot": 2340000,
+        "url": "https://www.zhihu.com/question/2104331657389896400",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待院士称剑桥大学50张病床配600位科学家，国内配5个大夫就超编了，是否应该大力扩编医生?",
+        "hot": 1910000,
+        "url": "https://www.zhihu.com/question/2103431538201384400",
+        "source": "知乎"
+      },
+      {
+        "title": "如何评价特朗普离任时给拜登的信？「与他在现实中的言论截然不同」指的是什么？",
+        "hot": 1660000,
+        "url": "https://www.zhihu.com/question/2103845113960952000",
+        "source": "知乎"
+      },
+      {
+        "title": "蒂姆·库克被提名为英伟达一把手潜在继任者，特朗普也建议其担任CEO，库克成为英伟达新掌门的概率大吗？",
+        "hot": 1610000,
+        "url": "https://www.zhihu.com/question/2104153189284931600",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待马化腾在腾讯 28 周年庆全员会上的讲话？",
+        "hot": 1560000,
+        "url": "https://www.zhihu.com/question/2104232899662669800",
+        "source": "知乎"
+      },
+      {
+        "title": "GPT-6.2 开启首测，有网友称其性能可压倒 Opus5.5，二者实际体验差距有多大？",
+        "hot": 1470000,
+        "url": "https://www.zhihu.com/question/2103125335730669300",
+        "source": "知乎"
+      },
+      {
+        "title": "羽扇纶巾首次出现具体人就是周瑜，为什么还有人说是诸葛亮的？",
+        "hot": 1360000,
+        "url": "https://www.zhihu.com/question/650345830",
+        "source": "知乎"
+      },
+      {
+        "title": "如何评价《鸣潮》3.8版本的剧情？",
+        "hot": 1300000,
+        "url": "https://www.zhihu.com/question/2104219060338693400",
+        "source": "知乎"
+      }
+    ],
     "weibo": [
       {
         "title": "刘欢妻子长文",
@@ -285,9 +285,9 @@
         "source": "微博"
       },
       {
-        "title": "马化腾 危机感",
+        "title": "特朗普回应黄仁勋辞职",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%8C%96%E8%85%BE%20%E5%8D%B1%E6%9C%BA%E6%84%9F",
+        "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C",
         "source": "微博"
       },
       {
@@ -297,27 +297,9 @@
         "source": "微博"
       },
       {
-        "title": "黄仁勋辞职",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C",
-        "source": "微博"
-      },
-      {
         "title": "普通人用AI和会用AI的人",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%A8AI%E5%92%8C%E4%BC%9A%E7%94%A8AI%E7%9A%84%E4%BA%BA",
-        "source": "微博"
-      },
-      {
-        "title": "向太问许飞为什么当时不解开误会",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E5%A4%AA%E9%97%AE%E8%AE%B8%E9%A3%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BD%93%E6%97%B6%E4%B8%8D%E8%A7%A3%E5%BC%80%E8%AF%AF%E4%BC%9A",
-        "source": "微博"
-      },
-      {
-        "title": "林肯飞行家EX8双V6动力带电起飞",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E8%82%AF%E9%A3%9E%E8%A1%8C%E5%AE%B6EX8%E5%8F%8CV6%E5%8A%A8%E5%8A%9B%E5%B8%A6%E7%94%B5%E8%B5%B7%E9%A3%9E",
         "source": "微博"
       },
       {
@@ -327,9 +309,15 @@
         "source": "微博"
       },
       {
-        "title": "官方通报母女点豆芽吃7碗饭摆拍",
+        "title": "向太问许飞为什么当时不解开误会",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AF%8D%E5%A5%B3%E7%82%B9%E8%B1%86%E8%8A%BD%E5%90%837%E7%A2%97%E9%A5%AD%E6%91%86%E6%8B%8D",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E5%A4%AA%E9%97%AE%E8%AE%B8%E9%A3%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BD%93%E6%97%B6%E4%B8%8D%E8%A7%A3%E5%BC%80%E8%AF%AF%E4%BC%9A",
+        "source": "微博"
+      },
+      {
+        "title": "体检要求空腹并非完全不能喝水",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BD%93%E6%A3%80%E8%A6%81%E6%B1%82%E7%A9%BA%E8%85%B9%E5%B9%B6%E9%9D%9E%E5%AE%8C%E5%85%A8%E4%B8%8D%E8%83%BD%E5%96%9D%E6%B0%B4",
         "source": "微博"
       },
       {
@@ -345,15 +333,27 @@
         "source": "微博"
       },
       {
-        "title": "刘欢查出疑似癌症转移第二天岳父去世",
+        "title": "官方通报母女点豆芽吃7碗饭摆拍",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E6%AC%A2%E6%9F%A5%E5%87%BA%E7%96%91%E4%BC%BC%E7%99%8C%E7%97%87%E8%BD%AC%E7%A7%BB%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%B2%B3%E7%88%B6%E5%8E%BB%E4%B8%96",
+        "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AF%8D%E5%A5%B3%E7%82%B9%E8%B1%86%E8%8A%BD%E5%90%837%E7%A2%97%E9%A5%AD%E6%91%86%E6%8B%8D",
         "source": "微博"
       },
       {
-        "title": "英伟达感谢黄仁勋不可估量的贡献",
+        "title": "美股",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%84%9F%E8%B0%A2%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%8D%E5%8F%AF%E4%BC%B0%E9%87%8F%E7%9A%84%E8%B4%A1%E7%8C%AE",
+        "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1",
+        "source": "微博"
+      },
+      {
+        "title": "黄仁勋辞职",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C",
+        "source": "微博"
+      },
+      {
+        "title": "刘欢查出疑似癌症转移第二天岳父去世",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E6%AC%A2%E6%9F%A5%E5%87%BA%E7%96%91%E4%BC%BC%E7%99%8C%E7%97%87%E8%BD%AC%E7%A7%BB%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%B2%B3%E7%88%B6%E5%8E%BB%E4%B8%96",
         "source": "微博"
       },
       {
@@ -363,100 +363,100 @@
         "source": "微博"
       },
       {
-        "title": "黄仁勋1993年创办英伟达",
+        "title": "王腾谈黄仁勋辞职",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B1993%E5%B9%B4%E5%88%9B%E5%8A%9E%E8%8B%B1%E4%BC%9F%E8%BE%BE",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%85%BE%E8%B0%88%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C",
         "source": "微博"
       }
     ],
     "baidu": [
       {
         "title": "凝心聚力铸伟业 接续奋斗谱华章",
-        "hot": 7904001,
+        "hot": 7904690,
         "url": "https://www.baidu.com/s?wd=%E5%87%9D%E5%BF%83%E8%81%9A%E5%8A%9B%E9%93%B8%E4%BC%9F%E4%B8%9A%20%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97%E8%B0%B1%E5%8D%8E%E7%AB%A0",
         "source": "百度"
       },
       {
         "title": "刘欢安葬于北京 曾与膀胱癌斗争多年",
-        "hot": 7809589,
+        "hot": 7809643,
         "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%E5%AE%89%E8%91%AC%E4%BA%8E%E5%8C%97%E4%BA%AC%20%E6%9B%BE%E4%B8%8E%E8%86%80%E8%83%B1%E7%99%8C%E6%96%97%E4%BA%89%E5%A4%9A%E5%B9%B4",
         "source": "百度"
       },
       {
         "title": "零元面馆周边商户：我们房贷都还不起",
-        "hot": 7712093,
+        "hot": 7713259,
         "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E5%85%83%E9%9D%A2%E9%A6%86%E5%91%A8%E8%BE%B9%E5%95%86%E6%88%B7%EF%BC%9A%E6%88%91%E4%BB%AC%E6%88%BF%E8%B4%B7%E9%83%BD%E8%BF%98%E4%B8%8D%E8%B5%B7",
         "source": "百度"
       },
       {
         "title": "在深圳科技触手可及",
-        "hot": 7619123,
+        "hot": 7617081,
         "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E6%B7%B1%E5%9C%B3%E7%A7%91%E6%8A%80%E8%A7%A6%E6%89%8B%E5%8F%AF%E5%8F%8A",
         "source": "百度"
       },
       {
-        "title": "黄仁勋辞去英伟达CEO职务",
-        "hot": 7522963,
-        "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E5%8E%BB%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1",
+        "title": "耐克中国不打“价格战”了",
+        "hot": 7520323,
+        "url": "https://www.baidu.com/s?wd=%E8%80%90%E5%85%8B%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%89%93%E2%80%9C%E4%BB%B7%E6%A0%BC%E6%88%98%E2%80%9D%E4%BA%86",
         "source": "百度"
       },
       {
         "title": "男子应聘司机干了6小时倒贴2万",
-        "hot": 7424227,
+        "hot": 7425898,
         "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BA%94%E8%81%98%E5%8F%B8%E6%9C%BA%E5%B9%B2%E4%BA%866%E5%B0%8F%E6%97%B6%E5%80%92%E8%B4%B42%E4%B8%87",
         "source": "百度"
       },
       {
         "title": "朴树哥哥否认朴树去世传闻",
-        "hot": 7329719,
+        "hot": 7329469,
         "url": "https://www.baidu.com/s?wd=%E6%9C%B4%E6%A0%91%E5%93%A5%E5%93%A5%E5%90%A6%E8%AE%A4%E6%9C%B4%E6%A0%91%E5%8E%BB%E4%B8%96%E4%BC%A0%E9%97%BB",
         "source": "百度"
       },
       {
+        "title": "年轻人为什么不爱买皮鞋了",
+        "hot": 7237637,
+        "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E4%B9%B0%E7%9A%AE%E9%9E%8B%E4%BA%86",
+        "source": "百度"
+      },
+      {
         "title": "店老板为连吃7碗米饭母女放钱系摆拍",
-        "hot": 7236697,
+        "hot": 7142741,
         "url": "https://www.baidu.com/s?wd=%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%BA%E8%BF%9E%E5%90%837%E7%A2%97%E7%B1%B3%E9%A5%AD%E6%AF%8D%E5%A5%B3%E6%94%BE%E9%92%B1%E7%B3%BB%E6%91%86%E6%8B%8D",
         "source": "百度"
       },
       {
         "title": "0.01分赢下保研第二天就被室友举报",
-        "hot": 7142291,
+        "hot": 7042862,
         "url": "https://www.baidu.com/s?wd=0.01%E5%88%86%E8%B5%A2%E4%B8%8B%E4%BF%9D%E7%A0%94%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%B0%B1%E8%A2%AB%E5%AE%A4%E5%8F%8B%E4%B8%BE%E6%8A%A5",
         "source": "百度"
       },
       {
-        "title": "年轻人为什么不爱买皮鞋了",
-        "hot": 7042225,
-        "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E4%B9%B0%E7%9A%AE%E9%9E%8B%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "红楼梦AI短剧侵害17位演员肖像权",
-        "hot": 6953518,
-        "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%A5%BC%E6%A2%A6AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E5%AE%B317%E4%BD%8D%E6%BC%94%E5%91%98%E8%82%96%E5%83%8F%E6%9D%83",
+        "title": "稳股市如此重要 如何才能稳",
+        "hot": 6951138,
+        "url": "https://www.baidu.com/s?wd=%E7%A8%B3%E8%82%A1%E5%B8%82%E5%A6%82%E6%AD%A4%E9%87%8D%E8%A6%81%20%E5%A6%82%E4%BD%95%E6%89%8D%E8%83%BD%E7%A8%B3",
         "source": "百度"
       },
       {
         "title": "网传“商家扬言取消外卖”系谣言",
-        "hot": 6849457,
+        "hot": 6858096,
         "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E5%95%86%E5%AE%B6%E6%89%AC%E8%A8%80%E5%8F%96%E6%B6%88%E5%A4%96%E5%8D%96%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
         "source": "百度"
       },
       {
         "title": "英伟达盘中市值跌破4万亿美元",
-        "hot": 6763007,
+        "hot": 6757588,
         "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9B%98%E4%B8%AD%E5%B8%82%E5%80%BC%E8%B7%8C%E7%A0%B44%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
         "source": "百度"
       },
       {
         "title": "拜登：若早知患癌 我会辞职",
-        "hot": 6662050,
+        "hot": 6655059,
         "url": "https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E8%8B%A5%E6%97%A9%E7%9F%A5%E6%82%A3%E7%99%8C%20%E6%88%91%E4%BC%9A%E8%BE%9E%E8%81%8C",
         "source": "百度"
       },
       {
         "title": "腾讯裁员50%？知情人士回应",
-        "hot": 6563666,
+        "hot": 6560239,
         "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E8%A3%81%E5%91%9850%25%EF%BC%9F%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94",
         "source": "百度"
       }
@@ -470,7 +470,7 @@
       },
       {
         "title": "马斯克给黄仁勋留了个工位",
-        "hot": 22,
+        "hot": 24,
         "url": "https://www.36kr.com/p/4066274942571652",
         "source": "36氪"
       },
@@ -487,7 +487,7 @@
         "source": "36氪"
       },
       {
-        "title": "547亿元收购后首次���台，李飞飞对话苏姿丰，详解统一世界模型Atlas",
+        "title": "547亿元收购后首��同台，李飞飞对话苏姿丰，详解统一世界模型Atlas",
         "hot": 19,
         "url": "https://www.36kr.com/p/4066226367632263",
         "source": "36氪"
@@ -500,7 +500,7 @@
       },
       {
         "title": "大厂大减员，真的是因为AI抢人类饭碗吗？",
-        "hot": 9,
+        "hot": 10,
         "url": "https://www.36kr.com/p/4066248518440832",
         "source": "36氪"
       },
@@ -508,6 +508,12 @@
         "title": "古代监控火了，武松打虎「实拍」流出，AI整活快把网友整不会了",
         "hot": 2,
         "url": "https://www.36kr.com/p/4065518830360449",
+        "source": "36氪"
+      },
+      {
+        "title": "失去黄仁勋，英伟达会怎样？",
+        "hot": 13,
+        "url": "https://www.36kr.com/p/4066690965132167",
         "source": "36氪"
       },
       {
@@ -520,12 +526,6 @@
         "title": "平台比人民还想“改变”双十一",
         "hot": 41,
         "url": "https://www.36kr.com/p/4065387718185865",
-        "source": "36氪"
-      },
-      {
-        "title": "失去黄仁勋，英伟达会怎样？",
-        "hot": 13,
-        "url": "https://www.36kr.com/p/4066690965132167",
         "source": "36氪"
       },
       {
@@ -547,9 +547,9 @@
         "source": "36氪"
       },
       {
-        "title": "Claude 终于对 Office 全家桶动手了，网友：当年没学 Excel 是对的",
-        "hot": 2,
-        "url": "https://www.36kr.com/p/4066124392830088",
+        "title": "成为中国无醇品牌奖牌数第一，「新零」无醇啤酒想让快乐与喝醉无关 | 项目报道",
+        "hot": 14,
+        "url": "https://www.36kr.com/p/4005312451317633",
         "source": "36氪"
       }
     ]
@@ -557,77 +557,77 @@
   "github": [
     {
       "title": "NotRexed/Hookshot —— A Native Recompilation Of The Legend Of ",
-      "hot": "⭐ 8469",
+      "hot": "⭐ 8490",
       "url": "https://github.com/NotRexed/Hookshot",
       "source": "GitHub",
       "tag": "C++"
     },
     {
       "title": "huamidev/GestaltX —— An MobileGestalt editor for iOS 27.x, fe",
-      "hot": "⭐ 6849",
+      "hot": "⭐ 6859",
       "url": "https://github.com/huamidev/GestaltX",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "tangerineturtle1/NX2navi",
-      "hot": "⭐ 3443",
+      "hot": "⭐ 3452",
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "jhaizhou-ops/S2Arm —— Run your own Switch games natively on iP",
-      "hot": "⭐ 2743",
+      "hot": "⭐ 2745",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "source": "GitHub",
       "tag": "C#"
     },
     {
       "title": "jamesondh/chimera-vocal-synth —— the ultimate vocal synthesizer - sing, s",
-      "hot": "⭐ 2111",
+      "hot": "⭐ 2118",
       "url": "https://github.com/jamesondh/chimera-vocal-synth",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "JenkinWoo/sheeridVerify",
-      "hot": "⭐ 2074",
+      "hot": "⭐ 2076",
       "url": "https://github.com/JenkinWoo/sheeridVerify",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "IainKay/ram-altman —— Monitors your RAM and reports any \"quite",
-      "hot": "⭐ 1999",
+      "hot": "⭐ 2003",
       "url": "https://github.com/IainKay/ram-altman",
       "source": "GitHub",
       "tag": "Shell"
     },
     {
       "title": "DIYgod/pinky —— Let AI agents use your phone, with you i",
-      "hot": "⭐ 1981",
+      "hot": "⭐ 1985",
       "url": "https://github.com/DIYgod/pinky",
       "source": "GitHub",
       "tag": "Go"
     },
     {
       "title": "mmdoctor/google-pro-helper",
-      "hot": "⭐ 1780",
+      "hot": "⭐ 1782",
       "url": "https://github.com/mmdoctor/google-pro-helper",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "Kianuni/Erosion-CN —— iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简",
-      "hot": "⭐ 1704",
+      "hot": "⭐ 1706",
       "url": "https://github.com/Kianuni/Erosion-CN",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "WoYun520/gif-factory —— GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF",
-      "hot": "⭐ 1588",
+      "hot": "⭐ 1590",
       "url": "https://github.com/WoYun520/gif-factory",
       "source": "GitHub",
       "tag": "Python"
@@ -641,7 +641,7 @@
     },
     {
       "title": "HybridRobotics/supermimic —— Humanoid whole-body motion tracking with",
-      "hot": "⭐ 1276",
+      "hot": "⭐ 1279",
       "url": "https://github.com/HybridRobotics/supermimic",
       "source": "GitHub",
       "tag": "Python"
