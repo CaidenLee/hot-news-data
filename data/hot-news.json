@@ -1,316 +1,40 @@
 {
-  "updatedAt": "2026-11-13T07:30:16.088Z",
+  "updatedAt": "2026-11-13T08:00:17.274Z",
   "dailyhot": {
-    "hackernews": [
-      {
-        "title": "Jensen Huang resigns",
-        "hot": 3376,
-        "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-        "source": "HackerNews"
-      },
-      {
-        "title": "IceWM",
-        "hot": 94,
-        "url": "https://ice-wm.org/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Scientists claim the universe is twice as old as believed",
-        "hot": 46,
-        "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Rust 1.100",
-        "hot": 617,
-        "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-        "hot": 66,
-        "url": "https://brave.com/blog/search-api-agentic-payments/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Nvidia employees petition to bring back Jensen Huang",
-        "hot": 451,
-        "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Switcher (2004)",
-        "hot": 84,
-        "url": "https://folklore.org/Switcher.html",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Gemini 4 Hydrogen and Orchestrator",
-        "hot": 396,
-        "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-        "hot": 478,
-        "url": "https://github.com/simpsoka/zigzag",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-        "hot": 203,
-        "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-        "hot": 273,
-        "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-        "hot": 227,
-        "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Service degradation on Microsoft 365",
-        "hot": 769,
-        "url": "https://status.cloud.microsoft/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Foundation Models framework",
-        "hot": 194,
-        "url": "https://developer.apple.com/foundation-models-framework/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "I'm making LLMs work on small and old devices",
-        "hot": 340,
-        "url": "https://github.com/hyperionaidev/smolmaxxing/",
-        "source": "HackerNews"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "被传裁员后腾讯紧急辟谣「裁员 50%」说法，被热议的腾讯，是业务出了什么问题吗？",
-        "hot": 10080000,
-        "url": "https://www.zhihu.com/question/2104225780083287000",
-        "source": "知乎"
-      },
-      {
-        "title": "微软多项服务发生大规模故障，Outlook异常报告超13万起，问题可能出在哪？你现在还能正常登录吗？",
-        "hot": 8220000,
-        "url": "https://www.zhihu.com/question/2104481527711144000",
-        "source": "知乎"
-      },
-      {
-        "title": "张雪回应「读书无用论」，称这种定义很 low，自己几乎每天都学习，如何看待这一表态？",
-        "hot": 2920000,
-        "url": "https://www.zhihu.com/question/2103876810748454000",
-        "source": "知乎"
-      },
-      {
-        "title": "网友称高铁座椅 USB 口充手机越充越掉电，12306 称电压更低，用于应急补电，这个设计合理吗？",
-        "hot": 2610000,
-        "url": "https://www.zhihu.com/question/2103538454634180600",
-        "source": "知乎"
-      },
-      {
-        "title": "郭树清再度建议尽快启动「遗产税」与「赠与税」，新增税收补助基本养老金，如何解读？",
-        "hot": 2530000,
-        "url": "https://www.zhihu.com/question/2104519048557851000",
-        "source": "知乎"
-      },
-      {
-        "title": "《密档》口碑、票房均不如《给阿嬷的情书》《南京照相馆》，其导演却拿下最佳��演，金鸡奖的评审逻辑是什么？",
-        "hot": 1910000,
-        "url": "https://www.zhihu.com/question/2103800406706841300",
-        "source": "知乎"
-      },
-      {
-        "title": "大学保研中举报现象越来越频发，背后原因是什么？为了保研主动切断同学关系是否可取？",
-        "hot": 1890000,
-        "url": "https://www.zhihu.com/question/2103788856000755500",
-        "source": "知乎"
-      },
-      {
-        "title": "饶毅喊话耿同学「欢迎耿同学批评」，如何理解他们两位观点的异同？",
-        "hot": 1610000,
-        "url": "https://www.zhihu.com/question/2103930682833467100",
-        "source": "知乎"
-      },
-      {
-        "title": "禅让制为何在尧舜禹之间传了三代就玩不下去了？",
-        "hot": 1490000,
-        "url": "https://www.zhihu.com/question/2103759019978630400",
-        "source": "知乎"
-      },
-      {
-        "title": "《福尔摩斯》原著里头的房东太太为什么会像个仆人一样伺候她的租客？",
-        "hot": 1430000,
-        "url": "https://www.zhihu.com/question/266192012",
-        "source": "知乎"
-      },
-      {
-        "title": "失去灵魂人物的英伟达接下来会走向何方？英伟达当前最大的隐忧是什么？",
-        "hot": 1400000,
-        "url": "https://www.zhihu.com/question/2104480784484496400",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待2026年10月特斯拉国内销量暴跌？",
-        "hot": 1380000,
-        "url": "https://www.zhihu.com/question/2103258099138173000",
-        "source": "知乎"
-      },
-      {
-        "title": "两广人为什么餐餐吃空心菜？真这么好吃吗？",
-        "hot": 1370000,
-        "url": "https://www.zhihu.com/question/2091280758447121000",
-        "source": "知乎"
-      },
-      {
-        "title": "黄仁勋算是美国中期选举的牺牲品吗？为什么偏偏是他？",
-        "hot": 1340000,
-        "url": "https://www.zhihu.com/question/2104350711869698800",
-        "source": "知乎"
-      },
-      {
-        "title": "前两年平价牛肉餐饮疯狂开店，现如今牛肉价格涨幅已达 27% ，牛肉为何吃不起了？",
-        "hot": 1300000,
-        "url": "https://www.zhihu.com/question/2103784826771863000",
-        "source": "知乎"
-      }
-    ],
-    "weibo": [
-      {
-        "title": "2027研究生报考人数347万",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=2027%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0347%E4%B8%87",
-        "source": "微博"
-      },
-      {
-        "title": "后会友期陈晓楠评论区",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E9%99%88%E6%99%93%E6%A5%A0%E8%AF%84%E8%AE%BA%E5%8C%BA",
-        "source": "微博"
-      },
-      {
-        "title": "我们的城市有条中山路",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E5%9F%8E%E5%B8%82%E6%9C%89%E6%9D%A1%E4%B8%AD%E5%B1%B1%E8%B7%AF",
-        "source": "微博"
-      },
-      {
-        "title": "跟着郭晶晶一起探访未来家",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%B7%9F%E7%9D%80%E9%83%AD%E6%99%B6%E6%99%B6%E4%B8%80%E8%B5%B7%E6%8E%A2%E8%AE%BF%E6%9C%AA%E6%9D%A5%E5%AE%B6",
-        "source": "微博"
-      },
-      {
-        "title": "飞秒手术要降价了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E8%A6%81%E9%99%8D%E4%BB%B7%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "放二十年的金砖被物理好的人取走了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%94%BE%E4%BA%8C%E5%8D%81%E5%B9%B4%E7%9A%84%E9%87%91%E7%A0%96%E8%A2%AB%E7%89%A9%E7%90%86%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%8F%96%E8%B5%B0%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "王子璇听到白小纯说青稚是太子爷的表情",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E5%90%AC%E5%88%B0%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%AF%B4%E9%9D%92%E7%A8%9A%E6%98%AF%E5%A4%AA%E5%AD%90%E7%88%B7%E7%9A%84%E8%A1%A8%E6%83%85",
-        "source": "微博"
-      },
-      {
-        "title": "大众5X超能上市9万99起",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BC%975X%E8%B6%85%E8%83%BD%E4%B8%8A%E5%B8%829%E4%B8%8799%E8%B5%B7",
-        "source": "微博"
-      },
-      {
-        "title": "阿姨照料患癌男同事14年开销AA制",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%A7%A8%E7%85%A7%E6%96%99%E6%82%A3%E7%99%8C%E7%94%B7%E5%90%8C%E4%BA%8B14%E5%B9%B4%E5%BC%80%E9%94%80AA%E5%88%B6",
-        "source": "微博"
-      },
-      {
-        "title": "考研人数",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0",
-        "source": "微博"
-      },
-      {
-        "title": "S16决赛海报公布",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=S16%E5%86%B3%E8%B5%9B%E6%B5%B7%E6%8A%A5%E5%85%AC%E5%B8%83",
-        "source": "微博"
-      },
-      {
-        "title": "和平饭店账单造假事件15人被抓",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%92%8C%E5%B9%B3%E9%A5%AD%E5%BA%97%E8%B4%A6%E5%8D%95%E9%80%A0%E5%81%87%E4%BA%8B%E4%BB%B615%E4%BA%BA%E8%A2%AB%E6%8A%93",
-        "source": "微博"
-      },
-      {
-        "title": "宋雨琦转发中国台湾被韩网热议",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E9%9B%A8%E7%90%A6%E8%BD%AC%E5%8F%91%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE",
-        "source": "微博"
-      },
-      {
-        "title": "陈晓楠 张泉灵",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%A5%A0%20%E5%BC%A0%E6%B3%89%E7%81%B5",
-        "source": "微博"
-      },
-      {
-        "title": "有英伟达员工称已经开始找工作了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%91%98%E5%B7%A5%E7%A7%B0%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%89%BE%E5%B7%A5%E4%BD%9C%E4%BA%86",
-        "source": "微博"
-      }
-    ],
     "juejin": [
       {
         "title": "你们公司有 35 岁以上的前端吗？",
-        "hot": 3294,
+        "hot": 3339,
         "url": "https://juejin.cn/post/7706534471420461098",
         "source": "掘金"
       },
       {
         "title": "再见了 Typora",
-        "hot": 1170,
+        "hot": 1179,
         "url": "https://juejin.cn/post/7706418656682803200",
         "source": "掘金"
       },
       {
         "title": "为什么越来越多人用 AI Gateway？",
-        "hot": 972,
+        "hot": 981,
         "url": "https://juejin.cn/post/7706346256684023846",
         "source": "掘金"
       },
       {
         "title": "Flutter 3.50 & Dart 3.14  发布，快来看看有什么更新吧",
-        "hot": 675,
+        "hot": 684,
         "url": "https://juejin.cn/post/7706740008510963722",
         "source": "掘金"
       },
       {
         "title": "代码都能让 Agent 写了，我们为什么还要学前端？",
-        "hot": 486,
+        "hot": 495,
         "url": "https://juejin.cn/post/7706354193472995391",
         "source": "掘金"
       },
       {
-        "title": "如何看待 Fable 5.2 用纯代码生成 1.4MB 视觉作品：光追、水面、倒影、火光的程序化生成原理",
-        "hot": 468,
+        "title": "如何看待 Fable 5.2 用纯代码生�� 1.4MB 视觉作品：光追、水面、倒影、火光的程序化生成原理",
+        "hot": 477,
         "url": "https://juejin.cn/post/7706740769264566322",
         "source": "掘金"
       },
@@ -322,7 +46,7 @@
       },
       {
         "title": "别再抬杠，前端岗已经没了！无论前后端，我们最终都要成“全干”工程师",
-        "hot": 432,
+        "hot": 441,
         "url": "https://juejin.cn/post/7707101130299539496",
         "source": "掘金"
       },
@@ -334,7 +58,7 @@
       },
       {
         "title": "别再连线了：Coze、n8n、Dify 退潮，AI 正式终结工作流时代",
-        "hot": 351,
+        "hot": 360,
         "url": "https://juejin.cn/post/7706394247621443599",
         "source": "掘金"
       },
@@ -369,6 +93,374 @@
         "source": "掘金"
       }
     ],
+    "hackernews": [
+      {
+        "title": "Jensen Huang resigns",
+        "hot": 3417,
+        "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+        "source": "HackerNews"
+      },
+      {
+        "title": "IceWM",
+        "hot": 111,
+        "url": "https://ice-wm.org/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Rust 1.100",
+        "hot": 627,
+        "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+        "hot": 76,
+        "url": "https://brave.com/blog/search-api-agentic-payments/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Nvidia employees petition to bring back Jensen Huang",
+        "hot": 493,
+        "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Gemini 4 Hydrogen and Orchestrator",
+        "hot": 400,
+        "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+        "hot": 483,
+        "url": "https://github.com/simpsoka/zigzag",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Switcher (2004)",
+        "hot": 86,
+        "url": "https://folklore.org/Switcher.html",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+        "hot": 218,
+        "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+        "hot": 279,
+        "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+        "hot": 234,
+        "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Service degradation on Microsoft 365",
+        "hot": 799,
+        "url": "https://status.cloud.microsoft/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Foundation Models framework",
+        "hot": 197,
+        "url": "https://developer.apple.com/foundation-models-framework/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "I'm making LLMs work on small and old devices",
+        "hot": 344,
+        "url": "https://github.com/hyperionaidev/smolmaxxing/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Microsoft Outlook/365 still down after 12 hours",
+        "hot": 69,
+        "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+        "source": "HackerNews"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "被传裁员后腾讯紧急辟谣「裁员 50%」说法，被热议的腾讯，是业务出了什么问题吗？",
+        "hot": 10370000,
+        "url": "https://www.zhihu.com/question/2104225780083287000",
+        "source": "知乎"
+      },
+      {
+        "title": "微软多项服务发生大规模故障，Outlook异常报告超13万起，问题可能出在哪？你现在还能正常登录吗？",
+        "hot": 9040000,
+        "url": "https://www.zhihu.com/question/2104481527711144000",
+        "source": "知乎"
+      },
+      {
+        "title": "网友称高铁座椅 USB 口充手机越充越掉电，12306 称电压更低，用于应急补电，这个设计合理吗？",
+        "hot": 2670000,
+        "url": "https://www.zhihu.com/question/2103538454634180600",
+        "source": "知乎"
+      },
+      {
+        "title": "前两年平价牛肉餐饮疯狂开店，现如今牛肉价格涨幅已达 27% ，牛肉为何吃不起了？",
+        "hot": 2260000,
+        "url": "https://www.zhihu.com/question/2103784826771863000",
+        "source": "知乎"
+      },
+      {
+        "title": "三年多没联系的同事，突然发微信问我在不在？我该怎么回复？",
+        "hot": 2160000,
+        "url": "https://www.zhihu.com/question/2072258048358363100",
+        "source": "知乎"
+      },
+      {
+        "title": "两广人为什么餐餐吃空心菜？真这么好吃吗？",
+        "hot": 2050000,
+        "url": "https://www.zhihu.com/question/2091280758447121000",
+        "source": "知乎"
+      },
+      {
+        "title": "张雪回应「读书无用论」，称这种定义很 low，自己几乎每天都学习，如何看待这一表态？",
+        "hot": 2040000,
+        "url": "https://www.zhihu.com/question/2103876810748454000",
+        "source": "知乎"
+      },
+      {
+        "title": "郭树清再度建议尽快启动「遗产税」与「赠与税」，新增税收补助基本养老金，如何解读？",
+        "hot": 1850000,
+        "url": "https://www.zhihu.com/question/2104519048557851000",
+        "source": "知乎"
+      },
+      {
+        "title": "禅让制为何在尧舜禹之间传了三代就玩不下去了？",
+        "hot": 1840000,
+        "url": "https://www.zhihu.com/question/2103759019978630400",
+        "source": "知乎"
+      },
+      {
+        "title": "大学保研中举报现象越来越频发，背后原因是什么？为了保研主动切断同学关系是否可取？",
+        "hot": 1470000,
+        "url": "https://www.zhihu.com/question/2103788856000755500",
+        "source": "知乎"
+      },
+      {
+        "title": "饶毅喊话耿同学「欢迎耿同学批评」，如何理解他们两位观点的异同？",
+        "hot": 1370000,
+        "url": "https://www.zhihu.com/question/2103930682833467100",
+        "source": "知乎"
+      },
+      {
+        "title": "2026.11《崩坏星穹铁道》4.7，如何评价绝灭大君归寂/假面愚者未抵/无名客领航员我见？",
+        "hot": 1280000,
+        "url": "https://www.zhihu.com/question/2104166395877634000",
+        "source": "知乎"
+      },
+      {
+        "title": "��鹏饮料开始卖酒了，名字就叫好厉害，你看好吗？",
+        "hot": 1260000,
+        "url": "https://www.zhihu.com/question/2104149087188510700",
+        "source": "知乎"
+      },
+      {
+        "title": "黄仁勋算是美国中期选举的牺牲品吗？为什么偏偏是他？",
+        "hot": 1200000,
+        "url": "https://www.zhihu.com/question/2104350711869698800",
+        "source": "知乎"
+      },
+      {
+        "title": "《密档》口碑、票房均不如《给阿嬷的情书》《南京照相馆》，其导演却拿下最佳导演，金鸡奖的评审逻辑是什么？",
+        "hot": 1140000,
+        "url": "https://www.zhihu.com/question/2103800406706841300",
+        "source": "知乎"
+      }
+    ],
+    "weibo": [
+      {
+        "title": "飞秒手术要降价了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E8%A6%81%E9%99%8D%E4%BB%B7%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "2027研究生报考人数347万",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=2027%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0347%E4%B8%87",
+        "source": "微博"
+      },
+      {
+        "title": "我们的城市有条中山路",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E5%9F%8E%E5%B8%82%E6%9C%89%E6%9D%A1%E4%B8%AD%E5%B1%B1%E8%B7%AF",
+        "source": "微博"
+      },
+      {
+        "title": "20万内插混首选东风日产NX7",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=20%E4%B8%87%E5%86%85%E6%8F%92%E6%B7%B7%E9%A6%96%E9%80%89%E4%B8%9C%E9%A3%8E%E6%97%A5%E4%BA%A7NX7",
+        "source": "微博"
+      },
+      {
+        "title": "王子璇听到白小纯说青稚是太子爷的表情",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E5%90%AC%E5%88%B0%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%AF%B4%E9%9D%92%E7%A8%9A%E6%98%AF%E5%A4%AA%E5%AD%90%E7%88%B7%E7%9A%84%E8%A1%A8%E6%83%85",
+        "source": "微博"
+      },
+      {
+        "title": "我国严禁任何形式代孕",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E4%B8%A5%E7%A6%81%E4%BB%BB%E4%BD%95%E5%BD%A2%E5%BC%8F%E4%BB%A3%E5%AD%95",
+        "source": "微博"
+      },
+      {
+        "title": "白小纯成绩",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%88%90%E7%BB%A9",
+        "source": "微博"
+      },
+      {
+        "title": "柯淳星辰大海采风高光学员",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B7%B3%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E9%87%87%E9%A3%8E%E9%AB%98%E5%85%89%E5%AD%A6%E5%91%98",
+        "source": "微博"
+      },
+      {
+        "title": "和平饭店账单造假事件15人被抓",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%92%8C%E5%B9%B3%E9%A5%AD%E5%BA%97%E8%B4%A6%E5%8D%95%E9%80%A0%E5%81%87%E4%BA%8B%E4%BB%B615%E4%BA%BA%E8%A2%AB%E6%8A%93",
+        "source": "微博"
+      },
+      {
+        "title": "放二十年的金砖被物理好的人取走了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%94%BE%E4%BA%8C%E5%8D%81%E5%B9%B4%E7%9A%84%E9%87%91%E7%A0%96%E8%A2%AB%E7%89%A9%E7%90%86%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%8F%96%E8%B5%B0%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "阿姨照料患癌男同事14年开销AA制",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%A7%A8%E7%85%A7%E6%96%99%E6%82%A3%E7%99%8C%E7%94%B7%E5%90%8C%E4%BA%8B14%E5%B9%B4%E5%BC%80%E9%94%80AA%E5%88%B6",
+        "source": "微博"
+      },
+      {
+        "title": "考研人数",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0",
+        "source": "微博"
+      },
+      {
+        "title": "黄仁勋称自己算个什么东西",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E7%AE%97%E4%B8%AA%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF",
+        "source": "微博"
+      },
+      {
+        "title": "宋雨琦转发中国台湾被韩网热议",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E9%9B%A8%E7%90%A6%E8%BD%AC%E5%8F%91%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE",
+        "source": "微博"
+      },
+      {
+        "title": "陈晓楠 张泉灵",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%A5%A0%20%E5%BC%A0%E6%B3%89%E7%81%B5",
+        "source": "微博"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "同心协力共襄中华民族伟大复兴盛举",
+        "hot": 7904796,
+        "url": "https://www.baidu.com/s?wd=%E5%90%8C%E5%BF%83%E5%8D%8F%E5%8A%9B%E5%85%B1%E8%A5%84%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E4%BC%9F%E5%A4%A7%E5%A4%8D%E5%85%B4%E7%9B%9B%E4%B8%BE",
+        "source": "百度"
+      },
+      {
+        "title": "新一轮大范围雨雪明夜起来袭",
+        "hot": 7809588,
+        "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E6%98%8E%E5%A4%9C%E8%B5%B7%E6%9D%A5%E8%A2%AD",
+        "source": "百度"
+      },
+      {
+        "title": "40岁男子花4千元做96集AI短剧爆火",
+        "hot": 7712477,
+        "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90%E8%8A%B14%E5%8D%83%E5%85%83%E5%81%9A96%E9%9B%86AI%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB",
+        "source": "百度"
+      },
+      {
+        "title": "秋假带火研学游、亲子游",
+        "hot": 7618796,
+        "url": "https://www.baidu.com/s?wd=%E7%A7%8B%E5%81%87%E5%B8%A6%E7%81%AB%E7%A0%94%E5%AD%A6%E6%B8%B8%E3%80%81%E4%BA%B2%E5%AD%90%E6%B8%B8",
+        "source": "百度"
+      },
+      {
+        "title": "KFC列车诞生了",
+        "hot": 7520961,
+        "url": "https://www.baidu.com/s?wd=KFC%E5%88%97%E8%BD%A6%E8%AF%9E%E7%94%9F%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "远程注射疫苗被东北虎一把叼住针管",
+        "hot": 7429190,
+        "url": "https://www.baidu.com/s?wd=%E8%BF%9C%E7%A8%8B%E6%B3%A8%E5%B0%84%E7%96%AB%E8%8B%97%E8%A2%AB%E4%B8%9C%E5%8C%97%E8%99%8E%E4%B8%80%E6%8A%8A%E5%8F%BC%E4%BD%8F%E9%92%88%E7%AE%A1",
+        "source": "百度"
+      },
+      {
+        "title": "睡前有这5种表现可能是脑梗",
+        "hot": 7327929,
+        "url": "https://www.baidu.com/s?wd=%E7%9D%A1%E5%89%8D%E6%9C%89%E8%BF%995%E7%A7%8D%E8%A1%A8%E7%8E%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E8%84%91%E6%A2%97",
+        "source": "百度"
+      },
+      {
+        "title": "荷兰法院驳回路虎取证比亚迪申请",
+        "hot": 7237708,
+        "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E%E8%B7%AF%E8%99%8E%E5%8F%96%E8%AF%81%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%94%B3%E8%AF%B7",
+        "source": "百度"
+      },
+      {
+        "title": "刘欢妻子不到10个月失去两个至亲",
+        "hot": 7138416,
+        "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E4%B8%8D%E5%88%B010%E4%B8%AA%E6%9C%88%E5%A4%B1%E5%8E%BB%E4%B8%A4%E4%B8%AA%E8%87%B3%E4%BA%B2",
+        "source": "百度"
+      },
+      {
+        "title": "张萌后悔叫马天宇上节目",
+        "hot": 7046516,
+        "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E8%90%8C%E5%90%8E%E6%82%94%E5%8F%AB%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%B8%8A%E8%8A%82%E7%9B%AE",
+        "source": "百度"
+      },
+      {
+        "title": "创业板指高开低走跌3.32%",
+        "hot": 6953182,
+        "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E9%AB%98%E5%BC%80%E4%BD%8E%E8%B5%B0%E8%B7%8C3.32%25",
+        "source": "百度"
+      },
+      {
+        "title": "破译流言 不可不知的100个真相",
+        "hot": 6856177,
+        "url": "https://www.baidu.com/s?wd=%E7%A0%B4%E8%AF%91%E6%B5%81%E8%A8%80%20%E4%B8%8D%E5%8F%AF%E4%B8%8D%E7%9F%A5%E7%9A%84100%E4%B8%AA%E7%9C%9F%E7%9B%B8",
+        "source": "百度"
+      },
+      {
+        "title": "男子生吞新鲜蛇胆 脑子里长满寄生虫",
+        "hot": 6758699,
+        "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%9F%E5%90%9E%E6%96%B0%E9%B2%9C%E8%9B%87%E8%83%86%20%E8%84%91%E5%AD%90%E9%87%8C%E9%95%BF%E6%BB%A1%E5%AF%84%E7%94%9F%E8%99%AB",
+        "source": "百度"
+      },
+      {
+        "title": "刘欢墓地曝光",
+        "hot": 6667935,
+        "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%E5%A2%93%E5%9C%B0%E6%9B%9D%E5%85%89",
+        "source": "百度"
+      },
+      {
+        "title": "徐峥刷到自己的AI换脸视频惊了",
+        "hot": 6561232,
+        "url": "https://www.baidu.com/s?wd=%E5%BE%90%E5%B3%A5%E5%88%B7%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84AI%E6%8D%A2%E8%84%B8%E8%A7%86%E9%A2%91%E6%83%8A%E4%BA%86",
+        "source": "百度"
+      }
+    ],
     "36kr": [
       {
         "title": "马斯克给黄仁勋留了个工位",
@@ -378,7 +470,7 @@
       },
       {
         "title": "8点1氪丨英伟达宣布CEO黄仁勋辞职，特朗普：建议库克接任；腾讯“裁员50%”？知情人士回应；宣扬错误婚恋观，德芙代运营方被罚80万",
-        "hot": 18,
+        "hot": 19,
         "url": "https://www.36kr.com/p/4067443683120000",
         "source": "36氪"
       },
@@ -390,7 +482,7 @@
       },
       {
         "title": "黄仁勋辞职，英伟达为什么偏偏选中她…...",
-        "hot": 28,
+        "hot": 30,
         "url": "https://www.36kr.com/p/4066982873896840",
         "source": "36氪"
       },
@@ -408,31 +500,31 @@
       },
       {
         "title": "突发，黄仁勋辞职，英伟达CEO换人",
-        "hot": "",
+        "hot": 2,
         "url": "https://www.36kr.com/p/4066870840464258",
         "source": "36氪"
       },
       {
         "title": "BAT 新旗舰杀回第一阵营，压力来到字节这边",
-        "hot": 20,
+        "hot": 24,
         "url": "https://www.36kr.com/p/4066600283445122",
         "source": "36氪"
       },
       {
         "title": "突发，马斯克裁掉了整个多模态团队",
-        "hot": 26,
+        "hot": 30,
         "url": "https://www.36kr.com/p/4066963413554305",
         "source": "36氪"
       },
       {
         "title": "“赌徒”孙正义，弃牌了？",
-        "hot": 9,
+        "hot": 11,
         "url": "https://www.36kr.com/p/4066444288185222",
         "source": "36氪"
       },
       {
         "title": "Gemini 4 Hydrogen 来了，所有人都能用",
-        "hot": 26,
+        "hot": 27,
         "url": "https://www.36kr.com/p/4067431058855815",
         "source": "36氪"
       },
@@ -460,153 +552,61 @@
         "url": "https://www.36kr.com/p/4066497415926665",
         "source": "36氪"
       }
-    ],
-    "baidu": [
-      {
-        "title": "同心协力共襄中华民族伟大复兴盛举",
-        "hot": 7903991,
-        "url": "https://www.baidu.com/s?wd=%E5%90%8C%E5%BF%83%E5%8D%8F%E5%8A%9B%E5%85%B1%E8%A5%84%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E4%BC%9F%E5%A4%A7%E5%A4%8D%E5%85%B4%E7%9B%9B%E4%B8%BE",
-        "source": "百度"
-      },
-      {
-        "title": "新一轮大范围雨雪明夜起来袭",
-        "hot": 7808867,
-        "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E6%98%8E%E5%A4%9C%E8%B5%B7%E6%9D%A5%E8%A2%AD",
-        "source": "百度"
-      },
-      {
-        "title": "40岁男子花4千元做96集AI短剧爆火",
-        "hot": 7714014,
-        "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90%E8%8A%B14%E5%8D%83%E5%85%83%E5%81%9A96%E9%9B%86AI%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB",
-        "source": "百度"
-      },
-      {
-        "title": "秋假带火研学游、亲子游",
-        "hot": 7617682,
-        "url": "https://www.baidu.com/s?wd=%E7%A7%8B%E5%81%87%E5%B8%A6%E7%81%AB%E7%A0%94%E5%AD%A6%E6%B8%B8%E3%80%81%E4%BA%B2%E5%AD%90%E6%B8%B8",
-        "source": "百度"
-      },
-      {
-        "title": "KFC列车诞生了",
-        "hot": 7523915,
-        "url": "https://www.baidu.com/s?wd=KFC%E5%88%97%E8%BD%A6%E8%AF%9E%E7%94%9F%E4%BA%86",
-        "source": "百度"
-      },
-      {
-        "title": "警方通报和平饭店51万元天价小票",
-        "hot": 7427061,
-        "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%92%8C%E5%B9%B3%E9%A5%AD%E5%BA%9751%E4%B8%87%E5%85%83%E5%A4%A9%E4%BB%B7%E5%B0%8F%E7%A5%A8",
-        "source": "百度"
-      },
-      {
-        "title": "刘欢妻子不到10个月失去两个至亲",
-        "hot": 7333880,
-        "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E4%B8%8D%E5%88%B010%E4%B8%AA%E6%9C%88%E5%A4%B1%E5%8E%BB%E4%B8%A4%E4%B8%AA%E8%87%B3%E4%BA%B2",
-        "source": "百度"
-      },
-      {
-        "title": "荷兰法院驳回路虎取证比亚迪申请",
-        "hot": 7231655,
-        "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E%E8%B7%AF%E8%99%8E%E5%8F%96%E8%AF%81%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%94%B3%E8%AF%B7",
-        "source": "百度"
-      },
-      {
-        "title": "睡前有这5种表现可能是脑梗",
-        "hot": 7140226,
-        "url": "https://www.baidu.com/s?wd=%E7%9D%A1%E5%89%8D%E6%9C%89%E8%BF%995%E7%A7%8D%E8%A1%A8%E7%8E%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E8%84%91%E6%A2%97",
-        "source": "百度"
-      },
-      {
-        "title": "张萌后悔叫马天宇上节目",
-        "hot": 7048139,
-        "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E8%90%8C%E5%90%8E%E6%82%94%E5%8F%AB%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%B8%8A%E8%8A%82%E7%9B%AE",
-        "source": "百度"
-      },
-      {
-        "title": "创业板指高开低走跌3.32%",
-        "hot": 6945162,
-        "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E9%AB%98%E5%BC%80%E4%BD%8E%E8%B5%B0%E8%B7%8C3.32%25",
-        "source": "百度"
-      },
-      {
-        "title": "破译流言 不可不知的100个真相",
-        "hot": 6855165,
-        "url": "https://www.baidu.com/s?wd=%E7%A0%B4%E8%AF%91%E6%B5%81%E8%A8%80%20%E4%B8%8D%E5%8F%AF%E4%B8%8D%E7%9F%A5%E7%9A%84100%E4%B8%AA%E7%9C%9F%E7%9B%B8",
-        "source": "百度"
-      },
-      {
-        "title": "男子生吞新鲜蛇胆 脑子里长满寄生虫",
-        "hot": 6751850,
-        "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%9F%E5%90%9E%E6%96%B0%E9%B2%9C%E8%9B%87%E8%83%86%20%E8%84%91%E5%AD%90%E9%87%8C%E9%95%BF%E6%BB%A1%E5%AF%84%E7%94%9F%E8%99%AB",
-        "source": "百度"
-      },
-      {
-        "title": "刘欢墓地曝光",
-        "hot": 6655180,
-        "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%E5%A2%93%E5%9C%B0%E6%9B%9D%E5%85%89",
-        "source": "百度"
-      },
-      {
-        "title": "刘欢癌症扩散后曾放手一搏试新药",
-        "hot": 6570280,
-        "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%E7%99%8C%E7%97%87%E6%89%A9%E6%95%A3%E5%90%8E%E6%9B%BE%E6%94%BE%E6%89%8B%E4%B8%80%E6%90%8F%E8%AF%95%E6%96%B0%E8%8D%AF",
-        "source": "百度"
-      }
     ]
   },
   "github": [
     {
       "title": "huamidev/GestaltX —— An MobileGestalt editor for iOS 27.x, fe",
-      "hot": "⭐ 7071",
+      "hot": "⭐ 7086",
       "url": "https://github.com/huamidev/GestaltX",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "tangerineturtle1/NX2navi",
-      "hot": "⭐ 3650",
+      "hot": "⭐ 3656",
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "jhaizhou-ops/S2Arm —— Run your own Switch games natively on iP",
-      "hot": "⭐ 2803",
+      "hot": "⭐ 2806",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "source": "GitHub",
       "tag": "C#"
     },
     {
       "title": "JenkinWoo/sheeridVerify",
-      "hot": "⭐ 2121",
+      "hot": "⭐ 2137",
       "url": "https://github.com/JenkinWoo/sheeridVerify",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "DIYgod/pinky —— Let AI agents use your phone, with you i",
-      "hot": "⭐ 2039",
+      "hot": "⭐ 2042",
       "url": "https://github.com/DIYgod/pinky",
       "source": "GitHub",
       "tag": "Go"
     },
     {
       "title": "Kianuni/Erosion-CN —— iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简",
-      "hot": "⭐ 1762",
+      "hot": "⭐ 1765",
       "url": "https://github.com/Kianuni/Erosion-CN",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "HybridRobotics/supermimic —— Humanoid whole-body motion tracking with",
-      "hot": "⭐ 1361",
+      "hot": "⭐ 1368",
       "url": "https://github.com/HybridRobotics/supermimic",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "agentes-chat/agentes-chat —— Open-source, self-hosted Slack alternati",
-      "hot": "⭐ 1247",
+      "hot": "⭐ 1251",
       "url": "https://github.com/agentes-chat/agentes-chat",
       "source": "GitHub",
       "tag": "TypeScript"
