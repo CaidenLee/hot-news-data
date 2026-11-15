@@ -1,98 +1,6 @@
 {
-  "updatedAt": "2026-11-15T11:30:32.772Z",
+  "updatedAt": "2026-11-15T12:00:31.244Z",
   "dailyhot": {
-    "hackernews": [
-      {
-        "title": "SpaceX catches the Starship to end Flight 15",
-        "hot": 1276,
-        "url": "https://www.spacex.com/launches/starship-flight-15",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Why did some Apollo missions carry a grenade launcher?",
-        "hot": 46,
-        "url": "https://space.stackexchange.com/questions/37775",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Lovable apps expose passport details and more than 200K private messages",
-        "hot": 846,
-        "url": "https://www.crissyfield.de/research/lovable-en/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Court denies motion to dismiss DRAM price fixing case",
-        "hot": 196,
-        "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Disk encryption on NetBSD – achieving secrecy",
-        "hot": 44,
-        "url": "https://netbsd.org/~nia/disk-encrypt/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Strictly monotonic timestamps and gapless sequences in Rust",
-        "hot": 10,
-        "url": "https://tsoracle.rs/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-        "hot": 23,
-        "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-        "source": "HackerNews"
-      },
-      {
-        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-        "hot": 228,
-        "url": "https://retrocomputing.stackexchange.com/questions/17957",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Semicircle Packing",
-        "hot": 36,
-        "url": "https://rorz.io/writing/semicircle-packing",
-        "source": "HackerNews"
-      },
-      {
-        "title": "My favourite modern NES games",
-        "hot": 100,
-        "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "The Evolving Story of How Chemistry Became Biology",
-        "hot": 60,
-        "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "KDE: The documentary [video]",
-        "hot": 493,
-        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-        "source": "HackerNews"
-      },
-      {
-        "title": "A family tree of software job titles",
-        "hot": 329,
-        "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
-        "hot": 78,
-        "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Why get an expensive Pi when I have an old phone?",
-        "hot": 565,
-        "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-        "source": "HackerNews"
-      }
-    ],
     "juejin": [
       {
         "title": "黄仁勋辞去英伟达 CEO，结束 33 年掌舵生涯",
@@ -132,7 +40,7 @@
       },
       {
         "title": "面试官问你：“AI 能写 80% 的代码了，公司为什么还需要你？”",
-        "hot": 243,
+        "hot": 252,
         "url": "https://juejin.cn/post/7707191707507130377",
         "source": "掘金"
       },
@@ -185,6 +93,190 @@
         "source": "掘金"
       }
     ],
+    "hackernews": [
+      {
+        "title": "SpaceX catches the Starship to end Flight 15",
+        "hot": 1292,
+        "url": "https://www.spacex.com/launches/starship-flight-15",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Why did some Apollo missions carry a grenade launcher?",
+        "hot": 62,
+        "url": "https://space.stackexchange.com/questions/37775",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Lovable apps expose passport details and more than 200K private messages",
+        "hot": 851,
+        "url": "https://www.crissyfield.de/research/lovable-en/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Court denies motion to dismiss DRAM price fixing case",
+        "hot": 214,
+        "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Strictly monotonic timestamps and gapless sequences in Rust",
+        "hot": 13,
+        "url": "https://tsoracle.rs/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+        "hot": 28,
+        "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Disk encryption on NetBSD – achieving secrecy",
+        "hot": 48,
+        "url": "https://netbsd.org/~nia/disk-encrypt/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+        "hot": 233,
+        "url": "https://retrocomputing.stackexchange.com/questions/17957",
+        "source": "HackerNews"
+      },
+      {
+        "title": "My favourite modern NES games",
+        "hot": 107,
+        "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Semicircle Packing",
+        "hot": 37,
+        "url": "https://rorz.io/writing/semicircle-packing",
+        "source": "HackerNews"
+      },
+      {
+        "title": "The Evolving Story of How Chemistry Became Biology",
+        "hot": 60,
+        "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "KDE: The documentary [video]",
+        "hot": 499,
+        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+        "source": "HackerNews"
+      },
+      {
+        "title": "A family tree of software job titles",
+        "hot": 336,
+        "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+        "hot": 5,
+        "url": "https://www.niklasroy.com/carton-clock/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Why get an expensive Pi when I have an old phone?",
+        "hot": 566,
+        "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+        "source": "HackerNews"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "如何看待王传君谈《爱情公寓》言论争议，称当年脑子里只有「关我屁事」和「关你屁事」，现在为冲动买单？",
+        "hot": 6110000,
+        "url": "https://www.zhihu.com/question/2103430981067847000",
+        "source": "知乎"
+      },
+      {
+        "title": "GEN 总决赛不敌 BLG 止步亚军，这场比赛他们输在哪？",
+        "hot": 5350000,
+        "url": "https://www.zhihu.com/question/2105209509492822000",
+        "source": "知乎"
+      },
+      {
+        "title": "中国新能源企业在芬建厂涉人口贩运调查，出海中企该如何规避海外用工合规风险？",
+        "hot": 5260000,
+        "url": "https://www.zhihu.com/question/2105092208948933400",
+        "source": "知乎"
+      },
+      {
+        "title": "男子失业后断供房贷靠跑外卖维生，法院判决非恶意断供，涉案房系唯一住所暂不拍卖房产，如何从法律角度解读？",
+        "hot": 5180000,
+        "url": "https://www.zhihu.com/question/2104510599564636400",
+        "source": "知乎"
+      },
+      {
+        "title": "外媒曝中国男足再度收紧纹身限制，国脚需佩戴肤色护臂遮盖，对此你怎么看，国家队限制纹身外露是否合理？",
+        "hot": 3150000,
+        "url": "https://www.zhihu.com/question/2104152081246282200",
+        "source": "知乎"
+      },
+      {
+        "title": "BLG 单刷 LCK 赛区四支战队夺冠，这是不是迄今为止最具含金量的冠军？",
+        "hot": 3110000,
+        "url": "https://www.zhihu.com/question/2105210095055459800",
+        "source": "知乎"
+      },
+      {
+        "title": "Knight 获得 S16 总决赛 FMVP，成为继田野后 LPL 第二位大满贯，对此你有什么想说的？",
+        "hot": 3080000,
+        "url": "https://www.zhihu.com/question/2105214731573096700",
+        "source": "知乎"
+      },
+      {
+        "title": "Windows系统相比macOS系统，真的卡的要死，Windows明知它的致命短板，为何一直都不解决？",
+        "hot": 3010000,
+        "url": "https://www.zhihu.com/question/2103555144390653700",
+        "source": "知乎"
+      },
+      {
+        "title": "Riot 宣布《英雄联盟》即将全面升级为《英雄联盟:曙光》，你觉得此举对于这款游戏意味着什么？",
+        "hot": 2420000,
+        "url": "https://www.zhihu.com/question/2105179283391866400",
+        "source": "知乎"
+      },
+      {
+        "title": "HR 要求求职者面试时帮忙带咖啡，被拒后取消面试，平台已暂停该招聘账号权限，暴露了背后哪��问题？",
+        "hot": 2030000,
+        "url": "https://www.zhihu.com/question/2104925918871529500",
+        "source": "知乎"
+      },
+      {
+        "title": "S16 总决赛 BLG 3:1 击败 GEN，中国战队时隔 5 年再夺总冠军，如何评价这场比赛？",
+        "hot": 2020000,
+        "url": "https://www.zhihu.com/question/2105016991765509600",
+        "source": "知乎"
+      },
+      {
+        "title": "Bin 夺得全球总决赛冠军泪洒现场，如何评价他的一路历程？今天的表现他当得起世一上吗？",
+        "hot": 2010000,
+        "url": "https://www.zhihu.com/question/2105212045453018600",
+        "source": "知乎"
+      },
+      {
+        "title": "乌克兰一夜向俄罗斯发射近 1200 架无人机，创下冲突以来最大规模袭击之一，释放了什么信号？",
+        "hot": 1980000,
+        "url": "https://www.zhihu.com/question/2104984568293848600",
+        "source": "知乎"
+      },
+      {
+        "title": "小学生在回答里写「吃饭打包很丢脸」，老师打叉并扣其4分，你觉得这个回答到底该不该被扣分？",
+        "hot": 1930000,
+        "url": "https://www.zhihu.com/question/2105107042067392300",
+        "source": "知乎"
+      },
+      {
+        "title": "怎么看崔添翼在DeepSeek发布全家桶 API 后说，下一个超级 App 只属于个人的超级 App？",
+        "hot": 1740000,
+        "url": "https://www.zhihu.com/question/2104936968568190200",
+        "source": "知乎"
+      }
+    ],
     "weibo": [
       {
         "title": "砒霜口服药让白血病患存活率超97%",
@@ -193,9 +285,9 @@
         "source": "微博"
       },
       {
-        "title": "BLG夺冠赞助商赢麻了",
+        "title": "Knight说没想到年纪这么大才拿冠军",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E5%8A%A9%E5%95%86%E8%B5%A2%E9%BA%BB%E4%BA%86",
+        "url": "https://s.weibo.com/weibo?q=Knight%E8%AF%B4%E6%B2%A1%E6%83%B3%E5%88%B0%E5%B9%B4%E7%BA%AA%E8%BF%99%E4%B9%88%E5%A4%A7%E6%89%8D%E6%8B%BF%E5%86%A0%E5%86%9B",
         "source": "微博"
       },
       {
@@ -211,21 +303,33 @@
         "source": "微博"
       },
       {
+        "title": "印尼14岁小将与门将相撞后离世",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%B0%BC14%E5%B2%81%E5%B0%8F%E5%B0%86%E4%B8%8E%E9%97%A8%E5%B0%86%E7%9B%B8%E6%92%9E%E5%90%8E%E7%A6%BB%E4%B8%96",
+        "source": "微博"
+      },
+      {
+        "title": "BLG夺冠赞助商赢麻了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E5%8A%A9%E5%95%86%E8%B5%A2%E9%BA%BB%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "伪史视频正在误导青少年",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BC%AA%E5%8F%B2%E8%A7%86%E9%A2%91%E6%AD%A3%E5%9C%A8%E8%AF%AF%E5%AF%BC%E9%9D%92%E5%B0%91%E5%B9%B4",
+        "source": "微博"
+      },
+      {
+        "title": "小猴子遇见孙悟空不停上手触碰",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%B4%E5%AD%90%E9%81%87%E8%A7%81%E5%AD%99%E6%82%9F%E7%A9%BA%E4%B8%8D%E5%81%9C%E4%B8%8A%E6%89%8B%E8%A7%A6%E7%A2%B0",
+        "source": "微博"
+      },
+      {
         "title": "致命砒霜为什么能治白血病",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E8%87%B4%E5%91%BD%E7%A0%92%E9%9C%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E6%B2%BB%E7%99%BD%E8%A1%80%E7%97%85",
-        "source": "微博"
-      },
-      {
-        "title": "BLG夺冠语音",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0%E8%AF%AD%E9%9F%B3",
-        "source": "微博"
-      },
-      {
-        "title": "官方通报过安检喝白酒信息不实",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%BF%87%E5%AE%89%E6%A3%80%E5%96%9D%E7%99%BD%E9%85%92%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E",
         "source": "微博"
       },
       {
@@ -235,39 +339,15 @@
         "source": "微博"
       },
       {
-        "title": "印尼14岁小将与门将相撞后离世",
+        "title": "DK战队解散传闻",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%B0%BC14%E5%B2%81%E5%B0%8F%E5%B0%86%E4%B8%8E%E9%97%A8%E5%B0%86%E7%9B%B8%E6%92%9E%E5%90%8E%E7%A6%BB%E4%B8%96",
+        "url": "https://s.weibo.com/weibo?q=DK%E6%88%98%E9%98%9F%E8%A7%A3%E6%95%A3%E4%BC%A0%E9%97%BB",
         "source": "微博"
       },
       {
-        "title": "深圳APEC近700辆豪华车队来了",
+        "title": "青稚前女友发文",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3APEC%E8%BF%91700%E8%BE%86%E8%B1%AA%E5%8D%8E%E8%BD%A6%E9%98%9F%E6%9D%A5%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "Knight赛后感谢Faker",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=Knight%E8%B5%9B%E5%90%8E%E6%84%9F%E8%B0%A2Faker",
-        "source": "微博"
-      },
-      {
-        "title": "张家齐妈妈是���京拆迁户",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E6%98%AF%E5%8C%97%E4%BA%AC%E6%8B%86%E8%BF%81%E6%88%B7",
-        "source": "微博"
-      },
-      {
-        "title": "高迪已报警",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%BF%AA%E5%B7%B2%E6%8A%A5%E8%AD%A6",
-        "source": "微博"
-      },
-      {
-        "title": "Knight说没想到年纪这么大才拿冠军",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=Knight%E8%AF%B4%E6%B2%A1%E6%83%B3%E5%88%B0%E5%B9%B4%E7%BA%AA%E8%BF%99%E4%B9%88%E5%A4%A7%E6%89%8D%E6%8B%BF%E5%86%A0%E5%86%9B",
+        "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%8F%91%E6%96%87",
         "source": "微博"
       },
       {
@@ -275,196 +355,116 @@
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%A2%A6%E8%A2%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%9D%B4%E8%9D%B6%E5%A6%86%E7%8B%A0%E7%8B%A0%E7%A7%8D%E8%8D%89",
         "source": "微博"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "如何看待王传君谈《爱情公寓》言论争议，称当年脑子里只有「关我屁事」和「关你屁事」，现在为冲动买单？",
-        "hot": 6800000,
-        "url": "https://www.zhihu.com/question/2103430981067847000",
-        "source": "知乎"
       },
       {
-        "title": "中国新能源企业在芬建厂涉人口贩运调查，出海中企该如何规避海外用工合规风险？",
-        "hot": 5830000,
-        "url": "https://www.zhihu.com/question/2105092208948933400",
-        "source": "知乎"
+        "title": "青稚前女友",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%89%8D%E5%A5%B3%E5%8F%8B",
+        "source": "微博"
       },
       {
-        "title": "男子失业后断供房贷靠跑外卖维生，法院判决非恶意断供，涉案房系唯一住所暂不拍卖房产，如何从法律角度解读？",
-        "hot": 5580000,
-        "url": "https://www.zhihu.com/question/2104510599564636400",
-        "source": "知乎"
-      },
-      {
-        "title": "GEN 总决赛不敌 BLG 止步亚军，这场比赛他们输在哪？",
-        "hot": 4870000,
-        "url": "https://www.zhihu.com/question/2105209509492822000",
-        "source": "知乎"
-      },
-      {
-        "title": "外媒曝中国男足再度收紧纹身限制，国脚需佩戴肤色护臂遮盖，对此你怎么看，国家队限制纹身外露是否合理？",
-        "hot": 2890000,
-        "url": "https://www.zhihu.com/question/2104152081246282200",
-        "source": "知乎"
-      },
-      {
-        "title": "BLG 单刷 LCK 赛区四支战队夺冠，这是不是迄今为止最具含金量的冠军？",
-        "hot": 2780000,
-        "url": "https://www.zhihu.com/question/2105210095055459800",
-        "source": "知乎"
-      },
-      {
-        "title": "Knight 获得 S16 总决赛 FMVP，成为继田野后 LPL 第二位大满贯，对此你有什么想说的？",
-        "hot": 2670000,
-        "url": "https://www.zhihu.com/question/2105214731573096700",
-        "source": "知乎"
-      },
-      {
-        "title": "Windows系统相比macOS系统，真的卡的要死，Windows明知它的致命短板，为何一直都不解决？",
-        "hot": 2460000,
-        "url": "https://www.zhihu.com/question/2103555144390653700",
-        "source": "知乎"
-      },
-      {
-        "title": "HR 要求求职者面试时帮忙带咖啡，被拒后取消面试，平台已暂停该招聘账号权限，暴露了背后哪些问题？",
-        "hot": 2210000,
-        "url": "https://www.zhihu.com/question/2104925918871529500",
-        "source": "知乎"
-      },
-      {
-        "title": "遗传角度来看，孙子是和爷爷奶奶血缘更近，还是和外公外婆？",
-        "hot": 2160000,
-        "url": "https://www.zhihu.com/question/307479952",
-        "source": "知乎"
-      },
-      {
-        "title": "S16 总决赛 BLG 3:1 击败 GEN，中国战队时隔 5 年再夺总冠军，如何评价这场比赛？",
-        "hot": 2160000,
-        "url": "https://www.zhihu.com/question/2105016991765509600",
-        "source": "知乎"
-      },
-      {
-        "title": "Bin 夺得全球总决赛冠军泪洒现场，如何评价他的一路历程？今天的表现他当得起世一上吗？",
-        "hot": 2150000,
-        "url": "https://www.zhihu.com/question/2105212045453018600",
-        "source": "知乎"
-      },
-      {
-        "title": "乌克兰一夜向俄罗斯发射近 1200 架无人机，创下冲突以来最大规模袭击之一，释放了什么信号？",
-        "hot": 2140000,
-        "url": "https://www.zhihu.com/question/2104984568293848600",
-        "source": "知乎"
-      },
-      {
-        "title": "Riot 宣布《英雄联盟》即将全面升级为《英雄联盟:曙光》，你觉得此举对于这款游戏意味着什么？",
-        "hot": 2120000,
-        "url": "https://www.zhihu.com/question/2105179283391866400",
-        "source": "知乎"
-      },
-      {
-        "title": "小学生在回答里写「吃饭打包很丢脸」，老师打叉并扣其4分，你觉得这个回答到底该不该被扣分？",
-        "hot": 1750000,
-        "url": "https://www.zhihu.com/question/2105107042067392300",
-        "source": "知乎"
+        "title": "高迪已报警",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%BF%AA%E5%B7%B2%E6%8A%A5%E8%AD%A6",
+        "source": "微博"
       }
     ],
     "baidu": [
       {
         "title": "中国携手亚太共启发展繁荣新航程",
-        "hot": 7903995,
+        "hot": 7904882,
         "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%90%BA%E6%89%8B%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%AF%E5%8F%91%E5%B1%95%E7%B9%81%E8%8D%A3%E6%96%B0%E8%88%AA%E7%A8%8B",
         "source": "百度"
       },
       {
         "title": "央视曝光火车票洗钱犯罪",
-        "hot": 7809309,
+        "hot": 7808298,
         "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%B4%97%E9%92%B1%E7%8A%AF%E7%BD%AA",
         "source": "百度"
       },
       {
         "title": "可连休5天 多地公布雪假安排",
-        "hot": 7713823,
+        "hot": 7712192,
         "url": "https://www.baidu.com/s?wd=%E5%8F%AF%E8%BF%9E%E4%BC%915%E5%A4%A9%20%E5%A4%9A%E5%9C%B0%E5%85%AC%E5%B8%83%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "source": "百度"
       },
       {
         "title": "2分钟带你看APEC热词",
-        "hot": 7619562,
+        "hot": 7616643,
         "url": "https://www.baidu.com/s?wd=2%E5%88%86%E9%92%9F%E5%B8%A6%E4%BD%A0%E7%9C%8BAPEC%E7%83%AD%E8%AF%8D",
         "source": "百度"
       },
       {
         "title": "花几千买的电动车无法上牌 多方回应",
-        "hot": 7522181,
+        "hot": 7520270,
         "url": "https://www.baidu.com/s?wd=%E8%8A%B1%E5%87%A0%E5%8D%83%E4%B9%B0%E7%9A%84%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%97%A0%E6%B3%95%E4%B8%8A%E7%89%8C%20%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94",
         "source": "百度"
       },
       {
         "title": "暴雪、 大暴雪来了",
-        "hot": 7424914,
+        "hot": 7426679,
         "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%E3%80%81%E2%80%86%E5%A4%A7%E6%9A%B4%E9%9B%AA%E6%9D%A5%E4%BA%86",
         "source": "百度"
       },
       {
-        "title": "胡歌逗小女孩下意识自称爸爸",
-        "hot": 7329877,
-        "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E9%80%97%E5%B0%8F%E5%A5%B3%E5%AD%A9%E4%B8%8B%E6%84%8F%E8%AF%86%E8%87%AA%E7%A7%B0%E7%88%B8%E7%88%B8",
-        "source": "百度"
-      },
-      {
-        "title": "BLG夺冠 谁接住了这泼天流量",
-        "hot": 7238740,
-        "url": "https://www.baidu.com/s?wd=BLG%E5%A4%BA%E5%86%A0%20%E8%B0%81%E6%8E%A5%E4%BD%8F%E4%BA%86%E8%BF%99%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F",
-        "source": "百度"
-      },
-      {
         "title": "见识到秋假的威力了",
-        "hot": 7141165,
+        "hot": 7332458,
         "url": "https://www.baidu.com/s?wd=%E8%A7%81%E8%AF%86%E5%88%B0%E7%A7%8B%E5%81%87%E7%9A%84%E5%A8%81%E5%8A%9B%E4%BA%86",
         "source": "百度"
       },
       {
+        "title": "BLG夺冠 谁接住了这泼天流量",
+        "hot": 7233087,
+        "url": "https://www.baidu.com/s?wd=BLG%E5%A4%BA%E5%86%A0%20%E8%B0%81%E6%8E%A5%E4%BD%8F%E4%BA%86%E8%BF%99%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F",
+        "source": "百度"
+      },
+      {
+        "title": "“那老虎也刹了一下闸”",
+        "hot": 7139846,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%82%A3%E8%80%81%E8%99%8E%E4%B9%9F%E5%88%B9%E4%BA%86%E4%B8%80%E4%B8%8B%E9%97%B8%E2%80%9D",
+        "source": "百度"
+      },
+      {
         "title": "10人花1个多小时找到厉娜留言本",
-        "hot": 7047728,
+        "hot": 7045015,
         "url": "https://www.baidu.com/s?wd=10%E4%BA%BA%E8%8A%B11%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E6%89%BE%E5%88%B0%E5%8E%89%E5%A8%9C%E7%95%99%E8%A8%80%E6%9C%AC",
         "source": "百度"
       },
       {
-        "title": "“雷神”怎么开比亚迪",
-        "hot": 6949216,
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%9B%B7%E7%A5%9E%E2%80%9D%E6%80%8E%E4%B9%88%E5%BC%80%E6%AF%94%E4%BA%9A%E8%BF%AA",
+        "title": "2026王者荣耀巅峰之夜",
+        "hot": 6948832,
+        "url": "https://www.baidu.com/s?wd=2026%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C",
         "source": "百度"
       },
       {
         "title": "“烤红薯香是加了香精”系捕风捉影",
-        "hot": 6858003,
+        "hot": 6847319,
         "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%83%A4%E7%BA%A2%E8%96%AF%E9%A6%99%E6%98%AF%E5%8A%A0%E4%BA%86%E9%A6%99%E7%B2%BE%E2%80%9D%E7%B3%BB%E6%8D%95%E9%A3%8E%E6%8D%89%E5%BD%B1",
         "source": "百度"
       },
       {
-        "title": "孙海洋女儿孙悦结婚：不收彩礼不随礼",
-        "hot": 6759165,
-        "url": "https://www.baidu.com/s?wd=%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%A5%B3%E5%84%BF%E5%AD%99%E6%82%A6%E7%BB%93%E5%A9%9A%EF%BC%9A%E4%B8%8D%E6%94%B6%E5%BD%A9%E7%A4%BC%E4%B8%8D%E9%9A%8F%E7%A4%BC",
-        "source": "百度"
-      },
-      {
-        "title": "夫妻都是B型血孩子户口簿上却是AB型",
-        "hot": 6667418,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E9%83%BD%E6%98%AFB%E5%9E%8B%E8%A1%80%E5%AD%A9%E5%AD%90%E6%88%B7%E5%8F%A3%E7%B0%BF%E4%B8%8A%E5%8D%B4%E6%98%AFAB%E5%9E%8B",
-        "source": "百度"
-      },
-      {
         "title": "进价6元的药转手就卖到598元",
-        "hot": 6568853,
+        "hot": 6752761,
         "url": "https://www.baidu.com/s?wd=%E8%BF%9B%E4%BB%B76%E5%85%83%E7%9A%84%E8%8D%AF%E8%BD%AC%E6%89%8B%E5%B0%B1%E5%8D%96%E5%88%B0598%E5%85%83",
+        "source": "百度"
+      },
+      {
+        "title": "借钱给陌生人救急 十年后被其打骨折",
+        "hot": 6660571,
+        "url": "https://www.baidu.com/s?wd=%E5%80%9F%E9%92%B1%E7%BB%99%E9%99%8C%E7%94%9F%E4%BA%BA%E6%95%91%E6%80%A5%20%E5%8D%81%E5%B9%B4%E5%90%8E%E8%A2%AB%E5%85%B6%E6%89%93%E9%AA%A8%E6%8A%98",
+        "source": "百度"
+      },
+      {
+        "title": "孙海洋女儿孙悦结婚：不收彩礼不随礼",
+        "hot": 6566112,
+        "url": "https://www.baidu.com/s?wd=%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%A5%B3%E5%84%BF%E5%AD%99%E6%82%A6%E7%BB%93%E5%A9%9A%EF%BC%9A%E4%B8%8D%E6%94%B6%E5%BD%A9%E7%A4%BC%E4%B8%8D%E9%9A%8F%E7%A4%BC",
         "source": "百度"
       }
     ],
     "36kr": [
       {
         "title": "创造历史，中国BLG夺得S16冠军：一代人的青春没了遗憾",
-        "hot": 32,
+        "hot": 34,
         "url": "https://www.36kr.com/p/4070295963964548",
         "source": "36氪"
       },
@@ -476,7 +476,7 @@
       },
       {
         "title": "OpenAI机器人团队突然解散，GPT-6 Astra把行业一锅端了",
-        "hot": 5,
+        "hot": 9,
         "url": "https://www.36kr.com/p/4069381314303105",
         "source": "36氪"
       },
@@ -487,27 +487,33 @@
         "source": "36氪"
       },
       {
+        "title": "片仔癀卖不动了",
+        "hot": 9,
+        "url": "https://www.36kr.com/p/4070811216958338",
+        "source": "36氪"
+      },
+      {
         "title": "大动脉辞职了怎么办",
         "hot": 10,
         "url": "https://www.36kr.com/p/4069227046360201",
         "source": "36氪"
       },
       {
-        "title": "造车���势力，进入整合倒计时",
+        "title": "造车新势力，进入整合倒计时",
         "hot": "",
         "url": "https://www.36kr.com/p/4070301093581696",
         "source": "36氪"
       },
       {
         "title": "卡尔・荣格警示：损害心理健康的7件事",
-        "hot": 37,
+        "hot": 43,
         "url": "https://www.36kr.com/p/4047067443673350",
         "source": "36氪"
       },
       {
-        "title": "片仔癀卖不动了",
-        "hot": 6,
-        "url": "https://www.36kr.com/p/4070811216958338",
+        "title": "买了跑步机却还得付钱看视频？国外老哥一怒之下决定用Claude破解",
+        "hot": 5,
+        "url": "https://www.36kr.com/p/4069713201386369",
         "source": "36氪"
       },
       {
@@ -523,14 +529,8 @@
         "source": "36氪"
       },
       {
-        "title": "买了跑步机却还得付钱看视频？国外老哥一怒之下决定用Claude破解",
-        "hot": 5,
-        "url": "https://www.36kr.com/p/4069713201386369",
-        "source": "36氪"
-      },
-      {
         "title": "36氪首发丨具身智能建筑机器人企业完成超亿级融资，连续三年订单复合增长率超100%",
-        "hot": 11,
+        "hot": 13,
         "url": "https://www.36kr.com/p/4070571639067782",
         "source": "36氪"
       },
@@ -548,7 +548,7 @@
       },
       {
         "title": "一个05后的数码编年史：我是如何被移动互联网「抚养长大」又极力逃离",
-        "hot": 3,
+        "hot": 5,
         "url": "https://www.36kr.com/p/4070499198292871",
         "source": "36氪"
       }
@@ -557,14 +557,14 @@
   "github": [
     {
       "title": "huamidev/GestaltX —— An MobileGestalt editor for iOS 27.x, fe",
-      "hot": "⭐ 7664",
+      "hot": "⭐ 7667",
       "url": "https://github.com/huamidev/GestaltX",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "jhaizhou-ops/S2Arm —— Run your own Switch games natively on iP",
-      "hot": "⭐ 3088",
+      "hot": "⭐ 3099",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "source": "GitHub",
       "tag": "C#"
@@ -578,35 +578,35 @@
     },
     {
       "title": "deepseek-ai/chat-demo —— Chat Demo",
-      "hot": "⭐ 2003",
+      "hot": "⭐ 2037",
       "url": "https://github.com/deepseek-ai/chat-demo",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "apex-compute/ANR —— Apex Neural Rendering (ANR) by Apex Comp",
-      "hot": "⭐ 1928",
+      "hot": "⭐ 1931",
       "url": "https://github.com/apex-compute/ANR",
       "source": "GitHub",
       "tag": "C++"
     },
     {
       "title": "FrigadeHQ/yogurt —— Private AI meeting notes that stay on yo",
-      "hot": "⭐ 1555",
+      "hot": "⭐ 1559",
       "url": "https://github.com/FrigadeHQ/yogurt",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "HybridRobotics/supermimic —— Humanoid whole-body motion tracking with",
-      "hot": "⭐ 1525",
+      "hot": "⭐ 1526",
       "url": "https://github.com/HybridRobotics/supermimic",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "agentes-chat/agentes-chat —— Open-source, self-hosted Slack alternati",
-      "hot": "⭐ 1452",
+      "hot": "⭐ 1456",
       "url": "https://github.com/agentes-chat/agentes-chat",
       "source": "GitHub",
       "tag": "TypeScript"
@@ -620,42 +620,42 @@
     },
     {
       "title": "adriadam10/mkw-recomp —— Static recompilation of Mario Kart World",
-      "hot": "⭐ 1054",
+      "hot": "⭐ 1061",
       "url": "https://github.com/adriadam10/mkw-recomp",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "DevedevT/FFmpeg-GUI-Editor-Windows —— Lightweight portable FFmpeg GUI & lossle",
-      "hot": "⭐ 1053",
+      "hot": "⭐ 1054",
       "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
       "source": "GitHub",
       "tag": "Visual Basic .NET"
     },
     {
       "title": "kolbicz/WQFiles —— File browser, app data manager and cache",
-      "hot": "⭐ 883",
+      "hot": "⭐ 886",
       "url": "https://github.com/kolbicz/WQFiles",
       "source": "GitHub",
       "tag": "Objective-C"
     },
     {
       "title": "alexeyw/lot-map —— A live map beside the chat that shows wh",
-      "hot": "⭐ 850",
+      "hot": "⭐ 852",
       "url": "https://github.com/alexeyw/lot-map",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "serveroshq/panel —— The open source ServerOS panel: one plac",
-      "hot": "⭐ 824",
+      "hot": "⭐ 827",
       "url": "https://github.com/serveroshq/panel",
       "source": "GitHub",
       "tag": "PHP"
     },
     {
       "title": "Eynnzerr/TelemetryCleaner —— 基于 Shizuku 免 Root 清除国产安卓 SystemHelper、Re",
-      "hot": "⭐ 802",
+      "hot": "⭐ 816",
       "url": "https://github.com/Eynnzerr/TelemetryCleaner",
       "source": "GitHub",
       "tag": "Kotlin"
