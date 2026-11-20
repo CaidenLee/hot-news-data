@@ -1,96 +1,280 @@
 {
-  "updatedAt": "2026-11-20T03:00:48.277Z",
+  "updatedAt": "2026-11-20T03:30:49.975Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "Anthropic’s Nasdaq debut",
-        "hot": 954,
+        "hot": 978,
         "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
         "source": "HackerNews"
       },
       {
         "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-        "hot": 177,
+        "hot": 206,
         "url": "https://git-aarvin.github.io/mei/",
         "source": "HackerNews"
       },
       {
         "title": "Pancreatic cancer halted by virus injection in three patients",
-        "hot": 616,
+        "hot": 638,
         "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
         "source": "HackerNews"
       },
       {
         "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-        "hot": 29,
+        "hot": 42,
         "url": "https://github.com/openssl/openssl/pull/33652",
         "source": "HackerNews"
       },
       {
         "title": "Claude solves two open problems in the physics of black holes",
-        "hot": 410,
+        "hot": 418,
         "url": "https://www.anthropic.com/research/claude-black-hole-physics",
         "source": "HackerNews"
       },
       {
-        "title": "How to CAD Almost Anything",
-        "hot": 152,
-        "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-        "source": "HackerNews"
-      },
-      {
         "title": "Vint Cerf on why TCP/IP was never patented",
-        "hot": 19,
+        "hot": 29,
         "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
         "source": "HackerNews"
       },
       {
+        "title": "How to CAD Almost Anything",
+        "hot": 160,
+        "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+        "source": "HackerNews"
+      },
+      {
         "title": "Garage Door Spam",
-        "hot": 772,
+        "hot": 780,
         "url": "https://blog.harrison.page/garage-door-spam/",
         "source": "HackerNews"
       },
       {
-        "title": "Synology Security Advisory",
-        "hot": 111,
-        "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-        "source": "HackerNews"
-      },
-      {
-        "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-        "hot": 220,
-        "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-        "source": "HackerNews"
-      },
-      {
-        "title": "RegExr: Temporarily Offline",
-        "hot": 56,
-        "url": "https://regexr.com/",
-        "source": "HackerNews"
-      },
-      {
         "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
-        "hot": 10,
+        "hot": 18,
         "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
         "source": "HackerNews"
       },
       {
+        "title": "RegExr: Temporarily Offline",
+        "hot": 59,
+        "url": "https://regexr.com/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+        "hot": 222,
+        "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Synology Security Advisory",
+        "hot": 116,
+        "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+        "hot": 91,
+        "url": "https://github.com/onlook-dev/onlook/",
+        "source": "HackerNews"
+      },
+      {
         "title": "Someone reported java4shell bug in September 2026",
-        "hot": 383,
+        "hot": 387,
         "url": "https://github.com/openjdk/jdk/pull/32781",
         "source": "HackerNews"
       },
       {
         "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-        "hot": 82,
+        "hot": 86,
         "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
         "source": "HackerNews"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "中俄美元首发表和平宣言，三国元首重申核战争打不赢也打不得，哪些信息值得重点关注？",
+        "hot": 22350000,
+        "url": "https://www.zhihu.com/question/2106822157141534200",
+        "source": "知乎"
       },
       {
-        "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
-        "hot": 14,
-        "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
-        "source": "HackerNews"
+        "title": "中俄美和平宣言为何特别强调国际刑事法院不得滥用管辖���？具体针对的是什么？这一表述有何现实背景？",
+        "hot": 11350000,
+        "url": "https://www.zhihu.com/question/2106848715306526000",
+        "source": "知乎"
+      },
+      {
+        "title": "腾讯披露WorkBuddy近七天年化收入超5亿美元，有用户月付4万元买服务，数据背后有多大「含金量」？",
+        "hot": 3160000,
+        "url": "https://www.zhihu.com/question/2106533852478977800",
+        "source": "知乎"
+      },
+      {
+        "title": "美国总统特朗普称美国不支持「台独」，这一发言释放了哪些信号？",
+        "hot": 1810000,
+        "url": "https://www.zhihu.com/question/2106816145466417200",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待张朝阳回应搜狐「躺平」：没资源做大模型，但每天凌晨4点起床，讲物理课也是工作？",
+        "hot": 1620000,
+        "url": "https://www.zhihu.com/question/2106691940146332000",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待郎平表示，不认同「竞技体育，菜是原罪」这句话，并称「努力一辈子没赢冠军，那也不能算失败者」？",
+        "hot": 1400000,
+        "url": "https://www.zhihu.com/question/2106820088896512800",
+        "source": "知乎"
+      },
+      {
+        "title": "为啥中文的一二三笔画简单明了，零的笔画那么多啊?",
+        "hot": 1120000,
+        "url": "https://www.zhihu.com/question/606813087",
+        "source": "知乎"
+      },
+      {
+        "title": "腾讯姚顺雨主导AI架构精简，而全公司11万人面临大调整，这类扁平化变革落地难点在哪？",
+        "hot": 980000,
+        "url": "https://www.zhihu.com/question/2104663850607966000",
+        "source": "知乎"
+      },
+      {
+        "title": "胖东来今年累计销售额超过 258 亿元，同比增长 26.34%，如何看待这份业绩表现？",
+        "hot": 910000,
+        "url": "https://www.zhihu.com/question/2105706046706693000",
+        "source": "知乎"
+      },
+      {
+        "title": "地暖是24小时开着省钱，还是分时段开更省钱？",
+        "hot": 880000,
+        "url": "https://www.zhihu.com/question/437934361",
+        "source": "知乎"
+      },
+      {
+        "title": "周杰伦武汉演唱会580元大屏观演区引热议，此前有人认为是性价比之王，也有人不接受看不到真人，你怎么看？",
+        "hot": 880000,
+        "url": "https://www.zhihu.com/question/2105728003292637000",
+        "source": "知乎"
+      },
+      {
+        "title": "爱奇艺股价已连续 27 个交易日低于 1 美元，最快将于11月23日触发退市警告，它真的会退市吗？",
+        "hot": 870000,
+        "url": "https://www.zhihu.com/question/2106740458650957600",
+        "source": "知乎"
+      },
+      {
+        "title": "感觉身边只剩酒肉朋友，聊的不是孩子上学就是社会新闻，再往深就没话了，有时候不明白交情怎么就停在这儿了？",
+        "hot": 870000,
+        "url": "https://www.zhihu.com/question/2106571582248155000",
+        "source": "知乎"
+      },
+      {
+        "title": "史上最大IPO开始交易，Anthropic首日收涨17%，市值为1.271万亿美元，怎样评价这一表现？",
+        "hot": 870000,
+        "url": "https://www.zhihu.com/question/2106663248388960500",
+        "source": "知乎"
+      },
+      {
+        "title": "前世界亚军中单 Corn 回忆 Uzi 卢锡安打野事件「韩国打野未沟通就秒选」，真相到底是怎样的？",
+        "hot": 870000,
+        "url": "https://www.zhihu.com/question/2106752005976716300",
+        "source": "知乎"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "大国外交的“深圳时刻”",
+        "hot": 7904197,
+        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%9A%84%E2%80%9C%E6%B7%B1%E5%9C%B3%E6%97%B6%E5%88%BB%E2%80%9D",
+        "source": "百度"
+      },
+      {
+        "title": "中俄美元首会晤",
+        "hot": 7808162,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+        "source": "百度"
+      },
+      {
+        "title": "彭丽媛邀请“夫人团”打卡深圳",
+        "hot": 7713509,
+        "url": "https://www.baidu.com/s?wd=%E5%BD%AD%E4%B8%BD%E5%AA%9B%E9%82%80%E8%AF%B7%E2%80%9C%E5%A4%AB%E4%BA%BA%E5%9B%A2%E2%80%9D%E6%89%93%E5%8D%A1%E6%B7%B1%E5%9C%B3",
+        "source": "百度"
+      },
+      {
+        "title": "亚太经合组织互联互通蓝图",
+        "hot": 7617647,
+        "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E4%BA%92%E8%81%94%E4%BA%92%E9%80%9A%E8%93%9D%E5%9B%BE",
+        "source": "百度"
+      },
+      {
+        "title": "特朗普给中俄美元首会晤打12分",
+        "hot": 7520911,
+        "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%89%9312%E5%88%86",
+        "source": "百度"
+      },
+      {
+        "title": "泰国总理和夫人夜游深圳吃潮汕砂锅粥",
+        "hot": 7428755,
+        "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%92%8C%E5%A4%AB%E4%BA%BA%E5%A4%9C%E6%B8%B8%E6%B7%B1%E5%9C%B3%E5%90%83%E6%BD%AE%E6%B1%95%E7%A0%82%E9%94%85%E7%B2%A5",
+        "source": "百度"
+      },
+      {
+        "title": "曝张楠与谢欣将从字节跳动离职",
+        "hot": 7332256,
+        "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E6%A5%A0%E4%B8%8E%E8%B0%A2%E6%AC%A3%E5%B0%86%E4%BB%8E%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%A6%BB%E8%81%8C",
+        "source": "百度"
+      },
+      {
+        "title": "起床后这4件事易引发心梗",
+        "hot": 7234153,
+        "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%8A%E5%90%8E%E8%BF%994%E4%BB%B6%E4%BA%8B%E6%98%93%E5%BC%95%E5%8F%91%E5%BF%83%E6%A2%97",
+        "source": "百度"
+      },
+      {
+        "title": "特朗普返美途中发文：一次伟大的访问",
+        "hot": 7138710,
+        "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%94%E7%BE%8E%E9%80%94%E4%B8%AD%E5%8F%91%E6%96%87%EF%BC%9A%E4%B8%80%E6%AC%A1%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%AE%BF%E9%97%AE",
+        "source": "百度"
+      },
+      {
+        "title": "当一天深圳人",
+        "hot": 7045040,
+        "url": "https://www.baidu.com/s?wd=%E5%BD%93%E4%B8%80%E5%A4%A9%E6%B7%B1%E5%9C%B3%E4%BA%BA",
+        "source": "百度"
+      },
+      {
+        "title": "《GTA6》主角还没用上全面屏手机",
+        "hot": 6945312,
+        "url": "https://www.baidu.com/s?wd=%E3%80%8AGTA6%E3%80%8B%E4%B8%BB%E8%A7%92%E8%BF%98%E6%B2%A1%E7%94%A8%E4%B8%8A%E5%85%A8%E9%9D%A2%E5%B1%8F%E6%89%8B%E6%9C%BA",
+        "source": "百度"
+      },
+      {
+        "title": "解锁食物背后的健康真相",
+        "hot": 6853947,
+        "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E9%94%81%E9%A3%9F%E7%89%A9%E8%83%8C%E5%90%8E%E7%9A%84%E5%81%A5%E5%BA%B7%E7%9C%9F%E7%9B%B8",
+        "source": "百度"
+      },
+      {
+        "title": "APEC在台湾刷屏了",
+        "hot": 6755794,
+        "url": "https://www.baidu.com/s?wd=APEC%E5%9C%A8%E5%8F%B0%E6%B9%BE%E5%88%B7%E5%B1%8F%E4%BA%86",
+        "source": "百度"
+      },
+      {
+        "title": "西湖边64平米两居室13.9万元起拍",
+        "hot": 6656427,
+        "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E8%BE%B964%E5%B9%B3%E7%B1%B3%E4%B8%A4%E5%B1%85%E5%AE%A413.9%E4%B8%87%E5%85%83%E8%B5%B7%E6%8B%8D",
+        "source": "百度"
+      },
+      {
+        "title": "中国支持成立新联盟",
+        "hot": 6563826,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%94%AF%E6%8C%81%E6%88%90%E7%AB%8B%E6%96%B0%E8%81%94%E7%9B%9F",
+        "source": "百度"
       }
     ],
     "juejin": [
@@ -119,7 +303,7 @@
         "source": "掘金"
       },
       {
-        "title": "黄仁勋想回英伟达却被拒：创始人 CEO 辞��后为什么回不来，董事会继任机制全拆解",
+        "title": "黄仁勋想回英伟达却被拒：创始人 CEO 辞职后为什么回不来，董事会继任机制全拆解",
         "hot": 468,
         "url": "https://juejin.cn/post/7709080191914672171",
         "source": "掘金"
@@ -205,6 +389,12 @@
         "source": "微博"
       },
       {
+        "title": "享界V8及星芒品牌发布会",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BA%AB%E7%95%8CV8%E5%8F%8A%E6%98%9F%E8%8A%92%E5%93%81%E7%89%8C%E5%8F%91%E5%B8%83%E4%BC%9A",
+        "source": "微博"
+      },
+      {
         "title": "杨瀚森对阵雄鹿首节登场",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%AF%B9%E9%98%B5%E9%9B%84%E9%B9%BF%E9%A6%96%E8%8A%82%E7%99%BB%E5%9C%BA",
@@ -217,21 +407,21 @@
         "source": "微博"
       },
       {
+        "title": "文吉儿又让白小纯顺她去医院",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF%E5%8F%88%E8%AE%A9%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%A1%BA%E5%A5%B9%E5%8E%BB%E5%8C%BB%E9%99%A2",
+        "source": "微博"
+      },
+      {
         "title": "后会友期观察室很严重的问题",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E8%A7%82%E5%AF%9F%E5%AE%A4%E5%BE%88%E4%B8%A5%E9%87%8D%E7%9A%84%E9%97%AE%E9%A2%98",
         "source": "微博"
       },
       {
-        "title": "许飞真是巧思上长了个人",
+        "title": "小米18",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E7%9C%9F%E6%98%AF%E5%B7%A7%E6%80%9D%E4%B8%8A%E9%95%BF%E4%BA%86%E4%B8%AA%E4%BA%BA",
-        "source": "微博"
-      },
-      {
-        "title": "中俄美元首会晤富有成果",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%AF%8C%E6%9C%89%E6%88%90%E6%9E%9C",
+        "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318",
         "source": "微博"
       },
       {
@@ -241,15 +431,9 @@
         "source": "微博"
       },
       {
-        "title": "两京十五日 轻喜剧",
+        "title": "许飞真是巧思上长了个人",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%20%E8%BD%BB%E5%96%9C%E5%89%A7",
-        "source": "微博"
-      },
-      {
-        "title": "黄金",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91",
+        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E7%9C%9F%E6%98%AF%E5%B7%A7%E6%80%9D%E4%B8%8A%E9%95%BF%E4%BA%86%E4%B8%AA%E4%BA%BA",
         "source": "微博"
       },
       {
@@ -259,206 +443,22 @@
         "source": "微博"
       },
       {
-        "title": "张泉灵就像有���开团一秒跟了一样",
+        "title": "金价跌到7字头囤金人心态崩了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%88%B07%E5%AD%97%E5%A4%B4%E5%9B%A4%E9%87%91%E4%BA%BA%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "美股再度大跌",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%86%8D%E5%BA%A6%E5%A4%A7%E8%B7%8C",
+        "source": "微博"
+      },
+      {
+        "title": "张泉灵就像有人开团一秒跟了一样",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%B3%89%E7%81%B5%E5%B0%B1%E5%83%8F%E6%9C%89%E4%BA%BA%E5%BC%80%E5%9B%A2%E4%B8%80%E7%A7%92%E8%B7%9F%E4%BA%86%E4%B8%80%E6%A0%B7",
         "source": "微博"
-      },
-      {
-        "title": "李勒优大号自己弄回来了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%8B%92%E4%BC%98%E5%A4%A7%E5%8F%B7%E8%87%AA%E5%B7%B1%E5%BC%84%E5%9B%9E%E6%9D%A5%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "Jennie现在走的路线有点太夸张",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=Jennie%E7%8E%B0%E5%9C%A8%E8%B5%B0%E7%9A%84%E8%B7%AF%E7%BA%BF%E6%9C%89%E7%82%B9%E5%A4%AA%E5%A4%B8%E5%BC%A0",
-        "source": "微博"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "中俄美元首发表和平宣言，三国元首重申核战争打不赢也打不得，哪些信息值得重点关注？",
-        "hot": 21830000,
-        "url": "https://www.zhihu.com/question/2106822157141534200",
-        "source": "知乎"
-      },
-      {
-        "title": "中俄美和平宣言为何特别强调国际刑事法院不得滥用管辖权？具体针对的是什么？这一表述有何现实背景？",
-        "hot": 10920000,
-        "url": "https://www.zhihu.com/question/2106848715306526000",
-        "source": "知乎"
-      },
-      {
-        "title": "腾讯披露WorkBuddy近七天年化收入超5亿美元，有用户月付4万元买服务，数据背后有多大「含金量」？",
-        "hot": 3070000,
-        "url": "https://www.zhihu.com/question/2106533852478977800",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待郎平表示，不认同「竞技体育，菜是原罪」这句话，并称「努力一辈子没赢冠军，那也不能算失败者」？",
-        "hot": 2120000,
-        "url": "https://www.zhihu.com/question/2106820088896512800",
-        "source": "知乎"
-      },
-      {
-        "title": "美国总统特朗普称美国不支持「台独」，这一发言释放了哪些信号？",
-        "hot": 1790000,
-        "url": "https://www.zhihu.com/question/2106816145466417200",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待张朝阳回应搜狐「躺平」：没资源做大模型，但每天凌晨4点起床，讲物理课也是工作？",
-        "hot": 1340000,
-        "url": "https://www.zhihu.com/question/2106691940146332000",
-        "source": "知乎"
-      },
-      {
-        "title": "糖尿病病人控糖，是饮食重要还是运动重要？",
-        "hot": 1140000,
-        "url": "https://www.zhihu.com/question/2077281256488936000",
-        "source": "知乎"
-      },
-      {
-        "title": "腾讯姚顺雨主导AI架构精简，而全公司11万人面临大调整，这类扁平化变革落地难点在哪？",
-        "hot": 1080000,
-        "url": "https://www.zhihu.com/question/2104663850607966000",
-        "source": "知乎"
-      },
-      {
-        "title": "中俄美元首会晤，哪些信息值得关注？",
-        "hot": 1030000,
-        "url": "https://www.zhihu.com/question/2106743646087280000",
-        "source": "知乎"
-      },
-      {
-        "title": "地暖是24小时开着省钱，还是分时段开更省钱？",
-        "hot": 980000,
-        "url": "https://www.zhihu.com/question/437934361",
-        "source": "知乎"
-      },
-      {
-        "title": "周杰伦武汉演唱会580元大屏观演区引热议，此前有人认为是性价比之王，也有人不接受看不到真人，你怎么看？",
-        "hot": 980000,
-        "url": "https://www.zhihu.com/question/2105728003292637000",
-        "source": "知乎"
-      },
-      {
-        "title": "爱奇艺股价已连续 27 个交易日低于 1 美元，最快将于11月23日触发退市警告，它真的会退市吗？",
-        "hot": 970000,
-        "url": "https://www.zhihu.com/question/2106740458650957600",
-        "source": "知乎"
-      },
-      {
-        "title": "感觉身边只剩酒肉朋友，聊的不是孩子上学就是社会新闻，再往深就没话了，有时候不明白交情怎么就停在这儿了？",
-        "hot": 970000,
-        "url": "https://www.zhihu.com/question/2106571582248155000",
-        "source": "知乎"
-      },
-      {
-        "title": "史上最大IPO开始交易，Anthropic首日收涨17%，市值为1.271万亿美元，怎样评价这一表现？",
-        "hot": 970000,
-        "url": "https://www.zhihu.com/question/2106663248388960500",
-        "source": "知乎"
-      },
-      {
-        "title": "前世界亚军中单 Corn 回忆 Uzi 卢锡安打野事件「韩国打野未沟通就秒选」，真相到底是怎样的？",
-        "hot": 960000,
-        "url": "https://www.zhihu.com/question/2106752005976716300",
-        "source": "知乎"
-      }
-    ],
-    "baidu": [
-      {
-        "title": "大国外交的“深圳时刻”",
-        "hot": 7904662,
-        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%9A%84%E2%80%9C%E6%B7%B1%E5%9C%B3%E6%97%B6%E5%88%BB%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "中俄美元首会晤",
-        "hot": 7808081,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-        "source": "百度"
-      },
-      {
-        "title": "彭丽媛邀请“夫人团”打卡深圳",
-        "hot": 7713228,
-        "url": "https://www.baidu.com/s?wd=%E5%BD%AD%E4%B8%BD%E5%AA%9B%E9%82%80%E8%AF%B7%E2%80%9C%E5%A4%AB%E4%BA%BA%E5%9B%A2%E2%80%9D%E6%89%93%E5%8D%A1%E6%B7%B1%E5%9C%B3",
-        "source": "百度"
-      },
-      {
-        "title": "亚太经合组织互联互通蓝图",
-        "hot": 7616672,
-        "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E4%BA%92%E8%81%94%E4%BA%92%E9%80%9A%E8%93%9D%E5%9B%BE",
-        "source": "百度"
-      },
-      {
-        "title": "特朗普给中俄美元首会晤打12分",
-        "hot": 7520507,
-        "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%89%9312%E5%88%86",
-        "source": "百度"
-      },
-      {
-        "title": "泰国总理和夫人夜游深圳吃潮汕砂锅粥",
-        "hot": 7427557,
-        "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%92%8C%E5%A4%AB%E4%BA%BA%E5%A4%9C%E6%B8%B8%E6%B7%B1%E5%9C%B3%E5%90%83%E6%BD%AE%E6%B1%95%E7%A0%82%E9%94%85%E7%B2%A5",
-        "source": "百度"
-      },
-      {
-        "title": "起床后这4件事易引发心梗",
-        "hot": 7332212,
-        "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%8A%E5%90%8E%E8%BF%994%E4%BB%B6%E4%BA%8B%E6%98%93%E5%BC%95%E5%8F%91%E5%BF%83%E6%A2%97",
-        "source": "百度"
-      },
-      {
-        "title": "中国支持成立新联盟",
-        "hot": 7235137,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%94%AF%E6%8C%81%E6%88%90%E7%AB%8B%E6%96%B0%E8%81%94%E7%9B%9F",
-        "source": "百度"
-      },
-      {
-        "title": "曝张楠与谢欣将从字节跳动离职",
-        "hot": 7140253,
-        "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E6%A5%A0%E4%B8%8E%E8%B0%A2%E6%AC%A3%E5%B0%86%E4%BB%8E%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%A6%BB%E8%81%8C",
-        "source": "百度"
-      },
-      {
-        "title": "当一天深圳人",
-        "hot": 7040705,
-        "url": "https://www.baidu.com/s?wd=%E5%BD%93%E4%B8%80%E5%A4%A9%E6%B7%B1%E5%9C%B3%E4%BA%BA",
-        "source": "百度"
-      },
-      {
-        "title": "杨瀚森对阵雄鹿首节登场",
-        "hot": 6951431,
-        "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%AF%B9%E9%98%B5%E9%9B%84%E9%B9%BF%E9%A6%96%E8%8A%82%E7%99%BB%E5%9C%BA",
-        "source": "百度"
-      },
-      {
-        "title": "解锁食物背后的健康真相",
-        "hot": 6853291,
-        "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E9%94%81%E9%A3%9F%E7%89%A9%E8%83%8C%E5%90%8E%E7%9A%84%E5%81%A5%E5%BA%B7%E7%9C%9F%E7%9B%B8",
-        "source": "百度"
-      },
-      {
-        "title": "马斯克从深圳飞到上海",
-        "hot": 6754937,
-        "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%BB%8E%E6%B7%B1%E5%9C%B3%E9%A3%9E%E5%88%B0%E4%B8%8A%E6%B5%B7",
-        "source": "百度"
-      },
-      {
-        "title": "西湖边64平米两居室13.9万元起拍",
-        "hot": 6662027,
-        "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E8%BE%B964%E5%B9%B3%E7%B1%B3%E4%B8%A4%E5%B1%85%E5%AE%A413.9%E4%B8%87%E5%85%83%E8%B5%B7%E6%8B%8D",
-        "source": "百度"
-      },
-      {
-        "title": "特朗普返美途中发文：一次伟大的访问",
-        "hot": 6562333,
-        "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%94%E7%BE%8E%E9%80%94%E4%B8%AD%E5%8F%91%E6%96%87%EF%BC%9A%E4%B8%80%E6%AC%A1%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%AE%BF%E9%97%AE",
-        "source": "百度"
       }
     ],
     "36kr": [
@@ -466,12 +466,6 @@
         "title": "2亿人的红果：最后的流量神话｜深氪",
         "hot": 75,
         "url": "https://www.36kr.com/p/4076026869633922",
-        "source": "36氪"
-      },
-      {
-        "title": "Kimi工程师唐飞虎亮相云桥大会：穿女装只是我的日常",
-        "hot": 5,
-        "url": "https://www.36kr.com/p/4076090303419529",
         "source": "36氪"
       },
       {
@@ -512,7 +506,7 @@
       },
       {
         "title": "谁在打造OpenAI首款AI硬件？苹果班底设计研发，果链负责制造",
-        "hot": 10,
+        "hot": 12,
         "url": "https://www.36kr.com/p/4076762242602886",
         "source": "36氪"
       },
@@ -535,21 +529,27 @@
         "source": "36氪"
       },
       {
+        "title": "请不要过临时的生活",
+        "hot": 17,
+        "url": "https://www.36kr.com/p/4076721689580674",
+        "source": "36氪"
+      },
+      {
+        "title": "日本垄断20年的“国民神车”，彻底败退中国",
+        "hot": 2,
+        "url": "https://www.36kr.com/p/4077363856397188",
+        "source": "36氪"
+      },
+      {
+        "title": "刚刚，DeepSeek张博创业曝光：开源个人Agent",
+        "hot": 10,
+        "url": "https://www.36kr.com/p/4077377119245191",
+        "source": "36氪"
+      },
+      {
         "title": "微软、苹果先后宕机，更多「大停摆」正在朝我们走来",
         "hot": 2,
         "url": "https://www.36kr.com/p/4076161233720450",
-        "source": "36氪"
-      },
-      {
-        "title": "世界模型，猛攻一生爱出片的中国人",
-        "hot": "",
-        "url": "https://www.36kr.com/p/4076130906919814",
-        "source": "36氪"
-      },
-      {
-        "title": "为什么没人抢茅台了？",
-        "hot": 3,
-        "url": "https://www.36kr.com/p/4075324404749445",
         "source": "36氪"
       }
     ]
@@ -557,28 +557,28 @@
   "github": [
     {
       "title": "erkamyaman/rust-anything —— Rewrite your whole app in Rust, one piec",
-      "hot": "⭐ 5321",
+      "hot": "⭐ 5350",
       "url": "https://github.com/erkamyaman/rust-anything",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "krisgfx9/Wireless-Device-Battery-Monitor —— Show the battery level of wireless mice,",
-      "hot": "⭐ 4699",
+      "hot": "⭐ 4712",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
       "source": "GitHub",
       "tag": "C++"
     },
     {
       "title": "gylive/google-ultra",
-      "hot": "⭐ 2461",
+      "hot": "⭐ 2464",
       "url": "https://github.com/gylive/google-ultra",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "Hut-hzf/ung220z-tool —— ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中",
-      "hot": "⭐ 1779",
+      "hot": "⭐ 1787",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
       "source": "GitHub",
       "tag": "Python"
@@ -592,66 +592,66 @@
     },
     {
       "title": "CzzzzzzJ/mdldm-maitian —— 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube",
-      "hot": "⭐ 1620",
+      "hot": "⭐ 1624",
       "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "haziqahmedqasmi/PeakCut —— AI clipping for long videos and live str",
-      "hot": "⭐ 1351",
+      "hot": "⭐ 1355",
       "url": "https://github.com/haziqahmedqasmi/PeakCut",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "sybil-solutions/inference-optimisation-skill —— Agent skill for hill-climbing local LLM ",
-      "hot": "⭐ 1268",
+      "hot": "⭐ 1270",
       "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "joshpuckett/allo —— Allo is your friendly neighborhood typef",
-      "hot": "⭐ 1158",
+      "hot": "⭐ 1160",
       "url": "https://github.com/joshpuckett/allo",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "zephyr4123/snug —— 让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强",
-      "hot": "⭐ 1100",
+      "hot": "⭐ 1102",
       "url": "https://github.com/zephyr4123/snug",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "sourmitocand1987/VividFrame-GPU —— Any source. One real-time GPU enhancemen",
-      "hot": "⭐ 978",
+      "hot": "⭐ 1007",
       "url": "https://github.com/sourmitocand1987/VividFrame-GPU",
       "source": "GitHub",
       "tag": ""
     },
     {
+      "title": "bothaggsigym1988/frameglide —— From a 30 fps console stream to 60–120 f",
+      "hot": "⭐ 954",
+      "url": "https://github.com/bothaggsigym1988/frameglide",
+      "source": "GitHub",
+      "tag": ""
+    },
+    {
       "title": "chuanqisun/spaceship —— Steer your ideas in realtime",
-      "hot": "⭐ 950",
+      "hot": "⭐ 951",
       "url": "https://github.com/chuanqisun/spaceship",
       "source": "GitHub",
       "tag": "HTML"
     },
     {
       "title": "Bodila51/gtavi-claudecode —— Claude Code plugin that turns GTA 6 stre",
-      "hot": "⭐ 936",
+      "hot": "⭐ 945",
       "url": "https://github.com/Bodila51/gtavi-claudecode",
       "source": "GitHub",
       "tag": "Python"
-    },
-    {
-      "title": "bothaggsigym1988/frameglide —— From a 30 fps console stream to 60–120 f",
-      "hot": "⭐ 926",
-      "url": "https://github.com/bothaggsigym1988/frameglide",
-      "source": "GitHub",
-      "tag": ""
     },
     {
       "title": "opencoredev/islandcn —— The open-source Dynamic Island for React",
