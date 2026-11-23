@@ -1,98 +1,6 @@
 {
-  "updatedAt": "2026-11-23T20:00:56.406Z",
+  "updatedAt": "2026-11-23T20:30:52.827Z",
   "dailyhot": {
-    "hackernews": [
-      {
-        "title": "Nvidia Reinstates Jensen Huang as CEO",
-        "hot": 1369,
-        "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-        "source": "HackerNews"
-      },
-      {
-        "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
-        "hot": 210,
-        "url": "https://arm.jonpalmisc.com/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Ladybird is now in alpha",
-        "hot": 848,
-        "url": "https://ladybird.org/posts/alpha/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-        "hot": 905,
-        "url": "https://z.ai/blog/glm-5.4",
-        "source": "HackerNews"
-      },
-      {
-        "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-        "hot": 49,
-        "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Kagi Mail (public beta)",
-        "hot": 186,
-        "url": "https://blog.kagi.com/kagi-mail-public-beta",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
-        "hot": 248,
-        "url": "https://twitter.com/ylecun/status/2124550037912920090",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
-        "hot": 205,
-        "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
-        "hot": 220,
-        "url": "https://github.com/os6/nospeaker",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-        "hot": 168,
-        "url": "https://github.com/mikuta0407/win4wine",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Apple removed my open-source app from EU App Stores after 9 years",
-        "hot": 163,
-        "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
-        "source": "HackerNews"
-      },
-      {
-        "title": "EasyPost (YC S13) Is Hiring",
-        "hot": 1,
-        "url": "https://www.easypost.com/careers/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "How should an LLM see a computer?",
-        "hot": 18,
-        "url": "https://www.greptile.com/blog/trex-computer-use",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-        "hot": 859,
-        "url": "https://spelunkr.tv",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Show HN: Drive around my village in 3D",
-        "hot": 81,
-        "url": "https://cherwellvalleymotorclub.app",
-        "source": "HackerNews"
-      }
-    ],
     "juejin": [
       {
         "title": "我们开源了公司的内部组件库，然后被各业务线骂成了筛子",
@@ -119,7 +27,7 @@
         "source": "掘金"
       },
       {
-        "title": "Flutter A2UI 1.0 ，原来�� genui 也正式换成了这一套 SDK 了",
+        "title": "Flutter A2UI 1.0 ，原来的 genui 也正式换成了这一套 SDK 了",
         "hot": 261,
         "url": "https://juejin.cn/post/7710790522994573354",
         "source": "掘金"
@@ -173,7 +81,7 @@
         "source": "掘金"
       },
       {
-        "title": "用 Seedance 2.5 Flash 实现1分钟AI短剧，满足孩子的超级英雄对战梦",
+        "title": "用 Seedance 2.5 Flash 实现1分钟AI短剧，满足孩子的超级英���对战梦",
         "hot": 162,
         "url": "https://juejin.cn/post/7710180572464758838",
         "source": "掘金"
@@ -188,25 +96,25 @@
     "zhihu": [
       {
         "title": "怎么看 Nielsen 发布《黎曼猜想证明无效》的反驳论文？",
-        "hot": 3990000,
+        "hot": 2620000,
         "url": "https://www.zhihu.com/question/2108116147598054700",
         "source": "知乎"
       },
       {
         "title": "U17 世界杯小组赛中国 U17 男足 vs 摩洛哥，怎样评价本场比赛？",
-        "hot": 1940000,
+        "hot": 1700000,
         "url": "https://www.zhihu.com/question/2108346189238067700",
         "source": "知乎"
       },
       {
         "title": "汽车明显在增多，为啥有的洗车店却干不下去了？",
-        "hot": 1670000,
+        "hot": 1660000,
         "url": "https://www.zhihu.com/question/541903869",
         "source": "知乎"
       },
       {
         "title": "骑手一句「treetree的」带火披萨店炸鸡，老板直言爆单做不过来，为啥此类视频能迅速调起大众购买欲？",
-        "hot": 1530000,
+        "hot": 1510000,
         "url": "https://www.zhihu.com/question/2108166891873073000",
         "source": "知乎"
       },
@@ -223,27 +131,27 @@
         "source": "知乎"
       },
       {
-        "title": "张雪跨界做外卖骑手电摩，万元定价 10 分钟补能，这款产品踩中真实痛点了吗？能打动外卖骑手吗？",
-        "hot": 590000,
-        "url": "https://www.zhihu.com/question/2108134885441396700",
-        "source": "知乎"
-      },
-      {
         "title": "为什么一到香港就能强烈地感受到那种都市感呢？",
         "hot": 590000,
         "url": "https://www.zhihu.com/question/2105832401150666200",
         "source": "知乎"
       },
       {
-        "title": "在职场上你喜欢把工作提前做好吗？",
+        "title": "张雪跨界做外卖骑手电摩，万元定价 10 分钟补能，这款产品踩中真实痛点了吗？能打动外卖骑手吗？",
         "hot": 580000,
-        "url": "https://www.zhihu.com/question/2104898858807576000",
+        "url": "https://www.zhihu.com/question/2108134885441396700",
         "source": "知乎"
       },
       {
-        "title": "如果只能让正在秋招的应届生看见你工作中的一天，你会选哪一天？",
+        "title": "户均 2.52 人开发商却主推三居，为什么现在 89 平方米刚需户型重新走热？",
         "hot": 580000,
-        "url": "https://www.zhihu.com/question/2100685759950709800",
+        "url": "https://www.zhihu.com/question/2107410857026234000",
+        "source": "知乎"
+      },
+      {
+        "title": "Kimi 宣布发力 AI for Science 方向，有哪些信息值得关注？",
+        "hot": 580000,
+        "url": "https://www.zhihu.com/question/2107898424943179800",
         "source": "知乎"
       },
       {
@@ -259,15 +167,15 @@
         "source": "知乎"
       },
       {
-        "title": "Kimi 宣布发力 AI for Science 方向，有哪些信息值得关注？",
+        "title": "如何评价佟丽娅、王皓主演的喜剧电影《我没错！》？",
         "hot": 580000,
-        "url": "https://www.zhihu.com/question/2107898424943179800",
+        "url": "https://www.zhihu.com/question/2104633342549300500",
         "source": "知乎"
       },
       {
-        "title": "户均 2.52 人开发商却主推三居，为什么现在 89 平方米刚需户型重新走热？",
+        "title": "男人怎么能让外貌有年轻的感觉？",
         "hot": 580000,
-        "url": "https://www.zhihu.com/question/2107410857026234000",
+        "url": "https://www.zhihu.com/question/2014041387084030700",
         "source": "知乎"
       },
       {
@@ -275,6 +183,98 @@
         "hot": 580000,
         "url": "https://www.zhihu.com/question/2108319925819523300",
         "source": "知乎"
+      }
+    ],
+    "hackernews": [
+      {
+        "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+        "hot": 367,
+        "url": "https://arm.jonpalmisc.com/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Nvidia Reinstates Jensen Huang as CEO",
+        "hot": 1474,
+        "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Ladybird is now in alpha",
+        "hot": 895,
+        "url": "https://ladybird.org/posts/alpha/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+        "hot": 922,
+        "url": "https://z.ai/blog/glm-5.4",
+        "source": "HackerNews"
+      },
+      {
+        "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+        "hot": 62,
+        "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+        "hot": 401,
+        "url": "https://twitter.com/ylecun/status/2124550037912920090",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Kagi Mail (public beta)",
+        "hot": 210,
+        "url": "https://blog.kagi.com/kagi-mail-public-beta",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+        "hot": 219,
+        "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Apple removed my open-source app from EU App Stores after 9 years",
+        "hot": 241,
+        "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Derivative Flipping",
+        "hot": 14,
+        "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+        "hot": 178,
+        "url": "https://github.com/mikuta0407/win4wine",
+        "source": "HackerNews"
+      },
+      {
+        "title": "How should an LLM see a computer?",
+        "hot": 22,
+        "url": "https://www.greptile.com/blog/trex-computer-use",
+        "source": "HackerNews"
+      },
+      {
+        "title": "EasyPost (YC S13) Is Hiring",
+        "hot": 1,
+        "url": "https://www.easypost.com/careers/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+        "hot": 227,
+        "url": "https://github.com/os6/nospeaker",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "hot": 873,
+        "url": "https://spelunkr.tv",
+        "source": "HackerNews"
       }
     ],
     "weibo": [
@@ -297,15 +297,15 @@
         "source": "微博"
       },
       {
-        "title": "文吉儿风波的导火索",
+        "title": "自己借钱还钱买房名义上妈妈买的",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF%E9%A3%8E%E6%B3%A2%E7%9A%84%E5%AF%BC%E7%81%AB%E7%B4%A2",
+        "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%B7%B1%E5%80%9F%E9%92%B1%E8%BF%98%E9%92%B1%E4%B9%B0%E6%88%BF%E5%90%8D%E4%B9%89%E4%B8%8A%E5%A6%88%E5%A6%88%E4%B9%B0%E7%9A%84",
         "source": "微博"
       },
       {
-        "title": "U17国足第99分钟被绝平",
+        "title": "文吉儿风波的导火索",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E7%AC%AC99%E5%88%86%E9%92%9F%E8%A2%AB%E7%BB%9D%E5%B9%B3",
+        "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF%E9%A3%8E%E6%B3%A2%E7%9A%84%E5%AF%BC%E7%81%AB%E7%B4%A2",
         "source": "微博"
       },
       {
@@ -315,21 +315,15 @@
         "source": "微博"
       },
       {
-        "title": "自己借钱还钱买房名义上妈妈买的",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%B7%B1%E5%80%9F%E9%92%B1%E8%BF%98%E9%92%B1%E4%B9%B0%E6%88%BF%E5%90%8D%E4%B9%89%E4%B8%8A%E5%A6%88%E5%A6%88%E4%B9%B0%E7%9A%84",
-        "source": "微博"
-      },
-      {
         "title": "青稚一直道歉的原因",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E4%B8%80%E7%9B%B4%E9%81%93%E6%AD%89%E7%9A%84%E5%8E%9F%E5%9B%A0",
         "source": "微博"
       },
       {
-        "title": "金价",
+        "title": "U17国足第99分钟被绝平",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7",
+        "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E7%AC%AC99%E5%88%86%E9%92%9F%E8%A2%AB%E7%BB%9D%E5%B9%B3",
         "source": "微博"
       },
       {
@@ -339,9 +333,9 @@
         "source": "微博"
       },
       {
-        "title": "野桃直播",
+        "title": "金价",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%87%8E%E6%A1%83%E7%9B%B4%E6%92%AD",
+        "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7",
         "source": "微博"
       },
       {
@@ -351,15 +345,15 @@
         "source": "微博"
       },
       {
-        "title": "詹俊评U17国足被绝平",
+        "title": "野桃直播",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%A9%B9%E4%BF%8A%E8%AF%84U17%E5%9B%BD%E8%B6%B3%E8%A2%AB%E7%BB%9D%E5%B9%B3",
+        "url": "https://s.weibo.com/weibo?q=%E9%87%8E%E6%A1%83%E7%9B%B4%E6%92%AD",
         "source": "微博"
       },
       {
-        "title": "后会友期见了三次才敲定马天宇",
+        "title": "詹俊评U17国足被绝平",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E8%A7%81%E4%BA%86%E4%B8%89%E6%AC%A1%E6%89%8D%E6%95%B2%E5%AE%9A%E9%A9%AC%E5%A4%A9%E5%AE%87",
+        "url": "https://s.weibo.com/weibo?q=%E8%A9%B9%E4%BF%8A%E8%AF%84U17%E5%9B%BD%E8%B6%B3%E8%A2%AB%E7%BB%9D%E5%B9%B3",
         "source": "微博"
       },
       {
@@ -367,6 +361,104 @@
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E9%BE%99%E4%B8%B9%E5%A6%AE%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8F%AF%E4%BB%A5%E5%BD%95%E4%B8%80%E5%AD%A3",
         "source": "微博"
+      },
+      {
+        "title": "后会友期见了三次才敲定马天宇",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E8%A7%81%E4%BA%86%E4%B8%89%E6%AC%A1%E6%89%8D%E6%95%B2%E5%AE%9A%E9%A9%AC%E5%A4%A9%E5%AE%87",
+        "source": "微博"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "亚太经合组织深圳会议蕴含深刻启迪",
+        "hot": 7904703,
+        "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E6%B7%B1%E5%9C%B3%E4%BC%9A%E8%AE%AE%E8%95%B4%E5%90%AB%E6%B7%B1%E5%88%BB%E5%90%AF%E8%BF%AA",
+        "source": "百度"
+      },
+      {
+        "title": "胖东来一店将关闭 羽绒服亮成本价",
+        "hot": 7808018,
+        "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%80%E5%BA%97%E5%B0%86%E5%85%B3%E9%97%AD%20%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BA%AE%E6%88%90%E6%9C%AC%E4%BB%B7",
+        "source": "百度"
+      },
+      {
+        "title": "英伟达董事会恢复黄仁勋CEO职务",
+        "hot": 7712540,
+        "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1",
+        "source": "百度"
+      },
+      {
+        "title": "探秘中国高铁的强大“内核”",
+        "hot": 7618803,
+        "url": "https://www.baidu.com/s?wd=%E6%8E%A2%E7%A7%98%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E7%9A%84%E5%BC%BA%E5%A4%A7%E2%80%9C%E5%86%85%E6%A0%B8%E2%80%9D",
+        "source": "百度"
+      },
+      {
+        "title": "特朗普手持在深圳照片向众人展示",
+        "hot": 7523042,
+        "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%8B%E6%8C%81%E5%9C%A8%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E5%90%91%E4%BC%97%E4%BA%BA%E5%B1%95%E7%A4%BA",
+        "source": "百度"
+      },
+      {
+        "title": "蔡磊发文悼念廖建文",
+        "hot": 7425196,
+        "url": "https://www.baidu.com/s?wd=%E8%94%A1%E7%A3%8A%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E5%BB%96%E5%BB%BA%E6%96%87",
+        "source": "百度"
+      },
+      {
+        "title": "谢军被查 中国石油表态",
+        "hot": 7328301,
+        "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E5%86%9B%E8%A2%AB%E6%9F%A5%20%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E8%A1%A8%E6%80%81",
+        "source": "百度"
+      },
+      {
+        "title": "97岁老人寿宴结束 五代同堂喊妈妈",
+        "hot": 7235624,
+        "url": "https://www.baidu.com/s?wd=97%E5%B2%81%E8%80%81%E4%BA%BA%E5%AF%BF%E5%AE%B4%E7%BB%93%E6%9D%9F%20%E4%BA%94%E4%BB%A3%E5%90%8C%E5%A0%82%E5%96%8A%E5%A6%88%E5%A6%88",
+        "source": "百度"
+      },
+      {
+        "title": "女子嫌对面楼老旧自费7.3万刷漆",
+        "hot": 7141455,
+        "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AB%8C%E5%AF%B9%E9%9D%A2%E6%A5%BC%E8%80%81%E6%97%A7%E8%87%AA%E8%B4%B97.3%E4%B8%87%E5%88%B7%E6%BC%86",
+        "source": "百度"
+      },
+      {
+        "title": "“月租”酒店划不划算",
+        "hot": 7046448,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%88%E7%A7%9F%E2%80%9D%E9%85%92%E5%BA%97%E5%88%92%E4%B8%8D%E5%88%92%E7%AE%97",
+        "source": "百度"
+      },
+      {
+        "title": "国乒男单世界排名前十仅王楚钦林诗栋",
+        "hot": 6950359,
+        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E5%89%8D%E5%8D%81%E4%BB%85%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9E%97%E8%AF%97%E6%A0%8B",
+        "source": "百度"
+      },
+      {
+        "title": "网民发免费摘甘蔗谣言被拘",
+        "hot": 6853684,
+        "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E5%8F%91%E5%85%8D%E8%B4%B9%E6%91%98%E7%94%98%E8%94%97%E8%B0%A3%E8%A8%80%E8%A2%AB%E6%8B%98",
+        "source": "百度"
+      },
+      {
+        "title": "李嘉欣晒夫妻合照纪念结婚18周年",
+        "hot": 6756869,
+        "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E6%AC%A3%E6%99%92%E5%A4%AB%E5%A6%BB%E5%90%88%E7%85%A7%E7%BA%AA%E5%BF%B5%E7%BB%93%E5%A9%9A18%E5%91%A8%E5%B9%B4",
+        "source": "百度"
+      },
+      {
+        "title": "演员刘雨欣自曝美国的家再被偷",
+        "hot": 6658547,
+        "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%88%98%E9%9B%A8%E6%AC%A3%E8%87%AA%E6%9B%9D%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AE%B6%E5%86%8D%E8%A2%AB%E5%81%B7",
+        "source": "百度"
+      },
+      {
+        "title": "A股这波行情能走多远",
+        "hot": 6568184,
+        "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%99%E6%B3%A2%E8%A1%8C%E6%83%85%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C",
+        "source": "百度"
       }
     ],
     "36kr": [
@@ -460,118 +552,26 @@
         "url": "https://www.36kr.com/p/4081732410610819",
         "source": "36氪"
       }
-    ],
-    "baidu": [
-      {
-        "title": "亚太经合组织深圳会议蕴含深刻启迪",
-        "hot": 7904486,
-        "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E6%B7%B1%E5%9C%B3%E4%BC%9A%E8%AE%AE%E8%95%B4%E5%90%AB%E6%B7%B1%E5%88%BB%E5%90%AF%E8%BF%AA",
-        "source": "百度"
-      },
-      {
-        "title": "胖东来一店将关闭 羽绒服亮成本价",
-        "hot": 7808773,
-        "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%80%E5%BA%97%E5%B0%86%E5%85%B3%E9%97%AD%20%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BA%AE%E6%88%90%E6%9C%AC%E4%BB%B7",
-        "source": "百度"
-      },
-      {
-        "title": "英伟达董事会恢复黄仁勋CEO职务",
-        "hot": 7713588,
-        "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1",
-        "source": "百度"
-      },
-      {
-        "title": "探秘中国高铁的强大“内核”",
-        "hot": 7616758,
-        "url": "https://www.baidu.com/s?wd=%E6%8E%A2%E7%A7%98%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E7%9A%84%E5%BC%BA%E5%A4%A7%E2%80%9C%E5%86%85%E6%A0%B8%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "特朗普手持在深圳照片向众人展示",
-        "hot": 7520289,
-        "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%8B%E6%8C%81%E5%9C%A8%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E5%90%91%E4%BC%97%E4%BA%BA%E5%B1%95%E7%A4%BA",
-        "source": "百度"
-      },
-      {
-        "title": "蔡磊发文悼念廖建文",
-        "hot": 7428784,
-        "url": "https://www.baidu.com/s?wd=%E8%94%A1%E7%A3%8A%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E5%BB%96%E5%BB%BA%E6%96%87",
-        "source": "百度"
-      },
-      {
-        "title": "谢军被查 中国石油表态",
-        "hot": 7329683,
-        "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E5%86%9B%E8%A2%AB%E6%9F%A5%20%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E8%A1%A8%E6%80%81",
-        "source": "百度"
-      },
-      {
-        "title": "女子嫌对面楼老旧自费7.3万刷漆",
-        "hot": 7233512,
-        "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AB%8C%E5%AF%B9%E9%9D%A2%E6%A5%BC%E8%80%81%E6%97%A7%E8%87%AA%E8%B4%B97.3%E4%B8%87%E5%88%B7%E6%BC%86",
-        "source": "百度"
-      },
-      {
-        "title": "国乒男单世界排名前十仅王楚钦林诗栋",
-        "hot": 7141401,
-        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E5%89%8D%E5%8D%81%E4%BB%85%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9E%97%E8%AF%97%E6%A0%8B",
-        "source": "百度"
-      },
-      {
-        "title": "97岁老人寿宴结束 五代同堂喊妈妈",
-        "hot": 7042916,
-        "url": "https://www.baidu.com/s?wd=97%E5%B2%81%E8%80%81%E4%BA%BA%E5%AF%BF%E5%AE%B4%E7%BB%93%E6%9D%9F%20%E4%BA%94%E4%BB%A3%E5%90%8C%E5%A0%82%E5%96%8A%E5%A6%88%E5%A6%88",
-        "source": "百度"
-      },
-      {
-        "title": "印尼女子发现丈夫出轨叫挖掘机拆房",
-        "hot": 6952279,
-        "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E5%8F%AB%E6%8C%96%E6%8E%98%E6%9C%BA%E6%8B%86%E6%88%BF",
-        "source": "百度"
-      },
-      {
-        "title": "网民发免费摘甘蔗谣言被拘",
-        "hot": 6855342,
-        "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E5%8F%91%E5%85%8D%E8%B4%B9%E6%91%98%E7%94%98%E8%94%97%E8%B0%A3%E8%A8%80%E8%A2%AB%E6%8B%98",
-        "source": "百度"
-      },
-      {
-        "title": "李嘉欣晒夫妻合照纪念结婚18周年",
-        "hot": 6753590,
-        "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E6%AC%A3%E6%99%92%E5%A4%AB%E5%A6%BB%E5%90%88%E7%85%A7%E7%BA%AA%E5%BF%B5%E7%BB%93%E5%A9%9A18%E5%91%A8%E5%B9%B4",
-        "source": "百度"
-      },
-      {
-        "title": "A股这波行情能走多远",
-        "hot": 6656929,
-        "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%99%E6%B3%A2%E8%A1%8C%E6%83%85%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C",
-        "source": "百度"
-      },
-      {
-        "title": "演员刘雨欣自曝美国的家再被偷",
-        "hot": 6573331,
-        "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%88%98%E9%9B%A8%E6%AC%A3%E8%87%AA%E6%9B%9D%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AE%B6%E5%86%8D%E8%A2%AB%E5%81%B7",
-        "source": "百度"
-      }
     ]
   },
   "github": [
     {
       "title": "ItsNotRexed/Leonida —— Leonida Is A Native PC Recompilation Of ",
-      "hot": "⭐ 29358",
+      "hot": "⭐ 30127",
       "url": "https://github.com/ItsNotRexed/Leonida",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "erkamyaman/rust-anything —— Rewrite your whole app in Rust, one piec",
-      "hot": "⭐ 8636",
+      "hot": "⭐ 8645",
       "url": "https://github.com/erkamyaman/rust-anything",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "EL4CTEO/fast-anything —— Don't rewrite it in Rust. Rewrite the 5%",
-      "hot": "⭐ 3039",
+      "hot": "⭐ 3046",
       "url": "https://github.com/EL4CTEO/fast-anything",
       "source": "GitHub",
       "tag": "Rust"
@@ -585,63 +585,63 @@
     },
     {
       "title": "iamajmeena/neonclipping —— Paste a link, get captioned 9:16 clips i",
-      "hot": "⭐ 2292",
+      "hot": "⭐ 2296",
       "url": "https://github.com/iamajmeena/neonclipping",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "sybil-solutions/inference-optimisation-skill —— Agent skill for hill-climbing local LLM ",
-      "hot": "⭐ 2096",
+      "hot": "⭐ 2097",
       "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "AFK-surf/xnulinux —— XNU as a loadable kernel module inside L",
-      "hot": "⭐ 1723",
+      "hot": "⭐ 1770",
       "url": "https://github.com/AFK-surf/xnulinux",
       "source": "GitHub",
       "tag": "Objective-C++"
     },
     {
       "title": "omonkeyz/xbox-emulator —— Progress notes for running Xbox Series X",
-      "hot": "⭐ 1606",
+      "hot": "⭐ 1620",
       "url": "https://github.com/omonkeyz/xbox-emulator",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "R0Y00/Xbox2Windows —— Static recompilation research for Xbox S",
-      "hot": "⭐ 1472",
+      "hot": "⭐ 1477",
       "url": "https://github.com/R0Y00/Xbox2Windows",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "pierridotite/mobile-agent-testers —— 20 AI testers on 20 different phones, in",
-      "hot": "⭐ 1391",
+      "hot": "⭐ 1399",
       "url": "https://github.com/pierridotite/mobile-agent-testers",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "Lemxy/WinRust —— Windows shell replacement in Rust: taskb",
-      "hot": "⭐ 1352",
+      "hot": "⭐ 1353",
       "url": "https://github.com/Lemxy/WinRust",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "os6/nospeaker —— make your macbook's trackpad talk using ",
-      "hot": "⭐ 1294",
+      "hot": "⭐ 1321",
       "url": "https://github.com/os6/nospeaker",
       "source": "GitHub",
       "tag": "Swift"
     },
     {
       "title": "siliconjungle/shapeshift-labs-ink-studio —— Sculpting, animation and simulation tool",
-      "hot": "⭐ 1068",
+      "hot": "⭐ 1069",
       "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
       "source": "GitHub",
       "tag": "JavaScript"
@@ -654,11 +654,11 @@
       "tag": "HTML"
     },
     {
-      "title": "leanprover-community/riemann-hypothesis —— Independent Comparator setup for the Lea",
-      "hot": "⭐ 834",
-      "url": "https://github.com/leanprover-community/riemann-hypothesis",
+      "title": "ivall/xcl —— Xbox Series compatibility layer for Wind",
+      "hot": "⭐ 858",
+      "url": "https://github.com/ivall/xcl",
       "source": "GitHub",
-      "tag": "Lean"
+      "tag": "Rust"
     }
   ]
 }
