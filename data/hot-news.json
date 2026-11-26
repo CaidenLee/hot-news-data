@@ -1,188 +1,102 @@
 {
-  "updatedAt": "2026-11-26T18:30:30.233Z",
+  "updatedAt": "2026-11-26T19:00:33.280Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "Tracking Diseases Cured by AI",
-        "hot": 132,
+        "hot": 230,
         "url": "https://diseasescuredbyai.com/",
         "source": "HackerNews"
       },
       {
         "title": "AMD Specific Patches for Llama.cpp",
-        "hot": 75,
+        "hot": 92,
         "url": "https://devnull.land/amd-specific-llama-cpp",
         "source": "HackerNews"
       },
       {
-        "title": "YouTube Ad Punisher – Bypass anti-adblock",
-        "hot": 36,
-        "url": "https://github.com/antonpictures/youtube-punisher",
-        "source": "HackerNews"
-      },
-      {
         "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-        "hot": 22,
+        "hot": 44,
         "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
         "source": "HackerNews"
       },
       {
-        "title": "NP_R ≠ PAR_R",
-        "hot": 81,
-        "url": "https://github.com/samueleverett01/bss-permanent-separations",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Intel One Mono font",
-        "hot": 369,
+        "title": "Intel One Mono font (2023)",
+        "hot": 382,
         "url": "https://github.com/intel/intel-one-mono",
         "source": "HackerNews"
       },
       {
+        "title": "NP_R ≠ PAR_R",
+        "hot": 95,
+        "url": "https://github.com/samueleverett01/bss-permanent-separations",
+        "source": "HackerNews"
+      },
+      {
         "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-        "hot": 54,
+        "hot": 67,
         "url": "https://michidk.github.io/sidebyside/",
         "source": "HackerNews"
       },
       {
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning",
+        "hot": 9,
+        "url": "https://github.com/deepseek-ai/deepseek-math",
+        "source": "HackerNews"
+      },
+      {
         "title": "Tell HN: Happy Thanksgiving",
-        "hot": 411,
+        "hot": 448,
         "url": "https://news.ycombinator.com/item?id=50655664",
         "source": "HackerNews"
       },
       {
         "title": "Nextcloud Office Desktop app",
-        "hot": 348,
+        "hot": 354,
         "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
         "source": "HackerNews"
       },
       {
         "title": "Curiosity Is No Solo Act",
-        "hot": 75,
+        "hot": 79,
         "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
         "source": "HackerNews"
       },
       {
         "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "hot": 575,
+        "hot": 590,
         "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
         "source": "HackerNews"
       },
       {
-        "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-        "hot": 66,
-        "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+        "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+        "hot": 10,
+        "url": "https://github.com/rxliuli/sim-drop",
         "source": "HackerNews"
       },
       {
         "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-        "hot": 223,
+        "hot": 230,
         "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
         "source": "HackerNews"
       },
       {
-        "title": "Moat: Your OpenRouter Replacement",
-        "hot": 192,
-        "url": "https://commandcode.ai/moat",
+        "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+        "hot": 67,
+        "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
         "source": "HackerNews"
       },
       {
-        "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
-        "hot": 186,
-        "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+        "title": "Moat: Your OpenRouter Replacement",
+        "hot": 197,
+        "url": "https://commandcode.ai/moat",
         "source": "HackerNews"
       }
     ],
-    "zhihu": [
+    "baidu": [
       {
-        "title": "两地通报女教授介入已婚副校长家庭事件，安大副校长付某、武大曾某某被免职，有哪些值得关注的信息？",
-        "hot": 18550000,
-        "url": "https://www.zhihu.com/question/2109373596413818400",
-        "source": "知乎"
-      },
-      {
-        "title": "网友爆料小米YU7车型前视摄像头集中故障，行车录像无法录制，前向防碰撞失效，是批次质量问题吗？",
-        "hot": 5330000,
-        "url": "https://www.zhihu.com/question/2109256447582266600",
-        "source": "知乎"
-      },
-      {
-        "title": "魏建军直言很多车企靠国家补贴生存，拿到的补贴比车企盈利还多，该说法有依据吗？",
-        "hot": 3910000,
-        "url": "https://www.zhihu.com/question/2109295438058870500",
-        "source": "知乎"
-      },
-      {
-        "title": "「画地为牢」正片播出，厉娜称许飞影响了自己的发展，和许飞沟通非常困难，她们之间的沟通到底有什么问题？",
-        "hot": 3230000,
-        "url": "https://www.zhihu.com/question/2109280067545031700",
-        "source": "知乎"
-      },
-      {
-        "title": "业主搜索发现有 WiFi 名诅咒自家 8 岁孩子，怀疑是楼下邻居所为，该如何合法维权？",
-        "hot": 3210000,
-        "url": "https://www.zhihu.com/question/2108982413300865000",
-        "source": "知乎"
-      },
-      {
-        "title": "男篮世预赛，中国男篮80-82 不敌沙特阿拉伯男篮，出线形式堪忧，如何评价本场比赛��",
-        "hot": 3000000,
-        "url": "https://www.zhihu.com/question/2109332292363444700",
-        "source": "知乎"
-      },
-      {
-        "title": "U17世界杯男足小组赛，中国U17男足 8-0 斐济U17男足，如何评价本场比赛？",
-        "hot": 2940000,
-        "url": "https://www.zhihu.com/question/2109332098678879700",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待黎曼猜想证明已被压缩 99.5% 到 7.6 万行？",
-        "hot": 2310000,
-        "url": "https://www.zhihu.com/question/2109221701389239300",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待北大、清华在密云、通州新建校区而不落户雄安？",
-        "hot": 2210000,
-        "url": "https://www.zhihu.com/question/2103097723176198400",
-        "source": "知乎"
-      },
-      {
-        "title": "《英雄联盟电竞经理》宣布将于 27 年 1 ���份停服，如何评价这款游戏的运营历程？",
-        "hot": 2190000,
-        "url": "https://www.zhihu.com/question/2109279912733270300",
-        "source": "知乎"
-      },
-      {
-        "title": "厦航年利润7亿人民币，现在却突然订了74亿美元波音飞机，相当70 年利润，这笔账风险落在谁身上？",
-        "hot": 1860000,
-        "url": "https://www.zhihu.com/question/2108699823377589200",
-        "source": "知乎"
-      },
-      {
-        "title": "高中生武术比赛滑倒尝试鲤鱼打挺失败仍获亚军，官方称仅 3 人参赛无违规，该结果是否合理？",
-        "hot": 1580000,
-        "url": "https://www.zhihu.com/question/2108924693923341600",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待网警通报有人针对华为、鸿蒙、问界发布数百条不实评论，捏造“千亿营销”虚假信息被行政处罚？",
-        "hot": 1510000,
-        "url": "https://www.zhihu.com/question/2108999091560642000",
-        "source": "知乎"
-      },
-      {
-        "title": "曝梁文锋身家攀升至 550 亿美元，成全球最富 AI 模型创始人，是真的吗？意味着什么？",
-        "hot": 1430000,
-        "url": "https://www.zhihu.com/question/2109197560539604500",
-        "source": "知乎"
-      },
-      {
-        "title": "黄仁勋将于12月3日出席美国参议院听证会，证人名单上只有他一人，如何解读？",
-        "hot": 1380000,
-        "url": "https://www.zhihu.com/question/2108493193511711500",
-        "source": "知乎"
+        "title": "暂无数据",
+        "source": "百度"
       }
     ],
     "weibo": [
@@ -193,9 +107,9 @@
         "source": "微博"
       },
       {
-        "title": "U17国足8比0斐济",
+        "title": "中纪委一天连打三虎",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B8%80%E5%A4%A9%E8%BF%9E%E6%89%93%E4%B8%89%E8%99%8E",
         "source": "微博"
       },
       {
@@ -205,39 +119,39 @@
         "source": "微博"
       },
       {
-        "title": "华为小折电脑今日开售",
+        "title": "东风日产NX7价格夯爆了",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%B0%8F%E6%8A%98%E7%94%B5%E8%84%91%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%9C%E9%A3%8E%E6%97%A5%E4%BA%A7NX7%E4%BB%B7%E6%A0%BC%E5%A4%AF%E7%88%86%E4%BA%86",
         "source": "微博"
       },
       {
-        "title": "厉娜远远没有麦琳承受的多",
+        "title": "厉娜远���没有麦琳承受的多",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E8%BF%9C%E8%BF%9C%E6%B2%A1%E6%9C%89%E9%BA%A6%E7%90%B3%E6%89%BF%E5%8F%97%E7%9A%84%E5%A4%9A",
         "source": "微博"
       },
       {
-        "title": "中纪委一天连打三虎",
+        "title": "算了吧许飞别爱了",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B8%80%E5%A4%A9%E8%BF%9E%E6%89%93%E4%B8%89%E8%99%8E",
+        "url": "https://s.weibo.com/weibo?q=%E7%AE%97%E4%BA%86%E5%90%A7%E8%AE%B8%E9%A3%9E%E5%88%AB%E7%88%B1%E4%BA%86",
         "source": "微博"
       },
       {
-        "title": "徐璐在一众欧美模特里也丝毫不输",
+        "title": "U17国足8比0斐济",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E7%92%90%E5%9C%A8%E4%B8%80%E4%BC%97%E6%AC%A7%E7%BE%8E%E6%A8%A1%E7%89%B9%E9%87%8C%E4%B9%9F%E4%B8%9D%E6%AF%AB%E4%B8%8D%E8%BE%93",
+        "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
+        "source": "微博"
+      },
+      {
+        "title": "Angelababy雷霆高光",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=Angelababy%E9%9B%B7%E9%9C%86%E9%AB%98%E5%85%89",
         "source": "微博"
       },
       {
         "title": "胡明轩 中国男篮",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E6%98%8E%E8%BD%A9%20%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE",
-        "source": "微博"
-      },
-      {
-        "title": "许飞口碑",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E5%8F%A3%E7%A2%91",
         "source": "微博"
       },
       {
@@ -253,15 +167,15 @@
         "source": "微博"
       },
       {
-        "title": "怀孕本质是你一个人的事",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%80%80%E5%AD%95%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%BD%A0%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E4%BA%8B",
-        "source": "微博"
-      },
-      {
         "title": "前排全部在质问厉娜",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%89%8D%E6%8E%92%E5%85%A8%E9%83%A8%E5%9C%A8%E8%B4%A8%E9%97%AE%E5%8E%89%E5%A8%9C",
+        "source": "微博"
+      },
+      {
+        "title": "怀孕本质是你一个人的事",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%80%80%E5%AD%95%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%BD%A0%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E4%BA%8B",
         "source": "微博"
       },
       {
@@ -271,9 +185,9 @@
         "source": "微博"
       },
       {
-        "title": "哪个大学没名气但某领域顶尖",
+        "title": "PEL竞男不知情被拍",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%93%AA%E4%B8%AA%E5%A4%A7%E5%AD%A6%E6%B2%A1%E5%90%8D%E6%B0%94%E4%BD%86%E6%9F%90%E9%A2%86%E5%9F%9F%E9%A1%B6%E5%B0%96",
+        "url": "https://s.weibo.com/weibo?q=PEL%E7%AB%9E%E7%94%B7%E4%B8%8D%E7%9F%A5%E6%83%85%E8%A2%AB%E6%8B%8D",
         "source": "微博"
       }
     ],
@@ -346,7 +260,7 @@
       },
       {
         "title": "当一台笔记本，装下三甲医院的「最强大脑」",
-        "hot": 9,
+        "hot": 10,
         "url": "https://www.36kr.com/p/4085954397841798",
         "source": "36氪"
       },
@@ -369,22 +283,108 @@
         "source": "36氪"
       }
     ],
-    "baidu": [
+    "zhihu": [
       {
-        "title": "暂无数据",
-        "source": "百度"
+        "title": "两地通报女教授介入已婚副校长家庭事件，安大副校长付某、武大曾某某被免职，有哪些值得关注的信息？",
+        "hot": 17790000,
+        "url": "https://www.zhihu.com/question/2109373596413818400",
+        "source": "知乎"
+      },
+      {
+        "title": "网友爆料小米YU7车型前视摄像头集中故障，行车录像无法录制，前向防碰撞失效，是批次质量问题吗？",
+        "hot": 5190000,
+        "url": "https://www.zhihu.com/question/2109256447582266600",
+        "source": "知乎"
+      },
+      {
+        "title": "魏建军直言很多车企靠国家补贴生存，拿到的补贴比车企盈利还多，该说法有依据吗？",
+        "hot": 3880000,
+        "url": "https://www.zhihu.com/question/2109295438058870500",
+        "source": "知乎"
+      },
+      {
+        "title": "U17世界杯男足小组赛，中国U17男足 8-0 斐济U17男足，如何评价本场比赛？",
+        "hot": 3210000,
+        "url": "https://www.zhihu.com/question/2109332098678879700",
+        "source": "知乎"
+      },
+      {
+        "title": "「画地为牢」正片播出，厉娜称许飞影响了自己的发展，和许飞沟通非常困难，她们之间的沟通到底有什么问题？",
+        "hot": 3100000,
+        "url": "https://www.zhihu.com/question/2109280067545031700",
+        "source": "知乎"
+      },
+      {
+        "title": "业主搜索发现有 WiFi 名诅咒自家 8 岁孩子，怀疑是楼下邻居所为，该如何合法维权？",
+        "hot": 2890000,
+        "url": "https://www.zhihu.com/question/2108982413300865000",
+        "source": "知乎"
+      },
+      {
+        "title": "男篮世预赛，中国男篮80-82 不敌沙特阿拉伯男篮，出线形式堪忧，如何评价本场比赛？",
+        "hot": 2390000,
+        "url": "https://www.zhihu.com/question/2109332292363444700",
+        "source": "知乎"
+      },
+      {
+        "title": "厦航年利润7亿人民币，现在却突然订了74亿美元波音飞机，相当70 年利润，这笔账风险落在谁身上？",
+        "hot": 1820000,
+        "url": "https://www.zhihu.com/question/2108699823377589200",
+        "source": "知乎"
+      },
+      {
+        "title": "《英雄联盟电竞经理》宣布将于 27 �� 1 月份停服，如何评价这款游戏的运营历程？",
+        "hot": 1730000,
+        "url": "https://www.zhihu.com/question/2109279912733270300",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待北大、清华在密云、通州新建校区而不落户雄安？",
+        "hot": 1690000,
+        "url": "https://www.zhihu.com/question/2103097723176198400",
+        "source": "知乎"
+      },
+      {
+        "title": "高中生武术比赛滑倒尝试鲤鱼打挺失败仍获亚军，官方称仅 3 人参赛无违规，该结果是否合理？",
+        "hot": 1570000,
+        "url": "https://www.zhihu.com/question/2108924693923341600",
+        "source": "知乎"
+      },
+      {
+        "title": "黄仁勋将于12月3日出席美国参议院听证会，证人名单上只有他一人，如何解读？",
+        "hot": 1350000,
+        "url": "https://www.zhihu.com/question/2108493193511711500",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待网警通报有人针对华为、鸿蒙、问界发布数百条不实评论，捏造“千亿营销”虚假信息被行政处罚？",
+        "hot": 1350000,
+        "url": "https://www.zhihu.com/question/2108999091560642000",
+        "source": "知乎"
+      },
+      {
+        "title": "如何评价极客湾发布的手机影像大横评视频？",
+        "hot": 1350000,
+        "url": "https://www.zhihu.com/question/2108960337538164500",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待黎曼猜想证明已被压缩 99.5% 到 7.6 万行？",
+        "hot": 1320000,
+        "url": "https://www.zhihu.com/question/2109221701389239300",
+        "source": "知乎"
       }
     ],
     "juejin": [
       {
         "title": "SpringBoot4.2正式发布，人麻了！",
-        "hot": 1458,
+        "hot": 1467,
         "url": "https://juejin.cn/post/7711285721428492303",
         "source": "掘金"
       },
       {
         "title": "前端转全栈别死记硬背，要学会后端看项目的思维",
-        "hot": 936,
+        "hot": 945,
         "url": "https://juejin.cn/post/7711308296166129698",
         "source": "掘金"
       },
@@ -396,7 +396,7 @@
       },
       {
         "title": "年终总结，这可能是程序员最后一个冬天了",
-        "hot": 387,
+        "hot": 396,
         "url": "https://juejin.cn/post/7712359514976731177",
         "source": "掘金"
       },
@@ -461,9 +461,9 @@
         "source": "掘金"
       },
       {
-        "title": "大模型蒸馏到底在蒸什么？一篇文章搞懂知识蒸馏概念",
-        "hot": 180,
-        "url": "https://juejin.cn/post/7712021656399675407",
+        "title": "🤔🤔Dify 不必推倒重来，把重逻辑下沉到 LangGraph",
+        "hot": 189,
+        "url": "https://juejin.cn/post/7711370659322265627",
         "source": "掘金"
       }
     ]
@@ -471,80 +471,80 @@
   "github": [
     {
       "title": "Marvisak/VIctory —— An attempt at running GTA VI on PC",
-      "hot": "⭐ 13172",
+      "hot": "⭐ 13185",
       "url": "https://github.com/Marvisak/VIctory",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "xcl-dev/xcl —— Xbox Series compatibility layer for Wind",
-      "hot": "⭐ 8551",
+      "hot": "⭐ 8558",
       "url": "https://github.com/xcl-dev/xcl",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "4lwayz/portwatch-vi —— Does GTA VI run on PC yet? A live tracke",
-      "hot": "⭐ 5372",
+      "hot": "⭐ 5404",
       "url": "https://github.com/4lwayz/portwatch-vi",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "AFK-surf/xnulinux —— XNU as a loadable kernel module inside L",
-      "hot": "⭐ 4198",
+      "hot": "⭐ 4202",
       "url": "https://github.com/AFK-surf/xnulinux",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "EL4CTEO/fast-anything —— Don't rewrite it in Rust. Rewrite the 5%",
-      "hot": "⭐ 4194",
+      "hot": "⭐ 4197",
       "url": "https://github.com/EL4CTEO/fast-anything",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "fxceless/victory-fork —— Work-in-progress fork of VIctory: gettin",
-      "hot": "⭐ 3250",
+      "hot": "⭐ 3254",
       "url": "https://github.com/fxceless/victory-fork",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "iamajmeena/neonclipping —— Paste a link, get captioned 9:16 clips i",
-      "hot": "⭐ 2697",
+      "hot": "⭐ 2700",
       "url": "https://github.com/iamajmeena/neonclipping",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "ubiquitarianism/leonida —— A continuation of Leonida, the Xbox > PC",
-      "hot": "⭐ 2489",
+      "hot": "⭐ 2498",
       "url": "https://github.com/ubiquitarianism/leonida",
       "source": "GitHub",
       "tag": "Python"
     },
     {
+      "title": "Belobug/VIctory-Belobug-AMD",
+      "hot": "⭐ 2018",
+      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+      "source": "GitHub",
+      "tag": "Rust"
+    },
+    {
       "title": "R0Y00/Xbox2Windows —— Static recompilation research for Xbox S",
-      "hot": "⭐ 1960",
+      "hot": "⭐ 1963",
       "url": "https://github.com/R0Y00/Xbox2Windows",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "os6/nospeaker —— make your macbook's trackpad talk using ",
-      "hot": "⭐ 1944",
+      "hot": "⭐ 1945",
       "url": "https://github.com/os6/nospeaker",
       "source": "GitHub",
       "tag": "Swift"
-    },
-    {
-      "title": "Belobug/VIctory-Belobug-AMD",
-      "hot": "⭐ 1851",
-      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-      "source": "GitHub",
-      "tag": "Rust"
     },
     {
       "title": "omonkeyz/xbox-emulator —— Progress notes for running Xbox Series X",
@@ -555,21 +555,21 @@
     },
     {
       "title": "avatarmanz/VIctory-7900XTX —— Goal: an Xbox Series title (your own dum",
-      "hot": "⭐ 1793",
+      "hot": "⭐ 1803",
       "url": "https://github.com/avatarmanz/VIctory-7900XTX",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "INK-Q/agy-fast —— Non-invasive MCP accelerator plugin for ",
-      "hot": "⭐ 1693",
+      "hot": "⭐ 1697",
       "url": "https://github.com/INK-Q/agy-fast",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "crhywun/g1-acq",
-      "hot": "⭐ 1611",
+      "hot": "⭐ 1612",
       "url": "https://github.com/crhywun/g1-acq",
       "source": "GitHub",
       "tag": "JavaScript"
