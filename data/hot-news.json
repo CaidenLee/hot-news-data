@@ -1,249 +1,151 @@
 {
-  "updatedAt": "2026-11-26T19:30:34.634Z",
+  "updatedAt": "2026-11-26T20:00:31.735Z",
   "dailyhot": {
     "hackernews": [
       {
         "title": "AMD Specific Patches for Llama.cpp",
-        "hot": 119,
+        "hot": 140,
         "url": "https://devnull.land/amd-specific-llama-cpp",
         "source": "HackerNews"
       },
       {
         "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-        "hot": 66,
+        "hot": 82,
         "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
         "source": "HackerNews"
       },
       {
-        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning",
-        "hot": 27,
-        "url": "https://github.com/deepseek-ai/deepseek-math",
+        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+        "hot": 72,
+        "url": "https://github.com/antonpictures/youtube-punisher",
         "source": "HackerNews"
       },
       {
         "title": "Intel One Mono font (2023)",
-        "hot": 388,
+        "hot": 391,
         "url": "https://github.com/intel/intel-one-mono",
         "source": "HackerNews"
       },
       {
+        "title": "The USAID Files",
+        "hot": 40,
+        "url": "https://reclaimthenet.org/usaid-files",
+        "source": "HackerNews"
+      },
+      {
         "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-        "hot": 72,
+        "hot": 77,
         "url": "https://michidk.github.io/sidebyside/",
         "source": "HackerNews"
       },
       {
+        "title": "George Whitesides, 1939-2026",
+        "hot": 14,
+        "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+        "source": "HackerNews"
+      },
+      {
         "title": "NP_R ≠ PAR_R",
-        "hot": 105,
+        "hot": 112,
         "url": "https://github.com/samueleverett01/bss-permanent-separations",
         "source": "HackerNews"
       },
       {
-        "title": "Tell HN: Happy Thanksgiving",
-        "hot": 469,
-        "url": "https://news.ycombinator.com/item?id=50655664",
-        "source": "HackerNews"
-      },
-      {
         "title": "Curiosity Is No Solo Act",
-        "hot": 89,
+        "hot": 92,
         "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
         "source": "HackerNews"
       },
       {
         "title": "Nextcloud Office Desktop app",
-        "hot": 358,
+        "hot": 359,
         "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
         "source": "HackerNews"
       },
       {
-        "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-        "hot": 13,
-        "url": "https://github.com/rxliuli/sim-drop",
+        "title": "Tell HN: Happy Thanksgiving",
+        "hot": 485,
+        "url": "https://news.ycombinator.com/item?id=50655664",
         "source": "HackerNews"
       },
       {
         "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "hot": 604,
+        "hot": 616,
         "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
         "source": "HackerNews"
       },
       {
-        "title": "YouTube Ad Punisher – Bypass anti-adblock",
-        "hot": 56,
-        "url": "https://github.com/antonpictures/youtube-punisher",
+        "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+        "hot": 15,
+        "url": "https://github.com/rxliuli/sim-drop",
         "source": "HackerNews"
       },
       {
-        "title": "George Whitesides, 1939-2026",
-        "hot": 8,
-        "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+        "title": "OpenAI may be in cost control mode",
+        "hot": 22,
+        "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
         "source": "HackerNews"
       },
       {
         "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-        "hot": 235,
+        "hot": 241,
         "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
         "source": "HackerNews"
-      },
-      {
-        "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-        "hot": 72,
-        "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
-        "source": "HackerNews"
-      }
-    ],
-    "juejin": [
-      {
-        "title": "SpringBoot4.2正式发布，人麻了！",
-        "hot": 1467,
-        "url": "https://juejin.cn/post/7711285721428492303",
-        "source": "掘金"
-      },
-      {
-        "title": "前端转全栈别死记硬背，要学会后端看项目的思维",
-        "hot": 945,
-        "url": "https://juejin.cn/post/7711308296166129698",
-        "source": "掘金"
-      },
-      {
-        "title": "Docker 部署：从镜像构建到容器上线",
-        "hot": 468,
-        "url": "https://juejin.cn/post/7711950881198358562",
-        "source": "掘金"
-      },
-      {
-        "title": "年终总结，这可能是程序员最后一个冬天了",
-        "hot": 396,
-        "url": "https://juejin.cn/post/7712359514976731177",
-        "source": "掘金"
-      },
-      {
-        "title": "用了三年微前端，我们终于把它拆成了单体应用",
-        "hot": 351,
-        "url": "https://juejin.cn/post/7711319812090560566",
-        "source": "掘金"
-      },
-      {
-        "title": "��里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年",
-        "hot": 351,
-        "url": "https://juejin.cn/post/7711283330075377698",
-        "source": "掘金"
-      },
-      {
-        "title": "写 UI 自动化的同学，这个 2.3万 Star 的自动化Agent 让浏览器自己测试！",
-        "hot": 324,
-        "url": "https://juejin.cn/post/7711658681012174883",
-        "source": "掘金"
-      },
-      {
-        "title": "Android Keep Rules 解读，直接影响 Google Play 上架和曝光",
-        "hot": 270,
-        "url": "https://juejin.cn/post/7711305356505399350",
-        "source": "掘金"
-      },
-      {
-        "title": "为什么成熟 Android 项目几乎看不到 IdleHandler？",
-        "hot": 252,
-        "url": "https://juejin.cn/post/7711955915188240384",
-        "source": "掘金"
-      },
-      {
-        "title": "线上突发大面积白屏，排查一天后，我发现是 `JSON.parse` 背了锅",
-        "hot": 243,
-        "url": "https://juejin.cn/post/7711915889649647659",
-        "source": "掘金"
-      },
-      {
-        "title": "AI 帮我写了大半年的代码，我却越来越不会写代码了",
-        "hot": 243,
-        "url": "https://juejin.cn/post/7711645731820011535",
-        "source": "掘金"
-      },
-      {
-        "title": "我把 7 个 UI 库的下拉框用键盘敲了一遍，3 家出了岔子",
-        "hot": 216,
-        "url": "https://juejin.cn/post/7711743882738352163",
-        "source": "掘金"
-      },
-      {
-        "title": "GLM-5.4 深度拆解：750B 参数如何「循环」出 2-3T 级智能？",
-        "hot": 198,
-        "url": "https://juejin.cn/post/7711308296166588450",
-        "source": "掘金"
-      },
-      {
-        "title": "大模型蒸馏到底在蒸什么？一篇文章搞懂知识蒸馏概念",
-        "hot": 189,
-        "url": "https://juejin.cn/post/7712021656399675407",
-        "source": "掘金"
-      },
-      {
-        "title": "当 Claude 开始反对蒸馏，���想起了那 700 万份盗版书籍",
-        "hot": 189,
-        "url": "https://juejin.cn/post/7712021656399134735",
-        "source": "掘金"
       }
     ],
     "zhihu": [
       {
         "title": "两地通报女教授介入已婚副校长家庭事件，安大副校长付某、武大曾某某被免职，有哪些值得关注的信息？",
-        "hot": 16840000,
+        "hot": 16040000,
         "url": "https://www.zhihu.com/question/2109373596413818400",
         "source": "知乎"
       },
       {
         "title": "网友爆料小米YU7车型前视摄像头集中故障，行车录像无法录制，前向防碰撞失效，是批次质量问题吗？",
-        "hot": 5020000,
+        "hot": 4860000,
         "url": "https://www.zhihu.com/question/2109256447582266600",
         "source": "知乎"
       },
       {
         "title": "魏建军直言很多车企靠国家补贴生存，拿到的补贴比车企盈利还多，该说法有依据吗？",
-        "hot": 3380000,
+        "hot": 3290000,
         "url": "https://www.zhihu.com/question/2109295438058870500",
         "source": "知乎"
       },
       {
         "title": "U17世界杯男足小组赛，中国U17男足 8-0 斐济U17男足，如何评价本场比赛？",
-        "hot": 3230000,
+        "hot": 3130000,
         "url": "https://www.zhihu.com/question/2109332098678879700",
         "source": "知乎"
       },
       {
-        "title": "「画地为牢」正片播出，厉娜称许飞影响了自己的发展，和许飞沟通非常困难，她们之间的沟通到底有什么问题？",
-        "hot": 2580000,
-        "url": "https://www.zhihu.com/question/2109280067545031700",
-        "source": "知乎"
-      },
-      {
         "title": "业主搜索发现有 WiFi 名诅咒自家 8 岁孩子，怀疑是楼下邻居所为，该如何合法维权？",
-        "hot": 2560000,
+        "hot": 2210000,
         "url": "https://www.zhihu.com/question/2108982413300865000",
         "source": "知乎"
       },
       {
+        "title": "「画地为牢」正片播出，厉娜称许飞影响了自己的发展，和许飞沟通非常困难，她们之间的沟通到底有什么问题？",
+        "hot": 2020000,
+        "url": "https://www.zhihu.com/question/2109280067545031700",
+        "source": "知乎"
+      },
+      {
         "title": "厦航年利润7亿人民币，现在却突然订了74亿美元波音飞机，相当70 年利润，这笔账风险落在谁身上？",
-        "hot": 1790000,
+        "hot": 1760000,
         "url": "https://www.zhihu.com/question/2108699823377589200",
         "source": "知乎"
       },
       {
         "title": "《英雄联盟电竞经理》宣布将于 27 年 1 月份停服，如何评价这款游戏的运营历程？",
-        "hot": 1700000,
+        "hot": 1670000,
         "url": "https://www.zhihu.com/question/2109279912733270300",
         "source": "知乎"
       },
       {
-        "title": "男篮世预赛，中国男篮80-82 不敌沙特阿拉伯男篮，出线形式堪忧，如何评价本场比赛？",
-        "hot": 1640000,
+        "title": "男篮世预赛，中国男篮80-82 不敌沙特���拉伯男篮，出线形式堪忧，如何评价本场比赛？",
+        "hot": 1600000,
         "url": "https://www.zhihu.com/question/2109332292363444700",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待北大、清华在密云、通州新建校区而不落户雄安？",
-        "hot": 1570000,
-        "url": "https://www.zhihu.com/question/2103097723176198400",
         "source": "知乎"
       },
       {
@@ -253,15 +155,9 @@
         "source": "知乎"
       },
       {
-        "title": "黄仁勋将于12月3日出席美国参议院听证会，证人名单上只有他一人，如何解读？",
-        "hot": 1340000,
-        "url": "https://www.zhihu.com/question/2108493193511711500",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待网���通报有人针对华为、鸿蒙、问界发布数百条不实评论，捏造“千亿营销”虚假信息被行政处罚？",
-        "hot": 1340000,
-        "url": "https://www.zhihu.com/question/2108999091560642000",
+        "title": "如何看待北大、清华在密云、通州新建校区而不落户雄安？",
+        "hot": 1440000,
+        "url": "https://www.zhihu.com/question/2103097723176198400",
         "source": "知乎"
       },
       {
@@ -271,9 +167,21 @@
         "source": "知乎"
       },
       {
+        "title": "如何看待网警通报有人针对华为、鸿蒙、问界发布数百条不实评论，捏造“千亿营销”虚假信息被行政处罚？",
+        "hot": 1290000,
+        "url": "https://www.zhihu.com/question/2108999091560642000",
+        "source": "知乎"
+      },
+      {
         "title": "如何看待黎曼猜想证明已被压缩 99.5% 到 7.6 万行？",
-        "hot": 1280000,
+        "hot": 1250000,
         "url": "https://www.zhihu.com/question/2109221701389239300",
+        "source": "知乎"
+      },
+      {
+        "title": "黄仁勋将于12月3日出席美国参议院听证会，证人名单上只有他一人，如何解读？",
+        "hot": 1130000,
+        "url": "https://www.zhihu.com/question/2108493193511711500",
         "source": "知乎"
       }
     ],
@@ -303,9 +211,9 @@
         "source": "微博"
       },
       {
-        "title": "东风日产NX7价格夯爆了",
+        "title": "2026广州车展",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%9C%E9%A3%8E%E6%97%A5%E4%BA%A7NX7%E4%BB%B7%E6%A0%BC%E5%A4%AF%E7%88%86%E4%BA%86",
+        "url": "https://s.weibo.com/weibo?q=2026%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95",
         "source": "微博"
       },
       {
@@ -321,21 +229,21 @@
         "source": "微博"
       },
       {
+        "title": "徐璐在一众欧美模特里也丝毫不输",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E7%92%90%E5%9C%A8%E4%B8%80%E4%BC%97%E6%AC%A7%E7%BE%8E%E6%A8%A1%E7%89%B9%E9%87%8C%E4%B9%9F%E4%B8%9D%E6%AF%AB%E4%B8%8D%E8%BE%93",
+        "source": "微博"
+      },
+      {
+        "title": "魏牌高山8首搭大电量Hi HEV技术",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E9%AD%8F%E7%89%8C%E9%AB%98%E5%B1%B18%E9%A6%96%E6%90%AD%E5%A4%A7%E7%94%B5%E9%87%8FHi%20HEV%E6%8A%80%E6%9C%AF",
+        "source": "微博"
+      },
+      {
         "title": "U17国足8比0斐济",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
-        "source": "微博"
-      },
-      {
-        "title": "在广州车展遇见美好的奇瑞",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95%E9%81%87%E8%A7%81%E7%BE%8E%E5%A5%BD%E7%9A%84%E5%A5%87%E7%91%9E",
-        "source": "微博"
-      },
-      {
-        "title": "杨蓉自曝患有遗传病",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E8%93%89%E8%87%AA%E6%9B%9D%E6%82%A3%E6%9C%89%E9%81%97%E4%BC%A0%E7%97%85",
         "source": "微博"
       },
       {
@@ -345,15 +253,15 @@
         "source": "微博"
       },
       {
-        "title": "武大调查谈话238人次",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%AD%A6%E5%A4%A7%E8%B0%83%E6%9F%A5%E8%B0%88%E8%AF%9D238%E4%BA%BA%E6%AC%A1",
-        "source": "微博"
-      },
-      {
         "title": "全球首个乙肝治愈新药中国获批",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%B9%99%E8%82%9D%E6%B2%BB%E6%84%88%E6%96%B0%E8%8D%AF%E4%B8%AD%E5%9B%BD%E8%8E%B7%E6%89%B9",
+        "source": "微博"
+      },
+      {
+        "title": "武大调查谈话238人次",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%AD%A6%E5%A4%A7%E8%B0%83%E6%9F%A5%E8%B0%88%E8%AF%9D238%E4%BA%BA%E6%AC%A1",
         "source": "微博"
       },
       {
@@ -363,15 +271,15 @@
         "source": "微博"
       },
       {
-        "title": "三只松鼠员工必须用鼠取名",
+        "title": "许飞怎么这么多料",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%91%98%E5%B7%A5%E5%BF%85%E9%A1%BB%E7%94%A8%E9%BC%A0%E5%8F%96%E5%90%8D",
+        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E6%80%8E%E4%B9%88%E8%BF%99%E4%B9%88%E5%A4%9A%E6%96%99",
         "source": "微博"
       },
       {
-        "title": "厉娜远远没有麦琳承受的多",
+        "title": "三只松鼠员工必须用鼠取名",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E8%BF%9C%E8%BF%9C%E6%B2%A1%E6%9C%89%E9%BA%A6%E7%90%B3%E6%89%BF%E5%8F%97%E7%9A%84%E5%A4%9A",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%91%98%E5%B7%A5%E5%BF%85%E9%A1%BB%E7%94%A8%E9%BC%A0%E5%8F%96%E5%90%8D",
         "source": "微博"
       }
     ],
@@ -401,7 +309,7 @@
         "source": "36氪"
       },
       {
-        "title": "AI最火��时候，最赚钱的是一块布",
+        "title": "AI最火的时候，最赚钱的是一块布",
         "hot": 49,
         "url": "https://www.36kr.com/p/4085169946159492",
         "source": "36氪"
@@ -466,68 +374,160 @@
         "url": "https://www.36kr.com/p/4085988999534214",
         "source": "36氪"
       }
+    ],
+    "juejin": [
+      {
+        "title": "SpringBoot4.2正式发布，人麻了！",
+        "hot": 1467,
+        "url": "https://juejin.cn/post/7711285721428492303",
+        "source": "掘金"
+      },
+      {
+        "title": "前端转全栈别死记硬背，要学会后端看项目的思维",
+        "hot": 945,
+        "url": "https://juejin.cn/post/7711308296166129698",
+        "source": "掘金"
+      },
+      {
+        "title": "Docker 部署：从镜像构建到容器上线",
+        "hot": 468,
+        "url": "https://juejin.cn/post/7711950881198358562",
+        "source": "掘金"
+      },
+      {
+        "title": "年终总结，这可能是程序员最后一个冬天了",
+        "hot": 396,
+        "url": "https://juejin.cn/post/7712359514976731177",
+        "source": "掘金"
+      },
+      {
+        "title": "用了三年微前端，我们终于把它拆成了单体应用",
+        "hot": 351,
+        "url": "https://juejin.cn/post/7711319812090560566",
+        "source": "掘金"
+      },
+      {
+        "title": "阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年",
+        "hot": 351,
+        "url": "https://juejin.cn/post/7711283330075377698",
+        "source": "掘金"
+      },
+      {
+        "title": "写 UI 自动化的同学，这个 2.3万 Star 的自动化Agent 让浏览器自己测试！",
+        "hot": 324,
+        "url": "https://juejin.cn/post/7711658681012174883",
+        "source": "掘金"
+      },
+      {
+        "title": "Android Keep Rules 解读，直接影响 Google Play 上架和曝光",
+        "hot": 270,
+        "url": "https://juejin.cn/post/7711305356505399350",
+        "source": "掘金"
+      },
+      {
+        "title": "为什么成熟 Android 项目几乎看不到 IdleHandler？",
+        "hot": 252,
+        "url": "https://juejin.cn/post/7711955915188240384",
+        "source": "掘金"
+      },
+      {
+        "title": "线上突发大面积白屏，排查一天后，我发现是 `JSON.parse` 背了锅",
+        "hot": 243,
+        "url": "https://juejin.cn/post/7711915889649647659",
+        "source": "掘金"
+      },
+      {
+        "title": "AI 帮我写了大半年的代码，我却越来越不会写代码了",
+        "hot": 243,
+        "url": "https://juejin.cn/post/7711645731820011535",
+        "source": "掘金"
+      },
+      {
+        "title": "我把 7 个 UI 库的下拉框用键盘敲了一遍，3 家出了岔子",
+        "hot": 216,
+        "url": "https://juejin.cn/post/7711743882738352163",
+        "source": "掘金"
+      },
+      {
+        "title": "GLM-5.4 深度拆解：750B 参数如何「循环」出 2-3T 级智能？",
+        "hot": 198,
+        "url": "https://juejin.cn/post/7711308296166588450",
+        "source": "掘金"
+      },
+      {
+        "title": "大模型蒸馏到底在蒸什么？一篇文章搞懂知识蒸馏概念",
+        "hot": 189,
+        "url": "https://juejin.cn/post/7712021656399675407",
+        "source": "掘金"
+      },
+      {
+        "title": "当 Claude 开始反对蒸���，我想起了那 700 万份盗版书籍",
+        "hot": 189,
+        "url": "https://juejin.cn/post/7712021656399134735",
+        "source": "掘金"
+      }
     ]
   },
   "github": [
     {
       "title": "Marvisak/VIctory —— An attempt at running GTA VI on PC",
-      "hot": "⭐ 13193",
+      "hot": "⭐ 13221",
       "url": "https://github.com/Marvisak/VIctory",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "xcl-dev/xcl —— Xbox Series compatibility layer for Wind",
-      "hot": "⭐ 8561",
+      "hot": "⭐ 8572",
       "url": "https://github.com/xcl-dev/xcl",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "4lwayz/portwatch-vi —— Does GTA VI run on PC yet? A live tracke",
-      "hot": "⭐ 5442",
+      "hot": "⭐ 5478",
       "url": "https://github.com/4lwayz/portwatch-vi",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "AFK-surf/xnulinux —— XNU as a loadable kernel module inside L",
-      "hot": "⭐ 4205",
+      "hot": "⭐ 4212",
       "url": "https://github.com/AFK-surf/xnulinux",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "EL4CTEO/fast-anything —— Don't rewrite it in Rust. Rewrite the 5%",
-      "hot": "⭐ 4201",
+      "hot": "⭐ 4202",
       "url": "https://github.com/EL4CTEO/fast-anything",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "fxceless/victory-fork —— Work-in-progress fork of VIctory: gettin",
-      "hot": "⭐ 3255",
+      "hot": "⭐ 3259",
       "url": "https://github.com/fxceless/victory-fork",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "iamajmeena/neonclipping —— Paste a link, get captioned 9:16 clips i",
-      "hot": "⭐ 2700",
+      "hot": "⭐ 2702",
       "url": "https://github.com/iamajmeena/neonclipping",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "ubiquitarianism/leonida —— A continuation of Leonida, the Xbox > PC",
-      "hot": "⭐ 2501",
+      "hot": "⭐ 2505",
       "url": "https://github.com/ubiquitarianism/leonida",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "Belobug/VIctory-Belobug-AMD",
-      "hot": "⭐ 2127",
+      "hot": "⭐ 2230",
       "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
       "source": "GitHub",
       "tag": "Rust"
@@ -555,14 +555,14 @@
     },
     {
       "title": "avatarmanz/VIctory-7900XTX —— Goal: an Xbox Series title (your own dum",
-      "hot": "⭐ 1809",
+      "hot": "⭐ 1813",
       "url": "https://github.com/avatarmanz/VIctory-7900XTX",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "INK-Q/agy-fast —— Non-invasive MCP accelerator plugin for ",
-      "hot": "⭐ 1700",
+      "hot": "⭐ 1702",
       "url": "https://github.com/INK-Q/agy-fast",
       "source": "GitHub",
       "tag": "TypeScript"
