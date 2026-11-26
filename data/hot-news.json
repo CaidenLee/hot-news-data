@@ -1,181 +1,83 @@
 {
-  "updatedAt": "2026-11-26T23:00:33.613Z",
+  "updatedAt": "2026-11-26T23:30:29.468Z",
   "dailyhot": {
-    "hackernews": [
-      {
-        "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-        "hot": 148,
-        "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "AMD-specific fork of llama.cpp",
-        "hot": 247,
-        "url": "https://devnull.land/amd-specific-llama-cpp",
-        "source": "HackerNews"
-      },
-      {
-        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-        "hot": 200,
-        "url": "https://github.com/antonpictures/youtube-punisher",
-        "source": "HackerNews"
-      },
-      {
-        "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-        "hot": 172,
-        "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "AI made self-hosting fun again",
-        "hot": 79,
-        "url": "https://janlukas.blog/posts/ai-self-hosting",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Rvoip 0.5 the complete VoIP stack in Rust",
-        "hot": 48,
-        "url": "https://github.com/eisenzopf/rvoip",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Intel One Mono font (2023)",
-        "hot": 442,
-        "url": "https://github.com/intel/intel-one-mono",
-        "source": "HackerNews"
-      },
-      {
-        "title": "George Whitesides, 1939-2026",
-        "hot": 42,
-        "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-        "hot": 47,
-        "url": "https://olumino.app",
-        "source": "HackerNews"
-      },
-      {
-        "title": "OpenAI may be in cost control mode",
-        "hot": 208,
-        "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Top-cited AI scientists at four US companies compared",
-        "hot": 12,
-        "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "NormalScript: A perfectly normal scripting language",
-        "hot": 60,
-        "url": "https://psychoscript.com/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-        "hot": 185,
-        "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-        "hot": 31,
-        "url": "https://github.com/rxliuli/sim-drop",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Curiosity Is No Solo Act",
-        "hot": 115,
-        "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
-        "source": "HackerNews"
-      }
-    ],
     "zhihu": [
       {
         "title": "两地通报女教授介入已婚副校长家庭事件，安大副校长付某、武大曾某某被免职，有哪些值得关注的信息？",
-        "hot": 7600000,
+        "hot": 7100000,
         "url": "https://www.zhihu.com/question/2109373596413818400",
         "source": "知乎"
       },
       {
         "title": "U17世界杯男足小组赛，中国U17男足 8-0 斐济U17男足，如何评价本场比赛？",
-        "hot": 2670000,
+        "hot": 3470000,
         "url": "https://www.zhihu.com/question/2109332098678879700",
         "source": "知乎"
       },
       {
-        "title": "魏建军直言很多车企靠国家补贴生存，拿到的补贴比车企盈利还多，该说法有依据吗？",
-        "hot": 2420000,
-        "url": "https://www.zhihu.com/question/2109295438058870500",
-        "source": "知乎"
-      },
-      {
         "title": "网友爆料小米YU7车型前视摄像头集中故障，行车录像无法录制，前向防碰撞失效，是批次质量问题吗？",
-        "hot": 2240000,
+        "hot": 2000000,
         "url": "https://www.zhihu.com/question/2109256447582266600",
         "source": "知乎"
       },
       {
         "title": "高中生武术比赛滑倒尝试鲤鱼打挺失败仍获亚军，官方称仅 3 人参赛无违规，该结果是否合理？",
-        "hot": 1580000,
+        "hot": 1800000,
         "url": "https://www.zhihu.com/question/2108924693923341600",
         "source": "知乎"
       },
       {
         "title": "如何评价极客湾发布的手机影像大横评视频？",
-        "hot": 1140000,
+        "hot": 1160000,
         "url": "https://www.zhihu.com/question/2108960337538164500",
         "source": "知乎"
       },
       {
         "title": "厦航年利润7亿人民币，现在却突然订了74亿美元波音飞机，相当70 年利润，这笔账风险落在谁身上？",
-        "hot": 1120000,
+        "hot": 1160000,
         "url": "https://www.zhihu.com/question/2108699823377589200",
         "source": "知乎"
       },
       {
-        "title": "如何看待黎曼猜想证明已被压缩 99.5% 到 7.6 万行？",
-        "hot": 1000000,
-        "url": "https://www.zhihu.com/question/2109221701389239300",
-        "source": "知乎"
-      },
-      {
-        "title": "男篮世预赛，中国男篮80-82 不敌沙特阿拉伯男篮，出线形式堪忧，如何评价本场比赛？",
-        "hot": 970000,
+        "title": "男篮世预赛，中国男篮80-82 不敌沙特阿拉伯男篮，出线形势堪忧，如何评价本场比赛？",
+        "hot": 1120000,
         "url": "https://www.zhihu.com/question/2109332292363444700",
         "source": "知乎"
       },
       {
         "title": "斗鱼及陈少杰被执行超 1.9 亿，从巅峰到接连踩雷，斗鱼这些年衰落的核心原因是什么？",
-        "hot": 940000,
+        "hot": 980000,
         "url": "https://www.zhihu.com/question/2108965316487295200",
         "source": "知乎"
       },
       {
-        "title": "曝梁文锋身家攀升至 550 亿美元，成全球最富 AI 模型创始人，是真的吗？意味着什么��",
-        "hot": 920000,
-        "url": "https://www.zhihu.com/question/2109197560539604500",
-        "source": "知乎"
-      },
-      {
         "title": "网飞版《三体》第二季预告曝光，定档 2027 年 1 月 14 日，你在本季里最期待看到哪些内容？",
-        "hot": 900000,
+        "hot": 950000,
         "url": "https://www.zhihu.com/question/2105965880248983800",
         "source": "知乎"
       },
       {
-        "title": "如何看待网警通报有人针对华为、鸿蒙、问界发布数百条不实评论，捏造“千亿营销”虚假信息被行政处罚��",
-        "hot": 890000,
-        "url": "https://www.zhihu.com/question/2108999091560642000",
+        "title": "业主搜索发现有 WiFi 名诅咒自家 8 岁孩子，怀疑是楼下邻居所为，该如何合法维权？",
+        "hot": 900000,
+        "url": "https://www.zhihu.com/question/2108982413300865000",
         "source": "知乎"
       },
       {
-        "title": "业主搜索发现有 WiFi 名诅咒自家 8 岁孩子，怀疑是楼下邻居所为，该如何合法维权？",
+        "title": "曝梁文锋身家攀升至 550 亿美元，成全球最富 AI 模型创始人，是真的吗？意味着什么？",
+        "hot": 890000,
+        "url": "https://www.zhihu.com/question/2109197560539604500",
+        "source": "知乎"
+      },
+      {
+        "title": "魏建军直言很多车企靠国家补贴生存，拿到的补贴比车企盈利还多，该说法有依据吗？",
         "hot": 880000,
-        "url": "https://www.zhihu.com/question/2108982413300865000",
+        "url": "https://www.zhihu.com/question/2109295438058870500",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待网警通报有人针��华为、鸿蒙、问界发布数百条不实评论，捏造“千亿营销”虚假信息被行政处罚？",
+        "hot": 870000,
+        "url": "https://www.zhihu.com/question/2108999091560642000",
         "source": "知乎"
       },
       {
@@ -183,6 +85,110 @@
         "hot": 860000,
         "url": "https://www.zhihu.com/question/2108516163269439700",
         "source": "知乎"
+      },
+      {
+        "title": "《复仇者联盟 5》首个幕后特辑小罗伯特·唐尼出镜，从钢铁侠到毁灭博士，漫威为何一直押宝RDJ？",
+        "hot": 840000,
+        "url": "https://www.zhihu.com/question/2106706450663700000",
+        "source": "知乎"
+      }
+    ],
+    "hackernews": [
+      {
+        "title": "AI made self-hosting fun again",
+        "hot": 130,
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+        "hot": 179,
+        "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "AMD-specific fork of llama.cpp",
+        "hot": 257,
+        "url": "https://devnull.land/amd-specific-llama-cpp",
+        "source": "HackerNews"
+      },
+      {
+        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+        "hot": 210,
+        "url": "https://github.com/antonpictures/youtube-punisher",
+        "source": "HackerNews"
+      },
+      {
+        "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+        "hot": 178,
+        "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+        "hot": 60,
+        "url": "https://github.com/eisenzopf/rvoip",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Intel One Mono font (2023)",
+        "hot": 448,
+        "url": "https://github.com/intel/intel-one-mono",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+        "hot": 53,
+        "url": "https://olumino.app",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Top-cited AI scientists at four US companies compared",
+        "hot": 18,
+        "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "George Whitesides, 1939-2026",
+        "hot": 46,
+        "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+        "source": "HackerNews"
+      },
+      {
+        "title": "NormalScript: A perfectly normal scripting language",
+        "hot": 66,
+        "url": "https://psychoscript.com/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "OpenAI may be in cost control mode",
+        "hot": 222,
+        "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+        "hot": 195,
+        "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+        "hot": 105,
+        "url": "https://michidk.github.io/sidebyside/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+        "hot": 270,
+        "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+        "source": "HackerNews"
+      }
+    ],
+    "baidu": [
+      {
+        "title": "暂无数据",
+        "source": "百度"
       }
     ],
     "weibo": [
@@ -205,9 +211,9 @@
         "source": "微博"
       },
       {
-        "title": "华为小折电脑今日开售",
+        "title": "时尚圈也是让徐志胜闯进去了",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%B0%8F%E6%8A%98%E7%94%B5%E8%84%91%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E5%B0%9A%E5%9C%88%E4%B9%9F%E6%98%AF%E8%AE%A9%E5%BE%90%E5%BF%97%E8%83%9C%E9%97%AF%E8%BF%9B%E5%8E%BB%E4%BA%86",
         "source": "微博"
       },
       {
@@ -229,6 +235,12 @@
         "source": "微博"
       },
       {
+        "title": "医生辟谣开塞露成护肤神药",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E8%BE%9F%E8%B0%A3%E5%BC%80%E5%A1%9E%E9%9C%B2%E6%88%90%E6%8A%A4%E8%82%A4%E7%A5%9E%E8%8D%AF",
+        "source": "微博"
+      },
+      {
         "title": "东北老丈人搭大炕全村围观",
         "hot": "",
         "url": "https://s.weibo.com/weibo?q=%E4%B8%9C%E5%8C%97%E8%80%81%E4%B8%88%E4%BA%BA%E6%90%AD%E5%A4%A7%E7%82%95%E5%85%A8%E6%9D%91%E5%9B%B4%E8%A7%82",
@@ -247,9 +259,9 @@
         "source": "微博"
       },
       {
-        "title": "武大调查谈话238人次",
+        "title": "中纪委一天连打三虎",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%AD%A6%E5%A4%A7%E8%B0%83%E6%9F%A5%E8%B0%88%E8%AF%9D238%E4%BA%BA%E6%AC%A1",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B8%80%E5%A4%A9%E8%BF%9E%E6%89%93%E4%B8%89%E8%99%8E",
         "source": "微博"
       },
       {
@@ -265,15 +277,9 @@
         "source": "微博"
       },
       {
-        "title": "许飞怎么这么多料",
+        "title": "至今觉得厉娜0错",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E6%80%8E%E4%B9%88%E8%BF%99%E4%B9%88%E5%A4%9A%E6%96%99",
-        "source": "微博"
-      },
-      {
-        "title": "徐璐在一众欧美模特里也丝毫不输",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E7%92%90%E5%9C%A8%E4%B8%80%E4%BC%97%E6%AC%A7%E7%BE%8E%E6%A8%A1%E7%89%B9%E9%87%8C%E4%B9%9F%E4%B8%9D%E6%AF%AB%E4%B8%8D%E8%BE%93",
+        "url": "https://s.weibo.com/weibo?q=%E8%87%B3%E4%BB%8A%E8%A7%89%E5%BE%97%E5%8E%89%E5%A8%9C0%E9%94%99",
         "source": "微博"
       }
     ],
@@ -286,7 +292,7 @@
       },
       {
         "title": "A社曝光了一份AI整顿职场魔幻实录，请甩给你那位沉迷AI提效的老板",
-        "hot": 24,
+        "hot": 27,
         "url": "https://www.36kr.com/p/4085842489731719",
         "source": "36氪"
       },
@@ -303,15 +309,15 @@
         "source": "36氪"
       },
       {
-        "title": "AI���火的时候，最赚钱的是一块布",
-        "hot": 51,
-        "url": "https://www.36kr.com/p/4085169946159492",
-        "source": "36氪"
-      },
-      {
         "title": "GPT-6 Astra或已发现大一统理论？斯坦福物理论文引热议",
         "hot": 31,
         "url": "https://www.36kr.com/p/4086372097206921",
+        "source": "36氪"
+      },
+      {
+        "title": "AI最火的时候，最赚钱的是一块布",
+        "hot": 52,
+        "url": "https://www.36kr.com/p/4085169946159492",
         "source": "36氪"
       },
       {
@@ -369,12 +375,6 @@
         "source": "36氪"
       }
     ],
-    "baidu": [
-      {
-        "title": "暂无数据",
-        "source": "百度"
-      }
-    ],
     "juejin": [
       {
         "title": "SpringBoot4.2正式发布，人麻了！",
@@ -384,7 +384,7 @@
       },
       {
         "title": "前端转全栈别死记硬背，要学会后端看项目的思维",
-        "hot": 945,
+        "hot": 954,
         "url": "https://juejin.cn/post/7711308296166129698",
         "source": "掘金"
       },
@@ -396,7 +396,7 @@
       },
       {
         "title": "年终总结，这可能是程序员最后一个冬天了",
-        "hot": 405,
+        "hot": 450,
         "url": "https://juejin.cn/post/7712359514976731177",
         "source": "掘金"
       },
@@ -426,13 +426,13 @@
       },
       {
         "title": "为什么成熟 Android 项目几乎看不到 IdleHandler？",
-        "hot": 252,
+        "hot": 270,
         "url": "https://juejin.cn/post/7711955915188240384",
         "source": "掘金"
       },
       {
         "title": "线上突发大面积白屏，排查一天后，我发现是 `JSON.parse` 背了锅",
-        "hot": 252,
+        "hot": 261,
         "url": "https://juejin.cn/post/7711915889649647659",
         "source": "掘金"
       },
@@ -456,13 +456,13 @@
       },
       {
         "title": "大模型蒸馏到底在蒸什么？一篇文章搞懂知识蒸馏概念",
-        "hot": 189,
+        "hot": 198,
         "url": "https://juejin.cn/post/7712021656399675407",
         "source": "掘金"
       },
       {
-        "title": "当 Claude 开始反对蒸馏��我想起了那 700 万份盗版书籍",
-        "hot": 189,
+        "title": "当 Claude 开始反对��馏，我想起了那 700 万份盗版书籍",
+        "hot": 198,
         "url": "https://juejin.cn/post/7712021656399134735",
         "source": "掘金"
       }
@@ -471,63 +471,63 @@
   "github": [
     {
       "title": "Marvisak/VIctory —— An attempt at running GTA VI on PC",
-      "hot": "⭐ 13316",
+      "hot": "⭐ 13334",
       "url": "https://github.com/Marvisak/VIctory",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "xcl-dev/xcl —— Xbox Series compatibility layer for Wind",
-      "hot": "⭐ 8596",
+      "hot": "⭐ 8600",
       "url": "https://github.com/xcl-dev/xcl",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "4lwayz/portwatch-vi —— Does GTA VI run on PC yet? A live tracke",
-      "hot": "⭐ 5688",
+      "hot": "⭐ 5716",
       "url": "https://github.com/4lwayz/portwatch-vi",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "AFK-surf/xnulinux —— XNU as a loadable kernel module inside L",
-      "hot": "⭐ 4233",
+      "hot": "⭐ 4235",
       "url": "https://github.com/AFK-surf/xnulinux",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "EL4CTEO/fast-anything —— Don't rewrite it in Rust. Rewrite the 5%",
-      "hot": "⭐ 4215",
+      "hot": "⭐ 4221",
       "url": "https://github.com/EL4CTEO/fast-anything",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "fxceless/victory-fork —— Work-in-progress fork of VIctory: gettin",
-      "hot": "⭐ 3271",
+      "hot": "⭐ 3275",
       "url": "https://github.com/fxceless/victory-fork",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
-      "title": "iamajmeena/neonclipping —— Paste a link, get captioned 9:16 clips i",
-      "hot": "⭐ 2717",
-      "url": "https://github.com/iamajmeena/neonclipping",
-      "source": "GitHub",
-      "tag": "Python"
-    },
-    {
       "title": "Belobug/VIctory-Belobug-AMD",
-      "hot": "⭐ 2704",
+      "hot": "⭐ 2765",
       "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
+      "title": "iamajmeena/neonclipping —— Paste a link, get captioned 9:16 clips i",
+      "hot": "⭐ 2718",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "source": "GitHub",
+      "tag": "Python"
+    },
+    {
       "title": "ubiquitarianism/leonida —— A continuation of Leonida, the Xbox > PC",
-      "hot": "⭐ 2525",
+      "hot": "⭐ 2527",
       "url": "https://github.com/ubiquitarianism/leonida",
       "source": "GitHub",
       "tag": "Python"
@@ -548,28 +548,28 @@
     },
     {
       "title": "omonkeyz/xbox-emulator —— Progress notes for running Xbox Series X",
-      "hot": "⭐ 1851",
+      "hot": "⭐ 1850",
       "url": "https://github.com/omonkeyz/xbox-emulator",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "avatarmanz/VIctory-7900XTX —— Goal: an Xbox Series title (your own dum",
-      "hot": "⭐ 1838",
+      "hot": "⭐ 1840",
       "url": "https://github.com/avatarmanz/VIctory-7900XTX",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "INK-Q/agy-fast —— Non-invasive MCP accelerator plugin for ",
-      "hot": "⭐ 1705",
+      "hot": "⭐ 1706",
       "url": "https://github.com/INK-Q/agy-fast",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "crhywun/g1-acq",
-      "hot": "⭐ 1624",
+      "hot": "⭐ 1629",
       "url": "https://github.com/crhywun/g1-acq",
       "source": "GitHub",
       "tag": "JavaScript"
