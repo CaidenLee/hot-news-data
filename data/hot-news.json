@@ -1,41 +1,47 @@
 {
-  "updatedAt": "2026-11-26T12:30:31.111Z",
+  "updatedAt": "2026-11-26T13:00:32.668Z",
   "dailyhot": {
     "hackernews": [
       {
+        "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+        "hot": 38,
+        "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+        "source": "HackerNews"
+      },
+      {
         "title": "Intel One Mono font",
-        "hot": 120,
+        "hot": 151,
         "url": "https://github.com/intel/intel-one-mono",
         "source": "HackerNews"
       },
       {
         "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-        "hot": 1649,
+        "hot": 1675,
         "url": "https://scottaaronson.blog/?p=10379",
         "source": "HackerNews"
       },
       {
         "title": "1Password Security Incident",
-        "hot": 1485,
+        "hot": 1500,
         "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
         "source": "HackerNews"
       },
       {
         "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-        "hot": 124,
+        "hot": 134,
         "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
         "source": "HackerNews"
       },
       {
         "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "hot": 429,
+        "hot": 451,
         "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
         "source": "HackerNews"
       },
       {
-        "title": "Moat: Your OpenRouter Replacement",
-        "hot": 105,
-        "url": "https://commandcode.ai/moat",
+        "title": "Much shorter version of GRH Lean verification from Anthropic",
+        "hot": 483,
+        "url": "https://github.com/lsernau/grh-lean",
         "source": "HackerNews"
       },
       {
@@ -45,64 +51,242 @@
         "source": "HackerNews"
       },
       {
-        "title": "Much shorter version of GRH Lean verification from Anthropic",
-        "hot": 475,
-        "url": "https://github.com/lsernau/grh-lean",
-        "source": "HackerNews"
-      },
-      {
         "title": "Collection of preserved UI style guides",
-        "hot": 251,
+        "hot": 263,
         "url": "https://aresluna.org/ui-style-guides/",
         "source": "HackerNews"
       },
       {
         "title": "Minipg: PostgreSQL as a Single Executable",
-        "hot": 161,
+        "hot": 172,
         "url": "https://progrium.github.io/minipg/",
         "source": "HackerNews"
       },
       {
-        "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-        "hot": 70,
-        "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+        "title": "Moat: Your OpenRouter Replacement",
+        "hot": 114,
+        "url": "https://commandcode.ai/moat",
         "source": "HackerNews"
       },
       {
         "title": "Tell HN: Lots of Ask HNs again",
-        "hot": 290,
+        "hot": 299,
         "url": "https://news.ycombinator.com/item?id=50649864",
         "source": "HackerNews"
       },
       {
-        "title": "Show HN: Synth Patch Hero",
-        "hot": 68,
-        "url": "https://swarkentin.github.io/synth-patch-hero/",
-        "source": "HackerNews"
-      },
-      {
         "title": "Slow Ubuntu security response times",
-        "hot": 327,
+        "hot": 335,
         "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
         "source": "HackerNews"
       },
       {
+        "title": "Show HN: Synth Patch Hero",
+        "hot": 76,
+        "url": "https://swarkentin.github.io/synth-patch-hero/",
+        "source": "HackerNews"
+      },
+      {
         "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-        "hot": 397,
+        "hot": 401,
         "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
         "source": "HackerNews"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "如何看待黎曼猜想证明已被压缩 99.5% 到 7.6 万行？",
+        "hot": 22010000,
+        "url": "https://www.zhihu.com/question/2109221701389239300",
+        "source": "知乎"
+      },
+      {
+        "title": "网红甲亢哥百米跑出 10.35 秒，前 15 米加速度比博尔特还快，这一成绩含金量如何？",
+        "hot": 4250000,
+        "url": "https://www.zhihu.com/question/2108516163269439700",
+        "source": "知乎"
+      },
+      {
+        "title": "如何评价《中华小当家》里小当家把朝天椒、蒜蓉和豆瓣酱加到通心粉里，并做成饺子，落败被盘古处决的剧情？",
+        "hot": 2960000,
+        "url": "https://www.zhihu.com/question/1930259032301611000",
+        "source": "知乎"
+      },
+      {
+        "title": "两地通报女教授介入已婚副校长家庭事件，安大副校长付某、武大曾某某被免职，有哪些值得关注的信息？",
+        "hot": 2910000,
+        "url": "https://www.zhihu.com/question/2109373596413818400",
+        "source": "知乎"
+      },
+      {
+        "title": "业主搜索发现有 WiFi 名诅咒自家 8 岁孩子，怀疑是楼下邻居所为，该如何合法维权？",
+        "hot": 2850000,
+        "url": "https://www.zhihu.com/question/2108982413300865000",
+        "source": "知乎"
+      },
+      {
+        "title": "网友爆料小米YU7车型前视摄像头集中故障，行车��像无法录制，前向防碰撞失效，是批次质量问题吗？",
+        "hot": 2550000,
+        "url": "https://www.zhihu.com/question/2109256447582266600",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待北大、清华在密云、通州新建校区而不落户雄安？",
+        "hot": 2320000,
+        "url": "https://www.zhihu.com/question/2103097723176198400",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待普京在深圳下榻期间喜欢上酒店粤菜，离店前还特意打包带上飞机？",
+        "hot": 2230000,
+        "url": "https://www.zhihu.com/question/2109257162182452000",
+        "source": "知乎"
+      },
+      {
+        "title": "市民花 750 元为空调移机，5 年后拆机才发现铜管���换成铝管，铜管和铝管有啥不同？还能维权吗？",
+        "hot": 2140000,
+        "url": "https://www.zhihu.com/question/2108865051851317800",
+        "source": "知乎"
+      },
+      {
+        "title": "如果一个月给你8000，但办公室永远只有你一个人，连说话的人都没有，你能坚持多久？",
+        "hot": 2050000,
+        "url": "https://www.zhihu.com/question/2107406132625069600",
+        "source": "知乎"
+      },
+      {
+        "title": "曝梁文锋身家攀升至 550 亿美元，成全球最富 AI 模型创始人，是真的吗？意味着什么？",
+        "hot": 1920000,
+        "url": "https://www.zhihu.com/question/2109197560539604500",
+        "source": "知乎"
+      },
+      {
+        "title": "厦航年利润7亿人民币，现在却突然订了74亿美元波音飞机，相当70 年利润，这笔账风险落在谁身上？",
+        "hot": 1780000,
+        "url": "https://www.zhihu.com/question/2108699823377589200",
+        "source": "知乎"
+      },
+      {
+        "title": "如何看待网警通报有人针对华为、鸿蒙、问界发布数百条不实评论，捏造“千亿营销”虚假信息被行政处罚？",
+        "hot": 1640000,
+        "url": "https://www.zhihu.com/question/2108999091560642000",
+        "source": "知乎"
+      },
+      {
+        "title": "为什么汉语里「注销」既能表示永久删除账户，又能表示退出登录？",
+        "hot": 1500000,
+        "url": "https://www.zhihu.com/question/638943754",
+        "source": "知乎"
+      },
+      {
+        "title": "Intel在CPU上似乎对AMD实现了性能和市占率上的再次压制？发生什么了？",
+        "hot": 1360000,
+        "url": "https://www.zhihu.com/question/2108543675601101600",
+        "source": "知乎"
+      }
+    ],
+    "weibo": [
+      {
+        "title": "武大教师曾某某被举报事件调查结果",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E6%AD%A6%E5%A4%A7%E6%95%99%E5%B8%88%E6%9B%BE%E6%9F%90%E6%9F%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C",
+        "source": "微博"
+      },
+      {
+        "title": "董明珠称汽车行业有老鼠",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E6%9C%89%E8%80%81%E9%BC%A0",
+        "source": "微博"
+      },
+      {
+        "title": "点赞长春大冬会",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E7%82%B9%E8%B5%9E%E9%95%BF%E6%98%A5%E5%A4%A7%E5%86%AC%E4%BC%9A",
+        "source": "微博"
+      },
+      {
+        "title": "厉娜预判了网友的预判",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E9%A2%84%E5%88%A4%E4%BA%86%E7%BD%91%E5%8F%8B%E7%9A%84%E9%A2%84%E5%88%A4",
+        "source": "微博"
+      },
+      {
+        "title": "安大副校长付某被免职",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%AE%89%E5%A4%A7%E5%89%AF%E6%A0%A1%E9%95%BF%E4%BB%98%E6%9F%90%E8%A2%AB%E5%85%8D%E8%81%8C",
+        "source": "微博"
+      },
+      {
+        "title": "许飞朋友发声",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E6%9C%8B%E5%8F%8B%E5%8F%91%E5%A3%B0",
+        "source": "微博"
+      },
+      {
+        "title": "今日辟谣",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3",
+        "source": "微博"
+      },
+      {
+        "title": "中国六座城市跻身世界一线",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%85%AD%E5%BA%A7%E5%9F%8E%E5%B8%82%E8%B7%BB%E8%BA%AB%E4%B8%96%E7%95%8C%E4%B8%80%E7%BA%BF",
+        "source": "微博"
+      },
+      {
+        "title": "妻子说蔡磊做的事对家庭是毁灭的",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%A6%BB%E5%AD%90%E8%AF%B4%E8%94%A1%E7%A3%8A%E5%81%9A%E7%9A%84%E4%BA%8B%E5%AF%B9%E5%AE%B6%E5%BA%AD%E6%98%AF%E6%AF%81%E7%81%AD%E7%9A%84",
+        "source": "微博"
+      },
+      {
+        "title": "后会友期看得我精神哮喘了",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%9C%8B%E5%BE%97%E6%88%91%E7%B2%BE%E7%A5%9E%E5%93%AE%E5%96%98%E4%BA%86",
+        "source": "微博"
+      },
+      {
+        "title": "许家印被公开谴责",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%85%AC%E5%BC%80%E8%B0%B4%E8%B4%A3",
+        "source": "微博"
+      },
+      {
+        "title": "三只松鼠员工必须用鼠取名",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%91%98%E5%B7%A5%E5%BF%85%E9%A1%BB%E7%94%A8%E9%BC%A0%E5%8F%96%E5%90%8D",
+        "source": "微博"
+      },
+      {
+        "title": "周杰伦转发中国台北帖文绿媒破防",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%BD%AC%E5%8F%91%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E5%B8%96%E6%96%87%E7%BB%BF%E5%AA%92%E7%A0%B4%E9%98%B2",
+        "source": "微博"
+      },
+      {
+        "title": "张萌 许飞需要我错怪你了这句话",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%90%8C%20%E8%AE%B8%E9%A3%9E%E9%9C%80%E8%A6%81%E6%88%91%E9%94%99%E6%80%AA%E4%BD%A0%E4%BA%86%E8%BF%99%E5%8F%A5%E8%AF%9D",
+        "source": "微博"
+      },
+      {
+        "title": "向华强不允许女儿来见他",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E5%8D%8E%E5%BC%BA%E4%B8%8D%E5%85%81%E8%AE%B8%E5%A5%B3%E5%84%BF%E6%9D%A5%E8%A7%81%E4%BB%96",
+        "source": "微博"
       }
     ],
     "juejin": [
       {
         "title": "SpringBoot4.2正式发布，人麻了！",
-        "hot": 1413,
+        "hot": 1422,
         "url": "https://juejin.cn/post/7711285721428492303",
         "source": "掘金"
       },
       {
         "title": "前端转全栈别死记硬背，要学会后端看项目的思维",
-        "hot": 837,
+        "hot": 846,
         "url": "https://juejin.cn/post/7711308296166129698",
         "source": "掘金"
       },
@@ -120,20 +304,20 @@
       },
       {
         "title": "阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年",
-        "hot": 315,
+        "hot": 324,
         "url": "https://juejin.cn/post/7711283330075377698",
+        "source": "掘金"
+      },
+      {
+        "title": "年终总结，这可能是程序员最后一个冬天了",
+        "hot": 306,
+        "url": "https://juejin.cn/post/7712359514976731177",
         "source": "掘金"
       },
       {
         "title": "写 UI 自动化的同学，这个 2.3万 Star 的自动化Agent 让浏览器自己测试！",
         "hot": 297,
         "url": "https://juejin.cn/post/7711658681012174883",
-        "source": "掘金"
-      },
-      {
-        "title": "年终总结，这可能是程序员最后一个冬天了",
-        "hot": 288,
-        "url": "https://juejin.cn/post/7712359514976731177",
         "source": "掘金"
       },
       {
@@ -179,108 +363,10 @@
         "source": "掘金"
       },
       {
-        "title": "🤔🤔Dify 不必推倒重来，把重逻辑下沉到 LangGraph",
+        "title": "🤔🤔Dify 不必推倒重来，把重���辑下沉到 LangGraph",
         "hot": 171,
         "url": "https://juejin.cn/post/7711370659322265627",
         "source": "掘金"
-      }
-    ],
-    "zhihu": [
-      {
-        "title": "如何看待黎曼猜想证明已被压缩 99.5% 到 7.6 万行？",
-        "hot": 21050000,
-        "url": "https://www.zhihu.com/question/2109221701389239300",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待普京在深圳下榻期间喜欢上酒店粤菜，离店前还特意打包带上飞机？",
-        "hot": 5480000,
-        "url": "https://www.zhihu.com/question/2109257162182452000",
-        "source": "知乎"
-      },
-      {
-        "title": "网红甲亢哥百米跑出 10.35 秒，前 15 米加速度比博尔特还快，这一成绩含金量如何？",
-        "hot": 4220000,
-        "url": "https://www.zhihu.com/question/2108516163269439700",
-        "source": "知乎"
-      },
-      {
-        "title": "如何评价《中华小当家》里小当家把朝天椒、蒜蓉和豆瓣酱加到通心粉里，并做成饺子，落败被盘古处决的剧情？",
-        "hot": 2830000,
-        "url": "https://www.zhihu.com/question/1930259032301611000",
-        "source": "知乎"
-      },
-      {
-        "title": "业主搜索发现有 WiFi 名诅咒自家 8 岁孩子，怀疑是楼下邻居所为，该如何合法维权？",
-        "hot": 2710000,
-        "url": "https://www.zhihu.com/question/2108982413300865000",
-        "source": "知乎"
-      },
-      {
-        "title": "如果一个月给你8000，但办公室永远只有你一个人，连说话的人都没有，你能坚持多久？",
-        "hot": 2600000,
-        "url": "https://www.zhihu.com/question/2107406132625069600",
-        "source": "知乎"
-      },
-      {
-        "title": "网友爆料小米YU7车型前视摄像头集中故障，行车录像无法录制，前向防碰撞失效，是批次质量问题吗？",
-        "hot": 2380000,
-        "url": "https://www.zhihu.com/question/2109256447582266600",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待北大、清华在密云、通州新建校区而不落户雄安？",
-        "hot": 2250000,
-        "url": "https://www.zhihu.com/question/2103097723176198400",
-        "source": "知乎"
-      },
-      {
-        "title": "市民花 750 元为空调移机，5 年后拆机才发现铜管被换成铝管，铜管和铝管有啥不同？还能维权吗？",
-        "hot": 2070000,
-        "url": "https://www.zhihu.com/question/2108865051851317800",
-        "source": "知乎"
-      },
-      {
-        "title": "厦航年利润7亿人民币，现在却突然订了74亿美元波音飞机，相当70 年利润，这笔账风险落在谁身上？",
-        "hot": 1760000,
-        "url": "https://www.zhihu.com/question/2108699823377589200",
-        "source": "知乎"
-      },
-      {
-        "title": "曝梁文锋身家攀升至 550 亿美元，成全球最富 AI 模型创始人，是真的吗？意味着什么？",
-        "hot": 1670000,
-        "url": "https://www.zhihu.com/question/2109197560539604500",
-        "source": "知乎"
-      },
-      {
-        "title": "如何看待网警通报有人针对华为、鸿蒙、问界发布数百条不实评论，捏造“千亿营销”虚假信息被行政处罚？",
-        "hot": 1590000,
-        "url": "https://www.zhihu.com/question/2108999091560642000",
-        "source": "知乎"
-      },
-      {
-        "title": "S16BLG一串四LCK夺冠，和S13T1一串四LPL夺冠哪个含金量更高？",
-        "hot": 1520000,
-        "url": "https://www.zhihu.com/question/2108347439509934000",
-        "source": "知乎"
-      },
-      {
-        "title": "为什么汉语里「注销」既能表示永久删除账户，又能表示退出登录？",
-        "hot": 1510000,
-        "url": "https://www.zhihu.com/question/638943754",
-        "source": "知乎"
-      },
-      {
-        "title": "Intel在CPU上似乎对AMD实现了性能和市占率上的再次压制？发生什么了？",
-        "hot": 1420000,
-        "url": "https://www.zhihu.com/question/2108543675601101600",
-        "source": "知乎"
-      }
-    ],
-    "baidu": [
-      {
-        "title": "暂无数据",
-        "source": "百度"
       }
     ],
     "36kr": [
@@ -292,13 +378,13 @@
       },
       {
         "title": "AI炒股新玩法，盯上3000万散户，提前24小时预测交易行为",
-        "hot": 41,
+        "hot": 43,
         "url": "https://www.36kr.com/p/4085120459172228",
         "source": "36氪"
       },
       {
         "title": "A社曝光了一份AI整顿职场魔幻实录，请甩给你那位沉迷AI提效的老板",
-        "hot": 10,
+        "hot": 12,
         "url": "https://www.36kr.com/p/4085842489731719",
         "source": "36氪"
       },
@@ -358,7 +444,7 @@
       },
       {
         "title": "GPT-6 Astra或已发现大一统理论？斯坦福物理论文引热议",
-        "hot": 19,
+        "hot": 24,
         "url": "https://www.36kr.com/p/4086372097206921",
         "source": "36氪"
       },
@@ -375,166 +461,80 @@
         "source": "36氪"
       }
     ],
-    "weibo": [
+    "baidu": [
       {
-        "title": "武大教师曾某某被举报事件调查结果",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%AD%A6%E5%A4%A7%E6%95%99%E5%B8%88%E6%9B%BE%E6%9F%90%E6%9F%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C",
-        "source": "微博"
-      },
-      {
-        "title": "董明珠称汽车行业有老鼠",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E6%9C%89%E8%80%81%E9%BC%A0",
-        "source": "微博"
-      },
-      {
-        "title": "中国六座城市跻身世界一线",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%85%AD%E5%BA%A7%E5%9F%8E%E5%B8%82%E8%B7%BB%E8%BA%AB%E4%B8%96%E7%95%8C%E4%B8%80%E7%BA%BF",
-        "source": "微博"
-      },
-      {
-        "title": "问界新M7开启预售",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8C%E6%96%B0M7%E5%BC%80%E5%90%AF%E9%A2%84%E5%94%AE",
-        "source": "微博"
-      },
-      {
-        "title": "厉娜预判了网友的预判",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E9%A2%84%E5%88%A4%E4%BA%86%E7%BD%91%E5%8F%8B%E7%9A%84%E9%A2%84%E5%88%A4",
-        "source": "微博"
-      },
-      {
-        "title": "武大教师违规使用科研经费被免职",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%AD%A6%E5%A4%A7%E6%95%99%E5%B8%88%E8%BF%9D%E8%A7%84%E4%BD%BF%E7%94%A8%E7%A7%91%E7%A0%94%E7%BB%8F%E8%B4%B9%E8%A2%AB%E5%85%8D%E8%81%8C",
-        "source": "微博"
-      },
-      {
-        "title": "许飞朋友发声",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E6%9C%8B%E5%8F%8B%E5%8F%91%E5%A3%B0",
-        "source": "微博"
-      },
-      {
-        "title": "今日辟谣",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3",
-        "source": "微博"
-      },
-      {
-        "title": "安大副校长付某被免职",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%AE%89%E5%A4%A7%E5%89%AF%E6%A0%A1%E9%95%BF%E4%BB%98%E6%9F%90%E8%A2%AB%E5%85%8D%E8%81%8C",
-        "source": "微博"
-      },
-      {
-        "title": "妻子说蔡磊做的事对家庭是毁灭的",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%A6%BB%E5%AD%90%E8%AF%B4%E8%94%A1%E7%A3%8A%E5%81%9A%E7%9A%84%E4%BA%8B%E5%AF%B9%E5%AE%B6%E5%BA%AD%E6%98%AF%E6%AF%81%E7%81%AD%E7%9A%84",
-        "source": "微博"
-      },
-      {
-        "title": "城市轨道交通的万里版图",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%9F%8E%E5%B8%82%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A%E7%9A%84%E4%B8%87%E9%87%8C%E7%89%88%E5%9B%BE",
-        "source": "微博"
-      },
-      {
-        "title": "许家印被公开谴责",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%85%AC%E5%BC%80%E8%B0%B4%E8%B4%A3",
-        "source": "微博"
-      },
-      {
-        "title": "三只松鼠员工必须用鼠取名",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%91%98%E5%B7%A5%E5%BF%85%E9%A1%BB%E7%94%A8%E9%BC%A0%E5%8F%96%E5%90%8D",
-        "source": "微博"
-      },
-      {
-        "title": "向华强不允许女儿来见他",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E5%8D%8E%E5%BC%BA%E4%B8%8D%E5%85%81%E8%AE%B8%E5%A5%B3%E5%84%BF%E6%9D%A5%E8%A7%81%E4%BB%96",
-        "source": "微博"
-      },
-      {
-        "title": "周杰伦转发中国台北帖文绿媒破防",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%BD%AC%E5%8F%91%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E5%B8%96%E6%96%87%E7%BB%BF%E5%AA%92%E7%A0%B4%E9%98%B2",
-        "source": "微博"
+        "title": "暂无数据",
+        "source": "百度"
       }
     ]
   },
   "github": [
     {
       "title": "Marvisak/VIctory —— An attempt at running GTA VI on PC",
-      "hot": "⭐ 12939",
+      "hot": "⭐ 12954",
       "url": "https://github.com/Marvisak/VIctory",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "xcl-dev/xcl —— Xbox Series compatibility layer for Wind",
-      "hot": "⭐ 8437",
+      "hot": "⭐ 8446",
       "url": "https://github.com/xcl-dev/xcl",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "4lwayz/portwatch-vi —— Does GTA VI run on PC yet? A live tracke",
-      "hot": "⭐ 4927",
+      "hot": "⭐ 4963",
       "url": "https://github.com/4lwayz/portwatch-vi",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "EL4CTEO/fast-anything —— Don't rewrite it in Rust. Rewrite the 5%",
-      "hot": "⭐ 4119",
+      "hot": "⭐ 4124",
       "url": "https://github.com/EL4CTEO/fast-anything",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "AFK-surf/xnulinux —— XNU as a loadable kernel module inside L",
-      "hot": "⭐ 4109",
+      "hot": "⭐ 4116",
       "url": "https://github.com/AFK-surf/xnulinux",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "fxceless/victory-fork —— Work-in-progress fork of VIctory: gettin",
-      "hot": "⭐ 3194",
+      "hot": "⭐ 3193",
       "url": "https://github.com/fxceless/victory-fork",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "iamajmeena/neonclipping —— Paste a link, get captioned 9:16 clips i",
-      "hot": "⭐ 2672",
+      "hot": "⭐ 2674",
       "url": "https://github.com/iamajmeena/neonclipping",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "ubiquitarianism/leonida —— A continuation of Leonida, the Xbox > PC",
-      "hot": "⭐ 2423",
+      "hot": "⭐ 2430",
       "url": "https://github.com/ubiquitarianism/leonida",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "R0Y00/Xbox2Windows —— Static recompilation research for Xbox S",
-      "hot": "⭐ 1962",
+      "hot": "⭐ 1961",
       "url": "https://github.com/R0Y00/Xbox2Windows",
       "source": "GitHub",
       "tag": "Python"
     },
     {
       "title": "os6/nospeaker —— make your macbook's trackpad talk using ",
-      "hot": "⭐ 1920",
+      "hot": "⭐ 1922",
       "url": "https://github.com/os6/nospeaker",
       "source": "GitHub",
       "tag": "Swift"
@@ -548,28 +548,28 @@
     },
     {
       "title": "Belobug/VIctory-Belobug-AMD",
-      "hot": "⭐ 1727",
+      "hot": "⭐ 1733",
       "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "INK-Q/agy-fast —— Non-invasive MCP accelerator plugin for ",
-      "hot": "⭐ 1634",
+      "hot": "⭐ 1639",
       "url": "https://github.com/INK-Q/agy-fast",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "avatarmanz/VIctory-7900XTX —— Goal: an Xbox Series title (your own dum",
-      "hot": "⭐ 1531",
+      "hot": "⭐ 1555",
       "url": "https://github.com/avatarmanz/VIctory-7900XTX",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "crhywun/g1-acq",
-      "hot": "⭐ 1503",
+      "hot": "⭐ 1510",
       "url": "https://github.com/crhywun/g1-acq",
       "source": "GitHub",
       "tag": "JavaScript"
