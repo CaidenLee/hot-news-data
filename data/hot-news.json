@@ -1,191 +1,301 @@
 {
-  "updatedAt": "2026-11-26T07:00:31.215Z",
+  "updatedAt": "2026-11-26T07:30:31.667Z",
   "dailyhot": {
-    "hackernews": [
-      {
-        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-        "hot": 1299,
-        "url": "https://scottaaronson.blog/?p=10379",
-        "source": "HackerNews"
-      },
-      {
-        "title": "1Password Security Incident",
-        "hot": 1331,
-        "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-        "hot": 33,
-        "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Much shorter version of GRH Lean verification from Anthropic",
-        "hot": 407,
-        "url": "https://github.com/lsernau/grh-lean",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Tell HN: Lots of Ask HNs again",
-        "hot": 222,
-        "url": "https://news.ycombinator.com/item?id=50649864",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Minipg: PostgreSQL as a Single Executable",
-        "hot": 61,
-        "url": "https://progrium.github.io/minipg/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Collection of preserved UI style guides",
-        "hot": 111,
-        "url": "https://aresluna.org/ui-style-guides/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "What VP ≠ VNP Means (In 3 Minutes)",
-        "hot": 87,
-        "url": "https://www.friedgil.com/vpvnp",
-        "source": "HackerNews"
-      },
-      {
-        "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
-        "hot": 59,
-        "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Slow Ubuntu security response times",
-        "hot": 245,
-        "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-        "source": "HackerNews"
-      },
-      {
-        "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-        "hot": 346,
-        "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-        "source": "HackerNews"
-      },
-      {
-        "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-        "hot": 465,
-        "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-        "source": "HackerNews"
-      },
-      {
-        "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-        "hot": 144,
-        "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Show HN: Synth Patch Hero",
-        "hot": 7,
-        "url": "https://swarkentin.github.io/synth-patch-hero/",
-        "source": "HackerNews"
-      },
-      {
-        "title": "Bare Metal Qwen",
-        "hot": 118,
-        "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-        "source": "HackerNews"
-      }
-    ],
     "zhihu": [
       {
         "title": "如何看待美国陆军在爱荷华州就地受控引爆约 5 吨劣化叠氮化铅？这对人和环境的影响有多大？",
-        "hot": 34660000,
+        "hot": 35360000,
         "url": "https://www.zhihu.com/question/2108344069512492000",
         "source": "知乎"
       },
       {
         "title": "多家机器人公司进入破产清算，两年近30家机器人公司倒闭，机器人赛道融资火热，为什么还会出现企业倒闭潮？",
-        "hot": 7480000,
+        "hot": 7500000,
         "url": "https://www.zhihu.com/question/2108863007048591400",
         "source": "知乎"
       },
       {
-        "title": "国产可口可乐不再标生产日期，客服称新国标允许保质期 6 个月以上可只标「到期日」，怎样看待这一变化？",
-        "hot": 4110000,
-        "url": "https://www.zhihu.com/question/2108687089319372000",
-        "source": "知乎"
-      },
-      {
         "title": "如何看待黎曼猜想证明已被压缩 99.5% 到 7.6 万行？",
-        "hot": 3380000,
+        "hot": 4250000,
         "url": "https://www.zhihu.com/question/2109221701389239300",
         "source": "知乎"
       },
       {
+        "title": "国产可口可乐不再标生产日期，客服称新国标允许保质期 6 个月以上可只标「到期日」，怎样看待这一变化？",
+        "hot": 4210000,
+        "url": "https://www.zhihu.com/question/2108687089319372000",
+        "source": "知乎"
+      },
+      {
         "title": "网红甲亢哥百米跑出 10.35 秒，前 15 米加速度比博尔特还快，这一成绩含金量如何？",
-        "hot": 2780000,
+        "hot": 2990000,
         "url": "https://www.zhihu.com/question/2108516163269439700",
         "source": "知乎"
       },
       {
-        "title": "你是否支持在长途普速火车末尾加挂一节观景娱乐车厢用来缓解长时间坐车的疲劳？",
-        "hot": 2620000,
-        "url": "https://www.zhihu.com/question/2107571003635263200",
+        "title": "如果一个月给你8000，但办公室永远只有你一个人，连说话的人都没有，你能坚持多久？",
+        "hot": 2640000,
+        "url": "https://www.zhihu.com/question/2107406132625069600",
         "source": "知乎"
       },
       {
         "title": "外交部回应美国被曝将对中国等十几国加征关税，称反对以产能过剩为借口政治操弄，如何解读？美国到底图什么？",
-        "hot": 2330000,
+        "hot": 2400000,
         "url": "https://www.zhihu.com/question/2108982669157426000",
         "source": "知乎"
       },
       {
         "title": "如何评价数学家Calegari认为黎曼猜想的证明过程只是从图书馆的书架上拿下来了一本书？",
-        "hot": 2250000,
+        "hot": 2340000,
         "url": "https://www.zhihu.com/question/2108868229795943000",
         "source": "知乎"
       },
       {
-        "title": "曝梁文锋身家攀升至 550 亿美元，成全球最富 AI 模型创始人，是真的吗？意味着什么？",
-        "hot": 2110000,
-        "url": "https://www.zhihu.com/question/2109197560539604500",
+        "title": "你是否支持在长途普速火车末尾加挂一节观景娱乐车厢用来缓解长时间坐车的疲劳？",
+        "hot": 2180000,
+        "url": "https://www.zhihu.com/question/2107571003635263200",
         "source": "知乎"
       },
       {
         "title": "为什么烧烤店要用铁签子？客人要求打包怎么办？",
-        "hot": 2070000,
+        "hot": 2110000,
         "url": "https://www.zhihu.com/question/1978722841781360000",
         "source": "知乎"
       },
       {
+        "title": "曝梁文锋身家攀升至 550 亿美元，成全球最富 AI 模型创始人，是真的吗？意味着什么？",
+        "hot": 2080000,
+        "url": "https://www.zhihu.com/question/2109197560539604500",
+        "source": "知乎"
+      },
+      {
         "title": "为什么「不要一直穿同一双鞋」，鞋换着穿有哪些必要性？",
-        "hot": 2020000,
+        "hot": 2040000,
         "url": "https://www.zhihu.com/question/2108218105012937000",
         "source": "知乎"
       },
       {
+        "title": "如何评价《后会友期》第7期？",
+        "hot": 1910000,
+        "url": "https://www.zhihu.com/question/2109271617205450500",
+        "source": "知乎"
+      },
+      {
         "title": "如果有个超级大型的氪金网游，能不能解决一大部分人就业问题？",
-        "hot": 1510000,
+        "hot": 1540000,
         "url": "https://www.zhihu.com/question/2100272422633083600",
         "source": "知乎"
       },
       {
-        "title": "如果一个月给你8000，但办公室永远只有你一个人，连说话的人都没有，你能坚持多久？",
-        "hot": 1430000,
-        "url": "https://www.zhihu.com/question/2107406132625069600",
-        "source": "知乎"
-      },
-      {
-        "title": "数千枚英伟达B300涌入转售市场，是意味着高端算力采购需求在发生变化吗？为啥英伟达仍称市场供不应求？",
-        "hot": 1370000,
-        "url": "https://www.zhihu.com/question/2109206453026124800",
-        "source": "知乎"
-      },
-      {
-        "title": "海军披露珠海航展阵容，现役���战舰艇、航母五件套、无人化装备等集中亮相，体现出我军怎样的作战体系与实力？",
-        "hot": 1350000,
+        "title": "海军披露珠海航展阵容，现役主战舰艇、航母五件套、无人化装备等集中亮相，体现出我军怎样的作战体系与实力？",
+        "hot": 1450000,
         "url": "https://www.zhihu.com/question/2108184119033255000",
         "source": "知乎"
       }
     ],
+    "hackernews": [
+      {
+        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+        "hot": 1347,
+        "url": "https://scottaaronson.blog/?p=10379",
+        "source": "HackerNews"
+      },
+      {
+        "title": "1Password Security Incident",
+        "hot": 1356,
+        "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+        "hot": 51,
+        "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Much shorter version of GRH Lean verification from Anthropic",
+        "hot": 420,
+        "url": "https://github.com/lsernau/grh-lean",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Minipg: PostgreSQL as a Single Executable",
+        "hot": 76,
+        "url": "https://progrium.github.io/minipg/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Tell HN: Lots of Ask HNs again",
+        "hot": 235,
+        "url": "https://news.ycombinator.com/item?id=50649864",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Collection of preserved UI style guides",
+        "hot": 125,
+        "url": "https://aresluna.org/ui-style-guides/",
+        "source": "HackerNews"
+      },
+      {
+        "title": "What VP ≠ VNP Means (In 3 Minutes)",
+        "hot": 102,
+        "url": "https://www.friedgil.com/vpvnp",
+        "source": "HackerNews"
+      },
+      {
+        "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+        "hot": 353,
+        "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Slow Ubuntu security response times",
+        "hot": 254,
+        "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+        "source": "HackerNews"
+      },
+      {
+        "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+        "hot": 64,
+        "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+        "source": "HackerNews"
+      },
+      {
+        "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+        "hot": 468,
+        "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+        "source": "HackerNews"
+      },
+      {
+        "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+        "hot": 168,
+        "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Bare Metal Qwen",
+        "hot": 129,
+        "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+        "source": "HackerNews"
+      },
+      {
+        "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+        "hot": 125,
+        "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+        "source": "HackerNews"
+      }
+    ],
+    "juejin": [
+      {
+        "title": "SpringBoot4.2正式发布，人麻了！",
+        "hot": 1287,
+        "url": "https://juejin.cn/post/7711285721428492303",
+        "source": "掘金"
+      },
+      {
+        "title": "四年前从大厂裸辞到进山修行， 我找到了另一个方向的版本答案。",
+        "hot": 918,
+        "url": "https://juejin.cn/post/7711248788610727945",
+        "source": "掘金"
+      },
+      {
+        "title": "华为园区，为啥碰到的高颜值妹子总是外包牌，华为工牌的基本都是资深大姐...",
+        "hot": 873,
+        "url": "https://juejin.cn/post/7712008429045317666",
+        "source": "掘金"
+      },
+      {
+        "title": "AI 写代码越来越快，程序员为什么反而更累了",
+        "hot": 792,
+        "url": "https://juejin.cn/post/7710966014792810515",
+        "source": "掘金"
+      },
+      {
+        "title": "系统崩了，一屋子人在等 AI 出方案",
+        "hot": 720,
+        "url": "https://juejin.cn/post/7711258065815420964",
+        "source": "掘金"
+      },
+      {
+        "title": "前端转全栈别死记硬背，要学会后端看项目的思维",
+        "hot": 693,
+        "url": "https://juejin.cn/post/7711308296166129698",
+        "source": "掘金"
+      },
+      {
+        "title": "Docker 部署：从镜像构建到容器上线",
+        "hot": 414,
+        "url": "https://juejin.cn/post/7711950881198358562",
+        "source": "掘金"
+      },
+      {
+        "title": "用了三年微前端，我们终于把它拆成了单体应用",
+        "hot": 315,
+        "url": "https://juejin.cn/post/7711319812090560566",
+        "source": "掘金"
+      },
+      {
+        "title": "阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年",
+        "hot": 270,
+        "url": "https://juejin.cn/post/7711283330075377698",
+        "source": "掘金"
+      },
+      {
+        "title": "写 UI 自动化的同学，这个 2.3万 Star 的自动化Agent 让浏览器自己测试！",
+        "hot": 252,
+        "url": "https://juejin.cn/post/7711658681012174883",
+        "source": "掘金"
+      },
+      {
+        "title": "又一款数据库同步神器，2.3K Star的dbswitch",
+        "hot": 243,
+        "url": "https://juejin.cn/post/7711259760092315657",
+        "source": "掘金"
+      },
+      {
+        "title": "Android Keep Rules 解读，直接影响 Google Play 上架和曝光",
+        "hot": 243,
+        "url": "https://juejin.cn/post/7711305356505399350",
+        "source": "掘金"
+      },
+      {
+        "title": "AI 越强，为什么我们反而越来越担心失业？",
+        "hot": 225,
+        "url": "https://juejin.cn/post/7711896764836872192",
+        "source": "掘金"
+      },
+      {
+        "title": "前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录",
+        "hot": 216,
+        "url": "https://juejin.cn/post/7711260888724291620",
+        "source": "掘金"
+      },
+      {
+        "title": "为什么��熟 Android 项目几乎看不到 IdleHandler？",
+        "hot": 198,
+        "url": "https://juejin.cn/post/7711955915188240384",
+        "source": "掘金"
+      }
+    ],
     "weibo": [
+      {
+        "title": "后会友期 天娱高层",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%20%E5%A4%A9%E5%A8%B1%E9%AB%98%E5%B1%82",
+        "source": "微博"
+      },
+      {
+        "title": "小米1用户催更小米18",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B31%E7%94%A8%E6%88%B7%E5%82%AC%E6%9B%B4%E5%B0%8F%E7%B1%B318",
+        "source": "微博"
+      },
+      {
+        "title": "从5到24看载人航天之路",
+        "hot": "",
+        "url": "https://s.weibo.com/weibo?q=%E4%BB%8E5%E5%88%B024%E7%9C%8B%E8%BD%BD%E4%BA%BA%E8%88%AA%E5%A4%A9%E4%B9%8B%E8%B7%AF",
+        "source": "微博"
+      },
       {
         "title": "画地为牢 错位",
         "hot": "",
@@ -199,21 +309,9 @@
         "source": "微博"
       },
       {
-        "title": "从5到24看载人航天之路",
+        "title": "王子璇文吉儿镜头",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E4%BB%8E5%E5%88%B024%E7%9C%8B%E8%BD%BD%E4%BA%BA%E8%88%AA%E5%A4%A9%E4%B9%8B%E8%B7%AF",
-        "source": "微博"
-      },
-      {
-        "title": "画地为牢终于来了",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86",
-        "source": "微博"
-      },
-      {
-        "title": "厉娜给许飞擦眼泪说我陪着你",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E7%BB%99%E8%AE%B8%E9%A3%9E%E6%93%A6%E7%9C%BC%E6%B3%AA%E8%AF%B4%E6%88%91%E9%99%AA%E7%9D%80%E4%BD%A0",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E6%96%87%E5%90%89%E5%84%BF%E9%95%9C%E5%A4%B4",
         "source": "微博"
       },
       {
@@ -223,9 +321,9 @@
         "source": "微博"
       },
       {
-        "title": "马天宇想分遗产的朋友是谁",
+        "title": "画地为牢终于来了",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%83%B3%E5%88%86%E9%81%97%E4%BA%A7%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E8%B0%81",
+        "url": "https://s.weibo.com/weibo?q=%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86",
         "source": "微博"
       },
       {
@@ -235,21 +333,15 @@
         "source": "微博"
       },
       {
-        "title": "泰国警方通报一起华人绑架案",
+        "title": "普京打包深圳炒菜上飞机",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E8%B5%B7%E5%8D%8E%E4%BA%BA%E7%BB%91%E6%9E%B6%E6%A1%88",
+        "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E6%89%93%E5%8C%85%E6%B7%B1%E5%9C%B3%E7%82%92%E8%8F%9C%E4%B8%8A%E9%A3%9E%E6%9C%BA",
         "source": "微博"
       },
       {
-        "title": "西索科隔扣文班亚马",
+        "title": "马天宇想分遗产的朋友是谁",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%B4%A2%E7%A7%91%E9%9A%94%E6%89%A3%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC",
-        "source": "微博"
-      },
-      {
-        "title": "3纯",
-        "hot": "",
-        "url": "https://s.weibo.com/weibo?q=3%E7%BA%AF",
+        "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%83%B3%E5%88%86%E9%81%97%E4%BA%A7%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E8%B0%81",
         "source": "微博"
       },
       {
@@ -259,114 +351,22 @@
         "source": "微博"
       },
       {
-        "title": "让特朗普念念不忘的帽子菜破案了",
+        "title": "向华强不允许女儿来见他",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%E7%9A%84%E5%B8%BD%E5%AD%90%E8%8F%9C%E7%A0%B4%E6%A1%88%E4%BA%86",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E5%8D%8E%E5%BC%BA%E4%B8%8D%E5%85%81%E8%AE%B8%E5%A5%B3%E5%84%BF%E6%9D%A5%E8%A7%81%E4%BB%96",
         "source": "微博"
       },
       {
-        "title": "普京打包深圳炒菜上飞机",
+        "title": "泰国警方通报一起华人绑架案",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E6%89%93%E5%8C%85%E6%B7%B1%E5%9C%B3%E7%82%92%E8%8F%9C%E4%B8%8A%E9%A3%9E%E6%9C%BA",
+        "url": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E8%B5%B7%E5%8D%8E%E4%BA%BA%E7%BB%91%E6%9E%B6%E6%A1%88",
         "source": "微博"
       },
       {
-        "title": "微博CEO体验澎程N70",
+        "title": "易烊千玺胡茬耳钉青筋全齐了",
         "hot": "",
-        "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9ACEO%E4%BD%93%E9%AA%8C%E6%BE%8E%E7%A8%8BN70",
+        "url": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%83%A1%E8%8C%AC%E8%80%B3%E9%92%89%E9%9D%92%E7%AD%8B%E5%85%A8%E9%BD%90%E4%BA%86",
         "source": "微博"
-      }
-    ],
-    "baidu": [
-      {
-        "title": "“开放是深圳与生俱来的基因”",
-        "hot": 7904360,
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%BC%80%E6%94%BE%E6%98%AF%E6%B7%B1%E5%9C%B3%E4%B8%8E%E7%94%9F%E4%BF%B1%E6%9D%A5%E7%9A%84%E5%9F%BA%E5%9B%A0%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "陈吉宁落马5天前曾现身",
-        "hot": 7808064,
-        "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC5%E5%A4%A9%E5%89%8D%E6%9B%BE%E7%8E%B0%E8%BA%AB",
-        "source": "百度"
-      },
-      {
-        "title": "普京在深圳下榻酒店留下亲笔签名",
-        "hot": 7714415,
-        "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%E7%95%99%E4%B8%8B%E4%BA%B2%E7%AC%94%E7%AD%BE%E5%90%8D",
-        "source": "百度"
-      },
-      {
-        "title": "“购物开箱”打开认知中国新视角",
-        "hot": 7618753,
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%B4%AD%E7%89%A9%E5%BC%80%E7%AE%B1%E2%80%9D%E6%89%93%E5%BC%80%E8%AE%A4%E7%9F%A5%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%A7%86%E8%A7%92",
-        "source": "百度"
-      },
-      {
-        "title": "内娱为何被吐槽“世袭制”",
-        "hot": 7522403,
-        "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E4%B8%BA%E4%BD%95%E8%A2%AB%E5%90%90%E6%A7%BD%E2%80%9C%E4%B8%96%E8%A2%AD%E5%88%B6%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "两个人迟到的婚礼 全村全网都在操心",
-        "hot": 7424088,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E4%BA%BA%E8%BF%9F%E5%88%B0%E7%9A%84%E5%A9%9A%E7%A4%BC%20%E5%85%A8%E6%9D%91%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E6%93%8D%E5%BF%83",
-        "source": "百度"
-      },
-      {
-        "title": "初三男生被清华大学“预定”",
-        "hot": 7327502,
-        "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%89%E7%94%B7%E7%94%9F%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E2%80%9C%E9%A2%84%E5%AE%9A%E2%80%9D",
-        "source": "百度"
-      },
-      {
-        "title": "男子家中搜到诅咒自家8岁孩子WiFi名",
-        "hot": 7231653,
-        "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%90%9C%E5%88%B0%E8%AF%85%E5%92%92%E8%87%AA%E5%AE%B68%E5%B2%81%E5%AD%A9%E5%AD%90WiFi%E5%90%8D",
-        "source": "百度"
-      },
-      {
-        "title": "林更新《两京十五日》造型像钟离权",
-        "hot": 7139807,
-        "url": "https://www.baidu.com/s?wd=%E6%9E%97%E6%9B%B4%E6%96%B0%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E9%80%A0%E5%9E%8B%E5%83%8F%E9%92%9F%E7%A6%BB%E6%9D%83",
-        "source": "百度"
-      },
-      {
-        "title": "980元摆件用7年被碰坏 酒店索赔3000",
-        "hot": 7042796,
-        "url": "https://www.baidu.com/s?wd=980%E5%85%83%E6%91%86%E4%BB%B6%E7%94%A87%E5%B9%B4%E8%A2%AB%E7%A2%B0%E5%9D%8F%20%E9%85%92%E5%BA%97%E7%B4%A2%E8%B5%943000",
-        "source": "百度"
-      },
-      {
-        "title": "为什么景区大门到景点总有一段长路",
-        "hot": 6948661,
-        "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%97%A8%E5%88%B0%E6%99%AF%E7%82%B9%E6%80%BB%E6%9C%89%E4%B8%80%E6%AE%B5%E9%95%BF%E8%B7%AF",
-        "source": "百度"
-      },
-      {
-        "title": "别被冲锋衣“无氟”营销带偏",
-        "hot": 6850490,
-        "url": "https://www.baidu.com/s?wd=%E5%88%AB%E8%A2%AB%E5%86%B2%E9%94%8B%E8%A1%A3%E2%80%9C%E6%97%A0%E6%B0%9F%E2%80%9D%E8%90%A5%E9%94%80%E5%B8%A6%E5%81%8F",
-        "source": "百度"
-      },
-      {
-        "title": "刘涛连法令纹都这么美",
-        "hot": 6758763,
-        "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E8%BF%9E%E6%B3%95%E4%BB%A4%E7%BA%B9%E9%83%BD%E8%BF%99%E4%B9%88%E7%BE%8E",
-        "source": "百度"
-      },
-      {
-        "title": "马天宇还没有加回张萌的微信",
-        "hot": 6658422,
-        "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%BF%98%E6%B2%A1%E6%9C%89%E5%8A%A0%E5%9B%9E%E5%BC%A0%E8%90%8C%E7%9A%84%E5%BE%AE%E4%BF%A1",
-        "source": "百度"
-      },
-      {
-        "title": "蔡磊回应“病情进入终末期”",
-        "hot": 6571184,
-        "url": "https://www.baidu.com/s?wd=%E8%94%A1%E7%A3%8A%E5%9B%9E%E5%BA%94%E2%80%9C%E7%97%85%E6%83%85%E8%BF%9B%E5%85%A5%E7%BB%88%E6%9C%AB%E6%9C%9F%E2%80%9D",
-        "source": "百度"
       }
     ],
     "36kr": [
@@ -378,13 +378,13 @@
       },
       {
         "title": "视频模型黑马杀到全球第一，30秒长镜头一次生成，价格打到Seedance 1/10",
-        "hot": 15,
+        "hot": 19,
         "url": "https://www.36kr.com/p/4084870019197572",
         "source": "36氪"
       },
       {
         "title": "黄仁勋的“光”：详解AI算力背后的光通信产业链、英伟达赌注与技术博弈",
-        "hot": 14,
+        "hot": 15,
         "url": "https://www.36kr.com/p/4085062673749895",
         "source": "36氪"
       },
@@ -414,7 +414,7 @@
       },
       {
         "title": "10 亿 Token 开源万只假鸟， AI 伪科普正在“污染”下⼀代的常识",
-        "hot": 17,
+        "hot": 16,
         "url": "https://www.36kr.com/p/4084716097710722",
         "source": "36氪"
       },
@@ -437,169 +437,169 @@
         "source": "36氪"
       },
       {
-        "title": "特斯拉 FSD V15，把“智驾够用论”打回了原形",
-        "hot": 5,
-        "url": "https://www.36kr.com/p/4084804867795591",
-        "source": "36氪"
-      },
-      {
         "title": "Anthropic CEO长文刷屏，超级智能时代的桌面APP来了",
         "hot": 7,
         "url": "https://www.36kr.com/p/4085949016746627",
         "source": "36氪"
       },
       {
-        "title": "红果为何吃不下 B站？",
+        "title": "特斯拉 FSD V15，把“智驾够用论”打回了原形",
+        "hot": 5,
+        "url": "https://www.36kr.com/p/4084804867795591",
+        "source": "36氪"
+      },
+      {
+        "title": "AI “奥本海默”时刻：两家龙头公司员工已经不相信模型安全了",
+        "hot": 19,
+        "url": "https://www.36kr.com/p/4086059854845828",
+        "source": "36氪"
+      },
+      {
+        "title": "红果为何吃��下 B站？",
         "hot": 10,
         "url": "https://www.36kr.com/p/4084836420998791",
         "source": "36氪"
-      },
-      {
-        "title": "AI “奥本海默”时刻：两家龙头公司员工已经不相信模型���全了",
-        "hot": 17,
-        "url": "https://www.36kr.com/p/4086059854845828",
-        "source": "36氪"
       }
     ],
-    "juejin": [
+    "baidu": [
       {
-        "title": "SpringBoot4.2正式发布，人麻了！",
-        "hot": 1260,
-        "url": "https://juejin.cn/post/7711285721428492303",
-        "source": "掘金"
+        "title": "“开放是深圳与生俱来的基因”",
+        "hot": 7904131,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%BC%80%E6%94%BE%E6%98%AF%E6%B7%B1%E5%9C%B3%E4%B8%8E%E7%94%9F%E4%BF%B1%E6%9D%A5%E7%9A%84%E5%9F%BA%E5%9B%A0%E2%80%9D",
+        "source": "百度"
       },
       {
-        "title": "四年前从大厂裸辞到进山修行， 我找到了另一个方向的版本答案。",
-        "hot": 891,
-        "url": "https://juejin.cn/post/7711248788610727945",
-        "source": "掘金"
+        "title": "陈吉宁落马5天前曾现身",
+        "hot": 7809170,
+        "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC5%E5%A4%A9%E5%89%8D%E6%9B%BE%E7%8E%B0%E8%BA%AB",
+        "source": "百度"
       },
       {
-        "title": "AI 写代码越来越快，程序员为什么反而更累了",
-        "hot": 774,
-        "url": "https://juejin.cn/post/7710966014792810515",
-        "source": "掘金"
+        "title": "今晚国内油价下调",
+        "hot": 7712199,
+        "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E6%99%9A%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83",
+        "source": "百度"
       },
       {
-        "title": "华为园区，为啥碰到的高颜值妹子总是外包牌，华为工牌的基本都是资深大姐...",
-        "hot": 765,
-        "url": "https://juejin.cn/post/7712008429045317666",
-        "source": "掘金"
+        "title": "“购物开箱”打开认知中国新视角",
+        "hot": 7616306,
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%B4%AD%E7%89%A9%E5%BC%80%E7%AE%B1%E2%80%9D%E6%89%93%E5%BC%80%E8%AE%A4%E7%9F%A5%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%A7%86%E8%A7%92",
+        "source": "百度"
       },
       {
-        "title": "系统崩了，一屋子人在等 AI 出方案",
-        "hot": 693,
-        "url": "https://juejin.cn/post/7711258065815420964",
-        "source": "掘金"
+        "title": "普京在深圳下榻酒店留下亲笔签名",
+        "hot": 7522888,
+        "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%E7%95%99%E4%B8%8B%E4%BA%B2%E7%AC%94%E7%AD%BE%E5%90%8D",
+        "source": "百度"
       },
       {
-        "title": "前端转全栈别死记硬背，要学会后端看项目的思维",
-        "hot": 684,
-        "url": "https://juejin.cn/post/7711308296166129698",
-        "source": "掘金"
+        "title": "为什么景区大门到景点总有一段长路",
+        "hot": 7424185,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%97%A8%E5%88%B0%E6%99%AF%E7%82%B9%E6%80%BB%E6%9C%89%E4%B8%80%E6%AE%B5%E9%95%BF%E8%B7%AF",
+        "source": "百度"
       },
       {
-        "title": "Docker 部署：从镜像构建到容器上线",
-        "hot": 405,
-        "url": "https://juejin.cn/post/7711950881198358562",
-        "source": "掘金"
+        "title": "初三男生被清华大学“预定”",
+        "hot": 7327813,
+        "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%89%E7%94%B7%E7%94%9F%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E2%80%9C%E9%A2%84%E5%AE%9A%E2%80%9D",
+        "source": "百度"
       },
       {
-        "title": "Agent开发工程师-学习大纲",
-        "hot": 297,
-        "url": "https://juejin.cn/post/7711164513240612864",
-        "source": "掘金"
+        "title": "男子家中搜到诅咒自家8岁孩子WiFi名",
+        "hot": 7237640,
+        "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%90%9C%E5%88%B0%E8%AF%85%E5%92%92%E8%87%AA%E5%AE%B68%E5%B2%81%E5%AD%A9%E5%AD%90WiFi%E5%90%8D",
+        "source": "百度"
       },
       {
-        "title": "用了三年微前端，我们终于把它拆成了单体应用",
-        "hot": 297,
-        "url": "https://juejin.cn/post/7711319812090560566",
-        "source": "掘金"
+        "title": "980元摆件用7年被碰坏 酒店索赔3000",
+        "hot": 7141676,
+        "url": "https://www.baidu.com/s?wd=980%E5%85%83%E6%91%86%E4%BB%B6%E7%94%A87%E5%B9%B4%E8%A2%AB%E7%A2%B0%E5%9D%8F%20%E9%85%92%E5%BA%97%E7%B4%A2%E8%B5%943000",
+        "source": "百度"
       },
       {
-        "title": "阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年",
-        "hot": 270,
-        "url": "https://juejin.cn/post/7711283330075377698",
-        "source": "掘金"
+        "title": "商务部：坚���反对美对中国加征关税",
+        "hot": 7043489,
+        "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
+        "source": "百度"
       },
       {
-        "title": "写 UI 自动化的同学，这个 2.3万 Star 的自动化Agent 让浏览器自己测试！",
-        "hot": 252,
-        "url": "https://juejin.cn/post/7711658681012174883",
-        "source": "掘金"
+        "title": "林更新《两京十五日》造型像钟离权",
+        "hot": 6944437,
+        "url": "https://www.baidu.com/s?wd=%E6%9E%97%E6%9B%B4%E6%96%B0%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E9%80%A0%E5%9E%8B%E5%83%8F%E9%92%9F%E7%A6%BB%E6%9D%83",
+        "source": "百度"
       },
       {
-        "title": "又一款数据库同步神器，2.3K Star的dbswitch",
-        "hot": 243,
-        "url": "https://juejin.cn/post/7711259760092315657",
-        "source": "掘金"
+        "title": "别被冲锋衣“无氟”营销带偏",
+        "hot": 6853644,
+        "url": "https://www.baidu.com/s?wd=%E5%88%AB%E8%A2%AB%E5%86%B2%E9%94%8B%E8%A1%A3%E2%80%9C%E6%97%A0%E6%B0%9F%E2%80%9D%E8%90%A5%E9%94%80%E5%B8%A6%E5%81%8F",
+        "source": "百度"
       },
       {
-        "title": "Android Keep Rules 解读，直接影响 Google Play 上架和曝光",
-        "hot": 234,
-        "url": "https://juejin.cn/post/7711305356505399350",
-        "source": "掘金"
+        "title": "两个人迟到的婚礼 全村全网都在操心",
+        "hot": 6751474,
+        "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E4%BA%BA%E8%BF%9F%E5%88%B0%E7%9A%84%E5%A9%9A%E7%A4%BC%20%E5%85%A8%E6%9D%91%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E6%93%8D%E5%BF%83",
+        "source": "百度"
       },
       {
-        "title": "我让用户白等两秒，只为一个 16MB 的中文字体",
-        "hot": 234,
-        "url": "https://juejin.cn/post/7710639091190677539",
-        "source": "掘金"
+        "title": "马天宇还没有加回张萌的微信",
+        "hot": 6666900,
+        "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%BF%98%E6%B2%A1%E6%9C%89%E5%8A%A0%E5%9B%9E%E5%BC%A0%E8%90%8C%E7%9A%84%E5%BE%AE%E4%BF%A1",
+        "source": "百度"
       },
       {
-        "title": "AI 越强，为什么我们反而越来越担心失业？",
-        "hot": 216,
-        "url": "https://juejin.cn/post/7711896764836872192",
-        "source": "掘金"
+        "title": "刘涛连法令纹都这么美",
+        "hot": 6572653,
+        "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E8%BF%9E%E6%B3%95%E4%BB%A4%E7%BA%B9%E9%83%BD%E8%BF%99%E4%B9%88%E7%BE%8E",
+        "source": "百度"
       }
     ]
   },
   "github": [
     {
       "title": "Marvisak/VIctory —— An attempt at running GTA VI on PC",
-      "hot": "⭐ 12779",
+      "hot": "⭐ 12791",
       "url": "https://github.com/Marvisak/VIctory",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "xcl-dev/xcl —— Xbox Series compatibility layer for Wind",
-      "hot": "⭐ 8384",
+      "hot": "⭐ 8389",
       "url": "https://github.com/xcl-dev/xcl",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "4lwayz/portwatch-vi —— Does GTA VI run on PC yet? A live tracke",
-      "hot": "⭐ 4523",
+      "hot": "⭐ 4554",
       "url": "https://github.com/4lwayz/portwatch-vi",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "EL4CTEO/fast-anything —— Don't rewrite it in Rust. Rewrite the 5%",
-      "hot": "⭐ 4053",
+      "hot": "⭐ 4058",
       "url": "https://github.com/EL4CTEO/fast-anything",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "AFK-surf/xnulinux —— XNU as a loadable kernel module inside L",
-      "hot": "⭐ 4025",
+      "hot": "⭐ 4040",
       "url": "https://github.com/AFK-surf/xnulinux",
       "source": "GitHub",
       "tag": "C"
     },
     {
       "title": "fxceless/victory-fork —— Work-in-progress fork of VIctory: gettin",
-      "hot": "⭐ 3156",
+      "hot": "⭐ 3159",
       "url": "https://github.com/fxceless/victory-fork",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "iamajmeena/neonclipping —— Paste a link, get captioned 9:16 clips i",
-      "hot": "⭐ 2643",
+      "hot": "⭐ 2645",
       "url": "https://github.com/iamajmeena/neonclipping",
       "source": "GitHub",
       "tag": "Python"
@@ -634,28 +634,28 @@
     },
     {
       "title": "Belobug/VIctory-Belobug-AMD",
-      "hot": "⭐ 1688",
+      "hot": "⭐ 1690",
       "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
       "source": "GitHub",
       "tag": "Rust"
     },
     {
       "title": "INK-Q/agy-fast —— Non-invasive MCP accelerator plugin for ",
-      "hot": "⭐ 1572",
+      "hot": "⭐ 1583",
       "url": "https://github.com/INK-Q/agy-fast",
       "source": "GitHub",
       "tag": "TypeScript"
     },
     {
       "title": "crhywun/g1-acq",
-      "hot": "⭐ 1348",
+      "hot": "⭐ 1360",
       "url": "https://github.com/crhywun/g1-acq",
       "source": "GitHub",
       "tag": "JavaScript"
     },
     {
       "title": "leanprover-community/riemann-hypothesis —— Lean formalization of the Riemann Hypoth",
-      "hot": "⭐ 1315",
+      "hot": "⭐ 1317",
       "url": "https://github.com/leanprover-community/riemann-hypothesis",
       "source": "GitHub",
       "tag": "Lean"
